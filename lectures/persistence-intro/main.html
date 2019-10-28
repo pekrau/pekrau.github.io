@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: The main mechanisms for persistence</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">The main mechanisms for persistence</H1>
+
+<TABLE BORDER=1 CELLPADDING=4>
+<TR>
+<TH>Mechanism</TH>
+<TH>Usefulness wrt data complexity</TH>
+<TH>Search capabilities</TH>
+<TH>Ease of use</TH>
+<TH>Standards</TH>
+<TH>Example</TH>
+</TR>
+<TR>
+<TD>Files</TD>
+<TD>Low: yes<BR>High: no</TD>
+<TD>Sequential</TD>
+<TD>Easy to get started</TD>
+<TD>Basics: yes<BR>Details: no</TD>
+<TD>Any (flat) file</TD>
+</TR>
+<TR>
+<TD>Keyword/value databases</TD>
+<TD>Low: yes<BR>High: no</TD>
+<TD>Random access</TD>
+<TD>Easy to get started</TD>
+<TD>De facto</TD>
+<TD>DBM, Berkeley DB, GDBM</TD>
+</TR>
+<TR>
+<TD>Relational databases</TD>
+<TD>Low: overkill<BR>High: yes</TD>
+<TD>Random access, complex queries</TD>
+<TD>Difficult setup, administration</TD>
+<TD>SQL92 (kind of) standard</TD>
+<TD>MySQL, PostgreSQL, Oracle, Sybase</TD>
+</TR>
+<TR>
+<TD>Object-oriented databases</TD>
+<TD>Low: overkill<BR>High: yes</TD>
+<TD>Random access, follow references</TD>
+<TD>Depends on language and system</TD>
+<TD>No: a mess</TD>
+<TD>AceDB, ZODB</TD>
+</TR>
+</TABLE>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 07:05:57 $
+</BODY>
+</HTML>

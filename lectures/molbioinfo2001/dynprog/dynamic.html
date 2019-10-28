@@ -1,0 +1,171 @@
+<Title>Dynamic Programming Tutorial</Title>
+<body bgcolor=white>
+<center><H1>Dynamic Programming</H1></center>
+The following is an example of global sequence alignment using Needleman/Wunsch
+techniques.  For this example, the two sequences to be globally aligned are 
+<p> G A A T T C A G T T A   (sequence #1)
+<br>G G A T C G A           (sequence #2)
+<p> So M = 11 and N = 7 (the length of sequence #1 and sequence #2, respectively)
+
+<p>A simple scoring scheme is assumed where
+<ul>
+<li> S<sub>i,j</sub> = 1  if the residue at position i of sequence #1 
+                         is the same as the residue at position j of sequence #2
+                         (match score); otherwise
+<li> S<sub>i,j</sub> = 0 (mismatch score)
+<li> w = 0 (gap penalty)
+</ul>
+
+<h2>Three steps in dynamic programming</h2>
+<ol>
+<li>Initialization
+<li>Matrix fill (scoring)
+<li>Traceback (alignment)
+</ol>
+
+<h2><Center>Initialization Step</Center></h2>
+<p>The first step in the global alignment dynamic programming approach is to 
+create a matrix with M + 1 columns and N + 1 rows where M and N correspond to
+the size of the sequences to be aligned.
+
+<p>Since this example assumes there is no gap opening or gap extension penalty,
+the first row and first column of the matrix can be initially filled with 0.
+<p><center><IMG SRC="initial.gif"></center>
+<hr>
+<h2><center>Matrix Fill Step</center></h2>
+<p>One possible (inefficient) solution of the matrix fill step finds the 
+maximum global alignment score by starting in the upper left hand corner in 
+the matrix and finding the maximal score M<sub>i,j</sub> for each position in the
+matrix.  In order to find M<sub>i,j</sub> for any i,j it is minimal to know the
+score for the matrix positions to the left, above and diagonal to i, j.  In 
+terms of matrix positions, it is necessary to know M<sub>i-1,j</sub>, 
+M<sub>i,j-1</sub> and M<sub>i-1, j-1</sub>.
+<p>For each position, M<sub>i,j</sub> is defined to be the maximum score
+   at position i,j; i.e.
+
+<p><pre><b>M<sub>i,j</sub> = MAXIMUM[
+     M<sub>i-1, j-1</sub> + S<sub>i,j</sub></b> (match/mismatch in the diagonal),
+     <b>M<sub>i,j-1</sub> + w </b>(gap in sequence #1),
+     <b>M<sub>i-1,j</sub> + w </b>(gap in sequence #2)<b>]</b>
+</pre>
+<p> Note that in the example, M<sub>i-1,j-1</sub> will be red, 
+    M<sub>i,j-1</sub> will be green and M<sub>i-1,j</sub> will be blue.
+<p> Using this information, the score at position 1,1 in the matrix can be
+    calculated.  Since the first residue in both sequences is a G, S<sub>1,1
+    </sub> = 1, and by the assumptions stated at the beginning, w = 0.  Thus,
+    M<sub>1,1</sub> = MAX[M<sub>0,0</sub> + 1, M<sub>1, 0</sub> + 0, M<sub>0,1
+    </sub> + 0] = MAX [1, 0, 0] = 1.
+<p> A value of 1 is then placed in position 1,1 of the scoring matrix.
+
+<p><center><IMG SRC="fig1-1.gif"></center>
+<hr>
+<p> Since the gap penalty (w) is 0, the rest of row 1 and column 1 can be filled
+    in with the value 1. Take the example of row 1.  At column 2, the value is
+    the max of 0 (for a mismatch), 0 (for a vertical gap) or 1 (horizontal gap).
+    The rest of row 1 can be filled out similarly until we get to column 8.  At
+    this point, there is a G in both sequences (light blue).  Thus, the value 
+    for the cell at row 1 column 8 is the maximum of 1 (for a match), 0 (for a
+    vertical gap) or 1 (horizontal gap).  The value will again be 1.  The
+    rest of row 1 and column 1 can be filled with 1 using the above reasoning.
+<p><center><IMG SRC="fig1-2.gif"></center>
+<hr>
+<p> Now let's look at column 2. The location at row 2 will be assigned the 
+    value of the maximum of 1(mismatch), 1(horizontal gap) or 1 (vertical gap).
+    So its value is 1.  
+<p> At the position column 2 row 3, there is an A in both
+    sequences.  Thus, its value will be the maximum of 2(match), 1 (horizontal
+    gap), 1 (vertical gap) so its value is 2.  
+<p> Moving along to position colum 2 row 4, its value will be the maximum of
+    1 (mismatch), 1 (horizontal gap), 2 (vertical gap) so its value is 2.  Note
+    that for all of the remaining positions except the last one in column 2,
+    the choices for the value will be the exact same as in row 4 since there are
+    no matches.  The final row will contain the value 2 since it is the maximum
+    of 2 (match), 1 (horizontal gap) and 2(vertical gap).
+
+<p><center><IMG SRC="fig1-3.gif"></center>
+<hr>
+<p> Using the same techniques as described for column 2, we can fill in column 3.
+<p><center><IMG SRC="fig1-4.gif"></center>
+<hr>
+<p> After filling in all of the values the score matrix is as follows:
+<p><center><IMG SRC="fig1-5.gif"></center>
+<hr>
+<h2><center>Traceback Step</center></h2>
+<p> After the matrix fill step, the maximum alignment score for the two test
+    sequences is 6.  The traceback step determines the actual alignment(s) 
+    that result in the maximum score.  Note that with a simple scoring 
+    algorithm such as one that is used here, there are likely to be multiple
+    maximal alignments.
+<p> The traceback step begins in the M,J position in the matrix, i.e. the 
+    position that leads to the maximal score.  In this case, there is a 6 in
+    that location. 
+<hr>
+<p> Traceback takes the current cell and looks to the neighbor cells that could
+    be direct predacessors.  This means it looks to the neighbor to the left
+    (gap in sequence #2), the diagonal neighbor (match/mismatch), and the
+    neighbor above it (gap in sequence #1).  The algorithm for traceback 
+    chooses as the next cell in the sequence one of the possible predacessors.
+    In this case, the neighbors are marked in red.  They are
+    all also equal to 5.
+
+<p><center><IMG SRC="fig1-6.gif"></center>
+<hr>
+<p> Since the current cell has a value of 6 and the scores are 1 for a match
+    and 0 for anything else, the only possible predacessor is the diagonal
+    match/mismatch neighbor.  If more than one possible predacessor exists,
+    any can be chosen.  This gives us a current alignment of <br>
+<pre>
+    (Seq #1)      A 
+                  |
+    (Seq #2)      A
+</pre>
+<p> So now we look at the current cell and determine which cell is its direct
+    predacessor.  In this case, it is the cell with the red 5.
+<p><center><IMG SRC="fig1-7.gif"></center>
+<hr>
+<p> The alignment as described in the above step adds a gap to sequence #2, so
+    the current alignment is<br>
+<pre>
+    (Seq #1)     T A
+                   |
+    (Seq #2)     _ A
+</pre>
+<p> Once again, the direct predacessor produces a gap in sequence #2.
+<p><center><IMG SRC="fig1-8.gif"></center>
+<p> After this step, the current alignment is<br>
+<pre>
+      (Seq #1)     T T A
+                       |
+                   _ _ A
+</pre>
+<HR>
+<p> Continuing on with the traceback step, we eventually get to a position in
+    column 0 row 0 which tells us that traceback is completed. One possible 
+    maximum alignment is : 
+<p><center><IMG SRC="fig1-9.gif"></center>
+<p> Giving an alignment of :
+<PRE>
+          G A A T T C A G T T A
+          |   |   | |   |     | 
+          G G A _ T C _ G _ _ A
+</pre>
+
+<HR>
+An alternate solution is:<br>
+<p><center><IMG SRC="fig1-10.gif"></center>
+<p> Giving an alignment of :
+<PRE>
+          G _ A A T T C A G T T A
+          |     |   | |   |     | 
+          G G _ A _ T C _ G _ _ A
+</pre>
+There are more alternative solutions each resulting in a maximal global 
+alignment score of 6.  Since this is an exponential problem, most dynamic
+programming algorithms will only print out a single solution.
+<hr>
+<p>Now you are ready to explore an <A HREF="adv_dynamic.html">example using
+   an advanced scoring scheme</A>.
+<hr>
+<A HREF="http://www.ibc.wustl.edu/CMB/bio5495/">BL5495 Home Page</A><br>
+<A HREF="http://www.cec.wustl.edu/~ecr1">Eric C. Rouchka</A><br>
+<A HREF="mailto:ecr@ibc.wustl.edu"><I>ecr@ibc.wustl.edu</I><br>

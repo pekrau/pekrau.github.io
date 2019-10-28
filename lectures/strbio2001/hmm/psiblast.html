@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 7. PSI-BLAST</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes: Structural biochemistry and bioinformatics 2001</A>
+
+<P ALIGN="RIGHT">
+Lecture 13 Nov 2001,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Hidden Markov models</A>
+</H2>
+
+<H1 ALIGN="CENTER">7. PSI-BLAST</H1>
+
+<P>
+PSI-BLAST
+(<A HREF="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=9254694&dopt=Abstract">Altschul
+et al 1997</A>) is a program for searching for homologs of a probe
+sequence (protein, usually) that uses a profile strategy to achieve
+high sensitivity. It stands for Position-Specific Iterated BLAST.
+</P>
+
+<P>
+The basic strategy underlying PSI-BLAST is that starting from the probe
+sequence, an ordinary search of the database is performed. The hits
+that are found are then used to set up a sequence profile, which is
+then used again to search for similar sequences. The idea is that
+instead of having to build a profile (HMM or other) oneself, the
+program does it automatically from the single sequence one gives it.
+</P>
+
+<P>
+The PSI-BLAST program is much more sensitive than the BLAST program,
+but it takes more CPU time. It competes to a certain extent with the
+HMM-based approaches.
+<P>
+</P>
+It has some important drawbacks: If the probe sequence contains a
+strongly conserved domain, then the profile may be weighted towards it
+and away from the rest of the sequence as the iterations are
+performed. There is a danger that one misses weak homologies for other
+parts in the sequence than the strongly conserved domain. Of course,
+this may happen with other methods as well.
+</P>
+
+<P>
+A particular problem is posed by the so-called low-complexity regions
+in proteins (typically Gln, Ser, Thr and Pro-rich regions): these
+regions should be masked out, or the search will likely just try to
+pick up other proteins that contain this kind of sequence, which is
+almost certainly not what one wants.
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 15:34:26 $
+</BODY>
+</HTML>

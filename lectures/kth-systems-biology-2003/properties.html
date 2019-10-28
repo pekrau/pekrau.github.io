@@ -1,0 +1,109 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 4. Network properties</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+    <p>
+      Copyright &copy; 2003 <b>Per Kraulis</b>,
+      <A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+    </p>
+
+<P ALIGN="RIGHT">
+KTH Bioinformatics 2003,
+öecture 27 Feb 2003,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Systems Biology</A>
+</H2>
+
+<H1 ALIGN="CENTER">4. Network properties</H1>
+
+<P>
+Metabolic and signalling networks are complex: <STRONG>There are many
+nodes (proteins, particles, molecules) and many connections
+(interactions)</STRONG>. This is obvious from nearly any illustration
+of a network. And even if one can define sub-networks that can be 
+meaningfully described in relative isolation (such as the citric acid
+cycle, or the ras p21 signalling network), there are always
+connections from it to other networks.
+</P>
+
+<P>
+The overall structure of a network can be described by several
+different parameters. For example, one may calculate <STRONG>the
+average number of connections a node has in a network</STRONG>, or
+<STRONG>the probability that a node has a given number of
+connections</STRONG>. Theoretical work has shown that different models
+for how a network has been created will give different values for
+these parameters.
+</P>
+<P>
+One can also plot the <STRONG>relative frequency of each node</STRONG>
+as a function of <STRONG>the number of connections</STRONG> of the 
+nodes. Both axes in the plot uses logarithmic scales. Using data from
+real networks or from simulations of different types of randomized
+networks, one obtains log-log plots that turn out to have
+characterisic shapes depending on how the properties of the networks
+and how they were generated. Examples are shown in the figures below.
+</P>
+<P>
+<IMG SRC="random.gif" ALIGN=LEFT>
+The <STRONG>classical random network theory by Erd&ouml;s and
+Renyi</STRONG> (1960) states that given a set of nodes, the
+connections are made randomly between the nodes. This gives a network
+where most nodes have the same number of connections. There are
+extremely few, if any, nodes that have many connections. The log-log
+frequency plot for this kind of network is shown to the left.
+</P>
+
+<P>
+Recent research has shown that this model does not fit the structure
+found in several important networks, such as the Internet, World-Wide
+Web, power grids, or social networks. Instead, these real-life complex
+networks are better described by a so-called <STRONG>scale-free,
+hierarchical model</STRONG> where most nodes have only a few
+connections, but a few nodes (called hubs) have a very large number of
+connections.
+<P>
+</P>
+Recent work by Jeong, Barabasi <I>et al</I> (Nature (2000) 407, 
+651-654), <STRONG>indicate that metabolic networks are examples of
+such scale-free networks</STRONG>. This result is important, and will
+probably lead to new insights into the function of metabolic and
+signalling networks, and into the evolutionary history of the
+networks. 
+</P>
+
+<P>
+<IMG SRC="growpref.gif" ALIGN=LEFT>
+The image to the left shows <STRONG>the characteristic shape of a
+scale-free, hierarchical network</STRONG> in a log-log plot. This
+particular plot was produced by simulating a growing network, where
+each new node is connected randomly to existing nodes, but with a
+higher preference for already highly connected nodes. A plausible
+mechanism that could give this result in biological evolution would be
+gene duplication and divergence. An organism has a higher chance of
+creating new, useful functions by making copies of already existing
+systems and modifying these, rather than create new functions from
+scratch. It is possible that certain classes of genes are easier to
+cut-and-paste than others, and this may result in scale-free networks.
+</P>
+
+<P>
+<STRONG>Robustness</STRONG> is another important property of metabolic
+and signalling networks. This is the ability of the network to produce
+essentially the same behaviour even when the various parameters
+controlling its components vary within considerable ranges. For
+instance, recent work (von Dassow <I>et al</I>, Nature (2000) 406,
+188-192) indicates the segment polarity network in the
+<I>Drosophila</I> embryo can function satisfactorily with a
+surprisingly large number of randomly chosen parameter sets. The
+parameters do not have to be carefully tuned or optimized. This makes
+biological sense: A signalling system should be tolerant with respect
+to  mutations or large environmental changes.
+</P>
+
+</BODY>
+</HTML>

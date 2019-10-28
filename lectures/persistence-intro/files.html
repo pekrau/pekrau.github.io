@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: Files</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">Files</H1>
+
+<P>
+Files are the simplest, most primitive persistence mechanism.
+</P>
+
+<UL>
+<LI> Simply a sequential chunk of bytes stored on some permanent
+ medium.
+<LI> The content of a file has no  inherent structure: <STRONG>Flat
+ files</STRONG>
+<LI> The structure is implied by the actions of whichever program is
+used to access the data.
+</P>
+</UL>
+
+<P>
+When using simple files for persistence, the executing program must
+deal with all details of how to access the data in the file:
+</P>
+<UL>
+<LI> What data is where? (e.g. sequential vs. random-access)
+<LI> What form does it have; encoding? (e.g. text/ASCII vs. binary)
+<LI> What to do when data is missing?
+<LI> What to do when the data is invalid?
+</UL>
+
+<P>
+<STRONG>Parsing</STRONG> is the process of interpreting the contents
+of a file in terms of data structures in a program. Software tools for
+parsing (C, C++): <STRONG>lex</STRONG> and <STRONG>yacc</STRONG>.
+</P>
+
+<H3>Good points</H3>
+<UL>
+<LI> The simplest to program.
+<LI> The basic operations (create, open, read, write) are available in
+all programming languages.
+<LI> Best when the data is simple (low complexity).
+<LI> Best when only sequential searches are required.
+</UL>
+
+<H3>Bad points</H3>
+<UL>
+<LI> Difficulties increase seriously with data complexity.
+<LI> Difficult to solve complicated search problems efficiently.
+<LI> Problems with concurrent use by independent processes.
+<LI> Updating (modifying parts) is usually very tricky.
+</UL>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 07:09:11 $
+</BODY>
+</HTML>

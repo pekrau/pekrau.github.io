@@ -1,0 +1,987 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 2. An example of a multiple alignment</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes: Structural biochemistry and bioinformatics 2001</A>
+
+<P ALIGN="RIGHT">
+Lecture 12 Nov 2001,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Multiple sequence alignments</A>
+</H2>
+
+<H1 ALIGN="CENTER">2. An example of a multiple alignment</H1>
+
+<P>
+Let us use the the <STRONG>cellulose-binding domain of
+cellobiohydrolase I</STRONG> (CBD-CBH1) as an example of what one may
+do with a multiple sequence alignment. This is a small (about 30-35
+residues) disulfide-bonded domain of known 3D structure
+(<A href="http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1CBH">PDB code 1CBH</A>).
+Homologous domains can be found in a number of other
+cellulose-degrading enzymes. It is believed that the function of the
+domain is either to bind with high affinity to the cellulose fiber to
+allow the adjacent enzymatic domain to hydrolyse the
+cellulose. Another possibility is that the CBD domain wedges itself in
+between cellulose chains, making it easier for the enzymatic domain to
+attack the fiber.
+</P>
+
+<P>
+The multiple alignment of these sequences is taken from the
+<A HREF="http://www.cgb.ki.se/Pfam">Pfam database</A>
+(the entry with
+<A HREF="http://pfam.cgb.ki.se/cgi-bin/Pfam/getacc?PF00734">identifier
+CBM_1 (formerly CBD_1), accession code PF00734</A>). Shown below is
+the so-called 
+<STRONG>seed alignment</STRONG>, containing the sequences the Pfam
+curators have used to define the family. This is just a part of the
+complete alignment file; some comments have been removed. For each
+sequence, the SWISS-PROT identifier and the position in the parent
+protein is given on the left. The top line shows the position numbers
+using the 1CBH 3D structure scheme. <STRONG>The bottom line shows the
+consensus</STRONG>, which we define here as the same amino-acid
+residue type in 14 or more sequences (out of 18). Please note that
+this definition of consensus is just one of many possible.
+</P>
+
+<PRE>
+                                   1            2         3
+                             45678901...234567890123456789012
+
+GUX1_TRIRE/481-509           HYGQCGGI...GYSGPTVCASGTTCQVLNPYY
+GUN1_TRIRE/427-455           HWGQCGGI...GYSGCKTCTSGTTCQYSNDYY
+GUX1_PHACH/484-512           QWGQCGGI...GYTGSTTCASPYTCHVLNPYY
+GUN2_TRIRE/25-53             VWGQCGGI...GWSGPTNCAPGSACSTLNPYY
+GUX2_TRIRE/30-58             VWGQCGGQ...NWSGPTCCASGSTCVYSNDYY
+GUN5_TRIRE/209-237           LYGQCGGA...GWTGPTTCQAPGTCKVQNQWY
+GUNF_FUSOX/21-49             IWGQCGGN...GWTGATTCASGLKCEKINDWY
+GUX3_AGABI/24-52             VWGQCGGN...GWTGPTTCASGSTCVKQNDFY
+GUX1_PENJA/505-533           DWAQCGGN...GWTGPTTCVSPYTCTKQNDWY
+GUXC_FUSOX/482-510           QWGQCGGQ...NYSGPTTCKSPFTCKKINDFY
+GUX1_HUMGR/493-521           RWQQCGGI...GFTGPTQCEEPYICTKLNDWY
+GUX1_NEUCR/484-512           HWAQCGGI...GFSGPTTCPEPYTCAKDHDIY
+PSBP_PORPU/26-54             LYEQCGGI...GFDGVTCCSEGLMCMKMGPYY
+GUNB_FUSOX/29-57             VWAQCGGQ...NWSGTPCCTSGNKCVKLNDFY
+PSBP_PORPU/69-97             PYGQCGGM...NYSGKTMCSPGFKCVELNEFF
+GUNK_FUSOX/339-370           AYYQCGGSKSAYPNGNLACATGSKCVKQNEYY
+PSBP_PORPU/172-200           RYAQCGGM...GYMGSTMCVGGYKCMAISEGS
+PSBP_PORPU/128-156           EYAACGGE...MFMGAKCCKFGLVCYETSGKW
+
+consensus                    ...QCGG.......G...C.....C.......
+</PRE>
+
+<P>
+It is somewhat difficult to see the patterns of conservation in this
+table. The positions that are nearly completely conserved are easy to
+spot, but with more varied patterns, it becomes more difficult. For
+example, in position 24 there is a threonine in 9 sequences,
+and lysine in 5.
+</P>
+
+<P>
+There is usually a problem with the numbering scheme in multiple
+alignments: <STRONG>the numbers in a multiple alignment are usually
+different from the numbering of any of the single
+sequences</STRONG>. (The terms "absolute numbers" versus "relative" 
+have been used to describe the difference). Therefore it is necessary
+to be very careful when using sequence numbers from a multiple
+alignment; the numbers may be very different from the actual positions
+of the residues in any single sequence. For a few protein families
+(e.g. serine proteases of the trypsin family), a general scheme has
+been adopted that most scientists in those fields use.
+</P>
+
+<P>
+It is common to use <STRONG>shaded boxes</STRONG> or coloured
+background to highlight residues or segments of a multiple alignment
+where the residues are strongly conserved. Commercial and some
+academic software can be used to add such features, but there is no
+common standard for exactly how this should look. It is necessary to
+check with the program documentation to figure out exactly how it
+works. 
+</P>
+
+<P>
+<P>
+There are several other observations one might make about multiple
+alignments. For example, the fact that residues are aligned in a
+column does not necessarily mean that they are actually aligned
+structurally or in any other way. There is no common, accepted way of
+showing a <STRONG>'frayed' alignment</STRONG>.
+</P>
+
+<P>
+The <STRONG>correlation between residues far apart in the
+sequence</STRONG> in a protein family is usually difficult to spot in
+a multiple alignment. Other methods must be used to visualize this.
+</P>
+
+<P>
+The <STRONG>combination of a known 3D structure and a multiple
+alignment</STRONG> can be very powerful for understanding a protein
+domain. Of course, knowledge of the biology and chemistry of the
+proteins increases the understanding. Often, a multiple alignment can
+help tie together many different observations into a coherent view of
+the structure and function of a protein domain.
+</P>
+
+<P>
+Here is a schematic image of the 3D structure
+(<A href="http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1CBH">PDB code 1CBH</A>),
+as determined by protein NMR
+(<A HREF="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2554967&dopt=Abstract">Kraulis et al, 1989</A>).
+A few residues are labelled, just to show some features of the
+structure, and to help with comparing with the multiple
+alignment.
+</P>
+
+<P ALIGN="CENTER">
+<IMG SRC="1cbh.jpg">
+</P>
+
+<P>
+Here is a table containing the counts per amino acid type for each
+position in the 18 sequences. Although it contains a lot of
+information, it is not particularly nice to look at, don't you agree?
+</P>
+
+<TABLE border cellpadding=1 align="center">
+  <TR>
+    <TD></TD>
+    <TH>.</TH>
+    <TH>A</TH>
+    <TH>C</TH>
+    <TH>D</TH>
+    <TH>E</TH>
+    <TH>F</TH>
+    <TH>G</TH>
+    <TH>H</TH>
+    <TH>I</TH>
+    <TH>K</TH>
+    <TH>L</TH>
+    <TH>M</TH>
+    <TH>N</TH>
+    <TH>P</TH>
+    <TH>Q</TH>
+    <TH>R</TH>
+    <TH>S</TH>
+    <TH>T</TH>
+    <TH>V</TH>
+    <TH>W</TH>
+    <TH>Y</TH></TR>
+  <TR>
+    <TH>1</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>3</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>2</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>2</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>11</TD>
+    <TD>7</TD></TR>
+  <TR>
+    <TH>3</TH>
+    <TD>.</TD>
+    <TD>5</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>10</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD></TR>
+  <TR>
+    <TH>4</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>17</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>5</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>6</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>7</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>8</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>7</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>9</TH>
+    <TD>17</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>10</TH>
+    <TD>17</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>11</TH>
+    <TD>17</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>12</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>12</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>4</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD></TR>
+  <TR>
+    <TH>13</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>7</TD>
+    <TD>6</TD></TR>
+  <TR>
+    <TH>14</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>8</TD>
+    <TD>6</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>15</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>16</TH>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>9</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>17</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>14</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>18</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>4</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>8</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>19</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>20</TH>
+    <TD>.</TD>
+    <TD>7</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>2</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>21</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>3</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>9</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>22</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>12</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>6</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>23</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>5</TD></TR>
+  <TR>
+    <TH>24</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>5</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>9</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>25</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>18</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>26</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>2</TD>
+    <TD>5</TD>
+    <TD>.</TD>
+    <TD>1</TD></TR>
+  <TR>
+    <TH>27</TH>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>9</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>2</TD></TR>
+  <TR>
+    <TH>28</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>6</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>29</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>14</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>2</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>30</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>9</TD>
+    <TD>3</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD></TR>
+  <TR>
+    <TH>31</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>4</TD>
+    <TD>7</TD></TR>
+  <TR>
+    <TH>32</TH>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>.</TD>
+    <TD>.</TD>
+    <TD>1</TD>
+    <TD>15</TD></TR></TABLE>
+
+
+<P>
+A very useful representation of the conservation patterns is the
+so-called <STRONG>sequence logo</STRONG>. This shows the conserved
+residues as larger characters, where the total height of a column is
+proportional to how conserved that position is. Technically, the
+height is proportional to the information content of the position.
+<A HREF="http://www.bio.cam.ac.uk/cgi-bin/seqlogo/logo.cgi">Here is a 
+web site</A> for generating a sequence logo in PostScript format from
+an alignment.
+</P>
+
+<P ALIGN="CENTER">
+<IMG SRC="CBD_1_logo.gif">
+</P>
+
+<P>
+On closer examination of this multiple alignment (together with the
+known 3D structure), there are a number of features in the multiple
+sequence alignment CBD_1 that stand out. For example:
+</P>
+
+<UL>
+<LI>
+One of the sequences (GUNK_FUSOX) contains an
+<STRONG>insertion</STRONG>. The location of this insertion corresponds
+to a turn in the 3D structure, so it can easily be accommodated
+without large rearrangements of any other parts of the domain. 
+<LI>
+There is a <STRONG>problem close to the insertion</STRONG> in the
+sequence GUNK_FUSOX. The Tyr residue immediately to the left of it
+should probably be in the column 13, which has a conserved aromatic
+residue (see above). Otherwise, the entire loop structure in this
+region would have to be very different. However, having two gaps on
+either side of a residue is something most multiple alignment programs
+do not like.
+<LI>
+There are <STRONG>three strongly conserved Gly residues</STRONG>:
+numbers 6, 7, 15: There could be several (different) reasons for this;
+the phi-psi angles may have values forbidden or highly unfavourable
+for other residues, or the positions in the structure may not allow
+for any sidechain without destroying the function.
+<LI>
+Inspection of the conserved residues shows that several of them (2
+Trp/Phe, 4 Gln, 31 Tyr/Phe/Trp, 32 Tyr) are <STRONG>located on the
+same side of the 3D structure</STRONG>. There seems to be no
+particular architectural reason for the conservation of these residues
+(they do not form a hydrophobic core, for instance), so maybe it has
+to do with the function of binding cellulose?
+<LI>
+<STRONG>Residue 13 Tyr/Phe/Trp has a very special reason for being
+conserved</STRONG> as an aromatic residue, as shown by the
+structure. There is a hydrogen bond between the amide H of the residue
+(residue 14) with the pi-system of the aromatic ring.
+<LI>
+There are <STRONG>three strictly conserved Cys residues</STRONG> in
+the alignment. <STRONG>This is strange</STRONG>. These proteins are
+secreted, so one would assume that the cysteines form disulfide
+bridges. This means that the number of conserved Cys residues should
+be even. If one looks closer at the individual sequences in
+SWISS-PROT, one can spot another conserved Cys three residues further
+on from the end of the Pfam alignment. Apparently, the Pfam definition
+ought really to contain a few more residues at the C-terminus.
+</UL>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 14:35:31 $
+</BODY>
+</HTML>
