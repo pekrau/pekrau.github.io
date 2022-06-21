@@ -77,7 +77,7 @@
     <div class="container">
 
       <header class="row my-3">
-        <div class="col">
+        <div class="col offset-lg-1">
           {% block body_title %}
           <h1>Civilisation</h1>
           {% endblock %}
@@ -85,21 +85,11 @@
       </header>
 
       {% block main %}
-      <div class="row">
-        <section class="col-lg-9">
-          {% block section %}
-          {% endblock %}
-        </section>
-        <aside class="col-log-3">
-          {% block aside %}
-          {% endblock %}
-        </aside>
-      </div>
       {% endblock %}
 
-      <hr>
       <footer class="row">
-        <div class="col">
+        <div class="col offset-lg-1">
+          <hr>
           {% block footer %}
           {% endblock %}
         </div>

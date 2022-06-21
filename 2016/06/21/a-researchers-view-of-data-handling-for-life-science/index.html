@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta description=" | default('Om politik, vetenskap och kultur')">
+    <meta keywords="| default('politics, science, culture, Homo sapiens, evolution, liberalism')">
+    <meta author=" | default('Per Kraulis')">
+    <title>A researcher&#39;s view of data handling for life science</title>
+    <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
+          rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/files/civilisation-icon.png" width="32" height="32">
+        </a>
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="/blog/">Blogg</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Teman
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="/djavulens-liberal/">Djävulens liberal</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/karl-popper/">Karl Popper</a>
+                </li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/publikationer-i-andra-media/">Publikationer i andra media</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/library/">Library</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/python">Python code</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/MolScript">MolScript</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/lectures">Lectures</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/about">Om denna sajt</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search"
+                   placeholder="Sök" aria-label="Sök">
+            <button class="btn btn-secondary" type="submit">Sök</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <header class="row my-3">
+        <div class="col offset-lg-1">
+          
+<h1>A researcher&#39;s view of data handling for life science</h1>
+
+        </div>
+      </header>
+
+      
+<div class="row">
+  <section class="col-lg-6 offset-lg-1">
+    <p>Given the current mess of data handling in life science (or bioscience, as it is also called) which I described in <a href="/posts/">a previous article</a>, what should be done? Let us begin with a few words from one of the gurus:</p>
+<blockquote>
+<p>You have to start with the customer experience and work backwards to the technology.</p>
+</blockquote>
+<p>Steve Jobs, quoted <a href="http://www.imore.com/steve-jobs-you-have-start-customer-experience-and-work-backwards-technology">here</a>.</p>
+<p>We should start by defining what the needs are. What does the scientist, the research group, want in terms of data storage and handling? What do they need in order to pursue successful life science? What other goals for data storage in Swedish science are there? How can we promote approaches to data handling that facilitate Open Science?</p>
+<p>This text is not a final text or treatise. It's a snapshot of my thinking on the subject. Serious policy and design specifications must of course be crafted through debate and input from various experts. There is now an initiative at the <a href="https://www.scilifelab.se/">Science for Life Laboratory</a>, where I work, to discuss these issues. I have written this as a starting point for the discussion, in the hope that it may be useful for SciLifeLab and for others.</p>
+<p>Let me begin by describing some of the needs that should be met, and some goals we should have. This is based on my experience at SciLifeLab and on discussions with other researchers. Only by having first discussed the issues and the goals can we then proceed to questions about resources and technology. <strong>The engineer in me says: Specifications first, then design and implementation.</strong> Too often, the discussion revolves around concrete technical solutions before the needs have been properly analyzed. The danger is that we create <em>ad hoc</em> solutions that become fragmented, are badly designed, difficult to maintain, and very hard for the user to understand.</p>
+<p>Of course, this does not mean that we have to specify the ideal system in complete detail. That is just impossible. Instead, we have to figure out which issues are simpler and more fundamental, and which are more complex. We can then organize the work into providing the basics first, add on increasingly complex layers as we progress. We may discover at some level that the some of the basic building blocks are not good enough. Then we need to revisit those before solving the higher-level problem. Hierarchy is essential, but cannot be just top-down.</p>
+<h3>Rosalind's day in the lab</h3>
+<p>Let's follow an imaginary life science researcher called Rosalind during a day in the lab. What challenges does she face?</p>
+<p>Rosalind picks up a package delivered by courier containing a 1 TB hard disk drive with the RNA-Seq data for the samples she sent to a sequencing service. She connects the disk to her laptop, and starts the script that checks the integrity of the data. It takes a couple of hours. She doesn't have enough space in her laptop to copy the data over, so lets it stay on the delivery disk.</p>
+<p>Rosalind needs to compare the new data with some old pilot experiments run by her former Ph.D. student James who is now a postdoc in another lab. She searches her laptop for the notebook files copied from James's machine before he left, and after some digging among the folders, finds the file name in an entry. Browsing the entry, she finds the name of the hard drive where it is supposed to be. After some fruitless digging around in the cabinet in her office, she goes to the cupboard James had for his training gear and other stuff, and finally finds the disk there, with another four disks. She had told James to clean out that cupboard, but that had never happened. That's so like James! He never did bother with the boring stuff. Thankfully, the disks do seem to have helpful labels written on them.</p>
+<p>Now, how does she know that the file she has found on the disk is the one used for the final analysis  in the paper that's in press? She knows that James had to rerun the pipeline several times to iron out various minor issues. But did James rename the old files? She cannot find any MD5 hash values in James' notebook, and she knows there are none in the supplementary material in the paper. The journal didn't accept the files themselves as supplementary material, as she had hoped they would. She has to take it on trust that the files she found on James' disk are the final ones.</p>
+<p>Now she has to find space somewhere on the server to run the analysis. She manages to free up enough space to transfer the data onto one of the fast disks on the server, but only by deleting some files she thinks are intermediate steps from James' previous work. She's uncomfortable doing it, but she doesn't have enough grant money to buy more fast disk this year.</p>
+<p>Coming back the next day, she has a set of result files. Now, how to record the fact that these files were derived from the original RNA-Seq data? She tacks on one more suffix on the file names, to show which step of the analysis she is at. This file name is the handle she will use in her notes.</p>
+<p>While her other scripts are chugging along, she starts to think about how to backup and safely store the original RNA-Seq data. She know that the sequencing service does not guarantee anything. The university has no storage facility for this kind of data. Using <a href="https://www.box.com/">box.com</a>, which the university has said is the official solution, is out of the question. Storing 600 GB there? Try uploading that, good luck! It seems she will have to do it the usual, ugly way. Go to a computer store and buy a couple of 1TB disk drives, one to keep at home, and one for the lab. That ought to do it.</p>
+<h3>So, what is needed?</h3>
+<p>Here is an attempt at distilling the unmet needs experienced by Rosalind. The ideal storage system should satisfy the following requirements:</p>
+<ol>
+<li>It must provide enough storage with good I/O performance for analysis to be performed.</li>
+<li>Allow computation and analysis, i.e. be located so that CPU resources can access the data efficiently.</li>
+<li>Allow stowing away data that is not going to be analysed just right now.</li>
+<li>Allow archiving data that is to be stored indefinitely.</li>
+<li>Data that has been stowed or archived must be easily (ideally transparently) moved back to high-performance storage, for renewed analysis.</li>
+<li>Be safe, i.e. not become corrupted or changed inadvertently.</li>
+<li>Be secure, i.e. not be accessed or modified by others before time, or due to privacy concerns.</li>
+<li>Allow collaboration with involved partners, which may be located globally.</li>
+<li>Allow the data to be tagged or otherwise enriched by metadata, during analysis, and for later publication.</li>
+<li>Allow files to be frozen, i.e. protected from being overwritten.</li>
+<li>All files should have an MD5 hash value associated with them. This can be used as a file reference, as well as an integrity mark.</li>
+</ol>
+<p>This list is neither complete, nor well structured. Please feel free to comment below.</p>
+<h3>The basics of a solution</h3>
+<p>Here are some ideas about the basic design of a storage system that I believe would help to meet the needs discussed above. This is obviously rather short on detail. But I hope it can help get the discussion going.</p>
+<h4>Cloud, and yet localized</h4>
+<p>The storage services such as <a href="https://aws.amazon.com/s3/">Amazon S3</a>, <a href="https://www.box.com/">box.com</a> and <a href="https://www.dropbox.com/">DropBox</a> should be inspirational models. Their block-based storage design is appropriate for files that are processed as a whole. These services are not appropriate for databases where items or records in a large data set are accessed in a non-deterministic manner.</p>
+<p>Many applications in the life sciences do process files as entire blocks of data. The main problem for life science researchers is that analysis is very I/O intensive, meaning that the CPUs must have efficient access to the disks where the data is located. If, for instance. Amazon S3 is used, then computation must use Amazon's own compute service EC2, otherwise the operation becomes both too expensive and too inefficient. This is not even possible for box.com and DropBox, there are no fast CPU resources connected to those.</p>
+<p>So for academic life science, we would like to have a cloud system that allows files to be transparently relocated to the compute center where the analysis is to be done. Ideally, this would be done transparently, when the scripts accessing the data are started, but a simple web interface to control where data files are to be moved would be a reasonable solution.</p>
+<h4>Different levels of storage</h4>
+<p>Storage is expensive. Some technical solutions are cheaper than others, but are also slower. This is likely to be the case for the foreseeable future. So we need a system where only the data that we really need to process (right now!) is located on the storage having the best performance, since this is the most expensive.</p>
+<p>We also need a system for archiving. Swedish universities are by law required to store data for at least 10 years, but of course science needs archiving for its own purposes, and for longer than 10 years. This kind of storage basically just has to be durable. It would be OK if it is very slow to access. I think most researchers can live with a solution where archived data takes on the order of a few days to bring back to some faster medium.</p>
+<p>Considering the current setup of computing centers in Sweden, it might be reasonable to have an additional layer of half-fast storage in between the other two extremes. For instance, some data sets are required multiple times as reference for some analysis, and it might be useful to have that data located on a cheaper system than the fastest storage. But this is a question that the technical experts can decide. Is the additional complexity worth the savings?</p>
+<h4>Allocation of storage: Quotas? Grants? Payment?</h4>
+<p>The trickiest question of all is really how to regulate the amount of storage space a researcher is allocated. Experience shows that a researcher will fill up her allocated storage space, no matter how large. To provide researchers with as much storage as they want is of course not sustainable, or even possible. So some quota system is required.</p>
+<p>Quotas can work without involving payments. Quotas can be allocated based on many different criteria, such as the nature of the research, excellence judged in some way, or how efficient the researcher has shown herself to be in using computing resources.</p>
+<p>Quotas are, however, also a major pain in the neck. If the researcher needs to do some unanticipated analysis, and that is often what science is all about, then she may have to apply for a larger quota than usual. How is that going to be handled in a fair and efficient way?</p>
+<p>The idea described above with a three-layer (or two) storage system could help. By setting fairly strict quotas on the most expensive storage, but allowing very large quotas on the slow archival storage, the responsibility for shuffling data appropriately will be pushed to the researcher. That's where it must be. No-one else can decide which data should be moved from one system to the other. Time limits for having a data set on fast storage, for instance, are not going to work. It is just not possible to say how long it will take to develop a novel analysis method, for instance.</p>
+<p>An additional benefit of a layered system controlled by the researcher is that a payment system can be added on top. If a researcher wants more fast storage than she gets in the quota system, she can pay for it herself, and get that amount added to her quota.</p>
+<p>There have been suggestions that universities should pay for the storage used by the researchers. This may be reasonable (I do not know), but it <strong>does not</strong> solve the issue of making researchers behave responsibly using storage space. University financing is an orthogonal issue to the problem of how to design a sustainable system for researchers.</p>
+<h4>Web front end</h4>
+<p>If the layered system above is realized, then a web interface would be the natural way for a researcher to control which data sets should be shuffled between which modes of storage, and which compute centers. By making transfer requests in the web interface, and following their progress, the scientist can be spared the usual horror of using scp or rsync between machines.</p>
+<p>A web front end would also allow researchers to publish specific data sets for papers or manuscripts,  providing stable URLs such as <a href="https://www.doi.org/">DOIs</a>. Tags should be used to mark up each data set, to allow for searches. A web interface is a requirement for Open Science: A data set that does not appear on the Web, in one way or another, is not Open.</p>
+<p><strong>So, there it is. Now, discuss!</strong></p>
+
+  </section>
+  <aside class="col-lg-3 offset-lg-2">
+    <ul class="list-group">
+      <li class="list-group-item">Publicerad 2016-06-21</li>
+      <li class="list-group-item"><a href="/blog/">Lista av blogginlägg</a></li>
+    </ul>
+  </aside>
+</div>
+
+
+      <footer class="row">
+        <div class="col offset-lg-1">
+          <hr>
+          
+          
+        </div>
+      </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+  </body>
+</html>

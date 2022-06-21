@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta description=" | default('Om politik, vetenskap och kultur')">
+    <meta keywords="| default('politics, science, culture, Homo sapiens, evolution, liberalism')">
+    <meta author=" | default('Per Kraulis')">
+    <title>What is important, and what is not, for bioscience data handling</title>
+    <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
+          rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/files/civilisation-icon.png" width="32" height="32">
+        </a>
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="/blog/">Blogg</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Teman
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="/djavulens-liberal/">Djävulens liberal</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/karl-popper/">Karl Popper</a>
+                </li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/publikationer-i-andra-media/">Publikationer i andra media</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/library/">Library</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/python">Python code</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/MolScript">MolScript</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/lectures">Lectures</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/about">Om denna sajt</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search"
+                   placeholder="Sök" aria-label="Sök">
+            <button class="btn btn-secondary" type="submit">Sök</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <header class="row my-3">
+        <div class="col offset-lg-1">
+          
+<h1>What is important, and what is not, for bioscience data handling</h1>
+
+        </div>
+      </header>
+
+      
+<div class="row">
+  <section class="col-lg-6 offset-lg-1">
+    <p>There is an on-going discussion between the main bureaucratic players of Swedish science regarding the issue of data storage and data handling for the biosciences in Sweden. The question they discuss is &quot;who should pay for what, and how should the money be channelled?&quot;</p>
+<p><strong>It is exactly the wrong question.</strong></p>
+<p>Since all of these actors (except for non-governmental organisations, e.g. <a href="https://www.wallenberg.com/kaw/en">KAW</a>) are financed by tax-payers money, it is a technical budget issue how they decide to finance things. There seems to be a strange idea floating around that if one fiddles with the financing paths, the whole problem of data storage will become more maintainable. This is, in my mind, to miss the point entirely.</p>
+<p>Instead, we should focus on the primary issues for science:</p>
+<ul>
+<li>How is science going to be done in the best way? Data handling and storage must be geared to the researcher's needs.</li>
+<li>What makes life easy for the researcher? What should the basic design of the system be?</li>
+<li>How do we design the system so that it fits with Open Science (at least sometime in the future).</li>
+<li>How do we give the scientists the correct incentives to store important data, scrap temporary and unimportant data, and to make data searchable?</li>
+<li>How do we make data available to the world, in keeping with Open Science principles?</li>
+<li>How do we ensure that researchers keep only data that is being worked on in expensive and performant media, while moving currently-not-so-relevant data to slow, cheap media?</li>
+</ul>
+<p>The big players involved are: <a href="http://vr.se">Vetenskapsrådet</a> (VR, the Swedish Research Council), the <a href="http://www.snic.vr.se/">Swedish National Infrastructure for Computing</a> (SNIC), the universities, the various national research infrastructures (e.g. the <a href="https://www.scilifelab.se/platforms/ngi/">National Genomics Infrastructure</a>, NGI, where I work) and also the non-governmental funding bodies such as <a href="https://www.wallenberg.com/kaw/en">Knut and Alice Wallenberg foundation</a> (KAW). They are currently discussing these issues, but it appears only from the bureaucratic perspective of &quot;who should pay&quot;. Fine, they need to do that.</p>
+<p><strong>But who discusses what the researchers need? I have so far seen very little of that essential question.</strong> And I know that there are unmet needs. We at NGI have received many desperate questions of how to handle the big data sets we produce. We also get questions on how to make certain data sets generally available to the public, data sets that do not fit into the generally accepted international databases. I have first-hand experience with researchers who buy storage at DropBox and other commercial sites. I have no idea if this is in keeping with university policies. A policy is as good as reality allows it to be. If a university does not provide data storage for its researchers, they will get it elsewhere. I have seen attempts at promoting <a href="https://figshare.com/">figshare</a> for Stockholm university, and also, if I remember correctly, <a href="https://www.box.com/en_GB/front/">box.com</a>, but these are not well known among scientists, their status is unclear, and the strategy is even more opaque.</p>
+<p>We need to think about how to realize the law-enforced requirement to store data for 10 years. There is the legal aspect, of course, but mainly there is the fundamental issue that the tax-payers have a legitimate reason to demand that data produced using their money becomes accessible to them. Today, the responsibility for this lies on the universities, which delegate it to the research groups, which proceed to do what they find practical.</p>
+<p>Of course, this leads, in the best scenario, to many different fragmented solutions. In practice, many groups will be hard pressed to dig out data sets 10 years old. Computers do not last 10 years, and what's on old hard drives tends not to be brought along to the new computers, especially since the graduate students and postdocs who generated the data are no longer around.</p>
+<p>**Let's focus on the main problem here: The researcher's problem. And let the bureaucracy find solutions that are appropriate to solve that problem. Do not let the bureaucracy concentrate on finding solutions that are convenient for it. Only by pure luck would such a solution be the most optimal for the scientists. **</p>
+
+  </section>
+  <aside class="col-lg-3 offset-lg-2">
+    <ul class="list-group">
+      <li class="list-group-item">Publicerad 2016-04-04</li>
+      <li class="list-group-item"><a href="/blog/">Lista av blogginlägg</a></li>
+    </ul>
+  </aside>
+</div>
+
+
+      <footer class="row">
+        <div class="col offset-lg-1">
+          <hr>
+          
+          
+        </div>
+      </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -10,6 +10,7 @@ import re
 import time
 
 import jinja2
+import marko
 import yaml
 
 
@@ -38,8 +39,8 @@ def build_index():
     "Build the top index.html file."
     build("index.html", "index.html", updated=time.strftime("%Y-%m-%d"))
 
-def build_blog_index():
-    "Build the index.html and list.html files for the blog posts."
+def build_blog():
+    "Build post files, index.html and list.html files for the blog."
     dirpath = os.path.join(os.getcwd(), "blog")
     if not os.path.exists(dirpath):
         os.mkdir(dirpath)
@@ -49,9 +50,16 @@ def build_blog_index():
         posts.append(post)
     posts.sort(key=lambda p: p["date"], reverse=True)
     build("blog/index.html", "blog/index.html", posts=posts)
+    for post in posts:
+        dirpath = os.path.join(os.getcwd(), post["path"].lstrip("/"))
+        try:
+            os.makedirs(dirpath)
+        except OSError:
+            pass
+        build(os.path.join(dirpath, "index.html"), "blog/post.html", post=post)
 
 def read_md(filepath):
-    "Read the Markdown file, as a dict with front matter and content as items."
+    "Return the Markdown file as a dict with front matter and content as items."
     with open(filepath) as infile:
         data = infile.read()
     match = FRONT_MATTER_RX.match(data)
@@ -67,10 +75,13 @@ def read_md(filepath):
         result["content"] = data[match.end():]
     else:
         result = {"content": data}
+    result["path"] = "/" + os.path.join(str(result["date"]).replace("-", "/"),
+                                        result["name"])
+    result["html"] = marko.convert(result["content"])
     return result
 
 
 if __name__ == "__main__":
     build_index()
-    build_blog_index()
+    build_blog()
     

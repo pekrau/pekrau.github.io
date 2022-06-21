@@ -1,16 +1,22 @@
 {% extends 'base.html' %}
 
+{% block head_title %}Civilisation: Blogg{% endblock %}
+
 {% block body_title %}
-<h1>Blogg</h1>
+<h1>Civilisation: Blogg</h1>
 {% endblock %}
 
-{% block section %}
-<table class="table table-borderless table-sm">
-  {% for post in posts %}
-  <tr>
-    <td>{{ post["date"] }}</td>
-    <td><a href="#">{{ post["title"] }}</a></td>
-  <tr>
-  {% endfor %}
-</table>
+{% block main %}
+<div class="row">
+  <section class="col-lg-10 offset-lg-1">
+    <table class="table table-borderless table-sm">
+      {% for post in posts %}
+      <tr>
+        <td>{{ post["date"] }}</td>
+        <td><a href="{{ post['path'] }}">{{ post["title"] }}</a></td>
+      <tr>
+        {% endfor %}
+    </table>
+  </section>
+</div>
 {% endblock %}
