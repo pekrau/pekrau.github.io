@@ -3,6 +3,7 @@ title: 'Wagner''s Parsifal: holier-than-thou'
 link: https://kraulis.wordpress.com/2016/03/30/wagners-parsifal-holier-than-thou/
 name: wagners-parsifal-holier-than-thou
 date: 2016-03-30
+language: en
 ---
 Attending the opera [Parsifal](https://en.wikipedia.org/wiki/Parsifal) by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) [at the Royal Opera in Stockholm](http://www.operan.se/parsifal/) on Monday March 28th 2016 was a joy. The singers, the orchestra, the cast and the staging were all wonderful.
 

@@ -3,6 +3,7 @@ title: 'Open Science: challenges for life science'
 link: https://kraulis.wordpress.com/2016/04/10/open-science-challenges-for-life-science/
 name: open-science-challenges-for-life-science
 date: 2016-04-10
+language: en
 ---
 I have created a page [Open Science](/posts/) with links to interesting discussions and information about Open Science, especially issues related to life science (bioscience). I hope to add more links to the page as I find them. I may also discuss some of them in this forum. Please feel free to send me tips.
 

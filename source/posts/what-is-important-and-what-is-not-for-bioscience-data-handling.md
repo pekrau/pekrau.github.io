@@ -3,6 +3,7 @@ title: What is important, and what is not, for bioscience data handling
 link: https://kraulis.wordpress.com/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/
 name: what-is-important-and-what-is-not-for-bioscience-data-handling
 date: 2016-04-04
+language: en
 ---
 There is an on-going discussion between the main bureaucratic players of Swedish science regarding the issue of data storage and data handling for the biosciences in Sweden. The question they discuss is "who should pay for what, and how should the money be channelled?"
 

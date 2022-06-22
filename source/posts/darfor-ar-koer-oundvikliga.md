@@ -3,16 +3,12 @@ title: Därför är köer oundvikliga
 link: https://kraulis.wordpress.com/2015/01/31/darfor-ar-koer-oundvikliga/
 name: darfor-ar-koer-oundvikliga
 date: 2015-01-31
+translation:
+  - en: why-queues-are-inevitable
 ---
-*This blog post is also available [in English](/posts/).
-
-*
-
 Vi klagar gärna på köer. Varför ska vi behöva vänta? Visar inte t.ex. vårdköerna att för snåla resurser läggs på sjukvården? Jag har tittat litet närmare på detta problem.
 
 **Min slutsats: Nej, vi är nog inte beredda att betala vad det kostar att avskaffa köerna.** Mitt resultat bygger på några enkla förutsättningar, och är tillämpligt på många olika typer av verksamheter. Jag har använt datorsimuleringar för att räkna på problemet. Siffrorna talar sitt tydliga språk: **Det köfria samhället är en orimlig utopi.**
-
-
 
 Jag jobbar i en serviceverksamhet ([National Genomics Infrastructure in Sweden](https://portal.scilifelab.se/genomics/) som befinner sig inom [SciLifeLab](http://www.scilifelab.se/)), där vi processar prover inskickade av forskare i hela Sverige och levererar data (DNA-sekvenserna) tillbaka till dem. **Det vanligaste klagomålet på oss är att vi har för långa köer. Det glunkas om att [Karolinska Institutet](http://ki.se/), där många av våra användare finns, funderar på att öppna en egen service, för att, som en KI-representant sa till mig, "forskarna ska kunna komma ner och få sina prover körda direkt utan någon kö."** Jag började fundera på det. Är den målsättningen rimlig?
 

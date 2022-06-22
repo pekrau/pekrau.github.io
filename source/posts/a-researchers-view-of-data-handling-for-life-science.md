@@ -3,6 +3,7 @@ title: A researcher's view of data handling for life science
 link: https://kraulis.wordpress.com/2016/06/21/a-researchers-view-of-data-handling-for-life-science/
 name: a-researchers-view-of-data-handling-for-life-science
 date: 2016-06-21
+language: en
 ---
 Given the current mess of data handling in life science (or bioscience, as it is also called) which I described in [a previous article](/posts/), what should be done? Let us begin with a few words from one of the gurus:
 

@@ -3,9 +3,9 @@ title: 'Måste läsas: Kenan Maliks bok om moralfilosofins historia'
 link: https://kraulis.wordpress.com/2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/
 name: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
 date: 2015-02-15
+translation:
+  - en: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
 ---
-*This blog post is also available [in English](/posts/).*
-
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), engelsk skribent och föreläsare, har skrivit en bok om moralfilosofins historia som varje person intresserad av ämnet helt enkelt måste läsa. **"The Quest for a Moral Compass" är ett under av klarhet och stringens.** Filosofernas ståndpunkter framställs begripligt utan orimlig förenkling. Deras etiska resonemang sätts in i ett socialt och intellektuellt sammanhang. Det är oupphörligt intressant och lärorikt.
 
 Boken börjar med öppningsstrofen ur Homeros Iliaden, "Sjung, o gudinna, om vreden som brann hos Peliden Akhilleus...", och diskuterar det moraliska universum som den berättelsen utspelar sig inom. **Det är ett författartekniskt grepp som får mig att jubla. Ingen långrandig inledning, pseudo-akademiskt meta-snack om hur boken är upplagd, utan bara pang på, huvudet före! Så ska en slipsten dras.**

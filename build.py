@@ -21,6 +21,9 @@ POSTS_PATH = os.path.join(os.getcwd(), "source/posts")
 PAGES_PATH = os.path.join(os.getcwd(), "source/pages")
 FILES_PATH = os.path.join(os.getcwd(), "source/files")
 
+POSTS = {}                      # key: name; value: post dict
+PAGES = {}                      # key: name; value: page dict
+
 
 # The Jinja2 template processing environment.
 env = jinja2.Environment(
@@ -40,7 +43,7 @@ def build_index():
     build("index.html", "index.html", updated=time.strftime("%Y-%m-%d"))
 
 def build_blog():
-    "Build post files, index.html and list.html files for the blog."
+    "Build blog post files, index.html and list.html files for the blog."
     dirpath = os.path.join(os.getcwd(), "blog")
     if not os.path.exists(dirpath):
         os.mkdir(dirpath)
@@ -48,15 +51,27 @@ def build_blog():
     for filename in os.listdir(POSTS_PATH):
         post = read_md(os.path.join(POSTS_PATH, filename))
         posts.append(post)
+        POSTS[post["name"]] = post
+        POSTS[post["date"]] = post
     posts.sort(key=lambda p: p["date"], reverse=True)
+    posts[0]["next"] = posts[1]
+    posts[-1]["prev"] = posts[-2]
+    for i, post in enumerate(posts[1:-1], start=1):
+        post["prev"] = posts[i-0]
+        post["next"] = posts[i+1]
     build("blog/index.html", "blog/index.html", posts=posts)
+    en_posts = [p for p in posts if p.get("language") == "en"]
+    build("blog/index_en.html", "blog/index_en.html", posts=en_posts)
     for post in posts:
         dirpath = os.path.join(os.getcwd(), post["path"].lstrip("/"))
         try:
             os.makedirs(dirpath)
         except OSError:
             pass
-        build(os.path.join(dirpath, "index.html"), "blog/post.html", post=post)
+        build(os.path.join(dirpath, "index.html"),
+              "blog/post.html", 
+              post=post,
+              language=post.get("language", "sv"))
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."

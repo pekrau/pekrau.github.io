@@ -62,7 +62,7 @@
               <a class="nav-link" href="/lectures">Lectures</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">Om denna sajt</a>
+              <a class="nav-link" href="/about">Per Kraulis</a>
             </li>
           </ul>
           <form class="d-flex" role="search">
@@ -76,6 +76,7 @@
 
     <div class="container">
 
+      {% block header %}
       <header class="row my-3">
         <div class="col offset-lg-1">
           {% block body_title %}
@@ -83,6 +84,7 @@
           {% endblock %}
         </div>
       </header>
+      {% endblock %}
 
       {% block main %}
       {% endblock %}

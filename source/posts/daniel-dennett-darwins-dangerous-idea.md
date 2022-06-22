@@ -6,8 +6,6 @@ date: 2013-03-29
 ---
 Jag har läst [Daniel Dennetts](http://en.wikipedia.org/wiki/Daniel_Dennett) bok **Darwin's Dangerous Idea: Evolution and the Meanings of Life**, ett av de mer omtalade debattinläggen i gränslandet mellan vetenskap och samhällsdebatt under de senaste 20 åren.
 
-
-
 En [sammanfattning av boken finns på Wikipedia](http://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea), så jag tänker inte referera hela innehållet här. 
 
 Bokens resonemang har ett ganska rejält tuggmotstånd, vilket beror på att Dennett vill diskutera samband och idéer som inte är enkla. Han gör vad han kan för att förklara saker begripligt, men han förväntar sig ett visst mått av intellektuell prestation från läsarens sida.

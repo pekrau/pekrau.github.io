@@ -3,6 +3,7 @@ title: The mess in bioscience data handling
 link: https://kraulis.wordpress.com/2016/04/02/the-mess-in-bioscience-data-handling/
 name: the-mess-in-bioscience-data-handling
 date: 2016-04-02
+language: en
 ---
 Science is a social activity relying on knowledge sharing, reproducibility, reanalysis and extension of previous work. The movement towards [Open Access](https://en.wikipedia.org/wiki/Open_access) publication and [Open Science](https://en.wikipedia.org/wiki/Open_science) sharing of data and analysis protocols can be seen as a natural development of these ideals. Large data sets are essential to many scientific investigations and are sometimes the product of an investigation. The biosciences have fairly recently started producing large data sets. There are several well-funded international efforts maintaining focused bioscience data sets, such as genomes at [Ensembl](http://www.ensembl.org/), protein sequence data at [UniProt](http://www.uniprot.org/), and many others.
 

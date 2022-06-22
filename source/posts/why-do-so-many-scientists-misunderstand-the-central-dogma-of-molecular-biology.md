@@ -3,6 +3,7 @@ title: Why do so many scientists misunderstand the Central Dogma of Molecular Bi
 link: https://kraulis.wordpress.com/2015/11/04/why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology/
 name: why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology
 date: 2015-11-04
+language: en
 ---
 Scientists are careful people who do not make statements without knowing the facts. They try hard to get things right. So we think; hope.
 

@@ -3,6 +3,7 @@ title: 'How an embryo develops: The miracle of self-organization'
 link: https://kraulis.wordpress.com/2016/09/29/how-an-embryo-develops-the-miracle-of-self-organization/
 name: how-an-embryo-develops-the-miracle-of-self-organization
 date: 2016-09-29
+language: en
 ---
 The development of an organism such as a plant or a human being has always been a source of fascination. How can a small seed give rise to a giant tree? How can an egg cell combined with a sperm cell develop via the embryo into the complex structures of the human body? In a recent book **"Life Unfolding. How the human body creates itself"**, Jamie A. Davies, professor at the University of Edinburgh, describes the current scientific understanding of this miraculous process.
 

@@ -14,7 +14,19 @@
   <aside class="col-lg-3 offset-lg-2">
     <ul class="list-group">
       <li class="list-group-item">Publicerad {{ post["date"] }}</li>
-      <li class="list-group-item"><a href="/blog/">Alla blogginlägg</a></li>
+      {% if post["prev"] %}
+      <li class="list-group-item">
+        Föregående inlägg:
+        <a href="{{ post['prev']['path'] }}">{{ post["prev"]["title"] }}</a>
+      </li>
+      {% endif %}
+      {% if post["next"] %}
+      <li class="list-group-item">
+        Nästa inlägg:
+        <a href="{{ post['next']['path'] }}">{{ post["next"]["title"] }}</a>
+      </li>
+      {% endif %}
+      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
     </ul>
   </aside>
 </div>
