@@ -1,8 +1,24 @@
 ---
-title: Ida Ölmedal snedtänder om plikt, moral och konsekvens
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-08-03'
 link: https://kraulis.wordpress.com/2015/08/03/ida-olmedal-snedtander-om-plikt-moral-och-konsekvens/
 name: ida-olmedal-snedtander-om-plikt-moral-och-konsekvens
-date: 2015-08-03
+path: /2015/08/03/ida-olmedal-snedtander-om-plikt-moral-och-konsekvens/
+tags:
+- name: dygdetik
+  value: dygdetik
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: utilitarism
+  value: utilitarism
+title: "Ida \xD6lmedal snedt\xE4nder om plikt, moral och konsekvens"
+type: post
 ---
 Ida Ölmedal reagerar mot diskussionen om plikt i samhället ([Expressen 2 aug 2015](http://www.expressen.se/kultur/for-pliktvurmarna-ar-empiri-ointressant/)). **Tyvärr gör hon det på ett sätt som är alltför vanligt i dagens debatt. Hon tycks förväxla sarkasmer, halvlögner och vridna tolkningar med argument. Men under retoriksmeten finns en intressant synpunkt som förtjänar diskussion.**
 

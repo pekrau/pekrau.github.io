@@ -1,8 +1,26 @@
 ---
-title: Religion är politik. Eller inte. Hur ska Joel Halldorf ha det?
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-02-19'
 link: https://kraulis.wordpress.com/2016/02/19/religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det/
 name: religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det
-date: 2016-02-19
+path: /2016/02/19/religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det/
+tags:
+- name: franciskus
+  value: Franciskus
+- name: joel-halldorf
+  value: Joel Halldorf
+- name: paven
+  value: "p\xE5ven"
+- name: stefan-arvidsson
+  value: Stefan Arvidsson
+title: "Religion \xE4r politik. Eller inte. Hur ska Joel Halldorf ha det?"
+type: post
 ---
 Joel Halldorf har skrivit en bok som får en devot hyllningsrecension av Maria Küchen i Expressen [19 februari 2016](http://www.expressen.se/kultur/fler-kyrkliga-borde-vaga-vara-politiska/). Jag har inte läst boken, så jag får anta att Küchen ger en rättvisande bild av den. Hon skriver (hennes kursiveringar):
 

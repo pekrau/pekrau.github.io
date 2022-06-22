@@ -1,8 +1,26 @@
 ---
-title: 'Grundkurs i ateism, del 8: Abraham, Kierkegaard och DN:s Birgersson'
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-05-08'
 link: https://kraulis.wordpress.com/2013/05/08/grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson/
 name: grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson
-date: 2013-05-08
+path: /2013/05/08/grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson/
+tags:
+- name: bok
+  value: bok
+- name: isaiah-berlin
+  value: Isaiah Berlin
+- name: soren-kierkegaard
+  value: "S\xF8ren Kierkegaard"
+- name: upplysningen
+  value: Upplysningen
+title: 'Grundkurs i ateism, del 8: Abraham, Kierkegaard och DN:s Birgersson'
+type: post
 ---
 Susanna Birgersson, ledarskribent på Dagens Nyheter, skriver [om Søren Kierkegaard 8 maj 2013](http://www.dn.se/ledare/signerat/abraham-kierkegaard-och-samtiden), apropå dennes 200-årsdag nyligen.
 

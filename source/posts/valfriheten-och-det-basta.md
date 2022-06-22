@@ -1,8 +1,20 @@
 ---
-title: Valfriheten och det bästa
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-04-27'
 link: https://kraulis.wordpress.com/2014/04/27/valfriheten-och-det-basta/
 name: valfriheten-och-det-basta
-date: 2014-04-27
+path: /2014/04/27/valfriheten-och-det-basta/
+tags:
+- name: valfrihet
+  value: valfrihet
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Valfriheten och det b\xE4sta"
+type: post
 ---
 Svensken har ett komplicerat förhållande till valfriheten. Hen vill gärna ha den, men helst ska det vara enkelt att välja det bästa. En mycket utbredd, men närmast paradoxal inställning.
 

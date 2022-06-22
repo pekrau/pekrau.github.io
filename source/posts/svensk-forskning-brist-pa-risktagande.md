@@ -1,8 +1,18 @@
 ---
-title: 'Svensk forskning: brist på risktagande'
+categories:
+- name: politik
+  value: Politik
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2012-10-28'
 link: https://kraulis.wordpress.com/2012/10/28/svensk-forskning-brist-pa-risktagande/
 name: svensk-forskning-brist-pa-risktagande
-date: 2012-10-28
+path: /2012/10/28/svensk-forskning-brist-pa-risktagande/
+tags:
+- name: open-access
+  value: Open Access
+title: "Svensk forskning: brist p\xE5 risktagande"
+type: post
 ---
 Två seminarier häromdagen handlade om vetenskap och politik. På ett något oväntat sätt satte de fokus på ett viktigt problem med svensk forskning: Dess brist på risktagande.
 

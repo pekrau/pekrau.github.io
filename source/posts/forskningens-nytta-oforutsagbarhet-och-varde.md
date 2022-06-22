@@ -1,8 +1,22 @@
 ---
-title: Forskningens nytta, oförutsägbarhet och värde
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-10-07'
 link: https://kraulis.wordpress.com/2015/10/07/forskningens-nytta-oforutsagbarhet-och-varde/
 name: forskningens-nytta-oforutsagbarhet-och-varde
-date: 2015-10-07
+path: /2015/10/07/forskningens-nytta-oforutsagbarhet-och-varde/
+tags:
+- name: humaniora
+  value: humaniora
+- name: utilitarism
+  value: utilitarism
+title: "Forskningens nytta, of\xF6ruts\xE4gbarhet och v\xE4rde"
+type: post
 ---
 Stefan Schubert skrev ett debattinlägg 1 okt 2015 i [Vetenskapsrådets](http://vr.se/) webtidning [Curie](http://www.tidningencurie.se/) med rubriken "[Hur mycket nytta måste forskningen skapa?](http://bloggar.tidningencurie.se/stefanschubert/hur-mycket-nytta-maste-forskningen-skapa/)". Schubert vill formulera ett kriterium för att avgöra vilken forskning som skall få resurser. Här kritiserar jag hans förslag.
 

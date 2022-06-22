@@ -1,8 +1,20 @@
 ---
-title: 'Harding och Gerhaher: Gustav Mahler'
+categories:
+- name: kultur
+  value: Kultur
+date: '2014-01-24'
 link: https://kraulis.wordpress.com/2014/01/24/harding-och-gerhaher-gustav-mahler/
 name: harding-och-gerhaher-gustav-mahler
-date: 2014-01-24
+path: /2014/01/24/harding-och-gerhaher-gustav-mahler/
+tags:
+- name: christian-gerhaher
+  value: Christian Gerhaher
+- name: daniel-harding
+  value: Daniel Harding
+- name: gustav-mahler
+  value: Gustav Mahler
+title: 'Harding och Gerhaher: Gustav Mahler'
+type: post
 ---
 I Berwaldhallen 24 jan 2014 sjöng [Christian Gerhaher](http://en.wikipedia.org/wiki/Christian_Gerhaher), baryton, [Gustav Mahlers](http://sv.wikipedia.org/wiki/Gustav_Mahler) [Lieder eines Fahrenden Gesellen](http://en.wikipedia.org/wiki/Lieder_eines_fahrenden_Gesellen), med Sveriges Radios Symfoniorkester under ledning av Daniel Harding. Gerhaher har en mycket vacker röst med en underbart ljus klang. **Men kvällens framförande var ingen fullträff.**
 

@@ -1,8 +1,28 @@
 ---
-title: Ronald Dworkins bok "Religion without God"
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-12-29'
 link: https://kraulis.wordpress.com/2014/12/29/ronald-dworkins-bok-religion-without-god/
 name: ronald-dworkins-bok-religion-without-god
-date: 2014-12-29
+path: /2014/12/29/ronald-dworkins-bok-religion-without-god/
+tags:
+- name: eutyfron
+  value: Eutyfron
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: platon
+  value: Platon
+- name: ronald-dworkin
+  value: Ronald Dworkin
+title: Ronald Dworkins bok "Religion without God"
+type: post
 ---
 [Ronald Dworkin](http://en.wikipedia.org/wiki/Ronald_Dworkin), liberal rättsfilosof och skribent, avled år 2013. Hans sista bok heter **Religion without God**, och den bygger på hans Einstein-föreläsning vid Berns universitet 2011. Tanken var att boken skulle utveckla föreläsningens text, men sjukdom förhindrade detta. Boken är därför en liten volym på endast ca 160 sidor.
 

@@ -1,8 +1,20 @@
 ---
-title: Ska vi ha tålamod med islam?
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-06-04'
 link: https://kraulis.wordpress.com/2017/06/04/ska-vi-ha-talamod-med-islam/
 name: ska-vi-ha-talamod-med-islam
-date: 2017-06-04
+path: /2017/06/04/ska-vi-ha-talamod-med-islam/
+tags:
+- name: islam
+  value: Islam
+- name: islamism
+  value: islamism
+title: "Ska vi ha t\xE5lamod med islam?"
+type: post
 ---
 Det är dagen efter [ännu ett terrordåd i London](http://www.bbc.com/news/uk-40148737). När detta skrivs är det inte bekräftat att det rör sig om ett islamistiskt dåd, men det mesta talar för det.
 

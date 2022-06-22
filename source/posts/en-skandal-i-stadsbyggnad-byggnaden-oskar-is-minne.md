@@ -1,8 +1,17 @@
 ---
-title: 'En skandal i stadsbyggnad: byggnaden Oskar I:s minne'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2017-05-13'
 link: https://kraulis.wordpress.com/2017/05/13/en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne/
 name: en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne
-date: 2017-05-13
+path: /2017/05/13/en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne/
+title: 'En skandal i stadsbyggnad: byggnaden Oskar I:s minne'
+type: post
 ---
 De flesta tror förmodligen att en skandal inom stadsbyggnad måste handla om att man har rivit något fint gammalt hus. Men det finns undantag. Här är det frågan om en skandal att man bevarat ett hus till en mycket stor kostnad, ett hus som ingen vet vad det ska användas till. Ett hus som helt uppenbart borde ha rivits.
 

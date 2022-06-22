@@ -1,8 +1,22 @@
 ---
-title: Är Birgitta Ohlsson Liberalernas frälsare?
+categories:
+- name: politik
+  value: Politik
+date: '2016-09-14'
 link: https://kraulis.wordpress.com/2016/09/14/ar-birgitta-ohlsson-liberalernas-fralsare/
 name: ar-birgitta-ohlsson-liberalernas-fralsare
-date: 2016-09-14
+path: /2016/09/14/ar-birgitta-ohlsson-liberalernas-fralsare/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: jan-bjorklund
+  value: "Jan Bj\xF6rklund"
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+title: "\xC4r Birgitta Ohlsson Liberalernas fr\xE4lsare?"
+type: post
 ---
 **En förkortad version av detta inlägg har [publicerats på Expressen Debatt 2016-09-16](http://www.expressen.se/debatt/ohlsson-ar-inte-liberalernas-fralsare/).**
 

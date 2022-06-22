@@ -1,8 +1,16 @@
 ---
-title: 'Om reduktionism: En glimt i ögat, del 2'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+date: '2015-07-28'
 link: https://kraulis.wordpress.com/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/
 name: om-reduktionism-en-glimt-i-ogat-del-2
-date: 2015-07-28
+path: /2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/
+tags:
+- name: reduktionism
+  value: reduktionism
+title: "Om reduktionism: En glimt i \xF6gat, del 2"
+type: post
 ---
 I [den första delen](/posts/) av denna artikeln visade jag en tabell av 3-ställiga siffror, och avslöjade att den var en liten bild om 9 gånger 9 pixlar. Här är bilden förstorad 10 gånger:
 

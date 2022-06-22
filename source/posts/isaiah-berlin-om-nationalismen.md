@@ -1,8 +1,34 @@
 ---
-title: Isaiah Berlin om nationalismen
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-06-11'
 link: https://kraulis.wordpress.com/2013/06/11/isaiah-berlin-om-nationalismen/
 name: isaiah-berlin-om-nationalismen
-date: 2013-06-11
+path: /2013/06/11/isaiah-berlin-om-nationalismen/
+tags:
+- name: bok
+  value: bok
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: isaiah-berlin
+  value: Isaiah Berlin
+- name: liberalism
+  value: liberalism
+- name: reaktionar
+  value: "reaktion\xE4r"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: upplysningen
+  value: Upplysningen
+- name: utveckling
+  value: utveckling
+title: Isaiah Berlin om nationalismen
+type: post
 ---
 En essä i New York Review of Books [25 april 2013 av Mark Lilla](http://www.nybooks.com/articles/archives/2013/apr/25/isaiah-berlin-against-current/) om den liberale idéhistorikern [Isaiah Berlin](http://en.wikipedia.org/wiki/Isaiah_Berlin) fångade mitt intresse. Berlin är kanske mest känd för sin diskussion av distinktionen mellan negativ och positiv frihet. Men minst lika intressant är det han har skrivit om upplysningsidéerna och reaktionerna mot dem.
 

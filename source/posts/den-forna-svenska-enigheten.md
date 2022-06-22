@@ -1,8 +1,20 @@
 ---
-title: Den forna svenska enigheten
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-01-24'
 link: https://kraulis.wordpress.com/2016/01/24/den-forna-svenska-enigheten/
 name: den-forna-svenska-enigheten
-date: 2016-01-24
+path: /2016/01/24/den-forna-svenska-enigheten/
+tags:
+- name: invandring
+  value: invandring
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: Den forna svenska enigheten
+type: post
 ---
 Det sägs allt som oftast att Sveriges folk fordom var enat och att frid rådde. Ursäkta denna min sarkastiska formulering, men det påståendet har jag alltid funnit osannolikt naivt. I en artikel om "Sverige och det svenska" skriver Mauricio Rojas i [Svenska Dagbladet 24 januari 2016](http://www.svd.se/vem-ger-folkhemsnostalgin-konkurrens):
 

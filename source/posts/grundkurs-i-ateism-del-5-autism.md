@@ -1,8 +1,22 @@
 ---
-title: 'Grundkurs i ateism, del 5: Autism?'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-02-16'
 link: https://kraulis.wordpress.com/2013/02/16/grundkurs-i-ateism-del-5-autism/
 name: grundkurs-i-ateism-del-5-autism
-date: 2013-02-16
+path: /2013/02/16/grundkurs-i-ateism-del-5-autism/
+tags:
+- name: bok
+  value: bok
+- name: steven-pinker
+  value: Steven Pinker
+title: 'Grundkurs i ateism, del 5: Autism?'
+type: post
 ---
 Knappt har jag skrivit [det förra avsnittet i denna serie (del 4: Påven)](/posts/), förrän jag råkar få syn på en fascinerande artikel på Newsmill med rubriken ["Finns det ett samband mellan ateism och autism?"](http://www.newsmill.se/artikel/2013/02/14/finns-det-ett-samband-mellan-ateism-och-autism) skriven 15 feb 2013 av Lotta Knutsson Bråkenhielm, doktorand i religionsfilosofi vid Uppsala Universitet.
 

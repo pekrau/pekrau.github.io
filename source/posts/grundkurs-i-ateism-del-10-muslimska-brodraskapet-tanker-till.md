@@ -1,8 +1,16 @@
 ---
-title: 'Grundkurs i ateism, del 10: Muslimska brödraskapet tänker till'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2013-12-05'
 link: https://kraulis.wordpress.com/2013/12/05/grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till/
 name: grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till
-date: 2013-12-05
+path: /2013/12/05/grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till/
+tags:
+- name: muslimska-brodraskapet
+  value: "Muslimska br\xF6draskapet"
+title: "Grundkurs i ateism, del 10: Muslimska br\xF6draskapet t\xE4nker till"
+type: post
 ---
 På Twitter fladdrade en länk till en artikel i [India Today 28 nov 2013](http://indiatoday.intoday.in/story/fatwa-al-azhar-university-cairo-women-swimming-in-sea-adultresses/1/326883.html) förbi. Den refererar en rapport om fatwas utgivna av det Muslimska brödraskapet. Några axplock:
 

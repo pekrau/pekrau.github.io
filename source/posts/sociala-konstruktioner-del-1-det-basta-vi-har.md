@@ -1,8 +1,20 @@
 ---
-title: 'Sociala konstruktioner, del 1: Det bästa vi har'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-11-26'
 link: https://kraulis.wordpress.com/2017/11/26/sociala-konstruktioner-del-1-det-basta-vi-har/
 name: sociala-konstruktioner-del-1-det-basta-vi-har
-date: 2017-11-26
+path: /2017/11/26/sociala-konstruktioner-del-1-det-basta-vi-har/
+tags:
+- name: john-searle
+  value: John Searle
+- name: sociala-konstruktioner
+  value: sociala konstruktioner
+title: "Sociala konstruktioner, del 1: Det b\xE4sta vi har"
+type: post
 ---
 Ett återkommande inslag i nutida debatt är fnysningen om sociala konstruktioner. Exempelvis: "Äsch, gränser mellan länder är bara sociala konstruktioner." Eller: "Familjen är bara en social konstruktion." Eller som Assar Lindbeck, en av Sveriges mest seniora debattörer, säger i en intervju i tidningen [Universitetsnytt 2017-5](http://www.su.se/polopoly_fs/1.353421.1508855863!/menu/standard/file/Universitetsnytt%20nr%205%202017.pdf): "Jag har aldrig förstått det där med pension. Det är en social konstruktion."
 

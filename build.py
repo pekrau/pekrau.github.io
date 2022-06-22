@@ -21,8 +21,10 @@ POSTS_PATH = os.path.join(os.getcwd(), "source/posts")
 PAGES_PATH = os.path.join(os.getcwd(), "source/pages")
 FILES_PATH = os.path.join(os.getcwd(), "source/files")
 
-POSTS = {}                      # key: name; value: post dict
-PAGES = {}                      # key: name; value: page dict
+POSTS = []                # sorted by date
+PAGES = {}                # key: name; value: page dict
+TAGS = {}                 # key: tag; value: number of times used
+CATEGORIES = {}           # key: category; value: number of times used
 
 
 # The Jinja2 template processing environment.
@@ -30,48 +32,67 @@ env = jinja2.Environment(
     loader=jinja2.FileSystemLoader(TEMPLATES_PATH),
     autoescape=jinja2.select_autoescape(['html'])
 )
-# env.globals['len'] = len
+env.globals['sorted'] = sorted
 
 
-def build(html_filepath, template_filepath, **kwargs):
-    template = env.get_template(template_filepath)
-    with open(html_filepath, "w") as outfile:
-        outfile.write(template.render(**kwargs))
+def read_posts():
+    "Read all Markdown files for blog posts and pre-process."
+    for filename in os.listdir(POSTS_PATH):
+        post = read_md(os.path.join(POSTS_PATH, filename))
+        post["html"] = marko.convert(post["content"])
+        POSTS.append(post)
+    POSTS.sort(key=lambda p: p["date"], reverse=True)
+    POSTS[0]["next"] = POSTS[1]
+    POSTS[-1]["prev"] = POSTS[-2]
+    for i, post in enumerate(POSTS[1:-1], start=1):
+        post["prev"] = POSTS[i-0]
+        post["next"] = POSTS[i+1]
+    for post in POSTS:
+        for tag in post.get("tags", []):
+            try:
+                TAGS[tag["name"]]["count"] += 1
+            except KeyError:
+                tag["count"] = 1
+                TAGS[tag["name"]] = tag
+        for category in post.get("categories", []):
+            try:
+                CATEGORIES[category["name"]]["count"] += 1
+            except KeyError:
+                category["count"] = 1
+                CATEGORIES[category["name"]] = category
 
 def build_index():
     "Build the top index.html file."
-    build("index.html", "index.html", updated=time.strftime("%Y-%m-%d"))
+    categories = list(CATEGORIES.values())
+    categories.sort(key=lambda c: c["value"].lower())
+    build_html("index.html", "index.html",
+               updated=time.strftime("%Y-%m-%d"),
+               categories=categories)
 
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."
     dirpath = os.path.join(os.getcwd(), "blog")
     if not os.path.exists(dirpath):
         os.mkdir(dirpath)
-    posts = []
-    for filename in os.listdir(POSTS_PATH):
-        post = read_md(os.path.join(POSTS_PATH, filename))
-        posts.append(post)
-        POSTS[post["name"]] = post
-        POSTS[post["date"]] = post
-    posts.sort(key=lambda p: p["date"], reverse=True)
-    posts[0]["next"] = posts[1]
-    posts[-1]["prev"] = posts[-2]
-    for i, post in enumerate(posts[1:-1], start=1):
-        post["prev"] = posts[i-0]
-        post["next"] = posts[i+1]
-    build("blog/index.html", "blog/index.html", posts=posts)
-    en_posts = [p for p in posts if p.get("language") == "en"]
-    build("blog/index_en.html", "blog/index_en.html", posts=en_posts)
-    for post in posts:
-        dirpath = os.path.join(os.getcwd(), post["path"].lstrip("/"))
+    build_html("blog/index.html", "blog/index.html", posts=POSTS)
+    en_posts = [p for p in POSTS if p.get("language") == "en"]
+    build_html("blog/index_en.html", "blog/index_en.html", posts=en_posts)
+    for post in POSTS:
+        dirpath = os.path.join(os.getcwd(), post["path"].strip("/"))
         try:
             os.makedirs(dirpath)
         except OSError:
             pass
-        build(os.path.join(dirpath, "index.html"),
-              "blog/post.html", 
-              post=post,
-              language=post.get("language", "sv"))
+        build_html(os.path.join(dirpath, "index.html"),
+                   "blog/post.html", 
+                   post=post,
+                   language=post.get("language", "sv"))
+
+def build_html(html_filepath, template_filepath, **kwargs):
+    "Build a single HTML page from the data for an item."
+    template = env.get_template(template_filepath)
+    with open(html_filepath, "w") as outfile:
+        outfile.write(template.render(**kwargs))
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
@@ -90,13 +111,11 @@ def read_md(filepath):
         result["content"] = data[match.end():]
     else:
         result = {"content": data}
-    result["path"] = "/" + os.path.join(str(result["date"]).replace("-", "/"),
-                                        result["name"])
-    result["html"] = marko.convert(result["content"])
     return result
 
 
 if __name__ == "__main__":
+    read_posts()
     build_index()
     build_blog()
     

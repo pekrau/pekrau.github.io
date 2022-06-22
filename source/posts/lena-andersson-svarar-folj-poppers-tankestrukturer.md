@@ -1,8 +1,34 @@
 ---
-title: 'Lena Andersson svarar: Följ Poppers tankestrukturer'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-01-07'
 link: https://kraulis.wordpress.com/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/
 name: lena-andersson-svarar-folj-poppers-tankestrukturer
-date: 2015-01-07
+path: /2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/
+tags:
+- name: ayn-rand
+  value: Ayn Rand
+- name: bertrand-russell
+  value: Bertrand Russell
+- name: essentialism
+  value: essentialism
+- name: judith-butler
+  value: Judith Butler
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: michel-foucault
+  value: Michel Foucault
+- name: postmodernism
+  value: postmodernism
+- name: progressiv
+  value: progressiv
+title: "Lena Andersson svarar: F\xF6lj Poppers tankestrukturer"
+type: post
 ---
 *Följande text av Lena Andersson är ett svar på ett tidigare inlägg och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.*
 

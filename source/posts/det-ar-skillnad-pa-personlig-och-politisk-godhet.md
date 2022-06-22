@@ -1,8 +1,26 @@
 ---
-title: Det är skillnad på personlig och politisk godhet
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-12-18'
 link: https://kraulis.wordpress.com/2016/12/18/det-ar-skillnad-pa-personlig-och-politisk-godhet/
 name: det-ar-skillnad-pa-personlig-och-politisk-godhet
-date: 2016-12-18
+path: /2016/12/18/det-ar-skillnad-pa-personlig-och-politisk-godhet/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: malin-lernfelt
+  value: Malin Lernfelt
+- name: moral
+  value: moral
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Det \xE4r skillnad p\xE5 personlig och politisk godhet"
+type: post
 ---
 Debatten om godhet fortsätter. Ann Heberlein [skriver om den banala godheten 17 dec 2016](http://ledarsidorna.se/2016/12/ann-heberlein-den-banala-godheten/) på sajten Ledarsidorna. Olika kristna kyrkor har gått samman i det så kallade [Juluppropet](http://www.juluppropet.se/uppropet/), där man vänder sig mot "teknifiering, empatilöshet och avhumanisering". Annika Hamrud försvarar godheten i ett inlägg på SVT Nyheter Opinion [14 dec 2016](http://www.svt.se/opinion/article11534618.svt):
 

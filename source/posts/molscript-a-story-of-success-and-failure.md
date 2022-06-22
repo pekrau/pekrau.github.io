@@ -1,15 +1,32 @@
 ---
-title: 'MolScript: A story of success and failure'
+categories:
+- name: computing
+  value: Computing
+- name: in-english
+  value: In English
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-11-03'
 link: https://kraulis.wordpress.com/2014/11/03/molscript-a-story-of-success-and-failure/
 name: molscript-a-story-of-success-and-failure
-date: 2014-11-03
-language: en
+path: /2014/11/03/molscript-a-story-of-success-and-failure/
+tags:
+- name: molscript
+  value: MolScript
+- name: software-engineering
+  value: software engineering
+title: 'MolScript: A story of success and failure'
+type: post
 ---
 A scientific paper I published in 1991 is on the list of **"The 100 most highly cited papers of all time"**. The paper in question is
 
-   Per J. Kraulis
-   MOLSCRIPT: a program to produce both detailed and schematic plots of protein structures.
-   J. Appl. Cryst. (1991) 24, 946-950
+<code>Per J. Kraulis
+
+MOLSCRIPT: a program to produce both detailed and schematic plots of protein structures.
+
+J. Appl. Cryst. (1991) 24, 946-950
+
+</code>
 
 The Top 100 list is published in the [30 Oct 2014 issue](http://www.nature.com/news/the-top-100-papers-1.16224) of Nature magazine. The list contains the 100 most-cited papers in the entire scientific literature since 1900. **The MolScript paper is number 82 on the list, with 13,496 citations.**
 

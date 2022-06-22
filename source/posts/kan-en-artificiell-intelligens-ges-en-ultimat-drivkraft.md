@@ -1,8 +1,20 @@
 ---
-title: Kan en artificiell intelligens ges en ultimat drivkraft?
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-07-08'
 link: https://kraulis.wordpress.com/2014/07/08/kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft/
 name: kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft
-date: 2014-07-08
+path: /2014/07/08/kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft/
+tags:
+- name: artifical-intelligence
+  value: Artifical Intelligence
+- name: olle-haggstrom
+  value: "Olle H\xE4ggstr\xF6m"
+title: Kan en artificiell intelligens ges en ultimat drivkraft?
+type: post
 ---
 Olle Häggström har kommenterar [mitt senaste inlägg](/posts/) i diskussionen om artificiell intelligens (AI) i [ett tillägg](http://haggstrom.blogspot.se/2014/06/om-evolution-drivkrafter-och.html?showComment=1404812651345#c3385937744547286673) till sin ursprungliga bloggartikel.
 

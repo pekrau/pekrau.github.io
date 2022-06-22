@@ -1,8 +1,18 @@
 ---
-title: FP Stockholms reaktionära stadsbyggnadspolitik
+categories:
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2012-11-25'
 link: https://kraulis.wordpress.com/2012/11/25/fp-stockholms-reaktionara-stadsbyggnadspolitik/
 name: fp-stockholms-reaktionara-stadsbyggnadspolitik
-date: 2012-11-25
+path: /2012/11/25/fp-stockholms-reaktionara-stadsbyggnadspolitik/
+tags:
+- name: stockholm
+  value: Stockholm
+title: "FP Stockholms reaktion\xE4ra stadsbyggnadspolitik"
+type: post
 ---
 Frågor om urbanisering och stadsbyggnad är hetare än på mycket länge. Hur göra Stockholm till en bättre stad? Under 80- och 90-talen dominerade en stämning av nostalgi efter staden i det lilla formatet, där de gamla Klarakvarteren symboliserade idealtillståndet.
 

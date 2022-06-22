@@ -1,8 +1,24 @@
 ---
-title: Porta nazisterna!
+categories:
+- name: politik
+  value: Politik
+date: '2016-09-28'
 link: https://kraulis.wordpress.com/2016/09/28/porta-nazisterna/
 name: porta-nazisterna
-date: 2016-09-28
+path: /2016/09/28/porta-nazisterna/
+tags:
+- name: daniel-poohl
+  value: Daniel Poohl
+- name: erik-helmerson
+  value: Erik Helmerson
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: nazism
+  value: nazism
+title: Porta nazisterna!
+type: post
 ---
 Det pratas just nu mycket om nazism och tolerans. Det hela startade med att Bokmässan upplät en monter åt Nya Tider, ett bokförlag med högerextremistisk agenda och glasklara kopplingar till nazistiska organisationer och propagandister. En förvirrad fars utbröt därefter, vars historia jag inte tänker återberätta här.
 

@@ -1,8 +1,22 @@
 ---
-title: Liberal debatt med Lennart Nordfors
+categories:
+- name: politik
+  value: Politik
+date: '2016-09-04'
 link: https://kraulis.wordpress.com/2016/09/04/liberal-debatt-med-lennart-nordfors/
 name: liberal-debatt-med-lennart-nordfors
-date: 2016-09-04
+path: /2016/09/04/liberal-debatt-med-lennart-nordfors/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: liberal-debatt
+  value: Liberal Debatt
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+title: Liberal debatt med Lennart Nordfors
+type: post
 ---
 Jag har [skrivit en replik](http://www.liberaldebatt.se/2016/08/ar-det-rimligt-att-de-svenskar-som-har-foga-hopp-om-framtiden-har-svart-att-hitta-bostad-ar-radda-for-arbetsloshet-ska-jubla-over-invandringen/) på [en artikel av Lennart Nordfors](http://www.liberaldebatt.se/2016/07/liberal-politik-flyttar-flyktinggransen-inte-tvartom/) i Liberal Debatt 3/2016. Den repliken har nu publicerats i nätversionen av Liberal Debatt (i tryck senare i oktober). [Nordfors svarar direkt](http://www.liberaldebatt.se/2016/08/det-ar-inte-att-lagga-locket-pa-att-argumentera-mot-nationalism-och-populism/). Jag är inte speciellt nöjd med hans svar: Han tycks vilja tillvita mig uttalanden jag inte gjort och åsikter jag inte har. Vad värre är: Han intar en helt defensiv position där inget i den förda politiken tycks ha varit fel.
 

@@ -1,15 +1,34 @@
 ---
-title: Why queues are inevitable
+categories:
+- name: computing
+  value: Computing
+- name: in-english
+  value: In English
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-01-31'
 link: https://kraulis.wordpress.com/2015/01/31/why-queues-are-inevitable/
 name: why-queues-are-inevitable
-date: 2015-01-31
-language: en
-translation:
-  - sv: darfor-ar-koer-oundvikliga
+path: /2015/01/31/why-queues-are-inevitable/
+tags:
+- name: ngi
+  value: NGI
+- name: queues
+  value: queues
+- name: scilifelab
+  value: SciLifeLab
+- name: simulation
+  value: simulation
+title: Why queues are inevitable
+type: post
 ---
+*Detta inlägg finns även [på svenska](/posts/).*
+
 We love to complain about queues. Why do we have to wait? Do not the queues in e.g. the health care system show that too few resources are allocated to it? I have looked a little closer at this problem.
 
 **My conclusion: No, we are probably not willing to pay what it costs to eliminate queues.** My results rely on some basic assumptions, and are applicable to many different types of scenarios. I have used computer simulations to investigate the problem. The numbers speak for themselves: **The queueless society is an unreasonable utopia.** 
+
+
 
 I work in a service facility (the [National Genomics Infrastructure in Sweden](https://portal.scilifelab.se/genomics/) within [SciLifeLab](http://www.scilifelab.se/)), where we process samples submitted by researchers in Sweden and deliver data (DNA sequences) back to them. **The most common complaint to us is that our queues are too long. It is whispered that the Karolinska Institute , where many of our users are based, is thinking of opening a separate service, to which, as a KI representative told me, "the researchers can go and get their samples run directly without any queue."** I started thinking about it. Is this a reasonable goal?
 

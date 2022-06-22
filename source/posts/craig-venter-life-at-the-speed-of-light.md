@@ -1,8 +1,24 @@
 ---
-title: 'Craig Venter: Life at the Speed of Light'
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-03-23'
 link: https://kraulis.wordpress.com/2014/03/23/craig-venter-life-at-the-speed-of-light/
 name: craig-venter-life-at-the-speed-of-light
-date: 2014-03-23
+path: /2014/03/23/craig-venter-life-at-the-speed-of-light/
+tags:
+- name: biologi
+  value: biologi
+- name: bok
+  value: bok
+- name: craig-venter
+  value: Craig Venter
+- name: erwin-schrodinger
+  value: "Erwin Schr\xF6dinger"
+- name: genteknik
+  value: genteknik
+title: 'Craig Venter: Life at the Speed of Light'
+type: post
 ---
 Craig Venter, en av de främsta bakom kartläggningen av människans hela arvsmassa ("genom"), har skrivit boken "Life at the Speed of Light". **Den handlar om Venters senaste projekt, att frambringa en syntetisk livsform.**
 

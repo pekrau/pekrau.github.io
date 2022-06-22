@@ -1,8 +1,18 @@
 ---
-title: Fel, fel, fel! The Economist om läget i forskningen
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-10-21'
 link: https://kraulis.wordpress.com/2013/10/21/fel-fel-fel-the-economist-om-laget-i-forskningen/
 name: fel-fel-fel-the-economist-om-laget-i-forskningen
-date: 2013-10-21
+path: /2013/10/21/fel-fel-fel-the-economist-om-laget-i-forskningen/
+tags:
+- name: forskningsfel
+  value: forskningsfel
+- name: forskningsfusk
+  value: forskningsfusk
+title: "Fel, fel, fel! The Economist om l\xE4get i forskningen"
+type: post
 ---
 The Economist har en oerhört bra [artikel 19 okt 2013](http://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble) om en pågående kris i forskningen: **Antalet fel i vetenskapliga publikationer är på tok för högt, och visar ingen tendens att minska.** Tvärtom, olika mekanismer verkar idag åt fel håll. Nya idéer och åtgärder måste till för att vända trenden.
 

@@ -1,8 +1,26 @@
 ---
-title: Märkligt insiktslöst om svenska värderingar
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-12-04'
 link: https://kraulis.wordpress.com/2016/12/04/markligt-insiktslost-om-svenska-varderingar/
 name: markligt-insiktslost-om-svenska-varderingar
-date: 2016-12-04
+path: /2016/12/04/markligt-insiktslost-om-svenska-varderingar/
+tags:
+- name: individualism
+  value: individualism
+- name: liberalism
+  value: liberalism
+- name: nationalism
+  value: nationalism
+- name: sverige
+  value: Sverige
+- name: utveckling
+  value: utveckling
+title: "M\xE4rkligt insiktsl\xF6st om svenska v\xE4rderingar"
+type: post
 ---
 Dagens Nyheter har ett tema om nationalism 4 dec 2016. Låt mig här fokusera på en av artiklarna. Den illustrerar  ofrivilligt en anledning till att diskussionen om svenska värderingar och nationalism så ofta blir förvirrad.
 

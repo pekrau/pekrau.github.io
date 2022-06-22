@@ -1,8 +1,22 @@
 ---
-title: 'Goerne och Andsnes i Konserthuset: Mahler och Sjostakovitj'
+categories:
+- name: kultur
+  value: Kultur
+date: '2014-01-17'
 link: https://kraulis.wordpress.com/2014/01/17/goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj/
 name: goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj
-date: 2014-01-17
+path: /2014/01/17/goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj/
+tags:
+- name: dimitrij-sjostakovitj
+  value: Dimitrij Sjostakovitj
+- name: gustav-mahler
+  value: Gustav Mahler
+- name: leif-ove-andsnes
+  value: Leif Ove Andsnes
+- name: matthias-goerne
+  value: Matthias Goerne
+title: 'Goerne och Andsnes i Konserthuset: Mahler och Sjostakovitj'
+type: post
 ---
 [Matthias Goerne](http://en.wikipedia.org/wiki/Matthias_Goerne), tysk baryton, sjöng sånger av [Mahler](http://sv.wikipedia.org/wiki/Gustav_Mahler) och [Sjostakovitj](http://sv.wikipedia.org/wiki/Dmitrij_Sjostakovitj) till ackompanjemang av den norske pianisten [Leif Ove Andsnes](http://en.wikipedia.org/wiki/Leif_Ove_Andsnes). Kombinationen av tonsättare visade sig vara spännande och programmet var mycket väl genomtänkt. Konserten gavs i Grünewaldsalen i Konserthuset 17 jan 2014.
 

@@ -1,8 +1,30 @@
 ---
-title: Nej, Macchiarini är ingen Mengele. Det är värre än så
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-02-14'
 link: https://kraulis.wordpress.com/2016/02/14/nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa/
 name: nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa
-date: 2016-02-14
+path: /2016/02/14/nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa/
+tags:
+- name: forskningsfusk
+  value: forskningsfusk
+- name: karolinska-institutet
+  value: Karolinska institutet
+- name: medicin
+  value: medicin
+- name: moral
+  value: moral
+- name: paolo-macchiarini
+  value: Paolo Macchiarini
+- name: sjukvard
+  value: "sjukv\xE5rd"
+title: "Nej, Macchiarini \xE4r ingen Mengele. Det \xE4r v\xE4rre \xE4n s\xE5"
+type: post
 ---
 Göran Rosenbergs krönika i [Sveriges Radio 11 februari 2016](http://sverigesradio.se/sida/artikel.aspx?programid=438&artikel=6366460) om Macchiarini-skandalen är ett exempel på hur berättigad indignation kan slå över i tankefel via orimliga jämförelser. Rosenberg gör det helt enkelt för lätt för sig. Macchiarini-skandalen kräver mer eftertanke än så.
 

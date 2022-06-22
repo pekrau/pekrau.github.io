@@ -1,9 +1,26 @@
 ---
-title: A researcher's view of data handling for life science
+categories:
+- name: computing
+  value: Computing
+- name: in-english
+  value: In English
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-06-21'
 link: https://kraulis.wordpress.com/2016/06/21/a-researchers-view-of-data-handling-for-life-science/
 name: a-researchers-view-of-data-handling-for-life-science
-date: 2016-06-21
-language: en
+path: /2016/06/21/a-researchers-view-of-data-handling-for-life-science/
+tags:
+- name: big-data
+  value: Big Data
+- name: data-storage
+  value: data storage
+- name: open-access
+  value: Open Access
+- name: open-science
+  value: Open Science
+title: A researcher's view of data handling for life science
+type: post
 ---
 Given the current mess of data handling in life science (or bioscience, as it is also called) which I described in [a previous article](/posts/), what should be done? Let us begin with a few words from one of the gurus:
 

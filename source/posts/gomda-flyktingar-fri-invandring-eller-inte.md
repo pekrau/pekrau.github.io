@@ -1,8 +1,20 @@
 ---
-title: 'Gömda flyktingar: Fri invandring eller inte?'
+categories:
+- name: politik
+  value: Politik
+date: '2013-02-24'
 link: https://kraulis.wordpress.com/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/
 name: gomda-flyktingar-fri-invandring-eller-inte
-date: 2013-02-24
+path: /2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: integritet
+  value: integritet
+- name: invandring
+  value: invandring
+title: "G\xF6mda flyktingar: Fri invandring eller inte?"
+type: post
 ---
 Om det bränner till i en fråga kan det vara bra att försöka tänka igenom vad olika ståndpunkter och argument egentligen innebär. **Bör man fördöma polisens kampanj (projektet Reva) att verkställa avvisningar av utlänningar utan uppehållstillstånd?** Flera debattörer menar att polisen helt enkelt borde sluta. Håller argumenten?
 

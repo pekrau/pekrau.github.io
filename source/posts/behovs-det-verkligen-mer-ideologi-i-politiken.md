@@ -1,8 +1,36 @@
 ---
-title: Behövs det verkligen mer ideologi i politiken?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-07-14'
 link: https://kraulis.wordpress.com/2013/07/14/behovs-det-verkligen-mer-ideologi-i-politiken/
 name: behovs-det-verkligen-mer-ideologi-i-politiken
-date: 2013-07-14
+path: /2013/07/14/behovs-det-verkligen-mer-ideologi-i-politiken/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: folkpartiet
+  value: Folkpartiet
+- name: ideologi
+  value: ideologi
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+- name: medelklass
+  value: medelklass
+- name: sven-eric-liedman
+  value: Sven-Eric Liedman
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Beh\xF6vs det verkligen mer ideologi i politiken?"
+type: post
 ---
 Det sägs ofta att det är för litet ideologi i politiken idag. Det handlar bara om procent, lagteknik, anslag, smarta utspel och omröstningar. Var är de Stora Idéerna? Senast ut att beklaga sakernas tillstånd är [Sven-Eric Liedman i Dagens Nyheter 11 juli 2013](http://www.dn.se/kultur-noje/kulturdebatt/sven-eric-liedman-nar-politiken-blir-till-skadespel/):
 

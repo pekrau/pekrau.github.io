@@ -1,8 +1,20 @@
 ---
-title: Turandot? Nej, Liù!
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-03-15'
 link: https://kraulis.wordpress.com/2013/03/15/turandot-nej-liu/
 name: turandot-nej-liu
-date: 2013-03-15
+path: /2013/03/15/turandot-nej-liu/
+tags:
+- name: giacomo-puccini
+  value: Giacomo Puccini
+- name: opera
+  value: opera
+- name: turandot
+  value: Turandot
+title: "Turandot? Nej, Li\xF9!"
+type: post
 ---
 Operans föreställning av [Puccinis](http://sv.wikipedia.org/wiki/Giacomo_Puccini) opera [Turandot](http://sv.wikipedia.org/wiki/Turandot_(opera_av_Puccini)) 15 mars 2013 hade en intensitet av sällan skådat slag. Nina Stemme i titelrollen sjunger bättre än någonsin, med ett fokus och en klang som slår igenom allt. Tenoren Riccardo Massi som Calaf var tidvis litet mer tillbakahållen, men i praktarian Nessun dorma briljerade han.
 

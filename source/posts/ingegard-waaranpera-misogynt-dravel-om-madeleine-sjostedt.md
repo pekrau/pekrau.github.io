@@ -1,8 +1,16 @@
 ---
-title: 'Ingegärd Waaranperä: Misogynt dravel om Madeleine Sjöstedt'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-11-28'
 link: https://kraulis.wordpress.com/2013/11/28/ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt/
 name: ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt
-date: 2013-11-28
+path: /2013/11/28/ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt/
+tags:
+- name: madeleine-sjostedt
+  value: "Madeleine Sj\xF6stedt"
+title: "Ingeg\xE4rd Waaranper\xE4: Misogynt dravel om Madeleine Sj\xF6stedt"
+type: post
 ---
 Jag vill undvika invektiv i denna blogg, men ibland är frestelsen mycket stor. Ingegärd Waaranperä, teaterkritiker i Dagens Nyheter, uttalar sig i samband med en intervju av kulturborgarrådet Madeleine Sjöstedt i [Expressen 28 november 2013](http://www.expressen.se/kultur/toppnyheter-/har-man-en-publik-pa-tio-personer-sa-ska-man-kunna-fa-tva-till/) av Björn af Kleen. **Det Waaranperä säger skulle kallas misogynt dravel om det hade kommit från en man utanför kulturvärlden.**
 

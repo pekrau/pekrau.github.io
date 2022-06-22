@@ -1,8 +1,22 @@
 ---
-title: 'Djävulens liberal: Sofia Nerbrand spelar Marie Antoinette'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-07-03'
 link: https://kraulis.wordpress.com/2018/07/03/djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette/
 name: djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette
-date: 2018-07-03
+path: /2018/07/03/djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette/
+tags:
+- name: bostader
+  value: "bost\xE4der"
+- name: liberalism
+  value: liberalism
+- name: medelklass
+  value: medelklass
+title: "Dj\xE4vulens liberal: Sofia Nerbrand spelar Marie Antoinette"
+type: post
 ---
 > Den franska drottningen Marie Antoinette skall hånfullt ha sagt att om de fattiga inte hade råd med bröd, kunde de ju i stället bara äta kakor – eller rättare sagt: "Låt dem äta brioche!".
 

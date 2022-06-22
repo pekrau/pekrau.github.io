@@ -1,8 +1,20 @@
 ---
-title: Flyktingkrisen som hävstång
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-11-25'
 link: https://kraulis.wordpress.com/2015/11/25/flyktingkrisen-som-havstang/
 name: flyktingkrisen-som-havstang
-date: 2015-11-25
+path: /2015/11/25/flyktingkrisen-som-havstang/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Flyktingkrisen som h\xE4vst\xE5ng"
+type: post
 ---
 Så har [regeringen](http://www.dn.se/nyheter/politik/asa-romson-kampade-mot-tararna-gransen-ar-nadd/) kommit fram till att det svenska systemet inte klarar det antal flyktingar som kommer hit. Ingen kan tro att S och MP gör detta därför att de tycker det är kul eller därför att de vill gå SD till mötes. Det finns självklart [de som påstår att det är så](http://www.dagensarena.se/opinion/marcus-priftis-rasisternas-agenda-ar-det-som-enar-politikerna/), men de personerna ska man sluta lyssna på.
 

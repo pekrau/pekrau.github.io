@@ -1,8 +1,32 @@
 ---
-title: 'Ann Heberlein: Etik. En introduktion med brister.'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-08-13'
 link: https://kraulis.wordpress.com/2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/
 name: ann-heberlein-etik-en-introduktion-med-brister
-date: 2014-08-13
+path: /2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/
+tags:
+- name: alasdair-macintyre
+  value: Alasdair MacIntyre
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: dygdetik
+  value: dygdetik
+- name: elizabeth-anscombe
+  value: Elizabeth Anscombe
+- name: etik
+  value: etik
+- name: pliktetik
+  value: pliktetik
+- name: utilitarism
+  value: utilitarism
+title: 'Ann Heberlein: Etik. En introduktion med brister.'
+type: post
 ---
 Ann Heberlein, akademiker verksam inom etik vid Centrum för teologi och religionsvetenskap vid Lunds universitet, har skrivit boken **Etik: Människa, moral, mening.**
 

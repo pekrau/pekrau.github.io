@@ -1,8 +1,28 @@
 ---
-title: Så ser den moderna nazismen ut
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-05-28'
 link: https://kraulis.wordpress.com/2014/05/28/sa-ser-den-moderna-nazismen-ut/
 name: sa-ser-den-moderna-nazismen-ut
-date: 2014-05-28
+path: /2014/05/28/sa-ser-den-moderna-nazismen-ut/
+tags:
+- name: europa
+  value: Europa
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: front-national
+  value: Front National
+- name: nationalism
+  value: nationalism
+- name: nazism
+  value: nazism
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "S\xE5 ser den moderna nazismen ut"
+type: post
 ---
 Sverigedemokraternas ungdomsförbund, SDU, har lagt upp en video på YouTube som illusterar hur modern nazism ser ut:
 

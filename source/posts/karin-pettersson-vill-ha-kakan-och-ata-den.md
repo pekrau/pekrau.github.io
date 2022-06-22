@@ -1,8 +1,24 @@
 ---
-title: Karin Pettersson vill ha kakan och äta den
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-06-10'
 link: https://kraulis.wordpress.com/2015/06/10/karin-pettersson-vill-ha-kakan-och-ata-den/
 name: karin-pettersson-vill-ha-kakan-och-ata-den
-date: 2015-06-10
+path: /2015/06/10/karin-pettersson-vill-ha-kakan-och-ata-den/
+tags:
+- name: aftonbladet
+  value: Aftonbladet
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: socialdemokraterna
+  value: Socialdemokraterna
+title: "Karin Pettersson vill ha kakan och \xE4ta den"
+type: post
 ---
 Karin Pettersson, chef för ledarredaktion på Aftonbladet, försöker både ha kakan och äta den. Hon vill hylla den gamla socialdemokratiska devisen "kräv din rätt, gör din plikt", samtidigt som hon vill kritisera när andra tillämpar den. I [en krönika 9 juni 2015](http://www.aftonbladet.se/ledare/ledarkronika/karinpettersson/article20931714.ab) attackerar hon bland annat Birgitta Ohlsson för att hon vill ställa krav.
 

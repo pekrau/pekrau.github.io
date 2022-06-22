@@ -1,8 +1,26 @@
 ---
-title: 'Dygdernas renässans: Var är skärpan?'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-08-28'
 link: https://kraulis.wordpress.com/2013/08/28/dygdernas-renassans-var-ar-skarpan/
 name: dygdernas-renassans-var-ar-skarpan
-date: 2013-08-28
+path: /2013/08/28/dygdernas-renassans-var-ar-skarpan/
+tags:
+- name: dygdetik
+  value: dygdetik
+- name: kristendom
+  value: kristendom
+- name: moral
+  value: moral
+title: "Dygdernas ren\xE4ssans: Var \xE4r sk\xE4rpan?"
+type: post
 ---
 Boken **Dygdernas renässans** är en samling essäer om dygderna i det förflutna och idag. Författare är ett antal svenska humanister, i betydelsen utövare av humaniora. De använder följande definition:> En dygd betecknar en karaktärsinriktning hos en individ som är moraliskt eftersträvansvärd.Bokens redaktörer hävdar i förordet att begreppet dygd inom etiken har fått "förnyad aktualitet under de senare decennierna", och nämner filosofer som [Alasdair MacIntyre](http://en.wikipedia.org/wiki/Alasdair_MacIntyre) och [Martha Nussbaum](http://en.wikipedia.org/wiki/Martha_Nussbaum).
 

@@ -1,8 +1,24 @@
 ---
-title: Politik eller religion? Vad menar Stefan Arvidsson?
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-12-23'
 link: https://kraulis.wordpress.com/2015/12/23/politik-eller-religion-vad-menar-stefan-arvidsson/
 name: politik-eller-religion-vad-menar-stefan-arvidsson
-date: 2015-12-23
+path: /2015/12/23/politik-eller-religion-vad-menar-stefan-arvidsson/
+tags:
+- name: oppna-samhallet
+  value: "\xF6ppna samh\xE4llet"
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: scott-atran
+  value: Scott Atran
+- name: stefan-arvidsson
+  value: Stefan Arvidsson
+title: Politik eller religion? Vad menar Stefan Arvidsson?
+type: post
 ---
 Det pågår en debatt i Dagens Nyheter om religion och politik mot bakgrund av Islamiska Statens härjningar. Senaste inlägget [23 december 2015](http://www.dn.se/kultur-noje/kulturdebatt/stefan-arvidsson-politik-snarare-an-religion-som-lockar-unga-till-is/) kommer från Stefan Arvidsson, professor i religionshistoria. Det är ett inlägg som jag har mycket svårt att förstå. **Det tycks som att Arvidsson vill frikänna religionen för allt ont, och istället förlägga skulden på politiken. De argument han anför tycks mig snarare bevisa motsatsen.**
 

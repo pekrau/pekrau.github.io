@@ -1,8 +1,28 @@
 ---
-title: Toomas Hendrik Ilves om Sverige, Estland och Ukraina
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-06-01'
 link: https://kraulis.wordpress.com/2014/06/01/toomas-hendrik-ilves-om-sverige-estland-och-ukraina/
 name: toomas-hendrik-ilves-om-sverige-estland-och-ukraina
-date: 2014-06-01
+path: /2014/06/01/toomas-hendrik-ilves-om-sverige-estland-och-ukraina/
+tags:
+- name: baltikum
+  value: Baltikum
+- name: estland
+  value: Estland
+- name: nato
+  value: NATO
+- name: olof-palme
+  value: Olof Palme
+- name: ryssland
+  value: Ryssland
+- name: ukraina
+  value: Ukraina
+title: Toomas Hendrik Ilves om Sverige, Estland och Ukraina
+type: post
 ---
 Ukraina-krisen har blottlagt gamla konfliktytor i den svenska debatten. Den gamla så kallade [tredje ståndpunkten](http://sv.wikipedia.org/wiki/Tredje_st%C3%A5ndpunkten) har återuppstått i form av inpass från bland annat socialdemokraterna Göran Greider och Ulf Bjereld, som hävdar att EU och Ryssland är lika skyldiga till Ukrainakrisen. Kommunisten och chefen för Aftonbladets kulturredaktion Åsa Linderborg har velat beslå Ukrainas självständighetskämpar med fascism, och samtidigt urskulda Rysslands agerande.
 

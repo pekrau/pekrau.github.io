@@ -1,8 +1,22 @@
 ---
-title: Adam Kjellgren om myter i politiken. Det meningsfulla sammanhanget
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-07-17'
 link: https://kraulis.wordpress.com/2018/07/17/adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget/
 name: adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget
-date: 2018-07-17
+path: /2018/07/17/adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget/
+tags:
+- name: karl-popper
+  value: Karl Popper
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: upplysningen
+  value: Upplysningen
+title: Adam Kjellgren om myter i politiken. Det meningsfulla sammanhanget
+type: post
 ---
 Adam Kjellgren, doktorand i idéhistoria vid Stockholms Universitet, skriver mycket intressant om myternas roll i politiken ([Dagens Nyheter 17 juli 2018](https://www.dn.se/kultur-noje/darfor-behover-vi-tala-om-myternas-betydelse-i-politiken/)). Jag har en kommentar som är mer nyansering än kritik.
 

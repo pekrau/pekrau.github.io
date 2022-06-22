@@ -1,8 +1,22 @@
 ---
-title: DN Kultur och medelklassföraktet
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-02-28'
 link: https://kraulis.wordpress.com/2013/02/28/dn-kultur-och-medelklassforaktet/
 name: dn-kultur-och-medelklassforaktet
-date: 2013-02-28
+path: /2013/02/28/dn-kultur-och-medelklassforaktet/
+tags:
+- name: medelklass
+  value: medelklass
+- name: nina-bjork
+  value: "Nina Bj\xF6rk"
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "DN Kultur och medelklassf\xF6raktet"
+type: post
 ---
 Eftertankens kranka blekhet har drabbat Lars Linder, mångårig medarbetare på DN Kultur. Han skriver i Dagens Nyheters 28 feb 2013 (ej länkbart):
 

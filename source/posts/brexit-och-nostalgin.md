@@ -1,8 +1,24 @@
 ---
-title: Brexit och nostalgin
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-06-24'
 link: https://kraulis.wordpress.com/2016/06/24/brexit-och-nostalgin/
 name: brexit-och-nostalgin
-date: 2016-06-24
+path: /2016/06/24/brexit-och-nostalgin/
+tags:
+- name: eu
+  value: EU
+- name: europa
+  value: Europa
+- name: progressiv
+  value: progressiv
+- name: reaktionar
+  value: "reaktion\xE4r"
+title: Brexit och nostalgin
+type: post
 ---
 Så har då Storbritannien valt att lämna EU. Därmed startar en utveckling med enbart negativ politisk dynamik. En olycka kommer sällan ensam.
 

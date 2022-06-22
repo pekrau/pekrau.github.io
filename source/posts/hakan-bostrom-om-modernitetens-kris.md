@@ -1,8 +1,28 @@
 ---
-title: Håkan Boström om modernitetens kris
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-01-09'
 link: https://kraulis.wordpress.com/2014/01/09/hakan-bostrom-om-modernitetens-kris/
 name: hakan-bostrom-om-modernitetens-kris
-date: 2014-01-09
+path: /2014/01/09/hakan-bostrom-om-modernitetens-kris/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: carl-schmitt
+  value: Carl Schmitt
+- name: hakan-bostrom
+  value: "H\xE5kan Bostr\xF6m"
+- name: isaiah-berlin
+  value: Isaiah Berlin
+- name: karl-popper
+  value: Karl Popper
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "H\xE5kan Bostr\xF6m om modernitetens kris"
+type: post
 ---
 Håkan Boström skriver på [Dagens Nyheters ledarsida 9 jan 2014](http://www.dn.se/ledare/signerat/modernitetens-omvandling-fornuftets-kris-blev-politikens/) om moderniteten och krisen i politiken. Hans resonemang är intressant, men det avslutas mycket illa. 
 

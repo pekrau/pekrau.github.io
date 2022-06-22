@@ -1,8 +1,22 @@
 ---
-title: Socialdemokraternas skamlöshet
+categories:
+- name: politik
+  value: Politik
+date: '2017-10-12'
 link: https://kraulis.wordpress.com/2017/10/12/socialdemokraternas-skamloshet/
 name: socialdemokraternas-skamloshet
-date: 2017-10-12
+path: /2017/10/12/socialdemokraternas-skamloshet/
+tags:
+- name: daniel-suhonen
+  value: Daniel Suhonen
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Socialdemokraternas skaml\xF6shet"
+type: post
 ---
 Det finns mer än ett sätt att bekämpa Sverigedemokraterna. Man kan, som det heter, stå upp mot dom, alltså hävda motsatt ståndpunkt i hopp om att de som röstar på SD kommer på bättre tankar.
 

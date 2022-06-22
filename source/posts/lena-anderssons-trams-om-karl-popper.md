@@ -1,8 +1,28 @@
 ---
-title: Lena Anderssons trams om Karl Popper
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+date: '2019-05-30'
 link: https://kraulis.wordpress.com/2019/05/30/lena-anderssons-trams-om-karl-popper/
 name: lena-anderssons-trams-om-karl-popper
-date: 2019-05-30
+path: /2019/05/30/lena-anderssons-trams-om-karl-popper/
+tags:
+- name: john-locke
+  value: John Locke
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: liberalism
+  value: liberalism
+- name: ludwig-wittgenstein
+  value: Ludwig Wittgenstein
+- name: platon
+  value: Platon
+title: Lena Anderssons trams om Karl Popper
+type: post
 ---
 Lena Andersson skriver en hel del om den liberale filosofen [Karl Popper](/posts/) i sin senaste bok "Om falsk och äkta liberalism". Tyvärr är ganska mycket av det trams. Jag kommer här att granska en del av de påståenden Andersson gör. Alla indragna citat är från Anderssons bok, om inget annat anges.
 

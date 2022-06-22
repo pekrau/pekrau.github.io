@@ -1,8 +1,24 @@
 ---
-title: 'Lena Andersson avslutar: Essensbegreppet är fruktbart'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-01-09'
 link: https://kraulis.wordpress.com/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/
 name: lena-andersson-avslutar-essensbegreppet-ar-fruktbart
-date: 2015-01-09
+path: /2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/
+tags:
+- name: essentialism
+  value: essentialism
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: postmodernism
+  value: postmodernism
+title: "Lena Andersson avslutar: Essensbegreppet \xE4r fruktbart"
+type: post
 ---
 *Följande text av Lena Andersson avslutar diskussionen och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.*
 

@@ -1,8 +1,26 @@
 ---
-title: 'Nike Markelius: Alla individer eller alla lika?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-02-09'
 link: https://kraulis.wordpress.com/2013/02/09/nike-markelius-alla-individer-eller-alla-lika/
 name: nike-markelius-alla-individer-eller-alla-lika
-date: 2013-02-09
+path: /2013/02/09/nike-markelius-alla-individer-eller-alla-lika/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: medelklass
+  value: medelklass
+- name: nike-markelius
+  value: Nike Markelius
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: 'Nike Markelius: Alla individer eller alla lika?'
+type: post
 ---
 [Nike Markelius berättelse om sin väg genom "Jobb- och utvecklingsgarantin"](http://www.dn.se/kultur-noje/debatt-essa/tonen-i-brevet-ar-hotfull-nu-ar-jag-kallad) i Dagens Nyheter 20 jan 2013 har givit upphov till flera kommentarer. Bland annat skriver [Ann Heberlein att "Alla har rätt att behandlas som individer"](http://www.dn.se/kultur-noje/debatt-essa/anna-heberlein-alla-har-ratt-att-behandlas-som-individer). Det låter vackert, men vad betyder det? Och stämmer det?
 

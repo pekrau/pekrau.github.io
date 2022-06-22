@@ -1,8 +1,26 @@
 ---
-title: Med Per Svensson som vän behöver liberalismen inga fiender
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-12-22'
 link: https://kraulis.wordpress.com/2016/12/22/med-per-svensson-som-van-behover-liberalismen-inga-fiender/
 name: med-per-svensson-som-van-behover-liberalismen-inga-fiender
-date: 2016-12-22
+path: /2016/12/22/med-per-svensson-som-van-behover-liberalismen-inga-fiender/
+tags:
+- name: anna-dahlberg
+  value: Anna Dahlberg
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: per-svensson
+  value: Per Svensson
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Med Per Svensson som v\xE4n beh\xF6ver liberalismen inga fiender"
+type: post
 ---
 Per Svensson skriver [ett inlägg 22 december 2016](http://www.dn.se/kultur-noje/kulturdebatt/per-svensson-friheten-mellan-skylla-och-karybdis/) i debatten om liberalismen på Dagens Nyheters Kultursida. Man skulle kunna tro att det är en satir på en kultursideartikel: En rubrik med "Skylla och Karybdis" (utan förankring i texten), därefter en text som inleder med en figur ur Fjodor Dostojevskijs roman ”Onda andar”. Fisförnämt skulle man kunna kalla det.
 

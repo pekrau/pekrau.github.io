@@ -1,8 +1,28 @@
 ---
-title: Roland Poirier Martinssons spegelbild av vänsterns trams om våld
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-05-11'
 link: https://kraulis.wordpress.com/2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/
 name: roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald
-date: 2014-05-11
+path: /2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/
+tags:
+- name: alexander-dugin
+  value: Alexander Dugin
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: extremvanster
+  value: "extremv\xE4nster"
+- name: nazism
+  value: nazism
+- name: roland-poirier-martinsson
+  value: Roland Poirier Martinsson
+- name: vald
+  value: "v\xE5ld"
+title: "Roland Poirier Martinssons spegelbild av v\xE4nsterns trams om v\xE5ld"
+type: post
 ---
 Jag hade tänkt låta bli att kommentera debatten om Uppdrag Gransknings skildring av det politiska våldet. Det finns redan, som tur är, vettiga kommentarer, till vilka jag räknar [Anna Dahlberg i Expressen 10 maj 2014](http://www.expressen.se/ledare/anna-dahlberg/vansterextremismen-maste-ut-i-kylan/), som med pedagogisk tydlighet reder ut argumenten.
 

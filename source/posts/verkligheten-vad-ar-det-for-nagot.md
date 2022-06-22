@@ -1,8 +1,16 @@
 ---
-title: Verkligheten? Vad är det för något?
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-09-07'
 link: https://kraulis.wordpress.com/2014/09/07/verkligheten-vad-ar-det-for-nagot/
 name: verkligheten-vad-ar-det-for-nagot
-date: 2014-09-07
+path: /2014/09/07/verkligheten-vad-ar-det-for-nagot/
+tags:
+- name: stefan-jonsson
+  value: Stefan Jonsson
+title: "Verkligheten? Vad \xE4r det f\xF6r n\xE5got?"
+type: post
 ---
 Att gnälla på bristande verklighetskontakt är kanske inte det mest originella man kan göra mitt i en valrörelse. Men efter att denna söndag ha stött på tre exempel av högst varierande sort, så hoppas jag det förlåts mig att jag reagerar:
 

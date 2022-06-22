@@ -1,8 +1,24 @@
 ---
-title: Kan liberaler förstå sverigedemokrater?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-02-01'
 link: https://kraulis.wordpress.com/2016/02/01/kan-liberaler-forsta-sverigedemokrater/
 name: kan-liberaler-forsta-sverigedemokrater
-date: 2016-02-01
+path: /2016/02/01/kan-liberaler-forsta-sverigedemokrater/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: liberalerna
+  value: Liberalerna
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Kan liberaler f\xF6rst\xE5 sverigedemokrater?"
+type: post
 ---
 **Ska politiker försöka förstå de människor man vill ha som väljare?**
 

@@ -1,8 +1,24 @@
 ---
-title: Lidande, kristendom, välgörenhet, välfärd
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-11-09'
 link: https://kraulis.wordpress.com/2014/11/09/lidande-kristendom-valgorenhet-valfard/
 name: lidande-kristendom-valgorenhet-valfard
-date: 2014-11-09
+path: /2014/11/09/lidande-kristendom-valgorenhet-valfard/
+tags:
+- name: kristendom
+  value: kristendom
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+- name: valgorenhet
+  value: "v\xE4lg\xF6renhet"
+title: "Lidande, kristendom, v\xE4lg\xF6renhet, v\xE4lf\xE4rd"
+type: post
 ---
 Kristendomen i allmänhet, och katolicismen i synnerhet, har ett mycket neurotiskt förhållande till lidandet som fenomen. Susanne Birgersson skriver på [Dagens Nyheters ledarsida 6 nov 2014](http://www.dn.se/ledare/signerat/susanna-birgersson-svenska-valfardsstaten-ett-hinder-for-medmansklighet/) om ett seminarium där den katolske teologen William T. Cavanaugh framträdde:
 

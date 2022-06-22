@@ -1,8 +1,20 @@
 ---
-title: 'Johannes Åman: Dubbelfel'
+categories:
+- name: politik
+  value: Politik
+date: '2013-02-04'
 link: https://kraulis.wordpress.com/2013/02/04/johannes-aman-dubbelfel/
 name: johannes-aman-dubbelfel
-date: 2013-02-04
+path: /2013/02/04/johannes-aman-dubbelfel/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Johannes \xC5man: Dubbelfel"
+type: post
 ---
 Johannes Åman begår dubbelt tankefel i Dagens Nyheter 4 feb 2013. I en notis (ej länkbar) skriver han om Stefan Fölsters artikel igår ([se min blogg](/posts/)):
 

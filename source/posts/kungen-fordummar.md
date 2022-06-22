@@ -1,8 +1,30 @@
 ---
-title: Kungen fördummar
+categories:
+- name: politik
+  value: Politik
+date: '2016-06-06'
 link: https://kraulis.wordpress.com/2016/06/06/kungen-fordummar/
 name: kungen-fordummar
-date: 2016-06-06
+path: /2016/06/06/kungen-fordummar/
+tags:
+- name: bjorn-wiman
+  value: "Bj\xF6rn Wiman"
+- name: henrik-s-jarrel
+  value: "Henrik S J\xE4rrel"
+- name: lotta-edholm
+  value: Lotta Edholm
+- name: maria-schottenius
+  value: Maria Schottenius
+- name: monarki
+  value: monarki
+- name: nobel-center
+  value: Nobel Center
+- name: pj-anders-linder
+  value: PJ Anders Linder
+- name: rasmus-jonlund
+  value: Rasmus Jonlund
+title: "Kungen f\xF6rdummar"
+type: post
 ---
 Frågan om monarki eller republik är en ickefråga. Med den ordning vi sedan länge har haft i Sverige så spelar det ingen roll. Så tycker många, tidigare även jag. Det gör jag inte längre. Anledningen är inte främst att kungen nyligen flagrant bröt mot [Torekovskompromissen](https://sv.wikipedia.org/wiki/Torekovskompromissen) när han pladdrade om det planerade [Nobel Center](http://www.nobelcenter.se/). Nej, det finns ett värre problem. Det är att kungen tycks kunna få annars vettiga människor att använda riktigt usla argument. Han verkar fördummande.
 

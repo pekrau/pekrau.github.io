@@ -1,8 +1,22 @@
 ---
-title: Daniel Harding levererar igen
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-02-22'
 link: https://kraulis.wordpress.com/2013/02/22/daniel-harding-levererar-igen/
 name: daniel-harding-levererar-igen
-date: 2013-02-22
+path: /2013/02/22/daniel-harding-levererar-igen/
+tags:
+- name: daniel-harding
+  value: Daniel Harding
+- name: radiosymfonikerna
+  value: Radiosymfonikerna
+- name: richard-strauss
+  value: Richard Strauss
+- name: thomas-ades
+  value: "Thomas Ad\xE8s"
+title: Daniel Harding levererar igen
+type: post
 ---
 Daniel Harding levererade återigen en musikalisk fullträff den 22 feb 2013 i [Berwaldhallen](http://sverigesradio.se/sida/berwald.aspx). Sveriges Radios Symfoniorkester spelade under hans ledning [Asyla](http://thomasades.com/compositions/asyla) av [Thomas Adès](http://en.wikipedia.org/wiki/Thomas_Ad%C3%A8s) och [Ein Heldenleben](http://en.wikipedia.org/wiki/A_Hero's_Life) av [Richard Strauss](http://en.wikipedia.org/wiki/Richard_Strauss).
 

@@ -1,8 +1,16 @@
 ---
-title: Stockholm som vackert lik
+categories:
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-03-10'
 link: https://kraulis.wordpress.com/2013/03/10/stockholm-som-vackert-lik/
 name: stockholm-som-vackert-lik
-date: 2013-03-10
+path: /2013/03/10/stockholm-som-vackert-lik/
+tags:
+- name: stockholm
+  value: Stockholm
+title: Stockholm som vackert lik
+type: post
 ---
 Det finns debattinlägg som argumenterar på ett sådant sätt att det blir smärtsamt tydligt att debattören har i grunden fel. Ett slags anti-inlägg. Ett exempel fick vi i Dagens Nyheter 9 mars 2013 när [Thorbjörn Andersson skriver om Stockholm utveckling](http://www.dn.se/debatt/stockholmsdebatt/det-finns-en-smartgrans-for-tillvaxten-i-stockholm). Eller snarare, det stopp för utvecklingen som han vill se:
 

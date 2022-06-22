@@ -1,8 +1,18 @@
 ---
-title: Tror vi på Nybyggarkommissionen?
+categories:
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-08-25'
 link: https://kraulis.wordpress.com/2013/08/25/tror-vi-pa-nybyggarkommissionen/
 name: tror-vi-pa-nybyggarkommissionen
-date: 2013-08-25
+path: /2013/08/25/tror-vi-pa-nybyggarkommissionen/
+tags:
+- name: stockholm
+  value: Stockholm
+title: "Tror vi p\xE5 Nybyggarkommissionen?"
+type: post
 ---
 I Olle Wästbergs nyhetsbrev augusti 2013 (publiceras väl [här](http://www.wastberg.se/tidigarenyhetsbrev.php) så småningom) läser jag att han är en av tre personer i den nybildade [Nybyggarkommissionen](http://nybyggarkommissionen.se/om-nybyggarkommissionen/):
 

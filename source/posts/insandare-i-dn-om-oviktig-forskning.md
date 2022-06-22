@@ -1,8 +1,13 @@
 ---
-title: Insändare i DN om oviktig forskning
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-01-08'
 link: https://kraulis.wordpress.com/2014/01/08/insandare-i-dn-om-oviktig-forskning/
 name: insandare-i-dn-om-oviktig-forskning
-date: 2014-01-08
+path: /2014/01/08/insandare-i-dn-om-oviktig-forskning/
+title: "Ins\xE4ndare i DN om oviktig forskning"
+type: post
 ---
 En insändare i Dagens Nyheter 21 december 2013 löd sålunda:
 

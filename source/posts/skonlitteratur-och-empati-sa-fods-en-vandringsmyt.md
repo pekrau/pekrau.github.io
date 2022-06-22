@@ -1,8 +1,28 @@
 ---
-title: 'Skönlitteratur och empati: Så föds en vandringsmyt'
+categories:
+- name: kultur
+  value: Kultur
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-10-13'
 link: https://kraulis.wordpress.com/2013/10/13/skonlitteratur-och-empati-sa-fods-en-vandringsmyt/
 name: skonlitteratur-och-empati-sa-fods-en-vandringsmyt
-date: 2013-10-13
+path: /2013/10/13/skonlitteratur-och-empati-sa-fods-en-vandringsmyt/
+tags:
+- name: bjorn-wiman
+  value: "Bj\xF6rn Wiman"
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: etik
+  value: etik
+- name: science
+  value: Science
+- name: skonlitteratur
+  value: "sk\xF6nlitteratur"
+- name: steven-pinker
+  value: Steven Pinker
+title: "Sk\xF6nlitteratur och empati: S\xE5 f\xF6ds en vandringsmyt"
+type: post
 ---
 I Björn Wimans krönika i [Dagens Nyheter 13 okt 2013](http://www.dn.se/kultur-noje/kronikor/bjorn-wiman-vad-hade-hant-om-nobelpristagaren-skrivit-datorspel/) ser vi i realtid hur en vandringsmyt föds:
 

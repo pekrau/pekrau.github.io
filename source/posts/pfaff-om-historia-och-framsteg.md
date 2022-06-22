@@ -1,8 +1,20 @@
 ---
-title: Pfaff om historia och framsteg
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-01-06'
 link: https://kraulis.wordpress.com/2013/01/06/pfaff-om-historia-och-framsteg/
 name: pfaff-om-historia-och-framsteg
-date: 2013-01-06
+path: /2013/01/06/pfaff-om-historia-och-framsteg/
+tags:
+- name: historia
+  value: historia
+- name: upplysningen
+  value: Upplysningen
+- name: william-pfaff
+  value: William Pfaff
+title: Pfaff om historia och framsteg
+type: post
 ---
 Ibland kan betraktelser över historiens gång spåra ur helt. I [The New York Review of Books (NYRB) 6 Dec 2012](http://www.nybooks.com/issues/2012/dec/06/) skriver William Pfaff om Norman Davies bok **Vanished Kingdoms: The Rise and Fall of States and Nations**, varvid han lyckas begå ett tankefel så grundläggande att man baxnar.
 

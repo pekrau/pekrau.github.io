@@ -1,8 +1,26 @@
 ---
-title: Lidija Praizovic faller i den egna gropen
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-04-05'
 link: https://kraulis.wordpress.com/2014/04/05/lidija-praizovic-faller-i-den-egna-gropen/
 name: lidija-praizovic-faller-i-den-egna-gropen
-date: 2014-04-05
+path: /2014/04/05/lidija-praizovic-faller-i-den-egna-gropen/
+tags:
+- name: asa-linderborg
+  value: "\xC5sa Linderborg"
+- name: lidija-praizovic
+  value: Lidija Praizovic
+- name: medelklass
+  value: medelklass
+- name: rasism
+  value: rasism
+- name: representativitet
+  value: representativitet
+title: Lidija Praizovic faller i den egna gropen
+type: post
 ---
 Skadeglädje är inte den noblaste av känslor, men ibland får man väl gotta sig? Lidija Praizovic, skribent på Aftonbladets kultursida, skriver [4 april 2014 om Yahya Hassans diktsamling](http://www.aftonbladet.se/kultur/article18663166.ab):
 

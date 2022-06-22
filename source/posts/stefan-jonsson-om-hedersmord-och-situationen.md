@@ -1,8 +1,24 @@
 ---
-title: Stefan Jonsson om hedersmord och "situationen"
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-08-13'
 link: https://kraulis.wordpress.com/2013/08/13/stefan-jonsson-om-hedersmord-och-situationen/
 name: stefan-jonsson-om-hedersmord-och-situationen
-date: 2013-08-13
+path: /2013/08/13/stefan-jonsson-om-hedersmord-och-situationen/
+tags:
+- name: postkolonialism
+  value: postkolonialism
+- name: postmodernism
+  value: postmodernism
+- name: rasism
+  value: rasism
+- name: stefan-jonsson
+  value: Stefan Jonsson
+title: Stefan Jonsson om hedersmord och "situationen"
+type: post
 ---
 Kan någon hjälpa mig att reda ut vad Stefan Jonsson egentligen menar i sitt inlägg på DN Kultur [12 augusti 2013](http://www.dn.se/kultur-noje/kulturdebatt/fadime-fortjanar-skickligare-forsvarare/)? Han jämför "svenskt" våld (Stefan Jonssons citat-tecken) i form av hustrumisshandel med en "kurdisk-svensk far" som slår ihjäl sin dotter:
 

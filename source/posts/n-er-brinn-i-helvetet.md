@@ -1,8 +1,24 @@
 ---
-title: N-*-er, brinn i helvetet!
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-12-22'
 link: https://kraulis.wordpress.com/2013/12/22/n-er-brinn-i-helvetet/
 name: n-er-brinn-i-helvetet
-date: 2013-12-22
+path: /2013/12/22/n-er-brinn-i-helvetet/
+tags:
+- name: homosexuella
+  value: homosexuella
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+- name: moral
+  value: moral
+- name: uganda
+  value: Uganda
+title: N-*-er, brinn i helvetet!
+type: post
 ---
 **Rasism och homofobi är samma andas barn.** Detta inläggs rubrik är en provokation som visar just detta: Byt ut ordet n-ordet mot "bög", så blir resultatet den lapp som enligt [Huffington Post 20 dec 2013](http://www.huffingtonpost.com/ariel-wengroff/still-standing-communitie_b_4481967.html) sattes upp nyligen på en dörr till ett LGBT-center i Kampala, Uganda.id="attachment_2205" align="alignleft" width="224"][![No haven for faggots. Kampala, Uganda, 2013-12-20.](/files/no-haven-4-faggots-uganda_2013-12-20.jpg)](/posts/no-haven-4-faggots-uganda_2013-12-20.jpg) No haven for faggots. Kampala, Uganda, 2013-12-20.
 

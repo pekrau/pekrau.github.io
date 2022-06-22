@@ -1,8 +1,18 @@
 ---
-title: Murvlarnas usla argument
+categories:
+- name: politik
+  value: Politik
+date: '2016-10-19'
 link: https://kraulis.wordpress.com/2016/10/19/murvlarnas-usla-argument/
 name: murvlarnas-usla-argument
-date: 2016-10-19
+path: /2016/10/19/murvlarnas-usla-argument/
+tags:
+- name: skatt
+  value: skatt
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: Murvlarnas usla argument
+type: post
 ---
 Särintressets makt är stor. Den får bland annat företrädarna för särintresset att använda de uslaste argument, antingen därför att de själva inte fattar hur usla de är, eller därför att de helt enkelt tror att de kan komma undan med det.
 

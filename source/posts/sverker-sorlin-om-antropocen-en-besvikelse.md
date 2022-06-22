@@ -1,8 +1,20 @@
 ---
-title: 'Sverker Sörlin om antropocen: en besvikelse'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-07-10'
 link: https://kraulis.wordpress.com/2017/07/10/sverker-sorlin-om-antropocen-en-besvikelse/
 name: sverker-sorlin-om-antropocen-en-besvikelse
-date: 2017-07-10
+path: /2017/07/10/sverker-sorlin-om-antropocen-en-besvikelse/
+tags:
+- name: antropocen
+  value: antropocen
+- name: miljopolitik
+  value: "milj\xF6politik"
+title: "Sverker S\xF6rlin om antropocen: en besvikelse"
+type: post
 ---
 Sverker Sörlin, professor i miljöhistoria vid KTH, har skrivit boken "Antropocen. En essä om människans tidsålder". Den är en besvikelse. Titeln är vilseledande. Boken har inte fokus på [antropocen](https://sv.wikipedia.org/wiki/Antropocen) som fenomen, utan snarare på idéhistorien för begreppet antropocen, vilket är något annat. Idéhistoria kan förvisso vara mycket intressant, men det är inte vad som förutskickas i de marknadsförande texterna på bokens omslag.
 

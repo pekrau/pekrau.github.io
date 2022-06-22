@@ -1,8 +1,20 @@
 ---
-title: 'Jonathan Nott: Mahlers tredje symfoni'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-11-08'
 link: https://kraulis.wordpress.com/2013/11/08/jonathan-nott-mahlers-tredje-symfoni/
 name: jonathan-nott-mahlers-tredje-symfoni
-date: 2013-11-08
+path: /2013/11/08/jonathan-nott-mahlers-tredje-symfoni/
+tags:
+- name: gustav-mahler
+  value: Gustav Mahler
+- name: jonathan-nott
+  value: Jonathan Nott
+- name: radiosymfonikerna
+  value: Radiosymfonikerna
+title: 'Jonathan Nott: Mahlers tredje symfoni'
+type: post
 ---
 Sveriges Radios Symfoniorkester spelade 8 november 2013 [Gustav Mahlers](http://sv.wikipedia.org/wiki/Gustav_Mahler) tredje symfoni  under ledning av [Jonathan Nott](http://en.wikipedia.org/wiki/Jonathan_Nott). Ett framförande präglat av säkerhet, tydliga linjer och träffsäkra tempoval.
 

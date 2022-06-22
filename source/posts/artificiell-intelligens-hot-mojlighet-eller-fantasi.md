@@ -1,8 +1,20 @@
 ---
-title: 'Artificiell intelligens: hot, möjlighet eller fantasi?'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-07-07'
 link: https://kraulis.wordpress.com/2014/07/07/artificiell-intelligens-hot-mojlighet-eller-fantasi/
 name: artificiell-intelligens-hot-mojlighet-eller-fantasi
-date: 2014-07-07
+path: /2014/07/07/artificiell-intelligens-hot-mojlighet-eller-fantasi/
+tags:
+- name: artifical-intelligence
+  value: Artifical Intelligence
+- name: olle-haggstrom
+  value: "Olle H\xE4ggstr\xF6m"
+title: "Artificiell intelligens: hot, m\xF6jlighet eller fantasi?"
+type: post
 ---
 Låt mig börja detta inlägg om artificiell intelligens (AI) med fyra påståenden:
 

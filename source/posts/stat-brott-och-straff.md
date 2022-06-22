@@ -1,8 +1,20 @@
 ---
-title: Stat, brott och straff
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-06-13'
 link: https://kraulis.wordpress.com/2018/06/13/stat-brott-och-straff/
 name: stat-brott-och-straff
-date: 2018-06-13
+path: /2018/06/13/stat-brott-och-straff/
+tags:
+- name: kriminalitet
+  value: kriminalitet
+- name: thomas-hobbes
+  value: Thomas Hobbes
+title: Stat, brott och straff
+type: post
 ---
 Brott och straff är en het politisk fråga. Det är kontroversiellt vad brottslingens straff egentligen ska syfta till. Handlar det om hämnd? Eller är straffets funktion istället att återanpassa brottslingen? Eller finns det andra syften? Två sinsemellan mycket olika ledarartiklar illustrerar dessa skillnader, men båda missar intressant nog en central aspekt av vad straff handlar om.
 

@@ -1,8 +1,18 @@
 ---
-title: 'Berlin: vidsträckt stad'
+categories:
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2012-10-18'
 link: https://kraulis.wordpress.com/2012/10/18/berlin-vidstrackt-stad/
 name: berlin-vidstrackt-stad
-date: 2012-10-18
+path: /2012/10/18/berlin-vidstrackt-stad/
+tags:
+- name: berlin
+  value: Berlin
+- name: stockholm
+  value: Stockholm
+title: "Berlin: vidstr\xE4ckt stad"
+type: post
 ---
 Det är två aspekter av Berlin som jag som stockholmare fäster mig vid. För det första: staden är vidsträckt. Gatorna är bredare, det finns en hel del obebyggda ytor, och esplanaderna är bredare. För det andra: den är mer blandad.
 

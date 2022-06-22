@@ -1,8 +1,10 @@
 ---
-title: Ryssland
+date: '2014-05-04'
 link: https://kraulis.wordpress.com/svenska-debatten-om-ryssland/
 name: svenska-debatten-om-ryssland
-date: 2014-05-04
+path: /svenska-debatten-om-ryssland/
+title: Ryssland
+type: page
 ---
 Här samlar jag länkar till inlägg i den svenska debatten om utvecklingen i Putins Ryssland och händelserna i Ukraina. Fokus ligger på tolkningar av skeendena på det politiska och samhälleliga planet, rena nyhetsartiklar tas med endast i särskilda fall. Notera att artiklarna listas i omvänd tidsordning.
 

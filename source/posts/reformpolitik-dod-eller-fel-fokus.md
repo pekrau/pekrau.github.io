@@ -1,8 +1,40 @@
 ---
-title: 'Reformpolitik: död eller fel fokus?'
+categories:
+- name: politik
+  value: Politik
+date: '2015-03-12'
 link: https://kraulis.wordpress.com/2015/03/12/reformpolitik-dod-eller-fel-fokus/
 name: reformpolitik-dod-eller-fel-fokus
-date: 2015-03-12
+path: /2015/03/12/reformpolitik-dod-eller-fel-fokus/
+tags:
+- name: alliansen
+  value: Alliansen
+- name: folkpartiet
+  value: Folkpartiet
+- name: goran-persson
+  value: "G\xF6ran Persson"
+- name: jan-bjorklund
+  value: "Jan Bj\xF6rklund"
+- name: karl-popper
+  value: Karl Popper
+- name: lars-gustafsson
+  value: Lars Gustafsson
+- name: liberalerna
+  value: Liberalerna
+- name: marie-demker
+  value: Marie Demker
+- name: problemformuleringsprivilegiet
+  value: problemformuleringsprivilegiet
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: underklass
+  value: underklass
+title: "Reformpolitik: d\xF6d eller fel fokus?"
+type: post
 ---
 Marie Demker, statsvetare i Göteborg, har skrivit [ett blogginlägg 1 mars 2015](https://vanstrastranden.wordpress.com/2015/03/01/ar-tiden-for-politiska-reformer-for-alltid-forbi/) med titeln "Är tiden för politiska reformer för alltid förbi?". Hennes analys illustrerar bland annat hur ingrodd föreställningen om socialdemokratins primat i svensk politik är. Hon skriver:
 

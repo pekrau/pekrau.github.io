@@ -17,6 +17,30 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 </h1>
 {% endblock%}
 
+{% block main %}
+<div class="row">
+  <section class="col-lg-4 offset-lg-1">
+  </section>
+  <section class="col-lg-4">
+  </section>
+  <section class="col-lg-3">
+    <div class="card">
+      <div class="card-header">
+        Ämnen
+      </div>
+      <ul class="list-group list-group-flush">
+        {% for category in categories %}
+        <li class="list-group-item">{{ category["value"] }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
+{% endblock %}
+
 {% block footer %}
 <small>Updated {{ updated }}</small>
 {% endblock%}
+
+{% block javascript %}
+{% endblock %}

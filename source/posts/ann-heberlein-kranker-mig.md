@@ -1,8 +1,22 @@
 ---
-title: Ann Heberlein kränker mig
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-01-12'
 link: https://kraulis.wordpress.com/2015/01/12/ann-heberlein-kranker-mig/
 name: ann-heberlein-kranker-mig
-date: 2015-01-12
+path: /2015/01/12/ann-heberlein-kranker-mig/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: "Ann Heberlein kr\xE4nker mig"
+type: post
 ---
 I [Dagens Nyheter 12 jan 2015](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-det-ar-knappast-bara-troende-som-ar-lattkrankta/) försöker Ann Heberlein tolka åsikterna hos de som med #JeSuisCharlie protesterade mot våldet som dödade 17 människor:
 

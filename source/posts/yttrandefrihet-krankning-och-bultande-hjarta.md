@@ -1,8 +1,22 @@
 ---
-title: Yttrandefrihet, kränkning och bultande hjärta
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-01-14'
 link: https://kraulis.wordpress.com/2015/01/14/yttrandefrihet-krankning-och-bultande-hjarta/
 name: yttrandefrihet-krankning-och-bultande-hjarta
-date: 2015-01-14
+path: /2015/01/14/yttrandefrihet-krankning-och-bultande-hjarta/
+tags:
+- name: theodor-kallifatides
+  value: Theodor Kallifatides
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: "Yttrandefrihet, kr\xE4nkning och bultande hj\xE4rta"
+type: post
 ---
 Debatten kring #JeSuisCharlie går vidare. Det är intressant, och deprimerande, hur snabbt fokus kan skiftas över från mord, terrorism och förtryck till kränkthet. Stort nummer görs av hur skadliga skriftliga och verbala kränkningar skulle vara. Argumenten slirar iväg mot att sådana kränkningar är att jämföra med våldsdåd. [Theodor Kallifatides skriver i Dagens Nyheter 14 jan 2014](http://www.dn.se/arkiv/kultur/ingen-har-ratten-att-kranka):
 

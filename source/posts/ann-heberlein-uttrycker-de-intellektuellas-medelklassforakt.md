@@ -1,8 +1,26 @@
 ---
-title: Ann Heberlein uttrycker de intellektuellas medelklassförakt
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-29'
 link: https://kraulis.wordpress.com/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/
 name: ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt
-date: 2013-11-29
+path: /2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: medelklass
+  value: medelklass
+- name: moral
+  value: moral
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Ann Heberlein uttrycker de intellektuellas medelklassf\xF6rakt"
+type: post
 ---
 Ann Heberlein [(DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) har problem med det öppna brev Borzoo Tavakoli ställer till SD:s Kent Ekeroth [(DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). **Hennes läsning av Tavakolis artikel är så skev att det blir intressant:**
 

@@ -1,8 +1,22 @@
 ---
-title: Att granska påven kritiskt
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-01-27'
 link: https://kraulis.wordpress.com/2016/01/27/att-granska-paven-kritiskt/
 name: att-granska-paven-kritiskt
-date: 2016-01-27
+path: /2016/01/27/att-granska-paven-kritiskt/
+tags:
+- name: katolska-kyrkan
+  value: katolska kyrkan
+- name: paven
+  value: "p\xE5ven"
+- name: upplysningen
+  value: Upplysningen
+title: "Att granska p\xE5ven kritiskt"
+type: post
 ---
 Jag fick en intressant reaktion på mitt senaste inlägg ["När påven kommer på tal tar det kritiska sinnelaget paus"](/posts/). En av mina läsare svarade och sade att påven Franciskus gör vad han kan för att vända en motsträvig katolsk kyrka. Som belägg bifogade läsaren länkar till ett antal artiklar.
 

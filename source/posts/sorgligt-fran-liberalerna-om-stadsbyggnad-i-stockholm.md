@@ -1,8 +1,20 @@
 ---
-title: Sorgligt från Liberalerna om stadsbyggnad i Stockholm
+categories:
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2017-12-26'
 link: https://kraulis.wordpress.com/2017/12/26/sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm/
 name: sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm
-date: 2017-12-26
+path: /2017/12/26/sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm/
+tags:
+- name: liberalerna
+  value: Liberalerna
+- name: stockholm
+  value: Stockholm
+title: "Sorgligt fr\xE5n Liberalerna om stadsbyggnad i Stockholm"
+type: post
 ---
 Liberalerna i Stockholms stad skriver en debattartikel om stadsbyggnad (Lotta Edholm och Björn Ljung, [Svenska Dagbladet 26 december 2017](https://www.svd.se/ta-principbeslut-kring-stockholms-arkitektur)). Det är inte oväntat, men ändå sorgligt, att se hur man fullföljer sin trista linje. Partiets stadsbyggnadspolitik kan beskrivas så här:
 

@@ -1,8 +1,22 @@
 ---
-title: Erik Helmersons skjortor och argument
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-11-09'
 link: https://kraulis.wordpress.com/2015/11/09/erik-helmersons-skjortor-och-argument/
 name: erik-helmersons-skjortor-och-argument
-date: 2015-11-09
+path: /2015/11/09/erik-helmersons-skjortor-och-argument/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+- name: liberalism
+  value: liberalism
+title: Erik Helmersons skjortor och argument
+type: post
 ---
 Erik Helmerson, ledarskribent på Dagens Nyheter, skriver [8 november 2015](http://www.dn.se/ledare/signerat/erik-helmerson-nar-verkligheten-forandras-maste-politiken-folja-efter/) fyndigt om konsten att byta skjortor och argument. Dessvärre bygger det på falska argument.
 

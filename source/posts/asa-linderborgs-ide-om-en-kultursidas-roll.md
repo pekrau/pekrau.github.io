@@ -1,8 +1,18 @@
 ---
-title: Åsa Linderborgs idé om en kultursidas roll
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-03-28'
 link: https://kraulis.wordpress.com/2013/03/28/asa-linderborgs-ide-om-en-kultursidas-roll/
 name: asa-linderborgs-ide-om-en-kultursidas-roll
-date: 2013-03-28
+path: /2013/03/28/asa-linderborgs-ide-om-en-kultursidas-roll/
+tags:
+- name: asa-linderborg
+  value: "\xC5sa Linderborg"
+title: "\xC5sa Linderborgs id\xE9 om en kultursidas roll"
+type: post
 ---
 Bland det helt väntade skallet mot [Jasenko Selimovics svar](http://www.dn.se/kultur-noje/debatt-essa/jonas-min-van) till Jonas Hassen Khemiri (Dagens Nyheter 27 mars 2013) lyckas [Åsa Linderborg](http://www.aftonbladet.se/kultur/article16496916.ab) hitta en annorlunda vinkel i Aftonbladet 27 mars 2013:
 

@@ -1,8 +1,20 @@
 ---
-title: Abisko 2016
+categories:
+- name: uncategorized
+  value: Uncategorized
+date: '2016-09-21'
 link: https://kraulis.wordpress.com/2016/09/21/abisko-2016/
 name: abisko-2016
-date: 2016-09-21
+path: /2016/09/21/abisko-2016/
+tags:
+- name: abisko
+  value: Abisko
+- name: fjallen
+  value: "fj\xE4llen"
+- name: vandring
+  value: vandring
+title: Abisko 2016
+type: post
 ---
 Jag fjällvandrade i Abiskofjällen i augusti 2016. Det blev sex dagar med osannolikt bra väder, och ett återseende av några av mina absoluta favoritplatser i fjällen. Jag hoppas det framgår av den video jag klippt ihop.
 

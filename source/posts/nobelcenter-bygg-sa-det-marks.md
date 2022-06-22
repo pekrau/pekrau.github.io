@@ -1,8 +1,20 @@
 ---
-title: 'NobelCenter: Bygg så det märks!'
+categories:
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2014-04-13'
 link: https://kraulis.wordpress.com/2014/04/13/nobelcenter-bygg-sa-det-marks/
 name: nobelcenter-bygg-sa-det-marks
-date: 2014-04-13
+path: /2014/04/13/nobelcenter-bygg-sa-det-marks/
+tags:
+- name: blasieholmen
+  value: Blasieholmen
+- name: konservatism
+  value: konservatism
+- name: nobel-center
+  value: Nobel Center
+title: "NobelCenter: Bygg s\xE5 det m\xE4rks!"
+type: post
 ---
 Förslaget till[ NobelCenter](http://www.nobelcenter.se/sv/) på Blasieholmen har presenterats (pressmeddelandet [finns här](http://www.nobelcenter.se/sv/press/), några bilder [finns här](http://www.nobelcenter.se/sv/press/images/)). I korta drag: en hög, närmast kubisk byggnad, med mycket glas och fasad i mässingsfärg.
 

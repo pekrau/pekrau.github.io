@@ -1,8 +1,22 @@
 ---
-title: 'Eva Franchell: Partiet, en olycklig kärlekshistoria'
+categories:
+- name: politik
+  value: Politik
+date: '2013-02-27'
 link: https://kraulis.wordpress.com/2013/02/27/eva-franchell-partiet-en-olycklig-karlekshistoria/
 name: eva-franchell-partiet-en-olycklig-karlekshistoria
-date: 2013-02-27
+path: /2013/02/27/eva-franchell-partiet-en-olycklig-karlekshistoria/
+tags:
+- name: bok
+  value: bok
+- name: medelklass
+  value: medelklass
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Eva Franchell: Partiet, en olycklig k\xE4rlekshistoria"
+type: post
 ---
 Eva Franchell, journalist, ledarskribent på Aftonbladet och en gång pressekreterare hos Anna Lindh, har skrivit en politisk memoar, en berättelse om sitt liv i relation till Partiet, det vill säga det socialdemokratiska. **En innehållsrik och underbart lättläst text som berättar om Socialdemokraternas utveckling.**
 

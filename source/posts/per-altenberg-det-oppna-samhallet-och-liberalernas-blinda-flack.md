@@ -1,8 +1,28 @@
 ---
-title: Per Altenberg, det öppna samhället och liberalernas blinda fläck
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-07-29'
 link: https://kraulis.wordpress.com/2016/07/29/per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack/
 name: per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack
-date: 2016-07-29
+path: /2016/07/29/per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack/
+tags:
+- name: oppna-samhallet
+  value: "\xF6ppna samh\xE4llet"
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: per-altenberg
+  value: Per Altenberg
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+title: "Per Altenberg, det \xF6ppna samh\xE4llet och liberalernas blinda fl\xE4ck"
+type: post
 ---
 Per Altenberg skriver en intressant artikel ["Dags att inse faktum: Striden står inte mellan höger och vänster"](http://www.liberaldebatt.se/2016/07/dags-att-inse-faktum-striden-star-inte-mellan-hoger-och-vanster/) i Liberal Debatt 3/2016. Det ligger mycket i hans resonemang, men där finns en blind fläck som leder till en politiskt impotent slutsats. Låt mig förklara.
 

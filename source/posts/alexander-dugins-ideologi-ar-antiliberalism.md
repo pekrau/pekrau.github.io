@@ -1,8 +1,40 @@
 ---
-title: Alexander Dugins ideologi är antiliberalism
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-02-05'
 link: https://kraulis.wordpress.com/2017/02/05/alexander-dugins-ideologi-ar-antiliberalism/
 name: alexander-dugins-ideologi-ar-antiliberalism
-date: 2017-02-05
+path: /2017/02/05/alexander-dugins-ideologi-ar-antiliberalism/
+tags:
+- name: 4pt
+  value: 4PT
+- name: alexander-dugin
+  value: Alexander Dugin
+- name: antiliberalism
+  value: antiliberalism
+- name: bok
+  value: bok
+- name: carl-schmitt
+  value: Carl Schmitt
+- name: julius-evola
+  value: Julius Evola
+- name: kommunism
+  value: kommunism
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: michel-foucault
+  value: Michel Foucault
+- name: nazism
+  value: nazism
+- name: ryssland
+  value: Ryssland
+title: "Alexander Dugins ideologi \xE4r antiliberalism"
+type: post
 ---
 Alexander Dugin intervjuas i [Dagens Nyheter 4 februari 2017](http://mobil.dn.se/nyheter/varlden/med-trump-vid-makten-ar-ryssland-inte-langre-ett-offer/) av Dagens Nyheters Michael Winiarski. Dugin är en rysk ideolog, intellektuell, aktivist, rådgivare åt makthavare i Kreml och global nätverksbyggare med olika högerextrema rörelser. Han har ett projekt. Han vill utarbeta den så kallade **fjärde politiska teorin**, eller **4PT** som han förkortar den, vilket kan verka litet komiskt. Men det är det inte. **Det handlar nämligen om en ny variant av fascism.** Den skiljer sig från den gamla fascismen främst därigenom att den inte har så värst mycket av egna ideal. Det handlar inte om att den är för något, snarare är den mot. Det är liberalismen som är dess allt överskuggande fiende.
 

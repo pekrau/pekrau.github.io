@@ -1,8 +1,52 @@
 ---
-title: Jodå, Sverigedemokraterna är nyfascister
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-12-12'
 link: https://kraulis.wordpress.com/2014/12/12/joda-sverigedemokraterna-ar-nyfascister/
 name: joda-sverigedemokraterna-ar-nyfascister
-date: 2014-12-12
+path: /2014/12/12/joda-sverigedemokraterna-ar-nyfascister/
+tags:
+- name: adolf-hitler
+  value: Adolf Hitler
+- name: anders-behring-breivik
+  value: Anders Behring Breivik
+- name: benito-mussolini
+  value: Benito Mussolini
+- name: dick-harrison
+  value: Dick Harrison
+- name: front-national
+  value: Front National
+- name: gustav-kasselstrand
+  value: Gustav Kasselstrand
+- name: hakan-holmberg
+  value: "H\xE5kan Holmberg"
+- name: jan-fleischhauer
+  value: Jan Fleischhauer
+- name: jimmie-akesson
+  value: "Jimmie \xC5kesson"
+- name: karl-popper
+  value: Karl Popper
+- name: marine-le-pen
+  value: Marine Le Pen
+- name: nyfascism
+  value: nyfascism
+- name: per-svensson
+  value: Per Svensson
+- name: ryssland
+  value: Ryssland
+- name: susanna-birgersson
+  value: Susanna Birgersson
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: sverigedemokratisk-ungdom
+  value: Sverigedemokratisk Ungdom
+- name: vladimir-putin
+  value: Vladimir Putin
+title: "Jod\xE5, Sverigedemokraterna \xE4r nyfascister"
+type: post
 ---
 Veckans diskussionsämne är givet: **Är Sverigedemokraterna att betrakta som nyfascister eller inte?** Låt mig granska några av argumenten och ståndpunkterna.
 

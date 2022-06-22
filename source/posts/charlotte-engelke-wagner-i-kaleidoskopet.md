@@ -1,8 +1,16 @@
 ---
-title: 'Charlotte Engelkes: Wagner i kaleidoskopet'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-03-02'
 link: https://kraulis.wordpress.com/2013/03/02/charlotte-engelke-wagner-i-kaleidoskopet/
 name: charlotte-engelke-wagner-i-kaleidoskopet
-date: 2013-03-02
+path: /2013/03/02/charlotte-engelke-wagner-i-kaleidoskopet/
+tags:
+- name: richard-wagner
+  value: Richard Wagner
+title: 'Charlotte Engelkes: Wagner i kaleidoskopet'
+type: post
 ---
 Charlotte Engelkes föreställning [Very Wagnerian Night](http://www.operan.se/Var-repertoar/201213/The-Very-Ring/) på Stockholmsoperan 1 mars 2013 var som ett kaleidoskop av fragment ur Richard Wagners operaverk. Engelkes performance blandar sång, dans, konst, installation, stand-up och mer därtill. Bitvis hysteriskt roligt, ibland eftertänksamt.
 

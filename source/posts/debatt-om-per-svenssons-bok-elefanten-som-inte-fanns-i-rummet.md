@@ -1,8 +1,34 @@
 ---
-title: 'Debatt om Per Svenssons bok: Elefanten som inte fanns i rummet'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-03-18'
 link: https://kraulis.wordpress.com/2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/
 name: debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet
-date: 2014-03-18
+path: /2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/
+tags:
+- name: bok
+  value: bok
+- name: folkpartiet
+  value: Folkpartiet
+- name: historia
+  value: historia
+- name: integritet
+  value: integritet
+- name: karl-popper
+  value: Karl Popper
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+- name: per-svensson
+  value: Per Svensson
+- name: utveckling
+  value: utveckling
+title: 'Debatt om Per Svenssons bok: Elefanten som inte fanns i rummet'
+type: post
 ---
 Den debatt som [Liberal Debatt](http://www.liberaldebatt.se/) anordnade i Stockholm 18 mars 2014 om [Per Svenssons nyutkomna bok](/posts/) tydliggjorde alltför väl dess stora brist: **Att inget stort aktuellt samhällsproblem diskuteras i den.**
 

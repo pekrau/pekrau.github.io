@@ -1,9 +1,24 @@
 ---
-title: 'Open Science: challenges for life science'
+categories:
+- name: in-english
+  value: In English
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-04-10'
 link: https://kraulis.wordpress.com/2016/04/10/open-science-challenges-for-life-science/
 name: open-science-challenges-for-life-science
-date: 2016-04-10
-language: en
+path: /2016/04/10/open-science-challenges-for-life-science/
+tags:
+- name: data-storage
+  value: data storage
+- name: life-science
+  value: life science
+- name: open-science
+  value: Open Science
+title: 'Open Science: challenges for life science'
+type: post
 ---
 I have created a page [Open Science](/posts/) with links to interesting discussions and information about Open Science, especially issues related to life science (bioscience). I hope to add more links to the page as I find them. I may also discuss some of them in this forum. Please feel free to send me tips.
 

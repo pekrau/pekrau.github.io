@@ -1,8 +1,18 @@
 ---
-title: Värnplikten som moraliserande myt
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-12-20'
 link: https://kraulis.wordpress.com/2015/12/20/varnplikten-som-moraliserande-myt/
 name: varnplikten-som-moraliserande-myt
-date: 2015-12-20
+path: /2015/12/20/varnplikten-som-moraliserande-myt/
+tags:
+- name: varnplikt
+  value: "v\xE4rnplikt"
+title: "V\xE4rnplikten som moraliserande myt"
+type: post
 ---
 Det börjar bli allt vanligare, det där pratet om vilken underbar demokratisk och social institution den allmänna värnplikten var. Nu senast är det Peter Wolodarski som skriver i högstämda ordalag om värnpliktens välsignelser i [Dagens Nyheter 19 dec 2015](http://www.dn.se/ledare/signerat/peter-wolodarski-ett-folk-utan-forsvar-och-ett-forsvar-utan-folk/). Jag har svårt att betrakta det som något annat än ett anfall av nostalgi som drabbar företrädesvis medelålders män i etablissemanget.
 

@@ -1,8 +1,32 @@
 ---
-title: Filosofen, Wagner och nazismen, del 2
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-04'
 link: https://kraulis.wordpress.com/2013/11/04/filosofen-wagner-och-nazismen-del-2/
 name: filosofen-wagner-och-nazismen-del-2
-date: 2013-11-04
+path: /2013/11/04/filosofen-wagner-och-nazismen-del-2/
+tags:
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: hans-ruin
+  value: Hans Ruin
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: nazism
+  value: nazism
+- name: opera
+  value: opera
+- name: richard-wagner
+  value: Richard Wagner
+title: Filosofen, Wagner och nazismen, del 2
+type: post
 ---
 Hans Ruin avslutar i [Dagens Nyheter 4 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/hans-ruin-vaga-se-wagners-kristna-antisemitism/) den debatt han startade om Richard Wagners antisemitism och dess förhållande till nazismen. Under debatten har bland annat [Ebba Witt-Brattström (DN 28 okt 2013)](http://www.dn.se/kultur-noje/kulturdebatt/ebba-witt-brattstrom-operans-parsifal-visar-mannens-langtan-att-slippa-kvinnovarlden/) och [Anders Carlberg (DN 29 okt 2013)](http://www.dn.se/kultur-noje/kulturdebatt/anders-carlberg-den-empatiska-operan/) skrivit intressant.
 

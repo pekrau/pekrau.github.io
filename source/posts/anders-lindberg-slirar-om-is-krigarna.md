@@ -1,8 +1,22 @@
 ---
-title: Anders Lindberg slirar om IS-krigarna
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-05-24'
 link: https://kraulis.wordpress.com/2015/05/24/anders-lindberg-slirar-om-is-krigarna/
 name: anders-lindberg-slirar-om-is-krigarna
-date: 2015-05-24
+path: /2015/05/24/anders-lindberg-slirar-om-is-krigarna/
+tags:
+- name: anders-lindberg
+  value: Anders Lindberg
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+title: Anders Lindberg slirar om IS-krigarna
+type: post
 ---
 Handlar Stockholms stads strategi för att handskas med anhängare av Islamiska Staten endast om förebyggande arbete? Eller föreskriver strategin särskilda åtgärder för att skaffa arbete och bostad åt hemvändande IS-krigare? Åtgärder som man skulle kunna kalla "gräddfil"?
 

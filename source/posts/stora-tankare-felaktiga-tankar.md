@@ -1,8 +1,32 @@
 ---
-title: Stora tänkare, felaktiga tankar
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-05-09'
 link: https://kraulis.wordpress.com/2016/05/09/stora-tankare-felaktiga-tankar/
 name: stora-tankare-felaktiga-tankar
-date: 2016-05-09
+path: /2016/05/09/stora-tankare-felaktiga-tankar/
+tags:
+- name: claudio-monteverdi
+  value: Claudio Monteverdi
+- name: invandring
+  value: invandring
+- name: johann-sebastian-bach
+  value: Johann Sebastian Bach
+- name: lars-gustafsson
+  value: Lars Gustafsson
+- name: torbjorn-tannsjo
+  value: "Torbj\xF6rn T\xE4nnsj\xF6"
+- name: utilitarism
+  value: utilitarism
+- name: zygmunt-bauman
+  value: Zygmunt Bauman
+title: "Stora t\xE4nkare, felaktiga tankar"
+type: post
 ---
 Varför har vi ett sådant binärt förhållningssätt till stora tänkare? Antingen faller vi pladask och accepterar allt en tänkare har sagt. Eller så kategoriserar vi personen som en tok eller extremist. Man kan ju tänka sig ett mellanläge, eller hur? Att även stora tänkare ibland kör i diket. Eller att en virrpanna någon gång formulerar en riktigt intressant tanke.
 

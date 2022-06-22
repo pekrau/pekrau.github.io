@@ -1,8 +1,24 @@
 ---
-title: Den liberala demokratin och mångkulturen
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-09-22'
 link: https://kraulis.wordpress.com/2019/09/22/den-liberala-demokratin-och-mangkulturen/
 name: den-liberala-demokratin-och-mangkulturen
-date: 2019-09-22
+path: /2019/09/22/den-liberala-demokratin-och-mangkulturen/
+tags:
+- name: andreas-johansson-heino
+  value: "Andreas Johansson Hein\xF6"
+- name: invandring
+  value: invandring
+- name: linnea-lindquist
+  value: Linnea Lindquist
+title: "Den liberala demokratin och m\xE5ngkulturen"
+type: post
 ---
 Diskussionen om mångkulturen och den liberala demokratin går vidare. Andreas Johansson Heinö skrev i Dagens Nyheter 12 juli 2019: [Mångkultur utan identitetspolitik, så ser det liberala svaret ut](https://www.dn.se/ledare/andreas-johansson-heino-mangkultur-utan-identitetspolitik-sa-ser-det-liberala-svaret-ut/). Han hävdar att den liberala attityden bör vara att individer ska kunna anamma vilka kulturella uttryck som helst så länge det sker inom ramen för demokratiskt beslutade lagar som bygger en opartisk stat vilande på universella värderingar. Det finns så att säga två fack som allt kan (eller ska) sorteras in i: Dels det kulturella, som är helt individuellt, dels det lagmässiga, som är opartiskt, demokratiskt och universellt. Som kontrast beskriver han den "konservativt anstrukna mångkulturalismkritiken" som bygger på "en nationalistisk grundsyn: en nation, en kultur och en värdegrund i varje stat."
 

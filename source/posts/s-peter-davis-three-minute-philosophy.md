@@ -1,8 +1,23 @@
 ---
-title: 'S Peter Davis: Three Minute Philosophy'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-05-12'
 link: https://kraulis.wordpress.com/2013/05/12/s-peter-davis-three-minute-philosophy/
 name: s-peter-davis-three-minute-philosophy
-date: 2013-05-12
+path: /2013/05/12/s-peter-davis-three-minute-philosophy/
+title: 'S Peter Davis: Three Minute Philosophy'
+type: post
 ---
 S. Peter Davis heter en Youtubare (signatur: CollegeBinary) som beskriver din favoritfilosof på tre minuter. Man får skärpa sig för att hänga med i den andlösa beskrivningen. Men det är mödan värt: Bitvis hysteriskt roligt, och inte helt fel, trots allt. Kanske ger det litet hum om vad några centrala västerländska filosofer har tänkt för tankar...
 

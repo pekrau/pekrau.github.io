@@ -1,8 +1,24 @@
 ---
-title: Har statistik inga fördomar?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2017-01-17'
 link: https://kraulis.wordpress.com/2017/01/17/har-statistik-inga-fordomar/
 name: har-statistik-inga-fordomar
-date: 2017-01-17
+path: /2017/01/17/har-statistik-inga-fordomar/
+tags:
+- name: invandring
+  value: invandring
+- name: kriminalitet
+  value: kriminalitet
+- name: statistik
+  value: statistik
+title: "Har statistik inga f\xF6rdomar?"
+type: post
 ---
 I papperstidningen använde Dagens Nyheters ledarredaktion 17 januari 2017 rubriken "Statistik är ingen fördom". På nätet blev rubriken istället "[Rätt att granska brottslingars nationalitet](http://www.dn.se/ledare/huvudledare/ratt-att-granska-brottslingars-nationalitet/)". Den konkreta frågan som diskuteras är huruvida Brottsförebyggande rådet (Brå) bör samla in statistik om brottslingars ursprungsland eller inte. Principfrågan handlar om vilken statistik som skall anses relevant när en viss samhällsfråga diskuteras. Kan själva valet av statistik styra vilka slutsatser som dras politiskt?
 

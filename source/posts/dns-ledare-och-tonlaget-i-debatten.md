@@ -1,8 +1,24 @@
 ---
-title: 'DN:s ledare och tonläget i debatten'
+categories:
+- name: politik
+  value: Politik
+date: '2016-06-18'
 link: https://kraulis.wordpress.com/2016/06/18/dns-ledare-och-tonlaget-i-debatten/
 name: dns-ledare-och-tonlaget-i-debatten
-date: 2016-06-18
+path: /2016/06/18/dns-ledare-och-tonlaget-i-debatten/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: invandring
+  value: invandring
+- name: sakine-madon
+  value: Sakine Madon
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "DN:s ledare och tonl\xE4get i debatten"
+type: post
 ---
 Jag tycker litet synd om ledarskribenter. De tycks aldrig kunna erkänna att de skrivit något som var mindre lyckat. Kanske har de inte förstått. Eller så har de det, och försöker inte låtsas om det. I värsta fall försöker de trampa vidare i klaveret. Illa vilket som.
 

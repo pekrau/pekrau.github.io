@@ -1,8 +1,18 @@
 ---
-title: Religion och klyschor
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2012-11-05'
 link: https://kraulis.wordpress.com/2012/11/05/religion-och-klyschor/
 name: religion-och-klyschor
-date: 2012-11-05
+path: /2012/11/05/religion-och-klyschor/
+tags:
+- name: moral
+  value: moral
+title: Religion och klyschor
+type: post
 ---
 Jackie Jakubowski skriver [en artikel i Dagens Nyheter (5 nov 2012)](http://www.dn.se/kultur-noje/debatt-essa/nar-dogmerna-dor-lever-traditionerna-vidare) om debatten religion-ateism. **Han använder formulär 1A: Religion är fint, inkännande och moraliskt, medan ateism är extremistiskt, polemiskt och saknar nyanser.**
 

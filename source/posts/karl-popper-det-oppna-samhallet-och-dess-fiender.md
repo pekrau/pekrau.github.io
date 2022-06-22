@@ -1,8 +1,30 @@
 ---
-title: 'Karl Popper: Det öppna samhället och dess fiender'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-12-02'
 link: https://kraulis.wordpress.com/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/
 name: karl-popper-det-oppna-samhallet-och-dess-fiender
-date: 2014-12-02
+path: /2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/
+tags:
+- name: gwf-hegel
+  value: GWF Hegel
+- name: karl-marx
+  value: Karl Marx
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: platon
+  value: Platon
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: totalitarism
+  value: totalitarism
+title: "Karl Popper: Det \xF6ppna samh\xE4llet och dess fiender"
+type: post
 ---
 [Karl Popper (1902-1994)](http://en.wikipedia.org/wiki/Karl_Popper) är en av 1900-talets största liberala filosofer. Hans *magnum opus* inom den politiska filosofin, [Det öppna samhället och dess fiender](http://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies), kom ut 1945, alltså för snart 70 år sedan. Verket består av två delar, där den första behandlar [Platon](http://en.wikipedia.org/wiki/Plato), av många ansedd som den västerländska filosofins fader, och den andra delen tar sig an [GWF Hegel](http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) och [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx). Men verket är sannerligen inte bara en recension av andra filosofer. Popper utvecklar och argumenterar för sin egen liberala politiska filosofi.
 

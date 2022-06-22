@@ -1,8 +1,20 @@
 ---
-title: 'Cirkus Opera: del 1'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-09-11'
 link: https://kraulis.wordpress.com/2013/09/11/cirkus-opera-del-1/
 name: cirkus-opera-del-1
-date: 2013-09-11
+path: /2013/09/11/cirkus-opera-del-1/
+tags:
+- name: opera
+  value: opera
+title: 'Cirkus Opera: del 1'
+type: post
 ---
 Kultur­minister Lena Adelsohn Liljeroth har, förhoppningsvis omedvetet, utfärdat en förbannelse mot Stockholm. Hon har meddelat att regeringen tänker satsa 2 miljarder kronor på en ombyggnad av Kungliga Operan i Stockholm, vilket [Björn Wiman rapporterar om](http://www.dn.se/kultur-noje/kronikor/bjorn-wiman-for-tva-miljarder-kronor-kan-operakonsten-antligen-fa-nytt-spelrum/) i Dagens Nyheter 11 september 2013.
 

@@ -1,8 +1,32 @@
 ---
-title: Hans Ruin och de utifrån importerade lärosatserna
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-03-03'
 link: https://kraulis.wordpress.com/2016/03/03/hans-ruin-och-de-utifran-importerade-larosatserna/
 name: hans-ruin-och-de-utifran-importerade-larosatserna
-date: 2016-03-03
+path: /2016/03/03/hans-ruin-och-de-utifran-importerade-larosatserna/
+tags:
+- name: etik
+  value: etik
+- name: hans-ruin
+  value: Hans Ruin
+- name: johan-frostegard
+  value: "Johan Frosteg\xE5rd"
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: paolo-macchiarini
+  value: Paolo Macchiarini
+- name: upplysningen
+  value: Upplysningen
+- name: utilitarism
+  value: utilitarism
+title: "Hans Ruin och de utifr\xE5n importerade l\xE4rosatserna"
+type: post
 ---
 Hans Ruin [skriver ett inlägg](http://www.dn.se/kultur-noje/kulturdebatt/vi-har-konstruerat-system-som-forflyttar-ansvaret-fran-den-plats-dar-det-maste-uppbaras/) i debatten om etik i kölvattnet av Macchiarini-skandalen. Han undviker att ta upp [frågan om Heidegger och nazismen](/posts/), vilket är klokt. Inget han kan säga där skulle undgå att vara löjligt eller hycklande. Men han vidhåller sin kritik mot den praktiska filosofin. Följande är kärnan i hans argument:
 

@@ -1,8 +1,24 @@
 ---
-title: 'Katrine Kielos: Hopplösheten är en man'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-04-28'
 link: https://kraulis.wordpress.com/2013/04/28/katrine-kielos-hopplosheten-ar-en-man/
 name: katrine-kielos-hopplosheten-ar-en-man
-date: 2013-04-28
+path: /2013/04/28/katrine-kielos-hopplosheten-ar-en-man/
+tags:
+- name: bok
+  value: bok
+- name: ekonomi
+  value: ekonomi
+- name: genus
+  value: genus
+- name: katrine-marcal
+  value: "Katrine Mar\xE7al"
+title: "Katrine Kielos: Hoppl\xF6sheten \xE4r en man"
+type: post
 ---
 Katrine Kielos är en framträdande ung intellektuell i den svenska debatten. Tyvärr säger hennes argumentation en del om dagens debattklimat.
 

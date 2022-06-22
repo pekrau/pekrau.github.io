@@ -1,8 +1,10 @@
 ---
-title: Böcker och andra verk
+date: '2013-08-15'
 link: https://kraulis.wordpress.com/lista-av-bocker-och-andra-verk/
 name: lista-av-bocker-och-andra-verk
-date: 2013-08-15
+path: /lista-av-bocker-och-andra-verk/
+title: "B\xF6cker och andra verk"
+type: page
 ---
 Här listas böcker eller andra verk som jag har kommenterat.
 

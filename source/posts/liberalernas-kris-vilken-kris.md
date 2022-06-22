@@ -1,8 +1,18 @@
 ---
-title: Liberalernas kris. Vilken kris?
+categories:
+- name: politik
+  value: Politik
+date: '2018-03-17'
 link: https://kraulis.wordpress.com/2018/03/17/liberalernas-kris-vilken-kris/
 name: liberalernas-kris-vilken-kris
-date: 2018-03-17
+path: /2018/03/17/liberalernas-kris-vilken-kris/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: liberalerna
+  value: Liberalerna
+title: Liberalernas kris. Vilken kris?
+type: post
 ---
 Partiet Liberalerna hovrar kring 4 procent i opinionsmätningarna. Det är med andra ord oklart om partiet finns kvar i riksdagen efter årets val. Kris, skulle man kunna tycka. Men någon direkt krisinsikt syns inte i media. Partiets företrädare tycks agera efter teorin att det här är ett problem som hanteras bäst genom att ignoreras.
 

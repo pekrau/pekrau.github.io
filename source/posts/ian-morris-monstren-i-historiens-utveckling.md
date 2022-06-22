@@ -1,8 +1,24 @@
 ---
-title: 'Ian Morris: Mönstren i historiens utveckling'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-08-15'
 link: https://kraulis.wordpress.com/2013/08/15/ian-morris-monstren-i-historiens-utveckling/
 name: ian-morris-monstren-i-historiens-utveckling
-date: 2013-08-15
+path: /2013/08/15/ian-morris-monstren-i-historiens-utveckling/
+tags:
+- name: bok
+  value: bok
+- name: historia
+  value: historia
+- name: ian-morris
+  value: Ian Morris
+- name: karl-popper
+  value: Karl Popper
+title: "Ian Morris: M\xF6nstren i historiens utveckling"
+type: post
 ---
 Ian Morris, arkeolog och professor i historia vid Stanford University, har sammanfattat mänsklighetens historia i boken **Why the West Rules - For Now**. Det är en ca 650 sidor lång syntes av den senaste tidens forskning inom arkeologi och historia. Boken hålls samman av den tes Morris driver, som utgår från följande fråga: **Varför är västvärlden idag den dominerande global aktören?** Men inte nog med att Morris vill förklara historiens gång, han vill också förutsäga vad som komma skall.
 

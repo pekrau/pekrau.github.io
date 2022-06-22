@@ -1,8 +1,20 @@
 ---
-title: Juholt 2.0
+categories:
+- name: politik
+  value: Politik
+date: '2014-12-05'
 link: https://kraulis.wordpress.com/2014/12/05/juholt-2-0/
 name: juholt-2-0
-date: 2014-12-05
+path: /2014/12/05/juholt-2-0/
+tags:
+- name: hakan-juholt
+  value: "H\xE5kan Juholt"
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: stefan-lofven
+  value: "Stefan L\xF6fven"
+title: Juholt 2.0
+type: post
 ---
 Socialdemokraterna trodde att man nått fast mark efter det gungfly som hette Håkan Juholt. Alla var övertygade om att Stefan Löfven var en stadig, stabil, erfaren förhandlare, en stilla, trygg, kompetent person. Ingen popcorn-maskin.
 

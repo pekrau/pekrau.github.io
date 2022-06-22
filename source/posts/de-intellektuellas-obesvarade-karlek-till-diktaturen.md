@@ -1,8 +1,24 @@
 ---
-title: De intellektuellas obesvarade kärlek till diktaturen
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-11-29'
 link: https://kraulis.wordpress.com/2018/11/29/de-intellektuellas-obesvarade-karlek-till-diktaturen/
 name: de-intellektuellas-obesvarade-karlek-till-diktaturen
-date: 2018-11-29
+path: /2018/11/29/de-intellektuellas-obesvarade-karlek-till-diktaturen/
+tags:
+- name: elinor-ostrom
+  value: Elinor Ostrom
+- name: klimat
+  value: Klimat
+- name: platon
+  value: Platon
+- name: torbjorn-tannsjo
+  value: "Torbj\xF6rn T\xE4nnsj\xF6"
+title: "De intellektuellas obesvarade k\xE4rlek till diktaturen"
+type: post
 ---
 Vi har väl alla någon gång lekt med tanken om vad vi skulle göra om man blev diktator för en dag. Ahh, tänk att kunna förbjuda folk från att fippla med mobiltelefonen när de går på trottoaren! Eller att sätta stopp för världssvälten.
 

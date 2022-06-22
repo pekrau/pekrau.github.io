@@ -1,8 +1,24 @@
 ---
-title: 'Svante Nordin: Humaniora i Sverige'
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-10-20'
 link: https://kraulis.wordpress.com/2013/10/20/svante-nordin-humaniora-i-sverige/
 name: svante-nordin-humaniora-i-sverige
-date: 2013-10-20
+path: /2013/10/20/svante-nordin-humaniora-i-sverige/
+tags:
+- name: humaniora
+  value: humaniora
+- name: postmodernism
+  value: postmodernism
+- name: svante-nordin
+  value: Svante Nordin
+title: 'Svante Nordin: Humaniora i Sverige'
+type: post
 ---
 [Svante Nordin](http://sv.wikipedia.org/wiki/Svante_Nordin) beskrivs som "professorn som har gått från intellektuell marxist till skribent för nykonservatismens flaggskepp" [i en artikel i Lundagård 27 maj 2010](http://lundagard.se/2010/05/27/i-civilisationens-tjanst/). Artikeln utgår bland annat från den bok, **[Humaniora i Sverige](http://www.atlantisbok.se/layout/detail.php?id=7346)**, som Nordin, professor i idé- och lärdomshistoria vid Lunds Universitet, utgav 2008.
 

@@ -1,8 +1,13 @@
 ---
-title: Två artiklar publicerade
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-08-10'
 link: https://kraulis.wordpress.com/2015/08/10/tva-artiklar-publicerade/
 name: tva-artiklar-publicerade
-date: 2015-08-10
+path: /2015/08/10/tva-artiklar-publicerade/
+title: "Tv\xE5 artiklar publicerade"
+type: post
 ---
 Två av mina artiklar har publicerats i andra media:
 

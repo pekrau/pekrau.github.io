@@ -1,8 +1,10 @@
 ---
-title: Popper-Christchurch-NZ
+date: '2018-03-25'
 link: https://kraulis.wordpress.com/karl-popper/popper-christchurch-nz/
 name: popper-christchurch-nz
-date: 2018-03-25
+path: /karl-popper/popper-christchurch-nz/
+title: Popper-Christchurch-NZ
+type: attachment
 ---
- Per Kraulis 2016-01-19
+Per Kraulis 2016-01-19
 

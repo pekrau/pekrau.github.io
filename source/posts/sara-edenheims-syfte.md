@@ -1,8 +1,22 @@
 ---
-title: Sara Edenheims syfte
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2012-11-21'
 link: https://kraulis.wordpress.com/2012/11/21/sara-edenheims-syfte/
 name: sara-edenheims-syfte
-date: 2012-11-21
+path: /2012/11/21/sara-edenheims-syfte/
+tags:
+- name: genus
+  value: genus
+- name: hiv
+  value: hiv
+- name: homosexuella
+  value: homosexuella
+- name: sara-edenheim
+  value: Sara Edenheim
+title: Sara Edenheims syfte
+type: post
 ---
 Sara Edenheim anklagar Jonas Gardell i [Dagens Nyheter idag](http://www.dn.se/kultur-noje/debatt-essa/gardell-grater-bara-for-mannen) för att "bara gråta för männen". Det är svårt att kommentera artikeln utan att förfalla till sarkasm. Låt mig försöka.
 

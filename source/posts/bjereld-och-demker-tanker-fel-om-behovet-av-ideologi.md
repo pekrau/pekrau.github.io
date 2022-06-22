@@ -1,8 +1,20 @@
 ---
-title: Bjereld och Demker tänker fel om behovet av ideologi
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-30'
 link: https://kraulis.wordpress.com/2013/11/30/bjereld-och-demker-tanker-fel-om-behovet-av-ideologi/
 name: bjereld-och-demker-tanker-fel-om-behovet-av-ideologi
-date: 2013-11-30
+path: /2013/11/30/bjereld-och-demker-tanker-fel-om-behovet-av-ideologi/
+tags:
+- name: demokrati
+  value: demokrati
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Bjereld och Demker t\xE4nker fel om behovet av ideologi"
+type: post
 ---
 Statsvetarna Ulf Bjereld och Marie Demker undrar hur demokratin egentligen mår i en debattartikel i Dagens Nyheter [30 nov 2013](http://www.dn.se/debatt/partierna-kapitulerar-for-populism-och-ekonomism/). De ser demokratiska problem med att partierna inte förmår utforma ideologiska program, och att de stora partierna synbarligen uppehåller sig vid mitten av den politiska skalan.
 

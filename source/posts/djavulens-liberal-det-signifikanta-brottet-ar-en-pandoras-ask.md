@@ -1,8 +1,24 @@
 ---
-title: 'Djävulens liberal: Det signifikanta brottet är en Pandoras ask'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-08-31'
 link: https://kraulis.wordpress.com/2018/08/31/djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask/
 name: djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask
-date: 2018-08-31
+path: /2018/08/31/djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask/
+tags:
+- name: invandring
+  value: invandring
+- name: kriminalitet
+  value: kriminalitet
+- name: liberalism
+  value: liberalism
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Dj\xE4vulens liberal: Det signifikanta brottet \xE4r en Pandoras ask"
+type: post
 ---
 Det sägs ofta från progressivt håll att den politiska debatten handlar för mycket om brottslighet. Varför fokusera på enstaka hemska händelser som är beklagansvärda men som ändå inte kan sägas definiera vårt samhälle? Brottsligheten har inte ökat på något alarmerande sätt, om man tittar på exempelvis antalet mord. Vi borde snarare diskutera de stora samhällsproblemen. Så brukar det låta.
 

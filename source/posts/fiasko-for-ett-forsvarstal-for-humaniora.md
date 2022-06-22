@@ -1,8 +1,30 @@
 ---
-title: Fiasko för ett försvarstal för humaniora
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-07-02'
 link: https://kraulis.wordpress.com/2015/07/02/fiasko-for-ett-forsvarstal-for-humaniora/
 name: fiasko-for-ett-forsvarstal-for-humaniora
-date: 2015-07-02
+path: /2015/07/02/fiasko-for-ett-forsvarstal-for-humaniora/
+tags:
+- name: fritz-haber
+  value: Fritz Haber
+- name: hans-ruin
+  value: Hans Ruin
+- name: humaniora
+  value: humaniora
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: stefan-arvidsson
+  value: Stefan Arvidsson
+title: "Fiasko f\xF6r ett f\xF6rsvarstal f\xF6r humaniora"
+type: post
 ---
 Försvarstal och festtal är två genrer som det är vanskligt att blanda samman. Stefan Arvidsson ([Dagens Nyheter 26 juni 2015](http://www.dn.se/kultur-noje/kulturdebatt/stefan-arvidsson-humaniora-hjalper-oss-att-forsta-det-frammande/)) ger några bra argument för varför humaniora är nödvändigt i en god civilisation. Ett sådant är hans observation att i stort sett varje människa är en amatörhumanist, som använder och efterfrågar humaniora i sina dagliga liv. Men till detta lägger han två argument som är lika vanliga som dåliga. Det handlar om vackra ord hämtade från festtalen. De skorrar illa när de används i ett försvarstal.
 

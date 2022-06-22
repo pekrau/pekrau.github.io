@@ -1,8 +1,16 @@
 ---
-title: 'Om reduktionism: En glimt i ögat, del 1'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+date: '2015-07-28'
 link: https://kraulis.wordpress.com/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/
 name: om-reduktionism-en-glimt-i-ogat-del-1
-date: 2015-07-28
+path: /2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/
+tags:
+- name: reduktionism
+  value: reduktionism
+title: "Om reduktionism: En glimt i \xF6gat, del 1"
+type: post
 ---
 **Reduktionism är ståndpunkten att komplexa företeelser kan och bör förklaras med hjälp av enklare begrepp. Den är en oundgänglig del av vetenskapen. Om man lyckas förklara flera till synes olikartade processer med en enda teori, så innebär det ett vetenskapligt framsteg.**
 

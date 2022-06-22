@@ -1,8 +1,22 @@
 ---
-title: 'Nike Markelius: Att skapa en underklass'
+categories:
+- name: politik
+  value: Politik
+date: '2013-02-13'
 link: https://kraulis.wordpress.com/2013/02/13/nike-markelius-att-skapa-en-underklass/
 name: nike-markelius-att-skapa-en-underklass
-date: 2013-02-13
+path: /2013/02/13/nike-markelius-att-skapa-en-underklass/
+tags:
+- name: medelklass
+  value: medelklass
+- name: nike-markelius
+  value: Nike Markelius
+- name: underklass
+  value: underklass
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: 'Nike Markelius: Att skapa en underklass'
+type: post
 ---
 Nike Markelius avslutar debatten om [Fas 3 och a-kassan i Dagens Nyheter 13 feb 2013](http://www.dn.se/kultur-noje/debatt-essa/den-absurda-arbetslinjen). Hon tror sig veta varför sjukförsäkringsreformen genomfördes:
 

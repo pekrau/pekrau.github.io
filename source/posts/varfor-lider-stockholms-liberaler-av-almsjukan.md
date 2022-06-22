@@ -1,8 +1,30 @@
 ---
-title: Varför lider Stockholms liberaler av almsjukan?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2015-04-14'
 link: https://kraulis.wordpress.com/2015/04/14/varfor-lider-stockholms-liberaler-av-almsjukan/
 name: varfor-lider-stockholms-liberaler-av-almsjukan
-date: 2015-04-14
+path: /2015/04/14/varfor-lider-stockholms-liberaler-av-almsjukan/
+tags:
+- name: folkpartiet
+  value: Folkpartiet
+- name: konservatism
+  value: konservatism
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+- name: progressiv
+  value: progressiv
+- name: stockholm
+  value: Stockholm
+title: "Varf\xF6r lider Stockholms liberaler av almsjukan?"
+type: post
 ---
 Det brukar sägas att liberaler har en i grunden positiv inställning till utveckling. Att vi har en tro på att samhället kan och ska förändras, och att det kan ske i en riktning som innebär förbättringar för människorna. Att ordet "liberal" hör naturligare ihop med ordet "progressiv" än med "konservativ".
 

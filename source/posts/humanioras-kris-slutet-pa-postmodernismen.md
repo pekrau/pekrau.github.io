@@ -1,8 +1,32 @@
 ---
-title: 'Humanioras kris: Slutet på postmodernismen?'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-05-19'
 link: https://kraulis.wordpress.com/2013/05/19/humanioras-kris-slutet-pa-postmodernismen/
 name: humanioras-kris-slutet-pa-postmodernismen
-date: 2013-05-19
+path: /2013/05/19/humanioras-kris-slutet-pa-postmodernismen/
+tags:
+- name: bok
+  value: bok
+- name: cecilia-sjoholm
+  value: "Cecilia Sj\xF6holm"
+- name: hans-ruin
+  value: Hans Ruin
+- name: humaniora
+  value: humaniora
+- name: postmodernism
+  value: postmodernism
+- name: stefan-jonsson
+  value: Stefan Jonsson
+- name: sverker-sorlin
+  value: "Sverker S\xF6rlin"
+title: "Humanioras kris: Slutet p\xE5 postmodernismen?"
+type: post
 ---
 Boken [Till vilken nytta?](http://www.daidalos.se/sok?11_bookView=1&11_subject=612) är en antologi där ett 30-tal svenska humanister diskuterar humanioras ställning och framtid. Den är redigerad av Tomas Forser (professor litteraturvetenskap, Göteborgs universitet) och Thomas Karlsohn (docent idé- och lärdomshistoria, Göteborgs universitet). Artiklarna är många och korta, vilket ger en mångfald av infallsvinklar, ofta med bra fokus. Man använder ordet "möjlighet" i underrubriken, men de flesta författarna skriver i själva verket ordet "kris".
 

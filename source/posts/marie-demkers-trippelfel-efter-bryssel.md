@@ -1,8 +1,24 @@
 ---
-title: Marie Demkers trippelfel efter Bryssel
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-03-25'
 link: https://kraulis.wordpress.com/2016/03/25/marie-demkers-trippelfel-efter-bryssel/
 name: marie-demkers-trippelfel-efter-bryssel
-date: 2016-03-25
+path: /2016/03/25/marie-demkers-trippelfel-efter-bryssel/
+tags:
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: marie-demker
+  value: Marie Demker
+- name: terror
+  value: terror
+title: Marie Demkers trippelfel efter Bryssel
+type: post
 ---
 Marie Demker, professor i statsvetenskap vid Göteborgs universitet, [skriver i Aftonbladet 25 mars 2016](http://www.aftonbladet.se/debatt/article22504273.ab) om vad som bör göras efter terrordådet i Bryssel. Eller snarare, vad som inte bör göras. Vad hon egentligen vill ska göras framgår inte.
 

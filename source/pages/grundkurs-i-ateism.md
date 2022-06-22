@@ -1,8 +1,10 @@
 ---
-title: Grundkurs i ateism
+date: '2013-11-17'
 link: https://kraulis.wordpress.com/grundkurs-i-ateism/
 name: grundkurs-i-ateism
-date: 2013-11-17
+path: /grundkurs-i-ateism/
+title: Grundkurs i ateism
+type: page
 ---
 "Grundkurs i ateism" är en serie inlägg där jag diskuterar frågor som har med religion och ateism att göra, ofta med utgångspunkt i debatter eller andra händelser.
 

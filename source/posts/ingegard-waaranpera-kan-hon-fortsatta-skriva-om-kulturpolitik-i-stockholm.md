@@ -1,8 +1,21 @@
 ---
-title: 'Ingegärd Waaranperä: Kan hon fortsätta skriva om kulturpolitik i Stockholm?'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+date: '2013-11-30'
 link: https://kraulis.wordpress.com/2013/11/30/ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm/
 name: ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm
-date: 2013-11-30
+path: /2013/11/30/ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm/
+tags:
+- name: bjorn-wiman
+  value: "Bj\xF6rn Wiman"
+- name: madeleine-sjostedt
+  value: "Madeleine Sj\xF6stedt"
+title: "Ingeg\xE4rd Waaranper\xE4: Kan hon forts\xE4tta skriva om kulturpolitik i\
+  \ Stockholm?"
+type: post
 ---
 Ingegärd Waaranperäs [anmärkningsvärda uttalanden](/posts/) har uppmärksammats av Viktor Barth-Kron i [Dagens Nyheter 30 nov 2013](http://blogg.dn.se/viktor/2013/11/30/nagon-ordning-far-det-val-anda-vara-i-en-ankdamm/). **Han konstaterar att debatten om kulturpolitiken i Stockholm helt tycks ha spårat ur. Läs honom!**
 

@@ -1,8 +1,18 @@
 ---
-title: Samhällskontraktet som vinnande politisk strategi
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-06-02'
 link: https://kraulis.wordpress.com/2015/06/02/samhallskontraktet-som-vinnande-politisk-strategi/
 name: samhallskontraktet-som-vinnande-politisk-strategi
-date: 2015-06-02
+path: /2015/06/02/samhallskontraktet-som-vinnande-politisk-strategi/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+title: "Samh\xE4llskontraktet som vinnande politisk strategi"
+type: post
 ---
 Birgitta Ohlsson, ex-minister, FP-politiker, ofta omtalad som möjlig framtida FP-ledare, skriver utmärkt om samhällskontraktet på [Dagens Nyheters Kultursida 2 juni 2015](http://www.dn.se/kultur-noje/kulturdebatt/harresande-att-jamfora-svenska-ungdomar-med-de-osynliga-migranterna/). Hon tar avstamp i den artikel som Svala Firus, psykolog på Arbetsförmedlingen, skrev i [Expressen 27 maj 2015](http://www.expressen.se/debatt/unga-arbetslosa--ni-maste-hugga-i/) om vissa ungdomars attityd till jobb och jobbsökande. Firus skriver:
 

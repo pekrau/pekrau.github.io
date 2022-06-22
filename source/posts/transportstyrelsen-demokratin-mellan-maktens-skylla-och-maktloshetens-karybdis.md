@@ -1,8 +1,21 @@
 ---
-title: 'Transportstyrelsen: Demokratin mellan maktens Skylla och maktlöshetens Karybdis'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-07-27'
 link: https://kraulis.wordpress.com/2017/07/27/transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis/
 name: transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis
-date: 2017-07-27
+path: /2017/07/27/transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis/
+tags:
+- name: demokrati
+  value: demokrati
+- name: transportstyrelsen
+  value: Transportstyrelsen
+title: "Transportstyrelsen: Demokratin mellan maktens Skylla och maktl\xF6shetens\
+  \ Karybdis"
+type: post
 ---
 Skandalen med Transportstyrelsen riktar strålkastarljuset på den sällsamma kombination av maktfullkomlighet och maktlöshet som tycks vara ett växande problem i vår demokrati. Maktfullkomligheten yttrade sig i generaldirektörens sorglösa beslut att "göra avsteg från lagstiftningen" och därefter i regeringens försök att mörka skandalen. Maktlösheten är den ursäkt som används för de ministrar som känt till skandalen, men som valde att inte göra något.
 

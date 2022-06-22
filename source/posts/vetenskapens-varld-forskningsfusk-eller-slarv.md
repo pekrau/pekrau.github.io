@@ -1,8 +1,18 @@
 ---
-title: 'Vetenskapens värld: Forskningsfusk. Eller slarv?'
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-02-04'
 link: https://kraulis.wordpress.com/2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/
 name: vetenskapens-varld-forskningsfusk-eller-slarv
-date: 2013-02-04
+path: /2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/
+tags:
+- name: forskningsfel
+  value: forskningsfel
+- name: forskningsfusk
+  value: forskningsfusk
+title: "Vetenskapens v\xE4rld: Forskningsfusk. Eller slarv?"
+type: post
 ---
 [Vetenskapens värld sände 4 feb 2013](http://www.svtplay.se/vetenskapens-varld) ett reportage om forskningsfusk. Man redogjorde för skandalen med den påstådda kopplingen mellan mässlingsvaccin och autism, där ursprungsrapporten visade sig vara baserad på fusk. Men huvudnumret var fallet Suchitra Holgersson (dock utan namns nämnande) som anklagades för att ha fuskat under sin tid vid KI. Om denna affären har jag ingen närmare kunskap.
 

@@ -1,8 +1,22 @@
 ---
-title: Joel Halldorfs berättelse och tystnad
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-06-18'
 link: https://kraulis.wordpress.com/2016/06/18/joel-halldorfs-berattelse-och-tystnad/
 name: joel-halldorfs-berattelse-och-tystnad
-date: 2016-06-18
+path: /2016/06/18/joel-halldorfs-berattelse-och-tystnad/
+tags:
+- name: islamism
+  value: islamism
+- name: joel-halldorf
+  value: Joel Halldorf
+title: "Joel Halldorfs ber\xE4ttelse och tystnad"
+type: post
 ---
 Joel Halldorf har [skrivit en hel del på sistone](/posts/), och han tycks eftersträva den stil och framtoning som många religiösa apologeter beskyller bland annat Richard Dawkins för: Den arrogante, förnumstige översittaren till debattör som vill förvisa sina motståndare till historiens skräphög. Fast med den skillnaden att när Dawkins sägs göra detta så kallas det nyateism. När Halldorf gör det vill han kalla det postsekulärt. En bättre benämning vore: nyreligionism.
 

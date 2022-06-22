@@ -1,8 +1,24 @@
 ---
-title: 'Grundkurs i ateism, del 12: Katolska kyrkan och äktenskap för homosexuella'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-05-30'
 link: https://kraulis.wordpress.com/2015/05/30/grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella/
 name: grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella
-date: 2015-05-30
+path: /2015/05/30/grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella/
+tags:
+- name: franciskus
+  value: Franciskus
+- name: homosexuella
+  value: homosexuella
+- name: katolska-kyrkan
+  value: katolska kyrkan
+- name: raymond-burke
+  value: Raymond Burke
+title: "Grundkurs i ateism, del 12: Katolska kyrkan och \xE4ktenskap f\xF6r homosexuella"
+type: post
 ---
 Inte helt oväntat fick katolska kyrkan spel när Irland 22 maj 2015 [med rejäl majoritet röstade för äktenskap för homosexuella](http://www.referendum.ie/results.php?ref=10). 
 

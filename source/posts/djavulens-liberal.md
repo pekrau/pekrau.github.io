@@ -1,8 +1,28 @@
 ---
-title: Djävulens liberal
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-07-01'
 link: https://kraulis.wordpress.com/2018/07/01/djavulens-liberal/
 name: djavulens-liberal
-date: 2018-07-01
+path: /2018/07/01/djavulens-liberal/
+tags:
+- name: antiliberalism
+  value: antiliberalism
+- name: donald-trump
+  value: Donald Trump
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Dj\xE4vulens liberal"
+type: post
 ---
 > Djävulens advokat (latin: advocatus diaboli) är en debattör som i en enig församling tar upp motståndarsidans argument.
 

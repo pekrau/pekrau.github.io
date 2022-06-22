@@ -1,8 +1,38 @@
 ---
-title: 'Göran Greider: Den solidariska genen'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-03-30'
 link: https://kraulis.wordpress.com/2014/03/30/goran-greider-den-solidariska-genen/
 name: goran-greider-den-solidariska-genen
-date: 2014-03-30
+path: /2014/03/30/goran-greider-den-solidariska-genen/
+tags:
+- name: bok
+  value: bok
+- name: edward-o-wilson
+  value: Edward O. Wilson
+- name: evolution
+  value: evolution
+- name: historia
+  value: historia
+- name: liberalism
+  value: liberalism
+- name: michel-foucault
+  value: Michel Foucault
+- name: richard-dawkins
+  value: Richard Dawkins
+- name: socialism
+  value: socialism
+- name: steven-pinker
+  value: Steven Pinker
+- name: thomas-hobbes
+  value: Thomas Hobbes
+title: "G\xF6ran Greider: Den solidariska genen"
+type: post
 ---
 Göran Greider polemiserar i boken **"Den solidariska genen"** mot teorin om den själviska genen, och diskuterar forskningsrön som han hävdar stödjer idén om den solidariska genen. Att läsa hans bok är litet som att lyssna på ett vackert musikstycke där orkestern envisas med att titt som tätt spela fel och falskt.
 

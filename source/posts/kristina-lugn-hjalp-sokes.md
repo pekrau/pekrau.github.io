@@ -1,8 +1,20 @@
 ---
-title: 'Kristina Lugn: Hjälp sökes'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-05-05'
 link: https://kraulis.wordpress.com/2013/05/05/kristina-lugn-hjalp-sokes/
 name: kristina-lugn-hjalp-sokes
-date: 2013-05-05
+path: /2013/05/05/kristina-lugn-hjalp-sokes/
+tags:
+- name: cirkus
+  value: cirkus
+- name: kristina-lugn
+  value: Kristina Lugn
+- name: teater
+  value: teater
+title: "Kristina Lugn: Hj\xE4lp s\xF6kes"
+type: post
 ---
 Orionteaterns föreställning "[Hjälp sökes](http://www.orionteatern.se/pa-scen/hjalp-sokes/)" är med rätta bejublad. Kristina Lugns text är en variant på temat "Bonde söker fru". Två bondebröder söker hjälp till gården för att få en ändring i sina tröstlösa liv, och hjälpen i form av en stum kvinna och hennes dotter, hennes tolk, uppenbarar sig och vänder på tillvaron.
 

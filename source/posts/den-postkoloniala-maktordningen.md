@@ -1,8 +1,28 @@
 ---
-title: Den postkoloniala maktordningen
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-04-25'
 link: https://kraulis.wordpress.com/2016/04/25/den-postkoloniala-maktordningen/
 name: den-postkoloniala-maktordningen
-date: 2016-04-25
+path: /2016/04/25/den-postkoloniala-maktordningen/
+tags:
+- name: islam
+  value: Islam
+- name: islamism
+  value: islamism
+- name: masoud-kamali
+  value: Masoud Kamali
+- name: mehmet-kaplan
+  value: Mehmet Kaplan
+- name: miljopartiet
+  value: "Milj\xF6partiet"
+- name: yasri-khan
+  value: Yasri Khan
+title: Den postkoloniala maktordningen
+type: post
 ---
 I efterdyningarna av uppståndelsen kring Miljöpartiet, Mehmet Kaplan och Yasri Khan skriver Masoud Kamali, professor vid Mittuniversitetet, i [Svenska Dagbladet 25 april 2016](http://www.svd.se/muslimer-maste-kunna-ta-plats-i-svensk-politik). Det är ett ovanligt tydligt exempel på hur en postkolonial debattör försöker utöva härskarteknik. Kamali skriver:
 

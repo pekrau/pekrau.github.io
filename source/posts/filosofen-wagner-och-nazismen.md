@@ -1,8 +1,34 @@
 ---
-title: Filosofen, Wagner och nazismen
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-10-23'
 link: https://kraulis.wordpress.com/2013/10/23/filosofen-wagner-och-nazismen/
 name: filosofen-wagner-och-nazismen
-date: 2013-10-23
+path: /2013/10/23/filosofen-wagner-och-nazismen/
+tags:
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: hans-ruin
+  value: Hans Ruin
+- name: johan-lundberg
+  value: Johan Lundberg
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: nazism
+  value: nazism
+- name: opera
+  value: opera
+- name: richard-wagner
+  value: Richard Wagner
+title: Filosofen, Wagner och nazismen
+type: post
 ---
 Hans Ruin, professor i filosofi vid Södertörns Högskola, funderar [i Dagens Nyheter 17 okt 2013](http://www.dn.se/kultur-noje/kulturdebatt/oga-mot-oga-med-fascismens-hjarta/) om Wagners opera Parsifal egentligen borde spelas, med tanke på dess idémässiga barlast. Åtminstone bör publiken, “de som tar på sig finkläderna”, ha pluggat på om dess innebörd. **I Parsifal ställs man nämligen inför den “europeiska fascismens och antisemitismens estetiskt förgyllda försångare”.**
 

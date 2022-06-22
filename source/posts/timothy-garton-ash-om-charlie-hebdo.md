@@ -1,8 +1,26 @@
 ---
-title: Timothy Garton Ash om Charlie Hebdo
+categories:
+- name: in-english
+  value: In English
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-02-15'
 link: https://kraulis.wordpress.com/2015/02/15/timothy-garton-ash-om-charlie-hebdo/
 name: timothy-garton-ash-om-charlie-hebdo
-date: 2015-02-15
+path: /2015/02/15/timothy-garton-ash-om-charlie-hebdo/
+tags:
+- name: charlie-hebdo
+  value: Charlie Hebdo
+- name: timothy-garton-ash
+  value: Timothy Garton Ash
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: Timothy Garton Ash om Charlie Hebdo
+type: post
 ---
 Timothy Garton Ash skriver om Charlie Hebdo i senaste New York Review of Books (Volume LXII, Number 3, Feb 19, 2015). Artikelns titel är [Defying the Assassin’s Veto](http://www.nybooks.com/articles/archives/2015/feb/19/defying-assassins-veto/), och den är dessvärre än mer aktuell än det var tänkt. Den börjar med kristallklar tydlighet:
 

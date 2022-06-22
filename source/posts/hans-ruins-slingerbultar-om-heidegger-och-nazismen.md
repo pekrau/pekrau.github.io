@@ -1,8 +1,30 @@
 ---
-title: Hans Ruins slingerbultar om Heidegger och nazismen
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-11'
 link: https://kraulis.wordpress.com/2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/
 name: hans-ruins-slingerbultar-om-heidegger-och-nazismen
-date: 2013-11-11
+path: /2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/
+tags:
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: hans-ruin
+  value: Hans Ruin
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: nazism
+  value: nazism
+- name: william-shirer
+  value: William Shirer
+title: Hans Ruins slingerbultar om Heidegger och nazismen
+type: post
 ---
 **Hans Ruin visar i sin artikel om Martin Heidegger i Dagens Nyheter 11 november 2013 (ej länkbar) att han är slingerbultarnas mästare.** Han skriver med anledning av att Heideggers mest kända verk **"Vara och tid"** har utkommit i ny svensk översättning.
 

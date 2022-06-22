@@ -1,8 +1,18 @@
 ---
-title: 'Individualiserad medicin: ge makten till patienten!'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-06-20'
 link: https://kraulis.wordpress.com/2013/06/20/individualiserad-medicin-ge-makten-till-patienten/
 name: individualiserad-medicin-ge-makten-till-patienten
-date: 2013-06-20
+path: /2013/06/20/individualiserad-medicin-ge-makten-till-patienten/
+tags:
+- name: medicin
+  value: medicin
+- name: sjukvard
+  value: "sjukv\xE5rd"
+title: 'Individualiserad medicin: ge makten till patienten!'
+type: post
 ---
 Jag har deltagit i konferensen [Human Genomics and Personalized Medicine](/posts/Human%20Genomics%20and%20Personalized%20Medicine) i Stockholm 17-20 juni 2013, vilket [jag redan skrivit om](/posts/). En viktig tendens som diskuterades särskilt under konferensens sista dag är att patienter och andra "användare" av vården börjar engagera sig mycket mer i vad som pågår.
 

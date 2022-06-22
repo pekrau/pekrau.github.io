@@ -1,8 +1,22 @@
 ---
-title: 'Birgitta Ohlsson: Välfärden i fokus, äntligen'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-01-23'
 link: https://kraulis.wordpress.com/2014/01/23/birgitta-ohlsson-valfarden-i-fokus-antligen/
 name: birgitta-ohlsson-valfarden-i-fokus-antligen
-date: 2014-01-23
+path: /2014/01/23/birgitta-ohlsson-valfarden-i-fokus-antligen/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: fredrik-segerfeldt
+  value: Fredrik Segerfeldt
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Birgitta Ohlsson: V\xE4lf\xE4rden i fokus, \xE4ntligen"
+type: post
 ---
 Birgitta Ohlsson skriver i [Dagens Nyheter 23 jan 2014](http://www.dn.se/debatt/valutbildade-hemmafruar-valdig-valfardsforlust-for-eu/) om "att kvinnor i Europa utbildar sig och sedan stannar hemma är värre är brain drain." Att kvinnor förvärvsarbetar till så låg grad i stora delar av Europa innebär välfärdsförluster för dem själva och samhället.
 

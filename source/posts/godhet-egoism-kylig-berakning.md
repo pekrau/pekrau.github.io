@@ -1,8 +1,30 @@
 ---
-title: Godhet, egoism, kylig beräkning
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-12-12'
 link: https://kraulis.wordpress.com/2016/12/12/godhet-egoism-kylig-berakning/
 name: godhet-egoism-kylig-berakning
-date: 2016-12-12
+path: /2016/12/12/godhet-egoism-kylig-berakning/
+tags:
+- name: amanda-bjorkman
+  value: "Amanda Bj\xF6rkman"
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: malin-lernfelt
+  value: Malin Lernfelt
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+- name: moral
+  value: moral
+- name: utilitarism
+  value: utilitarism
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Godhet, egoism, kylig ber\xE4kning"
+type: post
 ---
 Är godhet bara förtäckt egoism? Eller är godhetshatarna slavar under en hård och kall människosyn? Debatten är frän och sker synbarligen utan försök att förstå den man kritiserar. Ann Heberlein skriver ([Fokus 9 dec 2016](http://www.fokus.se/2016/12/tiggarens-marknad/)) om att "det är så mycket lättare att vara god än att göra rätt" och avser den som ger gåvor till tiggare för att främst - som hon tolkar det - känna sig nöjd med sig själv. Malin Lernfelt anser ([Expressen 11 dec 2016](http://www.expressen.se/debatt/sanningen-ar-att-godheten-raddar-liv/)) att Heberlein är en "professionella tyckare som raljerar över godhet som vore det något förkastligt och efterfrågar hårdare tag [...]"
 

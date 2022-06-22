@@ -1,8 +1,22 @@
 ---
-title: GMO och framtidens grödor
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-11-10'
 link: https://kraulis.wordpress.com/2013/11/10/gmo-och-framtidens-grodor/
 name: gmo-och-framtidens-grodor
-date: 2013-11-10
+path: /2013/11/10/gmo-och-framtidens-grodor/
+tags:
+- name: genteknik
+  value: genteknik
+- name: greenpeace
+  value: Greenpeace
+- name: johan-norberg
+  value: Johan Norberg
+title: "GMO och framtidens gr\xF6dor"
+type: post
 ---
 Diskussionen om genetiskt modifierade organismer (GMO) tycks ta ny fart. Johan Norberg kritiserar [i Svenska Dagbladet 4 november 2013](http://www.svd.se/opinion/ledarsidan/saboterar-odlingar-med-gmo-grodor_8686736.svd) (se även [7 november 2013](http://www.svd.se/opinion/ledarsidan/mansklig-utveckling-maste-vara-viktigare-an-teknikmotstand_8699686.svd)) den vandalisering som skett av försöksodlingar av "gyllene ris", en variant  av ris som försetts med de gener som behövs för att frambringa beta-karoten, en form av vitamin A. **En sådan rissort skulle kunna bidra till att minska de problem med brist på vitamin A som finns bland befolkningen i många fattiga länder.**
 

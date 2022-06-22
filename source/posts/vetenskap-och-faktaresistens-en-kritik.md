@@ -1,8 +1,22 @@
 ---
-title: 'Vetenskap och faktaresistens: En kritik'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-03-27'
 link: https://kraulis.wordpress.com/2018/03/27/vetenskap-och-faktaresistens-en-kritik/
 name: vetenskap-och-faktaresistens-en-kritik
-date: 2018-03-27
+path: /2018/03/27/vetenskap-och-faktaresistens-en-kritik/
+tags:
+- name: postmodernism
+  value: postmodernism
+- name: sans-magasin
+  value: Sans magasin
+title: 'Vetenskap och faktaresistens: En kritik'
+type: post
 ---
 Jag har skrivit en text publicerad i [Sans magasin nummer 2-2018](http://fritanke.se/sans/sans-nr-2-%E2%80%A2-2018/) med rubrik som ovan.
 

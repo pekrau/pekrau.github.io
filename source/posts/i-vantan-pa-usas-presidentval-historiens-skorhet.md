@@ -1,8 +1,26 @@
 ---
-title: 'I väntan på USA:s presidentval: Historiens skörhet'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-11-08'
 link: https://kraulis.wordpress.com/2016/11/08/i-vantan-pa-usas-presidentval-historiens-skorhet/
 name: i-vantan-pa-usas-presidentval-historiens-skorhet
-date: 2016-11-08
+path: /2016/11/08/i-vantan-pa-usas-presidentval-historiens-skorhet/
+tags:
+- name: donald-trump
+  value: Donald Trump
+- name: hillary-clinton
+  value: Hillary Clinton
+- name: ryssland
+  value: Ryssland
+- name: usa
+  value: USA
+- name: vastvarlden
+  value: "v\xE4stv\xE4rlden"
+title: "I v\xE4ntan p\xE5 USA:s presidentval: Historiens sk\xF6rhet"
+type: post
 ---
 Jag skriver detta i väntan på att USA:s presidentval skall avslutas. Inga resultat föreligger än. Jag vill försöka fånga den stämning som råder: en isande känsla av hur skör historien är. Som när man ser ett glas falla mot golvet. Går det sönder? Kommer det att hålla?
 

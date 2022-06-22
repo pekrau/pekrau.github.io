@@ -1,8 +1,10 @@
 ---
-title: Alexander Dugin
+date: '2014-05-11'
 link: https://kraulis.wordpress.com/alexander-dugin/
 name: alexander-dugin
-date: 2014-05-11
+path: /alexander-dugin/
+title: Alexander Dugin
+type: page
 ---
 Här samlar jag länkar till websidor om eller av Alexander Dugin, rysk antiliberal ideolog och aktivist. Jag fyller på litet vartefter.
 

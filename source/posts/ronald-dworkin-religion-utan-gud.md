@@ -1,8 +1,20 @@
 ---
-title: 'Ronald Dworkin: Religion utan gud'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2013-03-25'
 link: https://kraulis.wordpress.com/2013/03/25/ronald-dworkin-religion-utan-gud/
 name: ronald-dworkin-religion-utan-gud
-date: 2013-03-25
+path: /2013/03/25/ronald-dworkin-religion-utan-gud/
+tags:
+- name: eutyfron
+  value: Eutyfron
+- name: platon
+  value: Platon
+- name: ronald-dworkin
+  value: Ronald Dworkin
+title: 'Ronald Dworkin: Religion utan gud'
+type: post
 ---
 [Ronald Dworkin](http://en.wikipedia.org/wiki/Ronald_Dworkin), amerikansk rättsfilosof och liberal debattör, gick bort 14 februari 2013. Han publicerade tunga artiklar i [New York Review of Books (NYRB)](http://www.nybooks.com/) där han bland annat utifrån sin syn på filosofin bakom den amerikanska konstitutionen argumenterade kring aktuella politiska problem.
 

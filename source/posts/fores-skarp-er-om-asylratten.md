@@ -1,8 +1,22 @@
 ---
-title: Fores, skärp er om asylrätten
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-10-15'
 link: https://kraulis.wordpress.com/2017/10/15/fores-skarp-er-om-asylratten/
 name: fores-skarp-er-om-asylratten
-date: 2017-10-15
+path: /2017/10/15/fores-skarp-er-om-asylratten/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: fores
+  value: Fores
+- name: mattias-goldmann
+  value: Mattias Goldmann
+title: "Fores, sk\xE4rp er om asylr\xE4tten"
+type: post
 ---
 Tankesmedjan Fores kritiserar Moderaternas förslag om nytt kvotflyktingsystem som ska ersätta dagens asylrätt. Andreas Bergström och Minna Ljunggren skriver på DN Debatt 15 oktober 2017 en artikel som har en del poänger, men vars avslutande retoriska släng oavsiktligt avslöjar svagheten i deras resonemang:
 

@@ -1,8 +1,20 @@
 ---
-title: 'Dina gener på ett id-kort: Individualiserad medicin?'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-06-19'
 link: https://kraulis.wordpress.com/2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/
 name: dina-gener-pa-ett-id-kort-individualiserad-medicin
-date: 2013-06-19
+path: /2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/
+tags:
+- name: genteknik
+  value: genteknik
+- name: medicin
+  value: medicin
+title: "Dina gener p\xE5 ett id-kort: Individualiserad medicin?"
+type: post
 ---
 Jag deltar i konferensen [Human Genomics and Personalized Medicine](Human Genomics and Personalized Medicine) som pågår i Stockholm 17-20 juni 2013. Det handlar om de framsteg som görs inom [genomiken](http://en.wikipedia.org/wiki/Genomics), alltså vetenskapen om hur man analyserar hela arvsmassan hos en organism, som till exempel människan. **Att dessa framsteg kommer att påverka sjukvården är uppenbart. Frågan är: Hur?**
 

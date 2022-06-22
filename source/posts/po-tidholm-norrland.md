@@ -1,8 +1,28 @@
 ---
-title: 'Po Tidholm: Norrland'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-01-01'
 link: https://kraulis.wordpress.com/2013/01/01/po-tidholm-norrland/
 name: po-tidholm-norrland
-date: 2013-01-01
+path: /2013/01/01/po-tidholm-norrland/
+tags:
+- name: bok
+  value: bok
+- name: historia
+  value: historia
+- name: landsbygd
+  value: landsbygd
+- name: po-tidholm
+  value: Po Tidholm
+title: 'Po Tidholm: Norrland'
+type: post
 ---
 Po Tidholms bok **Norrland** är en klagosång över landsbygdens långsamma död, blandat med reflektioner om konflikten mellan stad, landsbygd och modernitet. Den är en samling essäer och reportage skrivna av Tidholm under de senaste 15 åren. Författaren är journalist, uppvuxen i Hälsingland, verkade några år i Stockholm, och flyttade sedan tillbaka.
 

@@ -1,8 +1,24 @@
 ---
-title: Orsakade klimatförändringarna den varma sommaren 2018?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2018-08-26'
 link: https://kraulis.wordpress.com/2018/08/26/orsakade-klimatforandringarna-den-varma-sommaren-2018/
 name: orsakade-klimatforandringarna-den-varma-sommaren-2018
-date: 2018-08-26
+path: /2018/08/26/orsakade-klimatforandringarna-den-varma-sommaren-2018/
+tags:
+- name: klimat
+  value: Klimat
+- name: simulering
+  value: simulering
+- name: statistik
+  value: statistik
+title: "Orsakade klimatf\xF6r\xE4ndringarna den varma sommaren 2018?"
+type: post
 ---
 Jag deltar i en återkommande opinionsundersökning (Medborgarpanelen) inför valet, där Henrik Ekengren Oscarsson är ansvarig. Han är professor på Statsvetenskapliga institutionen vid Göteborgs universitet. Där fanns en fråga som orsakade mig visst huvudbry:
 

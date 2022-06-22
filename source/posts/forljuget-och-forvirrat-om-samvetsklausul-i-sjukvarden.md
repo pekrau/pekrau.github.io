@@ -1,8 +1,24 @@
 ---
-title: Förljuget och förvirrat om "samvetsklausul" i sjukvården
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-04-28'
 link: https://kraulis.wordpress.com/2015/04/28/forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden/
 name: forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden
-date: 2015-04-28
+path: /2015/04/28/forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden/
+tags:
+- name: abort
+  value: abort
+- name: kristdemokraterna
+  value: Kristdemokraterna
+- name: samvetsklausul
+  value: samvetsklausul
+title: "F\xF6rljuget och f\xF6rvirrat om \"samvetsklausul\" i sjukv\xE5rden"
+type: post
 ---
 **Så har då Kristdemokraternas förslag om så kallad "samvetsklausul", som ska garantera "samvetsfrihet" för sjukvårdspersonal, kommit [på tapeten igen](http://www.aftonbladet.se/nyheter/article20690230.ab). Ett förslag som i sin hycklande omsorg är ett mästerstycke i förljugen retorik.**
 

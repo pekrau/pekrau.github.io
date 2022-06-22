@@ -1,8 +1,36 @@
 ---
-title: 'Efterlysning: De svenska intellektuella om Ryssland?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-05-04'
 link: https://kraulis.wordpress.com/2014/05/04/efterlysning-de-svenska-intellektuella-om-ryssland/
 name: efterlysning-de-svenska-intellektuella-om-ryssland
-date: 2014-05-04
+path: /2014/05/04/efterlysning-de-svenska-intellektuella-om-ryssland/
+tags:
+- name: alexander-dugin
+  value: Alexander Dugin
+- name: anne-applebaum
+  value: Anne Applebaum
+- name: asa-linderborg
+  value: "\xC5sa Linderborg"
+- name: eu
+  value: EU
+- name: goran-greider
+  value: "G\xF6ran Greider"
+- name: nato
+  value: NATO
+- name: ryssland
+  value: Ryssland
+- name: timothy-snyder
+  value: Timothy Snyder
+- name: ukraina
+  value: Ukraina
+- name: vladimir-putin
+  value: Vladimir Putin
+title: 'Efterlysning: De svenska intellektuella om Ryssland?'
+type: post
 ---
 Jag undrar: Var har de svenska intellektuella tagit vägen när det gäller debatten om Ryssland? Jag försöker följa med i vad som skrivs i bland annat Dagens Nyheter, Svenska Dagbladet, Aftonbladet och Expressen. Men i stort sett alla inlägg skrivna av svenska debattörer har undvikit elefanten i rummet: **Är Ryssland på väg att bli en nyfascistisk stat? Eller har den kanske redan blivit det?**
 

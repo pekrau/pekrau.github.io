@@ -1,8 +1,26 @@
 ---
-title: Postkolonial kortslutning
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-11-05'
 link: https://kraulis.wordpress.com/2015/11/05/postkolonial-kortslutning/
 name: postkolonial-kortslutning
-date: 2015-11-05
+path: /2015/11/05/postkolonial-kortslutning/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+- name: postkolonialism
+  value: postkolonialism
+- name: postmodernism
+  value: postmodernism
+title: Postkolonial kortslutning
+type: post
 ---
 Postkoloniala texter är påfallande ofta rejält korkade. Beror det på att skribenterna har blivit fördummade av postkolonialt tänkande, eller dras dumma personer till postkolonialism?
 

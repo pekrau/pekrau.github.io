@@ -1,8 +1,18 @@
 ---
-title: 'Europa: integration eller undergång?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-01-30'
 link: https://kraulis.wordpress.com/2013/01/30/europa-integration-eller-undergang/
 name: europa-integration-eller-undergang
-date: 2013-01-30
+path: /2013/01/30/europa-integration-eller-undergang/
+tags:
+- name: europa
+  value: Europa
+title: "Europa: integration eller underg\xE5ng?"
+type: post
 ---
 Salman Rushdie, Julia Kristeva, Umberto Eco m fl har publicerat en artikel 28 jan 2013 i flera tidningar, däribland [Expressen](http://www.expressen.se/kultur/undergang/). Deras tes är att Europa måste gå vidare mot integration eller gå under. **Men är det verkligen så?**
 

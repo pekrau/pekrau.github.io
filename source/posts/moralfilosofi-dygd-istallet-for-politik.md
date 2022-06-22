@@ -1,8 +1,28 @@
 ---
-title: 'Moralfilosofi: Dygd istället för politik?'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2012-10-29'
 link: https://kraulis.wordpress.com/2012/10/29/moralfilosofi-dygd-istallet-for-politik/
 name: moralfilosofi-dygd-istallet-for-politik
-date: 2012-10-29
+path: /2012/10/29/moralfilosofi-dygd-istallet-for-politik/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: elizabeth-anscombe
+  value: Elizabeth Anscombe
+- name: liberalism
+  value: liberalism
+- name: moral
+  value: moral
+- name: upplysningen
+  value: Upplysningen
+title: "Moralfilosofi: Dygd ist\xE4llet f\xF6r politik?"
+type: post
 ---
 I Dagens Nyheter skriver Ann Heberlein (26 okt 2012, tyvärr inte på webben) om det moralfilosofiska begreppet **dygd** (engelska: virtue) som ett alternativ till upplysningens resonemang om rättigheter och skyldigheter. Artikeln är ett bra exempel på hur kritiken av liberalismen kan låta i dessa dagar.
 

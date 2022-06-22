@@ -1,9 +1,24 @@
 ---
-title: 'Plato at the Googleplex: Philosophical solutions and their problems'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: in-english
+  value: In English
+date: '2016-03-06'
 link: https://kraulis.wordpress.com/2016/03/06/plato-at-the-googleplex-philosophical-solutions-and-their-problems/
 name: plato-at-the-googleplex-philosophical-solutions-and-their-problems
-date: 2016-03-06
-language: en
+path: /2016/03/06/plato-at-the-googleplex-philosophical-solutions-and-their-problems/
+tags:
+- name: ethics
+  value: ethics
+- name: karl-popper
+  value: Karl Popper
+- name: platon
+  value: Platon
+- name: rebecca-newberger-goldstein
+  value: Rebecca Newberger Goldstein
+title: 'Plato at the Googleplex: Philosophical solutions and their problems'
+type: post
 ---
 Can a 2,400 year old thinker possibly have anything of interest to say to us in the modern world? Yes, says Rebecca Newberger Goldstein, philosopher at Columbia, Harvard and other institutions. Not only does the thinker in question, [Plato](https://en.wikipedia.org/wiki/Plato), provide arguments and views on issues still troubling us today. His entire project, philosophy, is alive and kicking. Goldstein argues convincingly that modern science has not and cannot supplant philosophical reasoning as such. She shows why there are some philosophical problems which science alone cannot answer. Personally, I don't need to be convinced about this, but there are clearly many scientists who believe philosophy in general is a waste of time.
 

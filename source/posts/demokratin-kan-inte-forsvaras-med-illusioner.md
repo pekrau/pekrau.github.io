@@ -1,8 +1,26 @@
 ---
-title: Demokratin kan inte försvaras med illusioner
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-03-25'
 link: https://kraulis.wordpress.com/2018/03/25/demokratin-kan-inte-forsvaras-med-illusioner/
 name: demokratin-kan-inte-forsvaras-med-illusioner
-date: 2018-03-25
+path: /2018/03/25/demokratin-kan-inte-forsvaras-med-illusioner/
+tags:
+- name: demokrati
+  value: demokrati
+- name: moderaterna
+  value: Moderaterna
+- name: populism
+  value: populism
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Demokratin kan inte f\xF6rsvaras med illusioner"
+type: post
 ---
 Det talas mycket om hoten mot demokratin. Ett exempel är artikeln [”Orimligt lätt att rösta bort den svenska demokratin”](https://www.dn.se/debatt/orimligt-latt-att-rosta-bort-den-svenska-demokratin/) på DN Debatt 25 mars 2018. Även om den har vissa poänger, så illustrerar den framförallt den blinda fläck som många debattörer tyvärr har i denna frågan. Den som tror att demokratins försvar främst består av konstitutionens regler har inte förstått problemets fulla allvar.
 

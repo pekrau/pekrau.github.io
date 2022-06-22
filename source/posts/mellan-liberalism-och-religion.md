@@ -1,8 +1,26 @@
 ---
-title: Mellan liberalism och religion
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-08-25'
 link: https://kraulis.wordpress.com/2019/08/25/mellan-liberalism-och-religion/
 name: mellan-liberalism-och-religion
-date: 2019-08-25
+path: /2019/08/25/mellan-liberalism-och-religion/
+tags:
+- name: joel-halldorf
+  value: Joel Halldorf
+- name: larry-siedentop
+  value: Larry Siedentop
+- name: patrick-deneen
+  value: Patrick Deneen
+- name: sans-magasin
+  value: Sans magasin
+title: Mellan liberalism och religion
+type: post
 ---
 Jag har skrivit en text publicerad i [Sans magasin nummer 3-2019](https://fritanke.se/sans/sans-nr-3-%e2%80%a2-2019/) med rubrik som ovan.
 

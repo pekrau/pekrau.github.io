@@ -1,8 +1,24 @@
 ---
-title: DN, de papperslösa, och den intellektuella ärligheten
+categories:
+- name: politik
+  value: Politik
+date: '2013-03-17'
 link: https://kraulis.wordpress.com/2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/
 name: dn-de-papperslosa-och-den-intellektuella-arligheten
-date: 2013-03-17
+path: /2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: erik-helmerson
+  value: Erik Helmerson
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+title: "DN, de pappersl\xF6sa, och den intellektuella \xE4rligheten"
+type: post
 ---
 Dagens Nyheters huvudledare 17 mars 2013 för ett så märkligt resonemang att man tvingas ställa frågan: **Eftersträvar DN:s ledarredaktion att vara intellektuellt ärlig eller inte?**
 

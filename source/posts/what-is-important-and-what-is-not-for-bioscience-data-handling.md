@@ -1,9 +1,30 @@
 ---
-title: What is important, and what is not, for bioscience data handling
+categories:
+- name: computing
+  value: Computing
+- name: in-english
+  value: In English
+- name: politik
+  value: Politik
+date: '2016-04-04'
 link: https://kraulis.wordpress.com/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/
 name: what-is-important-and-what-is-not-for-bioscience-data-handling
-date: 2016-04-04
-language: en
+path: /2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/
+tags:
+- name: big-data
+  value: Big Data
+- name: life-science
+  value: life science
+- name: open-access
+  value: Open Access
+- name: open-science
+  value: Open Science
+- name: snic
+  value: SNIC
+- name: vr
+  value: VR
+title: What is important, and what is not, for bioscience data handling
+type: post
 ---
 There is an on-going discussion between the main bureaucratic players of Swedish science regarding the issue of data storage and data handling for the biosciences in Sweden. The question they discuss is "who should pay for what, and how should the money be channelled?"
 

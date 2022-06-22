@@ -1,8 +1,30 @@
 ---
-title: 'Liberalt vägval: Pangloss eller social ingenjörskonst'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-12-08'
 link: https://kraulis.wordpress.com/2019/12/08/liberalt-vagval-pangloss-eller-social-ingenjorskonst/
 name: liberalt-vagval-pangloss-eller-social-ingenjorskonst
-date: 2019-12-08
+path: /2019/12/08/liberalt-vagval-pangloss-eller-social-ingenjorskonst/
+tags:
+- name: invandring
+  value: invandring
+- name: leibniz
+  value: Leibniz
+- name: liberalism
+  value: liberalism
+- name: pangloss
+  value: Pangloss
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: sofia-mirjamsdotter
+  value: Sofia Mirjamsdotter
+- name: voltaire
+  value: Voltaire
+title: "Liberalt v\xE4gval: Pangloss eller social ingenj\xF6rskonst"
+type: post
 ---
 Pangloss är en figur i [Voltaires](https://sv.wikipedia.org/wiki/Voltaire) roman [Candide](https://sv.wikipedia.org/wiki/Candide) (1759), en bok som många i min generation har (tvingats) läsa i skolan. Candide är en naiv yngling som ser krig, jordbävningar och andra katastrofer i Europa och världen. Han följs åt av filosofen Pangloss, vars syn på världen är att den är den bästa möjliga. Vilket elände som än diskuteras så har han en förklaring till varför det måste vara på det viset. Pangloss är ett illa dolt nidporträtt av filosofen [Leibniz](https://sv.wikipedia.org/wiki/Gottfried_Wilhelm_von_Leibniz) (1646-1716), som hävdade att Gud är perfekt, och att allt som denne skapat därför också är perfekt, även om vi enkla människor inte begriper det.
 

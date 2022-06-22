@@ -1,10 +1,28 @@
 ---
-title: 'Daniel Dennett: Darwin''s Dangerous Idea'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-03-29'
 link: https://kraulis.wordpress.com/2013/03/29/daniel-dennett-darwins-dangerous-idea/
 name: daniel-dennett-darwins-dangerous-idea
-date: 2013-03-29
+path: /2013/03/29/daniel-dennett-darwins-dangerous-idea/
+tags:
+- name: bok
+  value: bok
+- name: daniel-dennett
+  value: Daniel Dennett
+- name: darwinism
+  value: darwinism
+title: 'Daniel Dennett: Darwin''s Dangerous Idea'
+type: post
 ---
 Jag har läst [Daniel Dennetts](http://en.wikipedia.org/wiki/Daniel_Dennett) bok **Darwin's Dangerous Idea: Evolution and the Meanings of Life**, ett av de mer omtalade debattinläggen i gränslandet mellan vetenskap och samhällsdebatt under de senaste 20 åren.
+
+
 
 En [sammanfattning av boken finns på Wikipedia](http://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea), så jag tänker inte referera hela innehållet här. 
 

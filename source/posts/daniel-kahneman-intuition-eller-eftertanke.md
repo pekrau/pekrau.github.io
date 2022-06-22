@@ -1,8 +1,26 @@
 ---
-title: 'Daniel Kahneman: Intuition eller eftertanke'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-10-06'
 link: https://kraulis.wordpress.com/2013/10/06/daniel-kahneman-intuition-eller-eftertanke/
 name: daniel-kahneman-intuition-eller-eftertanke
-date: 2013-10-06
+path: /2013/10/06/daniel-kahneman-intuition-eller-eftertanke/
+tags:
+- name: beteendevetenskap
+  value: beteendevetenskap
+- name: bok
+  value: bok
+- name: ekonomi
+  value: ekonomi
+- name: moral
+  value: moral
+title: 'Daniel Kahneman: Intuition eller eftertanke'
+type: post
 ---
 [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman), Nobelpristagare i ekonomi år 2002, sammanfattar i boken **Tänka, snabbt och långsamt** resultaten av sin forskning om hur människor faktiskt tänker, bedömer, värderar och väljer. **Det handlar om att ifrågasätta den utgångspunkt som är gängse inom till exempel klassisk ekonomisk teori, nämligen att människan alltid resonerar rationellt för att välja det bästa alternativet i varje given valsituation.**
 

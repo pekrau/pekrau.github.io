@@ -1,8 +1,24 @@
 ---
-title: SD, fascismen och framtiden
+categories:
+- name: politik
+  value: Politik
+date: '2012-12-01'
 link: https://kraulis.wordpress.com/2012/12/01/sd-fascismen-och-framtiden/
 name: sd-fascismen-och-framtiden
-date: 2012-12-01
+path: /2012/12/01/sd-fascismen-och-framtiden/
+tags:
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: fascism
+  value: fascism
+- name: reaktionar
+  value: "reaktion\xE4r"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: utveckling
+  value: utveckling
+title: SD, fascismen och framtiden
+type: post
 ---
 I en pågående debatt om Sverigedemokraterna i Dagens Nyheter skriver [journalisten Henrik Arnstad (15 nov)](http://www.dn.se/debatt/sverigedemokraterna-ar-ett-fascistiskt-parti):
 

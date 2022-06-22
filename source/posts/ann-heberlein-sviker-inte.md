@@ -1,8 +1,24 @@
 ---
-title: Ann Heberlein sviker inte
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-11-25'
 link: https://kraulis.wordpress.com/2015/11/25/ann-heberlein-sviker-inte/
 name: ann-heberlein-sviker-inte
-date: 2015-11-25
+path: /2015/11/25/ann-heberlein-sviker-inte/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: invandring
+  value: invandring
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: islamism
+  value: islamism
+title: Ann Heberlein sviker inte
+type: post
 ---
 Ann Heberlein skriver i [Dagens Nyheter 25 november 2015](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-odesdigert-att-inte-forsta-att-religion-ar-viktigt/) om de som ansluter sig till Islamiska Staten, och hennes synpunkter sviker inte den som letar efter dagens stollighet. Hon skriver:
 

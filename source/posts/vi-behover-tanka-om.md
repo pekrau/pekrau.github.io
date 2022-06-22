@@ -1,8 +1,24 @@
 ---
-title: Vi behöver tänka om
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-11-14'
 link: https://kraulis.wordpress.com/2016/11/14/vi-behover-tanka-om/
 name: vi-behover-tanka-om
-date: 2016-11-14
+path: /2016/11/14/vi-behover-tanka-om/
+tags:
+- name: karl-marx
+  value: Karl Marx
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+- name: vastvarlden
+  value: "v\xE4stv\xE4rlden"
+title: "Vi beh\xF6ver t\xE4nka om"
+type: post
 ---
 Västvärldens liberala ordning har stora problem. Det torde stå klart efter finanskrisen 2008, flyktingkatastrofen, de illiberala framgångarna i Ryssland, Ungern, Polen och Turkiet, främlingsfientlig populism i många länder, Brexit och senast Donald Trumps seger i USA:s presidentval. Varför hände allt detta? Hur ska utvecklingen kunna vändas? För att kunna finna vägar framåt måste vi analysera vad som gått fel. Man kan inte längre låtsas som att problemen skulle försvinna bara vi var litet mer ståndaktiga.
 

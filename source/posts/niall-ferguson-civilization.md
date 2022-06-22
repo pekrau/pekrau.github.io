@@ -1,8 +1,28 @@
 ---
-title: 'Niall Ferguson: Civilization'
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-01-26'
 link: https://kraulis.wordpress.com/2013/01/26/niall-ferguson-civilization/
 name: niall-ferguson-civilization
-date: 2013-01-26
+path: /2013/01/26/niall-ferguson-civilization/
+tags:
+- name: bok
+  value: bok
+- name: historia
+  value: historia
+- name: kolonialism
+  value: kolonialism
+- name: niall-ferguson
+  value: Niall Ferguson
+- name: vastvarlden
+  value: "v\xE4stv\xE4rlden"
+title: 'Niall Ferguson: Civilization'
+type: post
 ---
 **Den brittiske historikern Niall Ferguson har skrivit en bok om hur det kommer sig att Västervärlden dominerat världen under de senaste 500 åren.** Från att 1450 varit ett bakvatten i ett hörn av Eurasien, till att 400 år senare styra världen. Och Fergusons följdfråga är: **Är Västvärlden på väg tillbaka till bakvattnet?**
 

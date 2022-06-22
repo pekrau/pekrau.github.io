@@ -1,8 +1,30 @@
 ---
-title: Islamofoben Margot Wallström
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-03-20'
 link: https://kraulis.wordpress.com/2015/03/20/islamofoben-margot-wallstrom/
 name: islamofoben-margot-wallstrom
-date: 2015-03-20
+path: /2015/03/20/islamofoben-margot-wallstrom/
+tags:
+- name: islam
+  value: Islam
+- name: margot-wallstrom
+  value: "Margot Wallstr\xF6m"
+- name: olof-palme
+  value: Olof Palme
+- name: raif-badawi
+  value: Raif Badawi
+- name: saudiarabien
+  value: Saudiarabien
+- name: stefan-lofven
+  value: "Stefan L\xF6fven"
+title: "Islamofoben Margot Wallstr\xF6m"
+type: post
 ---
 Margot Wallströms konflikt med Saudiarabien har utvecklat sig mycket intressant. För alla de identitetspolitiker som försöker hävda att kritik av islam är islamofobi så har det hela blivit ett delikat problem. Ovanpå det har en skock näringslivsföreträdare fulat ut sig som hymlare om förtryck ([Dagens Nyheter 2013-03-06](http://www.dn.se/debatt/sveriges-trovardighet-som-handelspartner-star-pa-spel/)).
 

@@ -1,8 +1,20 @@
 ---
-title: 'Torbjörn Tännsjö: "Istället för yttrande- och tryckfrihet"'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-11-30'
 link: https://kraulis.wordpress.com/2015/11/30/torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet/
 name: torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet
-date: 2015-11-30
+path: /2015/11/30/torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet/
+tags:
+- name: torbjorn-tannsjo
+  value: "Torbj\xF6rn T\xE4nnsj\xF6"
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: "Torbj\xF6rn T\xE4nnsj\xF6: \"Ist\xE4llet f\xF6r yttrande- och tryckfrihet\""
+type: post
 ---
 Torbjörn Tännsjö, professor i praktisk filosofi vid Stockholms Universitet, skriver om reklamens förskräcklighet på [DN Debatt 30 nov 2015](http://www.dn.se/debatt/reklamen-ar-skadlig-for-samhallet-och-klimatet/). Han vill i princip förbjuda reklam. Huruvida det vore förenligt med yttrandefrihet förbigår han med tystnad. Även om hans resonemang inte utmynnar i något konkret förslag mer än att en utredning bör tillsättas, så får jag en vag känsla av déjà vu.
 

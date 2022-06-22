@@ -1,8 +1,32 @@
 ---
-title: 'Nationalstaten som allmänning: En extremistisk invandringspolitik.'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-09-29'
 link: https://kraulis.wordpress.com/2015/09/29/nationalstaten-som-allmanning-en-extremistisk-invandringspolitik/
 name: nationalstaten-som-allmanning-en-extremistisk-invandringspolitik
-date: 2015-09-29
+path: /2015/09/29/nationalstaten-som-allmanning-en-extremistisk-invandringspolitik/
+tags:
+- name: adam-smith
+  value: Adam Smith
+- name: allmanningen
+  value: "allm\xE4nningen"
+- name: elinor-ostrom
+  value: Elinor Ostrom
+- name: garrett-hardin
+  value: Garrett Hardin
+- name: invandring
+  value: invandring
+- name: karim-jebari
+  value: Karim Jebari
+- name: robert-ostling
+  value: "Robert \xD6stling"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Nationalstaten som allm\xE4nning: En extremistisk invandringspolitik."
+type: post
 ---
 I skuggan av det pågående dramat med Syriens flyktingkatastrof händer märkliga saker i den svenska debatten. Vissa ståndpunkter som förut ansetts självklara blir plötsligt suspekta, medan andra går från tokstollevarning till hög moral. Så vad gäller? Vilken ståndpunkt är moralisk?
 
@@ -72,5 +96,5 @@ Som pendang till detta vill jag nämna filosofen Karim Jebaris intressanta artik
 
 Men påverkas kommer den att göra: Modellen bygger på att fristaden fortfarande är svenskt territorium, alltså inte en egen separat stat. Därmed skapas ett system som inte så litet påminner om [bantustans](https://sv.wikipedia.org/wiki/Bantustan) i apartheidtidens Sydafrika. Demokrati kommer inte att råda. Administrationen skulle vara svensk, men invånarna i fristaden är inte svenska medborgare. Den svenska nationalstatens karaktär skulle därigenom ändras drastiskt. Inom sig skulle den härbärgera en befolkning legalt avskilda från resten av samhället. Ironiskt nog skulle detta sätt att försöka undvika påverkan på den svenska allmänningen förändra den mer drastiskt än de flesta andra förslag.
 
-Elinor Ostrom: **Allmänningen som samhällsinstitution.** Arkiv förlag, 2009 (ursprungligen publicerad 1990), ISBN 978-91-7924-220-6.  
+Elinor Ostrom: **Allmänningen som samhällsinstitution.** Arkiv förlag, 2009 (ursprungligen publicerad 1990), ISBN 978-91-7924-220-6.
 

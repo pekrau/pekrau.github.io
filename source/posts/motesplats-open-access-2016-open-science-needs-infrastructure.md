@@ -1,9 +1,26 @@
 ---
-title: 'Mötesplats Open Access 2016: Open Science needs infrastructure'
+categories:
+- name: in-english
+  value: In English
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-05-22'
 link: https://kraulis.wordpress.com/2016/05/22/motesplats-open-access-2016-open-science-needs-infrastructure/
 name: motesplats-open-access-2016-open-science-needs-infrastructure
-date: 2016-05-22
-language: en
+path: /2016/05/22/motesplats-open-access-2016-open-science-needs-infrastructure/
+tags:
+- name: data-storage
+  value: data storage
+- name: open-access
+  value: Open Access
+- name: open-science
+  value: Open Science
+title: "M\xF6tesplats Open Access 2016: Open Science needs infrastructure"
+type: post
 ---
 The two-day conference Mötesplats Open Access 2016 [MOA2016](http://www.kb.se/openaccess/Motesplats-Open-Access/2016/) was held 26-27 April 2016 in Stockholm, Sweden. It was arranged by Kungliga Biblioteket together with Stockholm University. My conclusion is that the conference showed that there are severe deficiencies in the policies and infrastructure required for Open Science, even if the idea of Open Access is fairly well established in Sweden.
 

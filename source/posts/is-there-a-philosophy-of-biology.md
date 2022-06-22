@@ -1,9 +1,28 @@
 ---
-title: Is there a philosophy of biology?
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: in-english
+  value: In English
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-06-19'
 link: https://kraulis.wordpress.com/2016/06/19/is-there-a-philosophy-of-biology/
 name: is-there-a-philosophy-of-biology
-date: 2016-06-19
-language: en
+path: /2016/06/19/is-there-a-philosophy-of-biology/
+tags:
+- name: biologi
+  value: biologi
+- name: ernst-mayr
+  value: Ernst Mayr
+- name: evolution
+  value: evolution
+- name: karl-popper
+  value: Karl Popper
+- name: peter-godfrey-smith
+  value: Peter Godfrey-Smith
+title: Is there a philosophy of biology?
+type: post
 ---
 Having just read the book "Philosophy of Biology" by Peter Godfrey-Smith (who is Distinguished Professor of Philosophy at the City University of New York Graduate Center), I am left wondering if there is such a thing as a philosophy of biology. The book is well-written, and it discusses a number of fundamental phenomena in biology quite well. I did learn some new things, and the discussion does explain some issues very well. I cannot find any errors or misunderstandings of significance, except for one statement, discussed later.
 

@@ -1,8 +1,22 @@
 ---
-title: Staden – tätare och grönare
+categories:
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-10-19'
 link: https://kraulis.wordpress.com/2013/10/19/staden-tatare-och-gronare/
 name: staden-tatare-och-gronare
-date: 2013-10-19
+path: /2013/10/19/staden-tatare-och-gronare/
+tags:
+- name: folkpartiet
+  value: Folkpartiet
+- name: liberalerna
+  value: Liberalerna
+- name: stockholm
+  value: Stockholm
+title: "Staden \u2013 t\xE4tare och gr\xF6nare"
+type: post
 ---
 Rasmus Jonlund, FP-politiker som kandiderar till bl.a. kommunfullmäktige i Stockholm, bloggar om stadsbyggnadspolitik. Hans inlägg [18 okt 2013 "Staden – tätare och grönare"](http://rasmusliberal.wordpress.com/2013/10/18/staden-tatare-och-gronare/) är förvånansvärt framåtsyftande för att komma från Folkpartiet, vilket självklart är trevligt. Värt att läsa.
 

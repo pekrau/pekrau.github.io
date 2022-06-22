@@ -1,8 +1,24 @@
 ---
-title: 'SVT Vetenskapens värld: Människans första krig'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-07-08'
 link: https://kraulis.wordpress.com/2013/07/08/svt-vetenskapens-varld-manniskans-forsta-krig/
 name: svt-vetenskapens-varld-manniskans-forsta-krig
-date: 2013-07-08
+path: /2013/07/08/svt-vetenskapens-varld-manniskans-forsta-krig/
+tags:
+- name: darwinism
+  value: darwinism
+- name: historia
+  value: historia
+- name: krig
+  value: krig
+- name: steven-pinker
+  value: Steven Pinker
+title: "SVT Vetenskapens v\xE4rld: M\xE4nniskans f\xF6rsta krig"
+type: post
 ---
 SVT Vetenskapens värld visade ett mycket intressant program 8 juli 2013: Människans första krig, av Martin Widman. [Det kan ses på SVT Play](http://www.svtplay.se/video/1315147/del-5-av-8-manniskans-forsta-krig) till 5 augusti 2013. Gör det!
 

@@ -1,8 +1,28 @@
 ---
-title: Socialister som älskar klassamhället
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-01-28'
 link: https://kraulis.wordpress.com/2018/01/28/socialister-som-alskar-klassamhallet/
 name: socialister-som-alskar-klassamhallet
-date: 2018-01-28
+path: /2018/01/28/socialister-som-alskar-klassamhallet/
+tags:
+- name: daniel-suhonen
+  value: Daniel Suhonen
+- name: goran-therborn
+  value: "G\xF6ran Therborn"
+- name: klasskamp
+  value: klasskamp
+- name: medelklass
+  value: medelklass
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Socialister som \xE4lskar klassamh\xE4llet"
+type: post
 ---
 Är klasskampen relevant för politiken? Ja, svarar en trio socialister med Daniel Suhonen, socialdemokratisk skribent och aktivist, Göran Therborn, framstående sociolog, och Niels Stöber på [Dagens Nyheter Debatt 2018-01-28](https://www.dn.se/debatt/atta-av-tio-valjare-anser-att-sverige-ar-ett-klassamhalle/). Som stöd anför de en opinionsundersökning där man ställt frågan "Tycker du att Sverige är ett klassamhälle?" I DN-artikeln skriver trion att "åtta av tio väljare anser att Sverige är ett klassamhälle." För att få fram siffran 80% har de lagt ihop den andel som svarar "Ja, absolut" (34%) med de som svarar "Ja, i någon mån" (47%), vilket framgår av [rapporten](https://www.katalys.org/publikation/no-40-klass-identitet-och-politisk-mobilisering/) som artikeln är en sammanfattning av. Deras slutsats att klasskampen vore vägen till valseger för Socialdemokratin är inte så starkt underbyggd som de hävdar.
 

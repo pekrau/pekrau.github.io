@@ -1,8 +1,20 @@
 ---
-title: 'Hanna Höglund om Valkyrian: Satir, får man hoppas'
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-12-09'
 link: https://kraulis.wordpress.com/2013/12/09/hanna-hoglund-om-valkyrian-satir-far-man-hoppas/
 name: hanna-hoglund-om-valkyrian-satir-far-man-hoppas
-date: 2013-12-09
+path: /2013/12/09/hanna-hoglund-om-valkyrian-satir-far-man-hoppas/
+tags:
+- name: opera
+  value: opera
+- name: valkyrian
+  value: Valkyrian
+title: "Hanna H\xF6glund om Valkyrian: Satir, f\xE5r man hoppas"
+type: post
 ---
 Hanna Höglund, skribent på Expressens kultursida, ägnar sig åt satir om operadebatten. Tror jag. I en [artikel 6 dec 2013](http://www.expressen.se/kultur/i-wotans-vald/) anlägger hon genusperspektiv på [framförandet av tredje akten i Valkyrian](/posts/) häromdagen:
 

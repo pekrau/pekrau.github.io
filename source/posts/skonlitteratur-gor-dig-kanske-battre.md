@@ -1,8 +1,24 @@
 ---
-title: Skönlitteratur gör dig (kanske) bättre
+categories:
+- name: kultur
+  value: Kultur
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-10-07'
 link: https://kraulis.wordpress.com/2013/10/07/skonlitteratur-gor-dig-kanske-battre/
 name: skonlitteratur-gor-dig-kanske-battre
-date: 2013-10-07
+path: /2013/10/07/skonlitteratur-gor-dig-kanske-battre/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: etik
+  value: etik
+- name: science
+  value: Science
+- name: skonlitteratur
+  value: "sk\xF6nlitteratur"
+title: "Sk\xF6nlitteratur g\xF6r dig (kanske) b\xE4ttre"
+type: post
 ---
 Det är inte var dag en litteraturkritiker jublar över en forskningsrapport i den prestigefyllda vetenskapliga tidskriften [Science](http://www.sciencemag.org/). Maria Schottenius gör det i Dagens Nyheter 7 okt 2013 i en olänkbar notis. Rapporten publicerades [ 3 okt 2013 på Science Express](http://www.sciencemag.org/content/early/2013/10/02/science.1239918) ([PubMed:24091705](http://www.ncbi.nlm.nih.gov/pubmed/24091705)) och är skriven av David Comer Kidd och Emanuele Castano. **Den handlar om huruvida personer som just har läst en novell eller annan kortare text blir bättre på att avgöra vilket sinnestillstånd en annan person befinner sig i.**
 

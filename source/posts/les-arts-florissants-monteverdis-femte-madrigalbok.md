@@ -1,8 +1,16 @@
 ---
-title: 'Les Arts Florissants: Monteverdis femte madrigalbok'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-06-04'
 link: https://kraulis.wordpress.com/2013/06/04/les-arts-florissants-monteverdis-femte-madrigalbok/
 name: les-arts-florissants-monteverdis-femte-madrigalbok
-date: 2013-06-04
+path: /2013/06/04/les-arts-florissants-monteverdis-femte-madrigalbok/
+tags:
+- name: claudio-monteverdi
+  value: Claudio Monteverdi
+title: 'Les Arts Florissants: Monteverdis femte madrigalbok'
+type: post
 ---
 Musikfestivalen [Stockholm Early Music Festival 2013](http://www.semf.se/sv) invigdes 4 juni när en ensemble ur [Les Arts Florissants](http://www.arts-florissants.com/) framförde sångerna i [Claudio Monteverdis](http://sv.wikipedia.org/wiki/Claudio_Monteverdi) femte madrigalbok.
 

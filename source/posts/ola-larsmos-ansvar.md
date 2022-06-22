@@ -1,8 +1,26 @@
 ---
-title: Ola Larsmos ansvar
+categories:
+- name: politik
+  value: Politik
+date: '2014-12-04'
 link: https://kraulis.wordpress.com/2014/12/04/ola-larsmos-ansvar/
 name: ola-larsmos-ansvar
-date: 2014-12-04
+path: /2014/12/04/ola-larsmos-ansvar/
+tags:
+- name: alliansen
+  value: Alliansen
+- name: folkpartiet
+  value: Folkpartiet
+- name: liberalerna
+  value: Liberalerna
+- name: ola-larsmo
+  value: Ola Larsmo
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: Ola Larsmos ansvar
+type: post
 ---
 Det finns två perspektiv på händelserna kring budgetomröstningen och Stefan Löfvens proklamation att han så småningom ämnar utlysa nyval.
 

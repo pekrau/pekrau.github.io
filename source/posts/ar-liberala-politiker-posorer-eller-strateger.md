@@ -1,8 +1,20 @@
 ---
-title: Är liberala politiker posörer eller strateger?
+categories:
+- name: politik
+  value: Politik
+date: '2016-07-02'
 link: https://kraulis.wordpress.com/2016/07/02/ar-liberala-politiker-posorer-eller-strateger/
 name: ar-liberala-politiker-posorer-eller-strateger
-date: 2016-07-02
+path: /2016/07/02/ar-liberala-politiker-posorer-eller-strateger/
+tags:
+- name: birgitta-ohlsson
+  value: Birgitta Ohlsson
+- name: liberalerna
+  value: Liberalerna
+- name: peter-wolodarski
+  value: Peter Wolodarski
+title: "\xC4r liberala politiker pos\xF6rer eller strateger?"
+type: post
 ---
 Politik kan bedrivas på olika sätt. Man kan demonstrera för de åsikter man har, och "stå upp" (som frasen lyder) för viktiga värderingar. Arbetshypotesen är att ju tydligare man är med sina värderingar, desto större framgång får man. Och även om man inte lyckas, så har man åtminstone gjort tydligt för alla var man står. Ingen kan beskylla en för att ha medverkat till något negativt. Detta är vad jag skulle kalla den politiska posörens metod.
 

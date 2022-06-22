@@ -1,8 +1,30 @@
 ---
-title: Lena Andersson vs. Karl Popper
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-12-05'
 link: https://kraulis.wordpress.com/2014/12/05/lena-andersson-vs-karl-popper/
 name: lena-andersson-vs-karl-popper
-date: 2014-12-05
+path: /2014/12/05/lena-andersson-vs-karl-popper/
+tags:
+- name: aristoteles
+  value: Aristoteles
+- name: ayn-rand
+  value: Ayn Rand
+- name: hakan-holmberg
+  value: "H\xE5kan Holmberg"
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: lennart-nordfors
+  value: Lennart Nordfors
+- name: liberalism
+  value: liberalism
+title: Lena Andersson vs. Karl Popper
+type: post
 ---
 Ohlininstitutet arrangerade [4 dec 2014](http://www.ohlininstitutet.se/2014/11/04/det-oppna-samhallet-och-dess-fiender-2015/) en diskussion om Karl Popper, den liberale filosofen vars centrala politiska verk är "**Det öppna samhället och dess fiender**" ([som jag skrev om nyligen](/posts/)). **Lennart Nordfors**, fil. dr. i statsvetenskap och vice vd för Gullers grupp, talade om Poppers betydelse då och nu. Det talet kommer att ges ut som en skrift av Ohlininstitutet så småningom, och jag ämnar kommentera det då.
 

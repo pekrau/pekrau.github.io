@@ -1,8 +1,26 @@
 ---
-title: 'Alex Voronov: Tala ur skägget!'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-12-14'
 link: https://kraulis.wordpress.com/2016/12/14/alex-voronov-tala-ur-skagget/
 name: alex-voronov-tala-ur-skagget
-date: 2016-12-14
+path: /2016/12/14/alex-voronov-tala-ur-skagget/
+tags:
+- name: alex-voronov
+  value: Alex Voronov
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+- name: liberalism
+  value: liberalism
+- name: mattias-hagberg
+  value: Mattias Hagberg
+title: "Alex Voronov: Tala ur sk\xE4gget!"
+type: post
 ---
 Alex Voronov, politisk redaktör på bl.a. Eskilstuna-Kuriren, [skriver 14 dec 2016](http://www.dn.se/kultur-noje/kulturdebatt/alex-voronov-principerna-ar-borta-fran-expressens-och-g-ps-ledarsidor/) med anledning av Mattias Hagbergs så kallade granskning av liberala ledarsidor på Dagens Nyheter Kultur. Det positiva med Voronovs inlägg är att han vill formulera liberalismen i form av en princip, till skillnad från Hagbergs fiasko att försöka definiera vissa teman som typiskt liberala.
 

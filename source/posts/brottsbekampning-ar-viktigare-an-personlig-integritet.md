@@ -1,8 +1,20 @@
 ---
-title: Brottsbekämpning är viktigare än personlig integritet
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-09-01'
 link: https://kraulis.wordpress.com/2015/09/01/brottsbekampning-ar-viktigare-an-personlig-integritet/
 name: brottsbekampning-ar-viktigare-an-personlig-integritet
-date: 2015-09-01
+path: /2015/09/01/brottsbekampning-ar-viktigare-an-personlig-integritet/
+tags:
+- name: integritet
+  value: integritet
+- name: kriminalitet
+  value: kriminalitet
+title: "Brottsbek\xE4mpning \xE4r viktigare \xE4n personlig integritet"
+type: post
 ---
 **Frågan om personlig integritet är åter på agendan. Den sedvanliga liberala positionen är att försvara den personliga integriteten och att motarbeta olika typer av övervakning. Jag tänker svära i kyrkan genom att kräva en omvärdering. Vi behöver snarare nya metoder för effektivare användning av den data som finns, i kombination med en annan syn på hur personlig integritet ska värnas.**
 

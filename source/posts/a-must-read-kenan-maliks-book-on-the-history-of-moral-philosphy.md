@@ -1,12 +1,63 @@
 ---
-title: 'A must-read: Kenan Malik''s book on the history of moral philosphy'
+categories:
+- name: in-english
+  value: In English
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-02-16'
 link: https://kraulis.wordpress.com/2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/
 name: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
-date: 2015-02-16
-language: en
-translation:
-  - sv: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
+path: /2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/
+tags:
+- name: alasdair-macintyre
+  value: Alasdair MacIntyre
+- name: confucius
+  value: Confucius
+- name: enlightenment
+  value: Enlightenment
+- name: ethics
+  value: ethics
+- name: euthyphro
+  value: Euthyphro
+- name: friedrich-nietzsche
+  value: Friedrich Nietzsche
+- name: gwf-hegel
+  value: GWF Hegel
+- name: homer
+  value: Homer
+- name: ibn-rushd
+  value: Ibn Rushd
+- name: ibn-sina
+  value: Ibn Sina
+- name: iliad
+  value: Iliad
+- name: karl-popper
+  value: Karl Popper
+- name: kenan-malik
+  value: Kenan Malik
+- name: mahabharata
+  value: Mahabharata
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: michel-foucault
+  value: Michel Foucault
+- name: richard-wolin
+  value: Richard Wolin
+- name: sam-harris
+  value: Sam Harris
+- name: toussaint-louverture
+  value: Toussaint L'Ouverture
+- name: virtue-ethics
+  value: virtue ethics
+title: 'A must-read: Kenan Malik''s book on the history of moral philosphy'
+type: post
 ---
+*Detta inlägg finns även [på svenska](/posts/).*
+
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), English writer and lecturer, has written a book about the history of moral philosophy. Every person interested in the topic simply must read it. **"The Quest for a Moral Compass" is a marvel of clarity and rigor.** The philosophers' positions are explained intelligibly without undue simplification. Their ethical reasoning is put into a social and intellectual context. It is unceasingly interesting and instructive.
 
 The book begins with the opening stanza from Homer's Iliad, "Sing, goddess, of the anger of Achilleus, son of Peleus. ...", and discusses the moral universe the story unfolds within. **It is the kind of writing that makes me rejoice. No long-winded introduction, pseudo-academic meta talk about how the book is organized, but just bang on, head first! That's how it should be done.</Strong>

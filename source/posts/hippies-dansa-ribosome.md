@@ -1,8 +1,24 @@
 ---
-title: 'Hippies dansar ribosomen: En annorlunda undervisningsfilm'
+categories:
+- name: kultur
+  value: Kultur
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2012-10-19'
 link: https://kraulis.wordpress.com/2012/10/19/hippies-dansa-ribosome/
 name: hippies-dansa-ribosome
-date: 2012-10-19
+path: /2012/10/19/hippies-dansa-ribosome/
+tags:
+- name: film
+  value: film
+- name: molekylarbiologi
+  value: "molekyl\xE4rbiologi"
+- name: paul-berg
+  value: Paul Berg
+- name: undervisning
+  value: undervisning
+title: 'Hippies dansar ribosomen: En annorlunda undervisningsfilm'
+type: post
 ---
 Hur sannolik är en undervisningsfilm om hur ett protein tillverkas av ribosomen, iscensatt som en slags balett av ett gäng hippies år 1971? Se den på YouTube: [Protein Synthesis: An Epic on the Cellular Level](http://www.youtube.com/watch?v=WTRmvnlNVw4).
 

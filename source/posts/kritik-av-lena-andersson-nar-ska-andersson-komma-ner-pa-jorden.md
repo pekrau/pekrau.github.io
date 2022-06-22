@@ -1,8 +1,28 @@
 ---
-title: 'Kritik av Lena Andersson: När ska Andersson komma ner på jorden?'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-09-17'
 link: https://kraulis.wordpress.com/2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/
 name: kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden
-date: 2019-09-17
+path: /2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/
+tags:
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: libertarianism
+  value: libertarianism
+- name: robert-nozick
+  value: Robert Nozick
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Kritik av Lena Andersson: N\xE4r ska Andersson komma ner p\xE5 jorden?"
+type: post
 ---
 *Uppdaterat 2019-10-01: Nummer 3-2019 av Liberal Debatt kom ut för ca en månad sedan och finns numera på nätet [här](https://www.liberaldebatt.se/). Den publicerade versionen av min artikel finns [här](https://www.liberaldebatt.se/2019/09/nar-ska-andersson-komma-ner-pa-jorden/). Texten här nedanför är manuset, i stort sett identisk med den publicerade texten. Se till att också läsa de tre andra artiklar i samma nummer av LD som kritiserar Lena Anderssons bok **Om falsk och äkta liberalism**.*
 

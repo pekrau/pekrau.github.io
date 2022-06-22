@@ -1,8 +1,24 @@
 ---
-title: 'Putins sändebud om russofobi: Så ser hotet ut'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-06-08'
 link: https://kraulis.wordpress.com/2014/06/08/putins-sandebud-om-russofobi-sa-ser-hotet-ut/
 name: putins-sandebud-om-russofobi-sa-ser-hotet-ut
-date: 2014-06-08
+path: /2014/06/08/putins-sandebud-om-russofobi-sa-ser-hotet-ut/
+tags:
+- name: finland
+  value: Finland
+- name: nato
+  value: NATO
+- name: ryssland
+  value: Ryssland
+- name: vladimir-putin
+  value: Vladimir Putin
+title: "Putins s\xE4ndebud om russofobi: S\xE5 ser hotet ut"
+type: post
 ---
 Vladimir Putins "personliga sändebud" (vad nu det innebär) [Sergej Markov säger i Svenska Dagbladet](http://www.svd.se/nyheter/utrikes/folj-utvecklingen-i-ukraina_3636948.svd?sidan=3) 8 juni 2014 att:
 

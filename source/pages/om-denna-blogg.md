@@ -1,8 +1,10 @@
 ---
-title: Om bloggen
+date: '2013-02-28'
 link: https://kraulis.wordpress.com/om-denna-blogg/
 name: om-denna-blogg
-date: 2013-02-28
+path: /om-denna-blogg/
+title: Om bloggen
+type: page
 ---
 Min blogg **Civilisation** handlar om samhälle, politik, vetenskap och kultur. Jag kommenterar företeelser och debatt i liberal och progressiv anda. Det handlar om framsteg, upplysning och civilisationens utveckling.
 

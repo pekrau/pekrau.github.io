@@ -1,8 +1,26 @@
 ---
-title: Lena Andersson faller i extremistfällan
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-12-15'
 link: https://kraulis.wordpress.com/2013/12/15/lena-andersson-faller-i-extremistfallan/
 name: lena-andersson-faller-i-extremistfallan
-date: 2013-12-15
+path: /2013/12/15/lena-andersson-faller-i-extremistfallan/
+tags:
+- name: invandring
+  value: invandring
+- name: lena-andersson
+  value: Lena Andersson
+- name: liberalism
+  value: liberalism
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Lena Andersson faller i extremistf\xE4llan"
+type: post
 ---
 **Är förespråkare av en generös invandringspolitik lika goda kålsupare som invandringsfiender typ Sverigedemokraterna?** Jo, till den barocka slutsatsen kommer kolumnisten Lena Anderssons i [Dagens Nyheter 14 dec 2013](http://www.dn.se/ledare/kolumner/klubben-sverige-raknar/). Hennes resonemang har kallats "klartänkt" av vissa liberala kommentatorer, men är i själva verket ett [*reductio ad absurdum*](http://en.wikipedia.org/wiki/Reductio_ad_absurdum), alltså ett resonemang vars orimliga slutsatser visar att åtminstone någon av dess premisser är felaktig.
 

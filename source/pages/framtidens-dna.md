@@ -1,8 +1,10 @@
 ---
-title: Framtidens DNA
+date: '2013-11-17'
 link: https://kraulis.wordpress.com/framtidens-dna/
 name: framtidens-dna
-date: 2013-11-17
+path: /framtidens-dna/
+title: Framtidens DNA
+type: page
 ---
 ### Böcker om DNA, genteknik och biologi
 

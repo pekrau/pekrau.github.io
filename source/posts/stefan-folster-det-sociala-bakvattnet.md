@@ -1,8 +1,22 @@
 ---
-title: 'Stefan Fölster: Det sociala bakvattnet'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-02-03'
 link: https://kraulis.wordpress.com/2013/02/03/stefan-folster-det-sociala-bakvattnet/
 name: stefan-folster-det-sociala-bakvattnet
-date: 2013-02-03
+path: /2013/02/03/stefan-folster-det-sociala-bakvattnet/
+tags:
+- name: landsbygd
+  value: landsbygd
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: underklass
+  value: underklass
+title: "Stefan F\xF6lster: Det sociala bakvattnet"
+type: post
 ---
 [Stefan Fölster skriver i Dagens Nyheter 3 feb 2013](http://www.dn.se/debatt/sociala-problem-vanligast-i-orter-med-fa-invandrare) om var i Sverige de största sociala problem finns. En text som måste läsas! Det är inte, som många tror, invandrartäta orter. Det är snarare små orter som på ett eller annat sätt hamnat i bakvattnet:
 

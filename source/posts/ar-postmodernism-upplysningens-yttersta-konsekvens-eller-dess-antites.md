@@ -1,8 +1,40 @@
 ---
-title: Är postmodernism upplysningens yttersta konsekvens, eller dess antites?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-03-17'
 link: https://kraulis.wordpress.com/2015/03/17/ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites/
 name: ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites
-date: 2015-03-17
+path: /2015/03/17/ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites/
+tags:
+- name: jacques-derrida
+  value: Jacques Derrida
+- name: johann-georg-hamann
+  value: Johann Georg Hamann
+- name: johann-gottfried-herder
+  value: Johann Gottfried Herder
+- name: joseph-de-maistre
+  value: Joseph de Maistre
+- name: judith-butler
+  value: Judith Butler
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: michel-foucault
+  value: Michel Foucault
+- name: postmodernism
+  value: postmodernism
+- name: sverige
+  value: Sverige
+- name: sverigedemokratisk-ungdom
+  value: Sverigedemokratisk Ungdom
+- name: upplysningen
+  value: Upplysningen
+- name: vladimir-putin
+  value: Vladimir Putin
+title: "\xC4r postmodernism upplysningens yttersta konsekvens, eller dess antites?"
+type: post
 ---
 Författaren [Torbjörn Elensky](http://sv.wikipedia.org/wiki/Torbj%C3%B6rn_Elensky) publicerade en intressant understreckare om identitetspolitik och Upplysningen i [Svenska Dagbladet 11 februari 2015](http://www.svd.se/kultur/understrecket/morka-krafter-kan-kapa-upplysningsarv_4289747.svd). Han skriver:
 

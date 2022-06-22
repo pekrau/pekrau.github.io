@@ -1,8 +1,22 @@
 ---
-title: 'Trumpismo: vad bör göras?'
+categories:
+- name: politik
+  value: Politik
+date: '2017-01-29'
 link: https://kraulis.wordpress.com/2017/01/29/trumpismo-vad-bor-goras/
 name: trumpismo-vad-bor-goras
-date: 2017-01-29
+path: /2017/01/29/trumpismo-vad-bor-goras/
+tags:
+- name: donald-trump
+  value: Donald Trump
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Trumpismo: vad b\xF6r g\xF6ras?"
+type: post
 ---
 I proteststormarna mot president Donald Trump eller mot Moderaternas förebådade samtal med Sverigedemokraterna är det en viktig fråga som riskerar att försvinna. Nämligen: Hur ska fler väljare övertygas om att rösta på något annat än Trump eller Sverigedemokraterna?
 

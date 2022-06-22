@@ -1,8 +1,18 @@
 ---
-title: 'Djävulens liberal: Liberalers paralys inför Sverigedemokraterna'
+categories:
+- name: politik
+  value: Politik
+date: '2018-08-08'
 link: https://kraulis.wordpress.com/2018/08/08/djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna/
 name: djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna
-date: 2018-08-08
+path: /2018/08/08/djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna/
+tags:
+- name: liberalism
+  value: liberalism
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Dj\xE4vulens liberal: Liberalers paralys inf\xF6r Sverigedemokraterna"
+type: post
 ---
 Det råder ingen brist på artiklar som beskriver hur hemskt det skulle bli med Sverigedemokraterna vid makten. Och de har rätt. Om SD skulle få majoritet i ett riksdagsval kommer den svenska liberala demokratin som vi känner den att avskaffas. Man kunde tro att liberaler skulle ägna mycket kraft åt att resonera om hur SD:s väljare kunde fås på andra tankar, så att något sådant kan förhindras. Men nej, så är inte fallet. En märklig intellektuell och politisk paralys inträder, där smått desperata deklarationer ersätter politiskt tänkande. Vi serveras fraser typ "oh, så hemskt, vi måste stå upp mot SD". 
 

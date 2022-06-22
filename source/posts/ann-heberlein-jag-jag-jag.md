@@ -1,8 +1,24 @@
 ---
-title: 'Ann Heberlein: Jag, jag, jag'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-04-05'
 link: https://kraulis.wordpress.com/2015/04/05/ann-heberlein-jag-jag-jag/
 name: ann-heberlein-jag-jag-jag
-date: 2015-04-05
+path: /2015/04/05/ann-heberlein-jag-jag-jag/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: etik
+  value: etik
+- name: eutyfron
+  value: Eutyfron
+- name: soren-kierkegaard
+  value: "S\xF8ren Kierkegaard"
+title: 'Ann Heberlein: Jag, jag, jag'
+type: post
 ---
 Ann Heberlein senaste bok **Gud, om vi ska talas vid du och jag måste jag vara helt ärlig** består av två monologer: I den första talar Heberlein till Gud, och i den andra talar Heberleins tänkta Gud (som jag nedan betecknar "Gud") till henne. Om detta låter privat och inkrökt, så beror det på att det är det. Den som vill ha en diskussion om Gud, religion och etik med någon rimlig intellektuell nivå kan låta denna boken passera.
 

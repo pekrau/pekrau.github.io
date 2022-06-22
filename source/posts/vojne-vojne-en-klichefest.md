@@ -1,8 +1,13 @@
 ---
-title: 'Vojne vojne: en klichéfest'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-08-21'
 link: https://kraulis.wordpress.com/2013/08/21/vojne-vojne-en-klichefest/
 name: vojne-vojne-en-klichefest
-date: 2013-08-21
+path: /2013/08/21/vojne-vojne-en-klichefest/
+title: "Vojne vojne: en klich\xE9fest"
+type: post
 ---
 Ni känner till den: **Artikeln på kultursidan som handlar om samhällets fortgående förfall. Inget är som förr, och allt blir alltmer.** Jan Holmberg har åstadkommit ett vackert exempel på detta tema i [Dagens Nyheter 21 augusti 2013](http://www.dn.se/kultur-noje/kulturdebatt/natten-ar-inte-langre-dagens-mor/). Följ med på en liten rundtur i klichéernas värld:
 

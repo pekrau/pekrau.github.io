@@ -1,8 +1,20 @@
 ---
-title: 'Birgitta Ohlsson: Stoppa EU:s nya datalag!'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-04-13'
 link: https://kraulis.wordpress.com/2013/04/13/birgitta-ohlsson-stoppa-eu-s-nya-datalag/
 name: birgitta-ohlsson-stoppa-eu-s-nya-datalag
-date: 2013-04-13
+path: /2013/04/13/birgitta-ohlsson-stoppa-eu-s-nya-datalag/
+tags:
+- name: eu
+  value: EU
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: 'Birgitta Ohlsson: Stoppa EU:s nya datalag!'
+type: post
 ---
 Det är dags att EU-minister Birgitta Ohlsson gör tydligt att Sverige inte accepterar den nya datalag som är på väg att antas av EU. Journalisterna Staffan Dahllöf, Nils Funcke och Fredrik Laurin skriver i en [debattartikel i Dagens Nyheter 12 april 2013](http://www.dn.se/debatt/eus-nya-datalag-oforenlig-med-svenska-grundlagar) att lagen kan få följande konsekvens:
 

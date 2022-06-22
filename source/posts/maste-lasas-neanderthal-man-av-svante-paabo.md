@@ -1,8 +1,28 @@
 ---
-title: 'Måste läsas: Neanderthal Man av Svante Pääbo'
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-03-09'
 link: https://kraulis.wordpress.com/2014/03/09/maste-lasas-neanderthal-man-av-svante-paabo/
 name: maste-lasas-neanderthal-man-av-svante-paabo
-date: 2014-03-09
+path: /2014/03/09/maste-lasas-neanderthal-man-av-svante-paabo/
+tags:
+- name: biologi
+  value: biologi
+- name: bok
+  value: bok
+- name: denisova
+  value: Denisova
+- name: forskning
+  value: forskning
+- name: genteknik
+  value: genteknik
+- name: historia
+  value: historia
+- name: neanderthal
+  value: Neanderthal
+title: "M\xE5ste l\xE4sas: Neanderthal Man av Svante P\xE4\xE4bo"
+type: post
 ---
 Svante Pääbo har i dagarna utkommit med boken **Neanderthal Man: In Search of Lost Genomes** om sina banbrytande metoder för att få fram information om generna i urtida djur och människor från fossila ben. Hans fokus är människans förhistoria. **Det är en av de bästa böcker om forskning jag har läst på länge.**
 

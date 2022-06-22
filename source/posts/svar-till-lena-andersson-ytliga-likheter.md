@@ -1,8 +1,36 @@
 ---
-title: 'Svar till Lena Andersson: Ytliga likheter'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-01-08'
 link: https://kraulis.wordpress.com/2015/01/08/svar-till-lena-andersson-ytliga-likheter/
 name: svar-till-lena-andersson-ytliga-likheter
-date: 2015-01-08
+path: /2015/01/08/svar-till-lena-andersson-ytliga-likheter/
+tags:
+- name: ayn-rand
+  value: Ayn Rand
+- name: bertrand-russell
+  value: Bertrand Russell
+- name: david-hume
+  value: David Hume
+- name: essentialism
+  value: essentialism
+- name: jacques-derrida
+  value: Jacques Derrida
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: michel-foucault
+  value: Michel Foucault
+- name: postmodernism
+  value: postmodernism
+- name: robert-nozick
+  value: Robert Nozick
+title: 'Svar till Lena Andersson: Ytliga likheter'
+type: post
 ---
 *Följande text är ett inlägg i en diskussion med Lena Andersson. Länkar till alla inlägg finns längst ner på sidan.*
 

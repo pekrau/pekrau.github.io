@@ -1,8 +1,26 @@
 ---
-title: 'Revolution: allt flyter'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-02-22'
 link: https://kraulis.wordpress.com/2014/02/22/revolution-allt-flyter/
 name: revolution-allt-flyter
-date: 2014-02-22
+path: /2014/02/22/revolution-allt-flyter/
+tags:
+- name: asa-linderborg
+  value: "\xC5sa Linderborg"
+- name: kommunism
+  value: kommunism
+- name: revolution
+  value: revolution
+- name: ryssland
+  value: Ryssland
+- name: ukraina
+  value: Ukraina
+title: 'Revolution: allt flyter'
+type: post
 ---
 En revolution är en process där maktförhållanden som tidigare var fasta  plötsligt blir flytande. För att låna en term från fysiken, när den politiska materian genomgår en fasövergång, som när is smälter och blir flytande vatten. Scenförändringen i Ukraina under det senaste dygnet 22 februari 2014 är ett sådant exempel.
 

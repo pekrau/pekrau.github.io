@@ -1,8 +1,26 @@
 ---
-title: Valkyrian i Berwaldhallen
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-12-07'
 link: https://kraulis.wordpress.com/2013/12/07/valkyrian-i-berwaldhallen/
 name: valkyrian-i-berwaldhallen
-date: 2013-12-07
+path: /2013/12/07/valkyrian-i-berwaldhallen/
+tags:
+- name: bryn-terfel
+  value: Bryn Terfel
+- name: daniel-harding
+  value: Daniel Harding
+- name: ingela-brimberg
+  value: Ingela Brimberg
+- name: nina-stemme
+  value: Nina Stemme
+- name: richard-wagner
+  value: Richard Wagner
+- name: valkyrian
+  value: Valkyrian
+title: Valkyrian i Berwaldhallen
+type: post
 ---
 Tredje akten av Wagners opera [Valkyrian](http://sv.wikipedia.org/wiki/Valkyrian) uppfördes i Berwaldhallen torsdag 5 dec 2013. **En vokal och musikalisk fröjd! Daniel Harding dirigerade Sveriges Radios Symfoniorkester, och solister var Nina Stemme, Bryn Terfel och Ingela Brimberg, tillsammans med 8 valkyrior.**
 

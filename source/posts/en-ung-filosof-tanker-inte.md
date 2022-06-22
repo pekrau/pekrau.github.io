@@ -1,8 +1,20 @@
 ---
-title: En ung filosof tänker (inte)
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-10-08'
 link: https://kraulis.wordpress.com/2013/10/08/en-ung-filosof-tanker-inte/
 name: en-ung-filosof-tanker-inte
-date: 2013-10-08
+path: /2013/10/08/en-ung-filosof-tanker-inte/
+tags:
+- name: etik
+  value: etik
+- name: johan-brannmark
+  value: "Johan Br\xE4nnmark"
+title: "En ung filosof t\xE4nker (inte)"
+type: post
 ---
 Niklas Orrenius (@niklasorrenius) twittrade om en intervju av en ung lundafilosof, Johan Brännmark, i [Sydsvenskan 8 okt 2013](http://www.sydsvenskan.se/sverige/filosofen-ett-nytt-satt-att-tanka-behovs/). Som tänker om det svåra att få kollektivt och individuellt ansvar att gå ihop. Inget fel med det.
 

@@ -1,8 +1,18 @@
 ---
-title: 'Misslyckade prediktioner: Paul Krugman om Internet'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-06'
 link: https://kraulis.wordpress.com/2013/11/06/misslyckade-prediktioner-paul-krugman-om-internet/
 name: misslyckade-prediktioner-paul-krugman-om-internet
-date: 2013-11-06
+path: /2013/11/06/misslyckade-prediktioner-paul-krugman-om-internet/
+tags:
+- name: internet
+  value: Internet
+- name: paul-krugman
+  value: Paul Krugman
+title: 'Misslyckade prediktioner: Paul Krugman om Internet'
+type: post
 ---
 I senaste numret av New York Review of Books 7 nov 2013 citerar Sue Halpern ett uttalande ekonomen Paul Krugman gjorde 1998:
 

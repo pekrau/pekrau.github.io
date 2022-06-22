@@ -1,8 +1,16 @@
 ---
-title: 'Grundkurs i ateism, del 11: Jeffrey Taylers 15 punkter'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2014-01-12'
 link: https://kraulis.wordpress.com/2014/01/12/grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter/
 name: grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter
-date: 2014-01-12
+path: /2014/01/12/grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter/
+tags:
+- name: jeffrey-tayler
+  value: Jeffrey Tayler
+title: 'Grundkurs i ateism, del 11: Jeffrey Taylers 15 punkter'
+type: post
 ---
 Jeffrey Tayler tycker det är dags att ateister skärper sitt förhållningssätt till religion och religiösa utmaningar. I [tidskriften Salon 11 jan 2014](http://www.salon.com/2014/01/11/15_ways_atheists_can_stand_up_for_rationality/) anger han 15 olika punkter för hur man ska kontra religiösa påståenden och angrepp.
 

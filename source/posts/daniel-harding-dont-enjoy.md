@@ -1,8 +1,26 @@
 ---
-title: 'Daniel Harding: Don''t enjoy!'
+categories:
+- name: kultur
+  value: Kultur
+date: '2012-11-17'
 link: https://kraulis.wordpress.com/2012/11/17/daniel-harding-dont-enjoy/
 name: daniel-harding-dont-enjoy
-date: 2012-11-17
+path: /2012/11/17/daniel-harding-dont-enjoy/
+tags:
+- name: bela-bartok
+  value: "B\xE9la Bart\xF3k"
+- name: daniel-harding
+  value: Daniel Harding
+- name: jorg-widmann
+  value: "J\xF6rg Widmann"
+- name: opera
+  value: opera
+- name: radiosymfonikerna
+  value: Radiosymfonikerna
+- name: stockholm
+  value: Stockholm
+title: 'Daniel Harding: Don''t enjoy!'
+type: post
 ---
 [Daniel Harding](http://en.wikipedia.org/wiki/Daniel_Harding) dirigerade dagens konsert i [Berwaldhallen](http://sverigesradio.se/berwaldhallen/) med Radiosymfonikerna. Och det var en konsert som hade platsat på vilken internationell storscen som helst. Hardings märkliga uppmaning (se nedan) följdes verkligen inte.
 

@@ -1,8 +1,26 @@
 ---
-title: Dagens Nyheter kryper för påven
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-10-28'
 link: https://kraulis.wordpress.com/2016/10/28/dagens-nyheter-kryper-for-paven/
 name: dagens-nyheter-kryper-for-paven
-date: 2016-10-28
+path: /2016/10/28/dagens-nyheter-kryper-for-paven/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: franciskus
+  value: Franciskus
+- name: paven
+  value: "p\xE5ven"
+- name: peter-wolodarski
+  value: Peter Wolodarski
+title: "Dagens Nyheter kryper f\xF6r p\xE5ven"
+type: post
 ---
 Jag hade tänkt avstå från att skriva om påvens besök i Sverige. Mot den orgie i svassande som det besöket lär skapa kämpar man förgäves. Men så lyckas Dagens Nyheter med konststycket att slå inofficiellt rekord i kryperi genom att [28 oktober 2016 publicera en så kallad intervju](http://www.dn.se/nyheter/sverige/paven-jag-vill-komma-narmare-mina-broder-och-systrar-i-sverige/) av påven Franciskus gjord av den svenska katolska tidskriften Signums chefredaktör, jesuitprästen Ulf Jonsson.
 

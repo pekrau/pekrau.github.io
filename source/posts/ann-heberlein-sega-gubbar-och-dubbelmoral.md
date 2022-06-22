@@ -1,8 +1,20 @@
 ---
-title: 'Ann Heberlein: Sega gubbar och dubbelmoral'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-03-27'
 link: https://kraulis.wordpress.com/2013/03/27/ann-heberlein-sega-gubbar-och-dubbelmoral/
 name: ann-heberlein-sega-gubbar-och-dubbelmoral
-date: 2013-03-27
+path: /2013/03/27/ann-heberlein-sega-gubbar-och-dubbelmoral/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: kristendom
+  value: kristendom
+title: 'Ann Heberlein: Sega gubbar och dubbelmoral'
+type: post
 ---
 **Kan man begära att en professionell etiker uppvisar ett visst mått av koherens?** Låt mig illustrera frågan med en artikel av [Ann Heberlein](http://sv.wikipedia.org/wiki/Ann_Heberlein), som jag uppmärksammades på under ett besök i Lund: ["Vårt behov av sega gubbar" publicerad 15 mars 2013 i Sydsvenskan](http://www.sydsvenskan.se/kultur--nojen/vart-behov-av-sega-gubbar/). Heberlein skriver:
 

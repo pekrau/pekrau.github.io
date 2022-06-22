@@ -1,9 +1,20 @@
 ---
-title: Some hard facts about science, money and evaluations
+categories:
+- name: in-english
+  value: In English
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2017-03-26'
 link: https://kraulis.wordpress.com/2017/03/26/some-hard-facts-about-science-money-and-evaluations/
 name: some-hard-facts-about-science-money-and-evaluations
-date: 2017-03-26
-language: en
+path: /2017/03/26/some-hard-facts-about-science-money-and-evaluations/
+tags:
+- name: open-science
+  value: Open Science
+title: Some hard facts about science, money and evaluations
+type: post
 ---
 The most fun experiments are those that generate a lot of noise and heat. So why not ask a scientist about her latest grant application? Or about the reports she has been asked to write describing the results of her research? These simple questions will likely result in spectacular fulminations at the evil minions of government agencies, the incompetent idiots that call themselves university leaders, or the ill-will of society and the universe in general.
 

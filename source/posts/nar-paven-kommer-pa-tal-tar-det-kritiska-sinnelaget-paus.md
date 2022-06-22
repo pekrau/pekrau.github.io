@@ -1,8 +1,20 @@
 ---
-title: När påven kommer på tal tar det kritiska sinnelaget paus
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2016-01-26'
 link: https://kraulis.wordpress.com/2016/01/26/nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus/
 name: nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus
-date: 2016-01-26
+path: /2016/01/26/nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus/
+tags:
+- name: joel-halldorf
+  value: Joel Halldorf
+- name: katolska-kyrkan
+  value: katolska kyrkan
+- name: paven
+  value: "p\xE5ven"
+title: "N\xE4r p\xE5ven kommer p\xE5 tal tar det kritiska sinnelaget paus"
+type: post
 ---
 Nyheten att [påven Franciskus ska besöka Sverige](http://www.svt.se/nyheter/utrikes/beskedet-paven-kommer-till-sverige) i oktober 2016 är tråkig av den anledningen att vi nu kommer att tvingas stå ut med en massa inlägg, det ena mer befängt än det andra, om hur fanTAStisk påven är, den störste av människovänner, och en moralisk förebild. Det kommer att bli mycket påfrestande.
 

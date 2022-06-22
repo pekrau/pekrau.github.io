@@ -1,8 +1,24 @@
 ---
-title: Småbarn använder Karl Poppers kunskapsteori
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-04-09'
 link: https://kraulis.wordpress.com/2015/04/09/smabarn-anvander-karl-poppers-kunskapsteori/
 name: smabarn-anvander-karl-poppers-kunskapsteori
-date: 2015-04-09
+path: /2015/04/09/smabarn-anvander-karl-poppers-kunskapsteori/
+tags:
+- name: karl-popper
+  value: Karl Popper
+- name: kunskapsteori
+  value: kunskapsteori
+- name: logisk-positivism
+  value: logisk positivism
+- name: upplysningen
+  value: Upplysningen
+title: "Sm\xE5barn anv\xE4nder Karl Poppers kunskapsteori"
+type: post
 ---
 **[Karl Poppers](http://en.wikipedia.org/wiki/Karl_Popper) vetenskapsteori handlar om hur kunskap kan nås trots att den inte kan göras helt säker. Poppers inställning är att jakten efter ett kriterium på säker kunskap, som är ett mycket starkt tema i västerländsk filosofi, är helt missriktad. Det handlar inte om att nå säker kunskap, fastlagd en gång för alla. All kunskap är provisorisk. Det gäller att kritiskt granska dagens kunskap, förkasta de teorier som visar sig felaktiga, och därefter formulera nya teorier som förklarar de nya fenomenen. Så kan man nå ny kunskap, även den provisorisk. Framsteg är möjliga.**
 

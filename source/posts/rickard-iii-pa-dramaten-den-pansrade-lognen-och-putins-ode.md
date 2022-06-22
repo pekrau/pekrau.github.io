@@ -1,8 +1,22 @@
 ---
-title: 'Rickard III på Dramaten: Den pansrade lögnen och Putins öde'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-03-21'
 link: https://kraulis.wordpress.com/2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/
 name: rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode
-date: 2014-03-21
+path: /2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/
+tags:
+- name: shakespeare
+  value: Shakespeare
+- name: teater
+  value: teater
+title: "Rickard III p\xE5 Dramaten: Den pansrade l\xF6gnen och Putins \xF6de"
+type: post
 ---
 Jonas Karlsson spelar huvudrollen i Shakespeares [Rickard III på Dramaten](http://www.dramaten.se/Repertoar/Rickard-III/). Han gör en slipprigt självsäker manipulatör. Han bär pjäsen, som är återhållet iscensatt, med goda stödjande insatser från övriga skådespelare, däribland Björn Granath som Buckingham, Rickards nyttige idiot till politruk.
 

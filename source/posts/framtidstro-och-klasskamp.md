@@ -1,8 +1,24 @@
 ---
-title: Framtidstro och klasskamp
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-01-02'
 link: https://kraulis.wordpress.com/2013/01/02/framtidstro-och-klasskamp/
 name: framtidstro-och-klasskamp
-date: 2013-01-02
+path: /2013/01/02/framtidstro-och-klasskamp/
+tags:
+- name: klasskamp
+  value: klasskamp
+- name: medelklass
+  value: medelklass
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: underklass
+  value: underklass
+title: Framtidstro och klasskamp
+type: post
 ---
 I Dagens Nyheter skriver [Malin Ullgren om framtidstro och klasskamp](http://www.dn.se/kultur-noje/malin-ullgren-ska-vi-fa-tillbaka-var-tro-pa-framtiden-behover-vi-kanna-att-det-f). Hon vill se mer av konflikt mellan Socialdemokrater och Moderater, och att den konflikten ska handla om klass och sociala orättvisor. Hon önskar sig en plan:
 

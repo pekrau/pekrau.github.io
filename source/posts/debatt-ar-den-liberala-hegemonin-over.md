@@ -1,8 +1,20 @@
 ---
-title: 'Debatt: Är den liberala hegemonin över?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-05-14'
 link: https://kraulis.wordpress.com/2013/05/14/debatt-ar-den-liberala-hegemonin-over/
 name: debatt-ar-den-liberala-hegemonin-over
-date: 2013-05-14
+path: /2013/05/14/debatt-ar-den-liberala-hegemonin-over/
+tags:
+- name: bok
+  value: bok
+- name: liberalism
+  value: liberalism
+title: "Debatt: \xC4r den liberala hegemonin \xF6ver?"
+type: post
 ---
 [Bertil Ohlininstitutet](http://www.ohlininstitutet.se/) publicerade just [boken **En bit på väg**](http://www.ohlininstitutet.se/2013/05/13/en-bit-pa-vag/), en antologi med artiklar om liberalismens ställning och framtid, och [anordnade en debatt 14 maj 2013](http://www.ohlininstitutet.se/2013/05/02/ar-den-liberala-hegemonin-over/) för att lansera den. **Här följer några spridda intryck från den diskussionen**, där de flesta paneldeltagarna också hade bidragit till boken. Till boken återkommer jag när jag har läst den.
 

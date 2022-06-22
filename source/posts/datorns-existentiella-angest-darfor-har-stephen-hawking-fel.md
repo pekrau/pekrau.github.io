@@ -1,8 +1,18 @@
 ---
-title: 'Datorns existentiella ångest: Därför har Stephen Hawking fel'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-06-22'
 link: https://kraulis.wordpress.com/2014/06/22/datorns-existentiella-angest-darfor-har-stephen-hawking-fel/
 name: datorns-existentiella-angest-darfor-har-stephen-hawking-fel
-date: 2014-06-22
+path: /2014/06/22/datorns-existentiella-angest-darfor-har-stephen-hawking-fel/
+tags:
+- name: artifical-intelligence
+  value: Artifical Intelligence
+title: "Datorns existentiella \xE5ngest: D\xE4rf\xF6r har Stephen Hawking fel"
+type: post
 ---
 Maria Gunther skriver i [Dagens Nyheter 2014-06-22 (prenumeration krävs)](http://www.dn.se/nyheter/vetenskap/maskinerna-ar-vara-vanner-/) om en framtid då forskningsfältet [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence) (AI) lyckas nå sitt mål: **En dator som är intelligent och självmedveten. Artikeln diskuterar farhågorna om att en sådan maskin skulle försöka "ta över" från människan. Resonemanget bygger på fysik, matematik och datalogi, medan det biologiska tänkandet är helt frånvarande. Därför blir det fel.**
 

@@ -1,8 +1,22 @@
 ---
-title: Per T. Ohlssons önsketänkande
+categories:
+- name: politik
+  value: Politik
+date: '2016-10-02'
 link: https://kraulis.wordpress.com/2016/10/02/per-t-ohlssons-onsketankande/
 name: per-t-ohlssons-onsketankande
-date: 2016-10-02
+path: /2016/10/02/per-t-ohlssons-onsketankande/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: integration
+  value: integration
+- name: per-t-ohlsson
+  value: Per T Ohlsson
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Per T. Ohlssons \xF6nsket\xE4nkande"
+type: post
 ---
 Per T. Ohlsson skriver i sin krönika i [Sydsvenskan 2 oktober 2016](http://www.sydsvenskan.se/2016-10-02/enda-sattet-att-stoppa-sd):
 

@@ -1,8 +1,22 @@
 ---
-title: Vad är viktigast? Migration eller demokrati?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-11-25'
 link: https://kraulis.wordpress.com/2018/11/25/vad-ar-viktigast-migration-eller-demokrati/
 name: vad-ar-viktigast-migration-eller-demokrati
-date: 2018-11-25
+path: /2018/11/25/vad-ar-viktigast-migration-eller-demokrati/
+tags:
+- name: liberalerna
+  value: Liberalerna
+- name: liberalism
+  value: liberalism
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Vad \xE4r viktigast? Migration eller demokrati?"
+type: post
 ---
 Argument används för att ge stöd för den egna synpunkten i en diskussion med någon som har en annan åsikt. Idén är att man utgår från premisser som även den andre håller med om. Sedan försöker man visa hur den egna synpunkten naturligt följer ur dessa premisser. Det bör då leda till att den andre övertygas, om denne accepterar att härledningen från premisser till slutsatser är korrekt.
 

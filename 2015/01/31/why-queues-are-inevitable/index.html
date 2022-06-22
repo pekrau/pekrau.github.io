@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="sv">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +10,8 @@
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
           rel="stylesheet">
+    
+    
   </head>
 
   <body>
@@ -26,15 +28,34 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="blog"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Sidor
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="blog">
+                <li>
+                  <a class="dropdown-item" href="/blog/">Lista med alla inlägg</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/index_en.html">
+                    List of posts in English
+                  </a>
+                </li>
+              </ul>
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="/blog/">Blogg</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/blog/tags/">Etiketter</a>
+            </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+              <a class="nav-link dropdown-toggle" href="#" id="sidor"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Teman
+                Sidor
               </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <ul class="dropdown-menu" aria-labelledby="sidor">
                 <li>
                   <a class="dropdown-item" href="/djavulens-liberal/">Djävulens liberal</a>
                 </li>
@@ -89,7 +110,8 @@
       
 <div class="row">
   <section class="col-lg-6 offset-lg-1">
-    <p>We love to complain about queues. Why do we have to wait? Do not the queues in e.g. the health care system show that too few resources are allocated to it? I have looked a little closer at this problem.</p>
+    <p><em>Detta inlägg finns även <a href="/posts/">på svenska</a>.</em></p>
+<p>We love to complain about queues. Why do we have to wait? Do not the queues in e.g. the health care system show that too few resources are allocated to it? I have looked a little closer at this problem.</p>
 <p><strong>My conclusion: No, we are probably not willing to pay what it costs to eliminate queues.</strong> My results rely on some basic assumptions, and are applicable to many different types of scenarios. I have used computer simulations to investigate the problem. The numbers speak for themselves: <strong>The queueless society is an unreasonable utopia.</strong> </p>
 <p>I work in a service facility (the <a href="https://portal.scilifelab.se/genomics/">National Genomics Infrastructure in Sweden</a> within <a href="http://www.scilifelab.se/">SciLifeLab</a>), where we process samples submitted by researchers in Sweden and deliver data (DNA sequences) back to them. <strong>The most common complaint to us is that our queues are too long. It is whispered that the Karolinska Institute , where many of our users are based, is thinking of opening a separate service, to which, as a KI representative told me, &quot;the researchers can go and get their samples run directly without any queue.&quot;</strong> I started thinking about it. Is this a reasonable goal?</p>
 <p>There is a very well-developed theory about this, mainly in the field of <a href="http://en.wikipedia.org/wiki/Discrete_event_simulation">Discrete Event Simulation</a>, but the basic features are so simple that I programmed what follows myself. Source code and other files are available in my GitHub repo <a href="https://github.com/pekrau/queue_simulation">queue_simulation</a> for those who want to look at the details.</p>
@@ -127,13 +149,13 @@
       
       <li class="list-group-item">
         Föregående inlägg:
-        <a href="/2015/01/31/why-queues-are-inevitable">Why queues are inevitable</a>
+        <a href="/2015/01/31/why-queues-are-inevitable/">Why queues are inevitable</a>
       </li>
       
       
       <li class="list-group-item">
         Nästa inlägg:
-        <a href="/2015/01/14/yttrandefrihet-krankning-och-bultande-hjarta">Yttrandefrihet, kränkning och bultande hjärta</a>
+        <a href="/2015/01/14/yttrandefrihet-krankning-och-bultande-hjarta/">Yttrandefrihet, kränkning och bultande hjärta</a>
       </li>
       
       <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
@@ -154,5 +176,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
+    
+    
   </body>
 </html>

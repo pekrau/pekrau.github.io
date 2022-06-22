@@ -1,12 +1,24 @@
 ---
-title: 'Om reduktionism: En glimt i ögat, del 3'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+date: '2015-07-28'
 link: https://kraulis.wordpress.com/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-3/
 name: om-reduktionism-en-glimt-i-ogat-del-3
-date: 2015-07-28
+path: /2015/07/28/om-reduktionism-en-glimt-i-ogat-del-3/
+tags:
+- name: johannes-vermeer
+  value: Johannes Vermeer
+- name: reduktionism
+  value: reduktionism
+title: "Om reduktionism: En glimt i \xF6gat, del 3"
+type: post
 ---
 I [del 1](/posts/) av denna artikeln visade jag en tabell av siffror och utmanade därmed den filosofiska reduktionismen att gissa vad det handlade om. Jag avslöjade att tabellen var ett 9x9 pixlar stort utsnitt ur en större bild. I [del 2](/posts/) visade jag den lilla bilden. Så är det dags att avslöja vad hela bilden föreställer:
 
-![Johannes Vermeer - Girl with a Pearl Earring](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg)
+
+
+id="attachment_4594" align="alignleft" width="417"][![Johannes Vermeer - Girl with a Pearl Earring](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg)](/posts/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg) Johannes Vermeer - Girl with a Pearl Earring
 
 Detta är [Johannes Vermeers](https://en.wikipedia.org/wiki/Johannes_Vermeer) berömda målning "[Flicka med pärlörhänge](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)". Jag behöver inte orda om hur fantastisk den är.
 

@@ -1,11 +1,27 @@
 ---
-title: Mellan liberalism och religion
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2020-12-25'
 link: https://kraulis.wordpress.com/2020/12/25/mellan-liberalism-och-religion-2/
 name: mellan-liberalism-och-religion-2
-date: 2020-12-25
+path: /2020/12/25/mellan-liberalism-och-religion-2/
+tags:
+- name: joel-halldorf
+  value: Joel Halldorf
+- name: larry-siedentop
+  value: Larry Siedentop
+- name: patrick-deneen
+  value: Patrick Deneen
+- name: sans-magasin
+  value: Sans magasin
+title: Mellan liberalism och religion
+type: post
 ---
-
-
 *Denna text har publicerats i [SANS Magasin nr 3 2019](https://fritanke.se/sans/sans-nr-3-2019/), men är inte tillgänglig på nätet där.*
 
 
@@ -127,6 +143,4 @@ Patrick J. Deneen:** Why liberalism failed**. Yale University Press, 2018, ISBN 
 
 
 Larry Siedentop: **Inventing the individual: The origins of Western liberalism**. Allen Lane, 2014, ISBN 978-0-141-00954-4
-
-
 

@@ -1,8 +1,22 @@
 ---
-title: Tror liberaler på kultur?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-09-26'
 link: https://kraulis.wordpress.com/2017/09/26/tror-liberaler-pa-kultur/
 name: tror-liberaler-pa-kultur
-date: 2017-09-26
+path: /2017/09/26/tror-liberaler-pa-kultur/
+tags:
+- name: islam
+  value: Islam
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+- name: varderingar
+  value: "v\xE4rderingar"
+title: "Tror liberaler p\xE5 kultur?"
+type: post
 ---
 I diskussionen om konflikter mellan grupper i samhället får man ibland intrycket att många liberaler inte tror på kultur. Om man använder uttryck som "svensk kultur", "svenska värderingar", "muslimsk kultur" eller "arabisk kultur", så kommer ofta invändningar om att det inte finns något som kan kallas kultur, allt sådant tal är fördomar och påhitt. Det enda som finns är individer som uppför sig på ena eller andra sättet.
 

@@ -1,8 +1,20 @@
 ---
-title: 'Cirkus Opera, del 2: Skönhetsrådet förnekar sig inte'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2013-09-12'
 link: https://kraulis.wordpress.com/2013/09/12/cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte/
 name: cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte
-date: 2013-09-12
+path: /2013/09/12/cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte/
+tags:
+- name: opera
+  value: opera
+title: "Cirkus Opera, del 2: Sk\xF6nhetsr\xE5det f\xF6rnekar sig inte"
+type: post
 ---
 Det dröjde inte många timmar innan [min profetia](/posts/) slog in: **Den konservativa klagolåten har dragit igång. Inte kan man bygga om Kungliga Operan  inte!** Och det är, inte helt oväntat, det så kallade Skönhetsrådet som stämmer upp till sång enligt [Dagens Nyheter 12 september 2013](http://www.dn.se/kultur-noje/scen/svart-bygga-om-skyddad-opera/):
 

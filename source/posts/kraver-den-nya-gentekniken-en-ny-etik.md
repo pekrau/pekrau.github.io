@@ -1,8 +1,22 @@
 ---
-title: Kräver den nya gentekniken en ny etik?
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-12-14'
 link: https://kraulis.wordpress.com/2015/12/14/kraver-den-nya-gentekniken-en-ny-etik/
 name: kraver-den-nya-gentekniken-en-ny-etik
-date: 2015-12-14
+path: /2015/12/14/kraver-den-nya-gentekniken-en-ny-etik/
+tags:
+- name: crispr-cas-9
+  value: CRISPR/Cas-9
+- name: etik
+  value: etik
+- name: genteknik
+  value: genteknik
+title: "Kr\xE4ver den nya gentekniken en ny etik?"
+type: post
 ---
 Gentekniken befinner sig i en omvälvande utvecklingsfas. Som all teknikutveckling innebär det politiska, ekonomiska och etiska möjligheter och utmaningar. En av de frågor som uppkommer är: **Behövs en helt ny etik för att handskas med gentekniken?**
 

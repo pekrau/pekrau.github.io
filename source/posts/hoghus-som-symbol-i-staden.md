@@ -1,8 +1,22 @@
 ---
-title: Höghus som symbol i staden
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: stadsbyggnad
+  value: Stadsbyggnad
+date: '2014-02-12'
 link: https://kraulis.wordpress.com/2014/02/12/hoghus-som-symbol-i-staden/
 name: hoghus-som-symbol-i-staden
-date: 2014-02-12
+path: /2014/02/12/hoghus-som-symbol-i-staden/
+tags:
+- name: hoghus
+  value: "h\xF6ghus"
+- name: ola-andersson
+  value: Ola Andersson
+- name: per-ankersjo
+  value: "Per Ankersj\xF6"
+title: "H\xF6ghus som symbol i staden"
+type: post
 ---
 Ola Andersson, arkitekt och debattör, tar upp frågan om höga hus eller inte i [Dagens Nyheter 15 jan 2014](http://www.dn.se/kultur-noje/kulturdebatt/darfor-drabbas-politiker-av-hoga-hus-febern/). Som brukligt är i dagens debatt räcker det inte med att diskutera själva sakfrågan, utan han vill också spekulera i de bakomliggande motiv som styr de som föreslår höga hus:
 

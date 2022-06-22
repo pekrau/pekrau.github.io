@@ -1,8 +1,30 @@
 ---
-title: Antikrundan och svenska värderingar
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-09-07'
 link: https://kraulis.wordpress.com/2016/09/07/antikrundan-och-svenska-varderingar/
 name: antikrundan-och-svenska-varderingar
-date: 2016-09-07
+path: /2016/09/07/antikrundan-och-svenska-varderingar/
+tags:
+- name: ebba-busch-thor
+  value: Ebba Busch Thor
+- name: homosexuella
+  value: homosexuella
+- name: joel-halldorf
+  value: Joel Halldorf
+- name: liberalism
+  value: liberalism
+- name: per-t-ohlsson
+  value: Per T Ohlsson
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+- name: varderingar
+  value: "v\xE4rderingar"
+title: "Antikrundan och svenska v\xE4rderingar"
+type: post
 ---
 Av någon anledning värderar vi gamla ting högt. På SVT:s Antikrundan faller experter och publik i extas när till exempel något stort åbäke till skåp visar sig vara ett par hundra år gammalt. Ju eländigare skick, desto bättre, verkar det. "Oh! Här finns en färgflaga från 1700-talet!"
 

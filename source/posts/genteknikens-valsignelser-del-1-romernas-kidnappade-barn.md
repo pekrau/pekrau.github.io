@@ -1,8 +1,18 @@
 ---
-title: 'Genteknikens välsignelser, del 1: Romernas "kidnappade" barn'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-11-17'
 link: https://kraulis.wordpress.com/2013/11/17/genteknikens-valsignelser-del-1-romernas-kidnappade-barn/
 name: genteknikens-valsignelser-del-1-romernas-kidnappade-barn
-date: 2013-11-17
+path: /2013/11/17/genteknikens-valsignelser-del-1-romernas-kidnappade-barn/
+tags:
+- name: genteknik
+  value: genteknik
+title: "Genteknikens v\xE4lsignelser, del 1: Romernas \"kidnappade\" barn"
+type: post
 ---
 Gentekniken är kontroversiell. Genmodifierad organismer (GMO) som slår ut naturliga arter, Frankenfood, farligt genmodifierade bakterier, det är några exempel på påstådda risker med genteknik. **Här tar jag upp ett exempel på de välsignelser som gentekniken kan föra med sig. Jag ämnar följa upp med andra exempel framöver.**
 

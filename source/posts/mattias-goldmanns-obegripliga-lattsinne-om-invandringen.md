@@ -1,8 +1,24 @@
 ---
-title: Mattias Goldmanns obegripliga lättsinne om invandringen
+categories:
+- name: politik
+  value: Politik
+date: '2015-10-24'
 link: https://kraulis.wordpress.com/2015/10/24/mattias-goldmanns-obegripliga-lattsinne-om-invandringen/
 name: mattias-goldmanns-obegripliga-lattsinne-om-invandringen
-date: 2015-10-24
+path: /2015/10/24/mattias-goldmanns-obegripliga-lattsinne-om-invandringen/
+tags:
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: fores
+  value: Fores
+- name: hanif-bali
+  value: Hanif Bali
+- name: invandring
+  value: invandring
+- name: mattias-goldmann
+  value: Mattias Goldmann
+title: "Mattias Goldmanns obegripliga l\xE4ttsinne om invandringen"
+type: post
 ---
 Mattias Goldmann, VD för den gröna och liberala tankesmedjan [Fores](http://fores.se/), twittrade igår fredag 23 oktober 2015 en tweet som sedermera försvann innan jag hann ta en bild av den. Idag lördag 24 oktober återkom en modifierad variant av den:
 

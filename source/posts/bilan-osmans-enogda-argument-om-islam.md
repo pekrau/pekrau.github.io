@@ -1,8 +1,22 @@
 ---
-title: Bilan Osmans enögda argument om islam
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-05-18'
 link: https://kraulis.wordpress.com/2017/05/18/bilan-osmans-enogda-argument-om-islam/
 name: bilan-osmans-enogda-argument-om-islam
-date: 2017-05-18
+path: /2017/05/18/bilan-osmans-enogda-argument-om-islam/
+tags:
+- name: islam
+  value: Islam
+- name: islamism
+  value: islamism
+- name: vastvarlden
+  value: "v\xE4stv\xE4rlden"
+title: "Bilan Osmans en\xF6gda argument om islam"
+type: post
 ---
 Bilan Osman skriver om det påstådda behovet av islams reformering på [Dagens Nyheter Kultur](http://www.dn.se/kultur-noje/kulturdebatt/bilan-osman-debatten-om-islam-kantas-av-trottsamma-fordomar/). Det är en text som är anmärkningsvärt närsynt. Hon vill nyansera synen på islam samtidigt som hon tillåter sig en svepande och allt annat än nyanserad kritik av västvärlden.
 

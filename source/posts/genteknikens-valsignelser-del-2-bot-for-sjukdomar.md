@@ -1,8 +1,16 @@
 ---
-title: 'Genteknikens välsignelser, del 2: Bot för sjukdomar'
+categories:
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2014-01-18'
 link: https://kraulis.wordpress.com/2014/01/18/genteknikens-valsignelser-del-2-bot-for-sjukdomar/
 name: genteknikens-valsignelser-del-2-bot-for-sjukdomar
-date: 2014-01-18
+path: /2014/01/18/genteknikens-valsignelser-del-2-bot-for-sjukdomar/
+tags:
+- name: genteknik
+  value: genteknik
+title: "Genteknikens v\xE4lsignelser, del 2: Bot f\xF6r sjukdomar"
+type: post
 ---
 Sedan genteknikens första dagar har det funnits förhoppningar om att använda den för att bota sjukdomar. Den typ av fall som man tidigt insåg skulle lämpa sig bra är sådana genetiskt betingade sjukdomar som kommer sig av att patienten endast har en skadad variant av en viss gen, eller helt saknar den. Bristen på en fungerande variant av en gen orsakar någon typ av syndrom, som ofta är antingen kroniska eller som successivt förvärras.
 

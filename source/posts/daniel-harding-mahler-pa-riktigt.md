@@ -1,8 +1,20 @@
 ---
-title: 'Daniel Harding: Mahler på riktigt'
+categories:
+- name: kultur
+  value: Kultur
+date: '2013-03-08'
 link: https://kraulis.wordpress.com/2013/03/08/daniel-harding-mahler-pa-riktigt/
 name: daniel-harding-mahler-pa-riktigt
-date: 2013-03-08
+path: /2013/03/08/daniel-harding-mahler-pa-riktigt/
+tags:
+- name: daniel-harding
+  value: Daniel Harding
+- name: gustav-mahler
+  value: Gustav Mahler
+- name: radiosymfonikerna
+  value: Radiosymfonikerna
+title: "Daniel Harding: Mahler p\xE5 riktigt"
+type: post
 ---
 Den 8 mars 2013 framförde Daniel Harding och Sveriges Radios Symfoniorkester [Gustav Mahlers](http://sv.wikipedia.org/wiki/Gustav_Mahler) [symfoni nummer 5](http://sv.wikipedia.org/wiki/Symfoni_nr_5_(Mahler)), den som innehåller det från Viscontis film [Döden i Venedig](http://www.imdb.com/title/tt0067445/) berömda adagiettot (fjärde satsen).
 

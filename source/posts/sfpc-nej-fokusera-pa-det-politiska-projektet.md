@@ -1,8 +1,22 @@
 ---
-title: S+FP+C? Nej, fokusera på det politiska projektet!
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-09-17'
 link: https://kraulis.wordpress.com/2014/09/17/sfpc-nej-fokusera-pa-det-politiska-projektet/
 name: sfpc-nej-fokusera-pa-det-politiska-projektet
-date: 2014-09-17
+path: /2014/09/17/sfpc-nej-fokusera-pa-det-politiska-projektet/
+tags:
+- name: folkpartiet
+  value: Folkpartiet
+- name: liberalerna
+  value: Liberalerna
+- name: socialdemokraterna
+  value: Socialdemokraterna
+title: "S+FP+C? Nej, fokusera p\xE5 det politiska projektet!"
+type: post
 ---
 Valet 2014 är över och det plockas bland spillrorna. Bör FP och C "ta ansvar", som det heter, och bilda regering med S?
 

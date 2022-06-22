@@ -1,8 +1,32 @@
 ---
-title: Vem får säga något i dagens debatt?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-09-30'
 link: https://kraulis.wordpress.com/2013/09/30/vem-far-saga-nagot-i-dagens-debatt/
 name: vem-far-saga-nagot-i-dagens-debatt
-date: 2013-09-30
+path: /2013/09/30/vem-far-saga-nagot-i-dagens-debatt/
+tags:
+- name: hanne-kjoller
+  value: "Hanne Kj\xF6ller"
+- name: jan-helin
+  value: Jan Helin
+- name: liberalism
+  value: liberalism
+- name: lidija-praizovic
+  value: Lidija Praizovic
+- name: medelklass
+  value: medelklass
+- name: moa-matthis
+  value: Moa Matthis
+- name: rasism
+  value: rasism
+- name: representativitet
+  value: representativitet
+title: "Vem f\xE5r s\xE4ga n\xE5got i dagens debatt?"
+type: post
 ---
 Det finns ett intressant gemensamt tema i flera av de upphetsade debatter som pågår just nu: **Vem får egentligen säga något?**
 

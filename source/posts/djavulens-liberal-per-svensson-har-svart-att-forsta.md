@@ -1,8 +1,26 @@
 ---
-title: 'Djävulens liberal: Per Svensson har svårt att förstå'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-07-05'
 link: https://kraulis.wordpress.com/2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/
 name: djavulens-liberal-per-svensson-har-svart-att-forsta
-date: 2018-07-05
+path: /2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/
+tags:
+- name: antiliberalism
+  value: antiliberalism
+- name: europa
+  value: Europa
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: invandring
+  value: invandring
+- name: liberalism
+  value: liberalism
+title: "Dj\xE4vulens liberal: Per Svensson har sv\xE5rt att f\xF6rst\xE5"
+type: post
 ---
 Per Svensson, chef för Dagens Nyheters ledarredaktion, skriver [5 juli 2018](https://www.dn.se/ledare/signerat/per-svensson-varning-for-giftigt-wien/) om de migrationsfientliga partiernas framgångar i Europa:
 

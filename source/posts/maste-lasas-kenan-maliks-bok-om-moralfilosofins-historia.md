@@ -1,11 +1,61 @@
 ---
-title: 'Måste läsas: Kenan Maliks bok om moralfilosofins historia'
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-02-15'
 link: https://kraulis.wordpress.com/2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/
 name: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
-date: 2015-02-15
-translation:
-  - en: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
+path: /2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/
+tags:
+- name: alasdair-macintyre
+  value: Alasdair MacIntyre
+- name: dygdetik
+  value: dygdetik
+- name: etik
+  value: etik
+- name: eutyfron
+  value: Eutyfron
+- name: friedrich-nietzsche
+  value: Friedrich Nietzsche
+- name: gwf-hegel
+  value: GWF Hegel
+- name: homeros
+  value: Homeros
+- name: ibn-rushd
+  value: Ibn Rushd
+- name: ibn-sina
+  value: Ibn Sina
+- name: iliaden
+  value: Iliaden
+- name: karl-popper
+  value: Karl Popper
+- name: kenan-malik
+  value: Kenan Malik
+- name: konfucius
+  value: Konfucius
+- name: mahabharata
+  value: Mahabharata
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: michel-foucault
+  value: Michel Foucault
+- name: richard-wolin
+  value: Richard Wolin
+- name: sam-harris
+  value: Sam Harris
+- name: toussaint-louverture
+  value: Toussaint L'Ouverture
+- name: upplysningen
+  value: Upplysningen
+title: "M\xE5ste l\xE4sas: Kenan Maliks bok om moralfilosofins historia"
+type: post
 ---
+*This blog post is also available [in English](/posts/).*
+
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), engelsk skribent och föreläsare, har skrivit en bok om moralfilosofins historia som varje person intresserad av ämnet helt enkelt måste läsa. **"The Quest for a Moral Compass" är ett under av klarhet och stringens.** Filosofernas ståndpunkter framställs begripligt utan orimlig förenkling. Deras etiska resonemang sätts in i ett socialt och intellektuellt sammanhang. Det är oupphörligt intressant och lärorikt.
 
 Boken börjar med öppningsstrofen ur Homeros Iliaden, "Sjung, o gudinna, om vreden som brann hos Peliden Akhilleus...", och diskuterar det moraliska universum som den berättelsen utspelar sig inom. **Det är ett författartekniskt grepp som får mig att jubla. Ingen långrandig inledning, pseudo-akademiskt meta-snack om hur boken är upplagd, utan bara pang på, huvudet före! Så ska en slipsten dras.**

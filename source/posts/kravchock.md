@@ -1,8 +1,24 @@
 ---
-title: Kravchock!
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-06-11'
 link: https://kraulis.wordpress.com/2015/06/11/kravchock/
 name: kravchock
-date: 2015-06-11
+path: /2015/06/11/kravchock/
+tags:
+- name: aftonbladet
+  value: Aftonbladet
+- name: miljopartiet
+  value: "Milj\xF6partiet"
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: socialdemokraterna
+  value: Socialdemokraterna
+title: Kravchock!
+type: post
 ---
 Ibland lossnar det rejält. Som detta med att ställa krav. Plötsligt ska alla göra det. Nåja, kanske inte riktigt alla, men nästan. Senast ut är Gustav Fridolin, som i [Expressen 11 juni 2015](http://www.expressen.se/debatt/larandet-kraver-att-eleverna-engagerar-sig/) skapar kravchock genom att ställa krav på elever och deras föräldrar.
 

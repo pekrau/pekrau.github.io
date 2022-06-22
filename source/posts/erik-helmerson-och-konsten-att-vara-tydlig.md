@@ -1,8 +1,22 @@
 ---
-title: Erik Helmerson och konsten att vara tydlig
+categories:
+- name: politik
+  value: Politik
+date: '2013-03-19'
 link: https://kraulis.wordpress.com/2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/
 name: erik-helmerson-och-konsten-att-vara-tydlig
-date: 2013-03-19
+path: /2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: erik-helmerson
+  value: Erik Helmerson
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+title: Erik Helmerson och konsten att vara tydlig
+type: post
 ---
 Migrationsminister Tobias Billströms erbarmliga magplask i [DN-intervjun 18 mars 2013 ("blonda och blåögda")](http://www.dn.se/nyheter/de-flesta-bor-inte-hos-de-som-ar-blonda-och-blaogda) har dessvärre gjort det än svårare att diskutera sakfrågan: Fri invandring eller inte, vilka kriterier som ska gälla för uppehållstillstånd, och vilka metoder som bör användas för avvisningar.
 

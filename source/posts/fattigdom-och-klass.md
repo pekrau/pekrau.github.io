@@ -1,8 +1,28 @@
 ---
-title: Fattigdom och klass
+categories:
+- name: politik
+  value: Politik
+date: '2013-01-25'
 link: https://kraulis.wordpress.com/2013/01/25/fattigdom-och-klass/
 name: fattigdom-och-klass
-date: 2013-01-25
+path: /2013/01/25/fattigdom-och-klass/
+tags:
+- name: fattigdom
+  value: fattigdom
+- name: goran-greider
+  value: "G\xF6ran Greider"
+- name: klasskamp
+  value: klasskamp
+- name: medelklass
+  value: medelklass
+- name: susanna-alakoski
+  value: Susanna Alakoski
+- name: underklass
+  value: underklass
+- name: utveckling
+  value: utveckling
+title: Fattigdom och klass
+type: post
 ---
 Efter Uppdrag Gransknings reportage (nåja) 16 jan 2013 om [barnfattigdom eller inte](http://www.svt.se/ug/barnfattigdomen-i-sverige-kraftigt-overdriven) så har debatten om fattigdom och klass återigen blossat upp.
 

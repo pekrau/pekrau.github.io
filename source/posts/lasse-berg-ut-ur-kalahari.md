@@ -1,8 +1,22 @@
 ---
-title: 'Lasse Berg: Ut ur Kalahari'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-04-13'
 link: https://kraulis.wordpress.com/2014/04/13/lasse-berg-ut-ur-kalahari/
 name: lasse-berg-ut-ur-kalahari
-date: 2014-04-13
+path: /2014/04/13/lasse-berg-ut-ur-kalahari/
+tags:
+- name: bok
+  value: bok
+- name: lasse-berg
+  value: Lasse Berg
+- name: utveckling
+  value: utveckling
+title: 'Lasse Berg: Ut ur Kalahari'
+type: post
 ---
 Journalisten Lasse Berg har utkommit med den tredje boken i sin Kalahari-serie. Den tar delvis formen av en självbiografi, men tyngdpunkten ligger på beskrivningen av utvecklingen i den numera inte fullt så fattiga världen. Den resonerar också om människans natur, det goda livet och civilisations villkor. Den tar stöd i fakta och statistik, men också mer filosofiska resonemang. **Den är underbart lättläst och tar läsaren på allvar på ett mycket uppfriskande sätt.**
 

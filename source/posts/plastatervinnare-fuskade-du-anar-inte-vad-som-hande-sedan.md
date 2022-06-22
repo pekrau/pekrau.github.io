@@ -1,8 +1,20 @@
 ---
-title: Plaståtervinnare fuskade. Du anar inte vad som hände sedan
+categories:
+- name: politik
+  value: Politik
+date: '2017-02-08'
 link: https://kraulis.wordpress.com/2017/02/08/plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan/
 name: plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan
-date: 2017-02-08
+path: /2017/02/08/plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan/
+tags:
+- name: hans-rosling
+  value: Hans Rosling
+- name: miljopolitik
+  value: "milj\xF6politik"
+- name: naturvardsverket
+  value: "Naturv\xE5rdsverket"
+title: "Plast\xE5tervinnare fuskade. Du anar inte vad som h\xE4nde sedan"
+type: post
 ---
 Dagens Nyheter har [8 februari 2017](http://www.dn.se/nyheter/sverige/uppblast-statistik-om-atervinning-korrigerades-inte/) avslöjat att företaget Swerec har skickat stora mängder plast till förbränning medan man låtsades återvinna det. Det är en skandal. Men den värre skandalen är hur de kontrollerande myndigheterna agerade. Där kan man verkligen tala om skräp. Denna skandalen luktar i själva verket riktigt illa.
 

@@ -1,8 +1,34 @@
 ---
-title: 'Vetenskap och faktaresistens: En kritik'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2019-02-10'
 link: https://kraulis.wordpress.com/2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/
 name: vetenskap-och-faktaresistens-en-kritik-2
-date: 2019-02-10
+path: /2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/
+tags:
+- name: asa-wikforss
+  value: "\xC5sa Wikforss"
+- name: bruno-latour
+  value: Bruno Latour
+- name: emma-frans
+  value: Emma Frans
+- name: ivar-arpi
+  value: Ivar Arpi
+- name: max-tegmark
+  value: Max Tegmark
+- name: paolo-macchiarini
+  value: Paolo Macchiarini
+- name: postmodernism
+  value: postmodernism
+- name: sans-magasin
+  value: Sans magasin
+title: 'Vetenskap och faktaresistens: En kritik'
+type: post
 ---
 *Denna text har publicerats i [SANS Magasin nr 2 2018](https://fritanke.se/sans/sans-nr-2-2018/), men är inte tillgänglig på nätet där.*
 

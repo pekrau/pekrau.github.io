@@ -1,8 +1,40 @@
 ---
-title: Liberalismen, medelklassen och det goda samhället
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-12-04'
 link: https://kraulis.wordpress.com/2013/12/04/liberalismen-medelklassen-och-det-goda-samhallet/
 name: liberalismen-medelklassen-och-det-goda-samhallet
-date: 2013-12-04
+path: /2013/12/04/liberalismen-medelklassen-och-det-goda-samhallet/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: bok
+  value: bok
+- name: john-rawls
+  value: John Rawls
+- name: john-stuart-mill
+  value: John Stuart Mill
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: markus-uvell
+  value: Markus Uvell
+- name: medelklass
+  value: medelklass
+- name: robert-nozick
+  value: Robert Nozick
+- name: steven-pinker
+  value: Steven Pinker
+- name: svend-dahl
+  value: Svend Dahl
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "Liberalismen, medelklassen och det goda samh\xE4llet"
+type: post
 ---
 Jag har [tidigare kommenterat](/posts/) Ann Heberleins artikel ([DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) om Borzoo Tavakolis öppna brev till Kent Ekeroth ([DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). Det har kommit intressanta reaktioner från  Svend Dahl och Markus Uvell om Heberleins artikel.
 

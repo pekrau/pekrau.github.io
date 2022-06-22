@@ -1,8 +1,22 @@
 ---
-title: Rappakalja om negativa media och invandring
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-08-23'
 link: https://kraulis.wordpress.com/2017/08/23/rappakalja-om-negativa-media-och-invandring/
 name: rappakalja-om-negativa-media-och-invandring
-date: 2017-08-23
+path: /2017/08/23/rappakalja-om-negativa-media-och-invandring/
+tags:
+- name: invandring
+  value: invandring
+- name: jacques-derrida
+  value: Jacques Derrida
+- name: media
+  value: media
+title: Rappakalja om negativa media och invandring
+type: post
 ---
 Jesper Strömbäck, professor i journalistik och politisk kommunikation, har gjort en undersökning som kommit fram till att "negativa gestaltningar av invandring är vanligare än positiva". Strömbäck presenterar undersökningens resultat på [Dagens Nyheter Kultur 23 aug 2017](http://www.dn.se/kultur-noje/kulturdebatt/jesper-stromback-negativa-gestaltningar-av-invandring-ar-vanligare-an-positiva/). Jag har inte läst undersökningen (och jag tänker inte ödsla tid på det, av skäl som framgår nedan), utan jag utgår från att Strömbäck ger en rättvisande bild av den.
 

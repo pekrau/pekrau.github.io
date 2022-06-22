@@ -1,8 +1,20 @@
 ---
-title: Die Walküre på Staatsoper Berlin
+categories:
+- name: kultur
+  value: Kultur
+date: '2012-10-17'
 link: https://kraulis.wordpress.com/2012/10/17/die-walkure-pa-staatsoper-berlin/
 name: die-walkure-pa-staatsoper-berlin
-date: 2012-10-17
+path: /2012/10/17/die-walkure-pa-staatsoper-berlin/
+tags:
+- name: opera
+  value: opera
+- name: richard-wagner
+  value: Richard Wagner
+- name: valkyrian
+  value: Valkyrian
+title: "Die Walk\xFCre p\xE5 Staatsoper Berlin"
+type: post
 ---
 [Den 14 oktober gavs Die Walküre](http://www.staatsoper-berlin.de/de_DE/calendar/10682041) (Valkyrian) av Richard Wagner på [Staatsoper Berlin](http://www.staatsoper-berlin.de/), för tillfället spelandes i Schiller Theater medan renoveringen av operan vid Unter den Linden pågår.
 

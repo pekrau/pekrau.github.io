@@ -1,8 +1,20 @@
 ---
-title: Sluta med tyckokratin!
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-01-26'
 link: https://kraulis.wordpress.com/2014/01/26/sluta-med-tyckokratin/
 name: sluta-med-tyckokratin
-date: 2014-01-26
+path: /2014/01/26/sluta-med-tyckokratin/
+tags:
+- name: opinionsmatning
+  value: "opinionsm\xE4tning"
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: Sluta med tyckokratin!
+type: post
 ---
 SVT [rapporterade 26 jan 2014](http://www.svt.se/nyheter/val2014/bara-2-av-100-trygga-med-att-aldras) att "Bara 2 av 100 helt trygga med att åldras". SVT har alltså låtit Sifo ställa några frågor till "svenska folket" (ca 1000 personer) om åldringsvård. **Detta är ett klockrent exempel på vad jag kallar tyckokrati. Fokus läggs på vad folk tycker, inte på hur verkligheten ser ut.**
 

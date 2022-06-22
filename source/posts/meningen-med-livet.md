@@ -1,8 +1,20 @@
 ---
-title: Meningen med livet
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2017-04-21'
 link: https://kraulis.wordpress.com/2017/04/21/meningen-med-livet/
 name: meningen-med-livet
-date: 2017-04-21
+path: /2017/04/21/meningen-med-livet/
+tags:
+- name: eutyfron
+  value: Eutyfron
+- name: sans-magasin
+  value: Sans magasin
+title: Meningen med livet
+type: post
 ---
 *Denna text har publicerats i [SANS Magasin nr 3 2015](http://www.fritanke.se/sans/nr-3-2015/), men är inte tillgänglig på nätet där.*
 

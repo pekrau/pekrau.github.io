@@ -1,8 +1,35 @@
 ---
-title: 'Per Svensson: Därför hatar alla liberaler. Och därför har alla fel.'
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-03-16'
 link: https://kraulis.wordpress.com/2014/03/16/per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel/
 name: per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel
-date: 2014-03-16
+path: /2014/03/16/per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel/
+tags:
+- name: bok
+  value: bok
+- name: historia
+  value: historia
+- name: isaiah-berlin
+  value: Isaiah Berlin
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: per-svensson
+  value: Per Svensson
+- name: progressiv
+  value: progressiv
+- name: steven-pinker
+  value: Steven Pinker
+title: "Per Svensson: D\xE4rf\xF6r hatar alla liberaler. Och d\xE4rf\xF6r har alla\
+  \ fel."
+type: post
 ---
 [Per Svensson](http://sv.wikipedia.org/wiki/Per_Svensson_(journalist)), journalist och tidigare kulturchef på Expressen, har författat en hybrid mellan en stridsskrift och en idéhistorisk betraktelse. **Han granskar och bemöter liberalismens kritiker, samtidigt som han vill formulera liberalismens uppgift.** Boken publicerades nyligen av [Liberal Debatt](http://www.liberaldebatt.se/). Den är intressant och läsvärd, men den blottlägger också, enligt min mening, en svaghet hos dagens liberalism.
 

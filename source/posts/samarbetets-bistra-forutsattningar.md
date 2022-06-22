@@ -1,8 +1,28 @@
 ---
-title: Samarbetets bistra förutsättningar
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-01-15'
 link: https://kraulis.wordpress.com/2018/01/15/samarbetets-bistra-forutsattningar/
 name: samarbetets-bistra-forutsattningar
-date: 2018-01-15
+path: /2018/01/15/samarbetets-bistra-forutsattningar/
+tags:
+- name: allmanningen
+  value: "allm\xE4nningen"
+- name: bok
+  value: bok
+- name: elinor-ostrom
+  value: Elinor Ostrom
+- name: michael-tomasello
+  value: MIchael Tomasello
+- name: moral
+  value: moral
+- name: samarbete
+  value: samarbete
+title: "Samarbetets bistra f\xF6ruts\xE4ttningar"
+type: post
 ---
 Fenomenet mänskligt samarbete betraktas nästan alltid som något odelat positivt. Samarbete sägs visa att vi är goda och att vi inte är fundamentala egoister. Människor vill samarbeta. Gör vissa människor inte det så är något fel, kanske på dom, eller förmodligen på samhället.
 

@@ -1,8 +1,38 @@
 ---
-title: IS-krigarna och samhällskontraktet
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-05-22'
 link: https://kraulis.wordpress.com/2015/05/22/is-krigarna-och-samhallskontraktet/
 name: is-krigarna-och-samhallskontraktet
-date: 2015-05-22
+path: /2015/05/22/is-krigarna-och-samhallskontraktet/
+tags:
+- name: isaiah-berlin
+  value: Isaiah Berlin
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: jean-jacques-rousseau
+  value: Jean-Jacques Rousseau
+- name: john-locke
+  value: John Locke
+- name: john-rawls
+  value: John Rawls
+- name: naturratt
+  value: "naturr\xE4tt"
+- name: robert-nozick
+  value: Robert Nozick
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: thomas-hobbes
+  value: Thomas Hobbes
+- name: upplysningen
+  value: Upplysningen
+- name: utilitarism
+  value: utilitarism
+title: "IS-krigarna och samh\xE4llskontraktet"
+type: post
 ---
 [Samhällskontraktet](http://sv.wikipedia.org/wiki/Kontraktualism) är idén att medborgarna har ingått ett avtal med varandra om rättigheter och skyldigheter i samhällslivet. Staten ska garantera människorna liv och olika rättigheter, och människorna underkastar sig statens styre, betalar skatt, uppför sig vettigt mot varandra och gör som polisen säger. Exakt vilka dessa rättigheter och skyldigheter är bestäms i det demokratiska systemet. Brott mot samhällskontraktet från statens sida utgör legitim grund för protest.
 

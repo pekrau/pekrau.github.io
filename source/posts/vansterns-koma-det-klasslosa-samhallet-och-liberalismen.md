@@ -1,8 +1,22 @@
 ---
-title: Vänsterns koma, det klasslösa samhället och liberalismen
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-07-31'
 link: https://kraulis.wordpress.com/2015/07/31/vansterns-koma-det-klasslosa-samhallet-och-liberalismen/
 name: vansterns-koma-det-klasslosa-samhallet-och-liberalismen
-date: 2015-07-31
+path: /2015/07/31/vansterns-koma-det-klasslosa-samhallet-och-liberalismen/
+tags:
+- name: medelklass
+  value: medelklass
+- name: underklass
+  value: underklass
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+title: "V\xE4nsterns koma, det klassl\xF6sa samh\xE4llet och liberalismen"
+type: post
 ---
 Förra våren rådde Thomas Piketty-feber hos vänstern, med anledning av dennes bok [Kapitalet i det tjugoförsta århundradet](https://sv.wikipedia.org/wiki/Kapitalet_i_det_tjugof%C3%B6rsta_%C3%A5rhundradet), som blev en så kallad snackis när den engelska översättningen kom ut under 2014. Piketty talade i Almedalen 2014, där de [besvikna åhörarna](http://www.dagensarena.se/redaktionen/almedalen-2014-i-sammanfattning/) fick sig en torr akademisk föreläsning snarare än en himlastormande revolutionsappell. Sedan dess har det inte hörts så värst mycket om Piketty i den svenska debatten. Vilket säger en del om vänsterns intellektuella koma. Tystnaden representerar också en outnyttjad chans för liberalismen.
 

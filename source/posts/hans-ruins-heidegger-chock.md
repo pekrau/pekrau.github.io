@@ -1,8 +1,28 @@
 ---
-title: Hans Ruins Heidegger-chock
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-08-11'
 link: https://kraulis.wordpress.com/2014/08/11/hans-ruins-heidegger-chock/
 name: hans-ruins-heidegger-chock
-date: 2014-08-11
+path: /2014/08/11/hans-ruins-heidegger-chock/
+tags:
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: hans-ruin
+  value: Hans Ruin
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: nazism
+  value: nazism
+title: Hans Ruins Heidegger-chock
+type: post
 ---
 Så har då Hans Ruin till slut blivit "chockad" över Martin Heideggers nazism. I [Dagens Nyheter 11 aug 2014](http://www.dn.se/kultur-noje/nazistpropagandan-krop-in-i-heideggers-dagbocker/) skriver han om det som framkommit vid publicerandet av några av Heideggers anteckningsböcker. Ruin har gjort sin karriär som filosof på Heideggers tänkande, så det är ju klart att det är jobbigt när Heideggers nazism blir allt svårare att glida runt.
 

@@ -1,8 +1,13 @@
 ---
-title: 'Grundkurs i ateism, del 3: The duck test'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2013-01-31'
 link: https://kraulis.wordpress.com/2013/01/31/grundkurs-i-ateism-del-3/
 name: grundkurs-i-ateism-del-3
-date: 2013-01-31
+path: /2013/01/31/grundkurs-i-ateism-del-3/
+title: 'Grundkurs i ateism, del 3: The duck test'
+type: post
 ---
 Tom Chivers, journalist på The Telegraph, [skriver 31 jan 2013 i sin blogg](http://blogs.telegraph.co.uk/news/tomchiversscience/100200882/breaking-news-richard-dawkins-doesnt-like-religion-well-he-kept-that-one-quiet/):
 

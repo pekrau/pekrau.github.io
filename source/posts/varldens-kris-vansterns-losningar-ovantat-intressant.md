@@ -1,8 +1,48 @@
 ---
-title: 'Världens kris - vänsterns lösningar: Oväntat intressant'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-04-23'
 link: https://kraulis.wordpress.com/2014/04/23/varldens-kris-vansterns-losningar-ovantat-intressant/
 name: varldens-kris-vansterns-losningar-ovantat-intressant
-date: 2014-04-23
+path: /2014/04/23/varldens-kris-vansterns-losningar-ovantat-intressant/
+tags:
+- name: bok
+  value: bok
+- name: carlota-perez
+  value: Carlota Perez
+- name: guy-standing
+  value: Guy Standing
+- name: jacob-hacker
+  value: Jacob Hacker
+- name: jesper-bengtsson
+  value: Jesper Bengtsson
+- name: kajsa-borgnas
+  value: "Kajsa Borgn\xE4s"
+- name: karl-popper
+  value: Karl Popper
+- name: katrine-kielos
+  value: Katrine Kielos
+- name: katrine-marcal
+  value: "Katrine Mar\xE7al"
+- name: monika-andersson
+  value: Monika Andersson
+- name: per-wirten
+  value: "Per Wirt\xE9n"
+- name: progressiv
+  value: progressiv
+- name: roberto-unger
+  value: Roberto Unger
+- name: social-ingenjorskonst
+  value: "social ingenj\xF6rskonst"
+- name: sony-kapoor
+  value: Sony Kapoor
+- name: vanstern
+  value: "v\xE4nstern"
+title: "V\xE4rldens kris - v\xE4nsterns l\xF6sningar: Ov\xE4ntat intressant"
+type: post
 ---
 Antologin **Världens kris - vänsterns lösningar**, redigerad av Katrine Kielos och Jesper Bengtsson, handlar om idépolitiken i efterdyningarna av finanskrisen. Fokus ligger på den i vid mening socialdemokratiska internationella debatten. **Boken är oväntat intressant även för en liberal, och flera av essäerna i den förtjänar att ge inspiration till den liberala idédebatten.**
 

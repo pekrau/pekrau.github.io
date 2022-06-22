@@ -1,8 +1,20 @@
 ---
-title: Är demokratin urholkad? Eller är väljarna bortskämda?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-07-10'
 link: https://kraulis.wordpress.com/2016/07/10/ar-demokratin-urholkad-eller-ar-valjarna-bortskamda/
 name: ar-demokratin-urholkad-eller-ar-valjarna-bortskamda
-date: 2016-07-10
+path: /2016/07/10/ar-demokratin-urholkad-eller-ar-valjarna-bortskamda/
+tags:
+- name: chris-forsne
+  value: Chris Forsne
+- name: demokrati
+  value: demokrati
+title: "\xC4r demokratin urholkad? Eller \xE4r v\xE4ljarna bortsk\xE4mda?"
+type: post
 ---
 På sajten [ledarsidorna.se](http://ledarsidorna.se) skriver journalisten [Chris Forsne 8 juli 2016](http://ledarsidorna.se/2016/07/chris-forsne-det-vanmaktiga-folket/) en lång betraktelse om "Det vanmäktiga folket":
 

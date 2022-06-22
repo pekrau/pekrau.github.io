@@ -1,8 +1,24 @@
 ---
-title: 'Grundkurs i ateism, del 9: Marcus Birro'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-11-13'
 link: https://kraulis.wordpress.com/2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/
 name: grundkurs-i-ateism-del-9-marcus-birro
-date: 2013-11-13
+path: /2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/
+tags:
+- name: eutyfron
+  value: Eutyfron
+- name: kristendom
+  value: kristendom
+- name: moral
+  value: moral
+- name: platon
+  value: Platon
+title: 'Grundkurs i ateism, del 9: Marcus Birro'
+type: post
 ---
 Marcus Birro tycker att det är uppenbart att kristendomen är bättre än hinduismen ([Expressen 13 november 2013](http://www.expressen.se/kronikorer/marcus-birro/manniskor-soker-efter-frid-och-sammanhang-som-racker-langre-an-till-nasta-fylla/)). Och det får han ju gärna tycka.
 

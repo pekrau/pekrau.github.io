@@ -1,8 +1,30 @@
 ---
-title: Macchiarini, Heidegger och käpphästarnas dans
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-02-28'
 link: https://kraulis.wordpress.com/2016/02/28/macchiarini-heidegger-och-kapphastarnas-dans/
 name: macchiarini-heidegger-och-kapphastarnas-dans
-date: 2016-02-28
+path: /2016/02/28/macchiarini-heidegger-och-kapphastarnas-dans/
+tags:
+- name: etik
+  value: etik
+- name: hans-ruin
+  value: Hans Ruin
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: paolo-macchiarini
+  value: Paolo Macchiarini
+- name: torbjorn-tannsjo
+  value: "Torbj\xF6rn T\xE4nnsj\xF6"
+- name: upplysningen
+  value: Upplysningen
+title: "Macchiarini, Heidegger och k\xE4pph\xE4starnas dans"
+type: post
 ---
 Debatten om Macchiarini-skandalen har blivit något av en käpphästarnas dans. Den ena debattören efter den andra plockar fram sitt eget mest omhuldade hatobjekt och ropar "Se! Jag hade rätt!"
 

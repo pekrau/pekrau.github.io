@@ -1,8 +1,26 @@
 ---
-title: Stefan Jonssons bittra reträtt
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-09-03'
 link: https://kraulis.wordpress.com/2013/09/03/stefan-jonssons-bittra-retratt/
 name: stefan-jonssons-bittra-retratt
-date: 2013-09-03
+path: /2013/09/03/stefan-jonssons-bittra-retratt/
+tags:
+- name: hederskultur
+  value: hederskultur
+- name: postkolonialism
+  value: postkolonialism
+- name: postmodernism
+  value: postmodernism
+- name: rasism
+  value: rasism
+- name: stefan-jonsson
+  value: Stefan Jonsson
+title: "Stefan Jonssons bittra retr\xE4tt"
+type: post
 ---
 [Stefan Jonsson avslutar 2 september 2013](http://www.dn.se/kultur-noje/kulturdebatt/fortrycket-existerar-men-andra-kulturer-ar-inte-vasensskilda/) sommarens debatt i Dagens Nyheter (och andra tidningar) om hederskultur. **Det är i viktiga avseenden frågan om en reträtt.** Den ståndpunkt som vi vanligen ser Jonsson förfäkta är den postkoloniala kritiska kulturteorins: Olika kulturer är bara olika, man ska inte värdera. Det inte är något speciellt med liberala värderingar, förutom att de är redskap för förtryck. Så även om i princip alla kulturer är lika mycket värda, så är ändå den västerländska sämst.
 

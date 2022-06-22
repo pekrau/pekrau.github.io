@@ -1,8 +1,22 @@
 ---
-title: 'En synpunkt och en önskan efter KI:s Macchiarini-skandal'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-02-03'
 link: https://kraulis.wordpress.com/2016/02/03/en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal/
 name: en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal
-date: 2016-02-03
+path: /2016/02/03/en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal/
+tags:
+- name: medicin
+  value: medicin
+- name: paolo-macchiarini
+  value: Paolo Macchiarini
+- name: sjukvard
+  value: "sjukv\xE5rd"
+title: "En synpunkt och en \xF6nskan efter KI:s Macchiarini-skandal"
+type: post
 ---
 Skandalen med kirurgen och professorn i regenerativ medicin vid KI, [Paolo Macchiarini](http://www.nature.com/news/artificial-windpipe-pioneer-under-scrutiny-again-1.19272), har rört om rejält den senaste tiden. Hans metod att ersätta en av sjukdom angripen luftstrupe med en protes av konstgjort material som behandlats med stamceller, har befunnits icke fungera. Flertalet opererade patienter har dött. Jag vet inget närmare om hur Karolinska institutet eller Karolinska universitetssjukhuset har agerat, och har alltså inget att tillföra i den frågan. Jag har däremot en synpunkt och en önskan.
 

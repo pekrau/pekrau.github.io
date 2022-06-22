@@ -1,8 +1,32 @@
 ---
-title: 'Antiliberalen Alexander Dugin: Vem är han?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-05-10'
 link: https://kraulis.wordpress.com/2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/
 name: antiliberalen-alexander-dugin-vem-ar-han
-date: 2014-05-10
+path: /2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/
+tags:
+- name: 4pt
+  value: 4PT
+- name: alexander-dugin
+  value: Alexander Dugin
+- name: antiliberalism
+  value: antiliberalism
+- name: extremhoger
+  value: "extremh\xF6ger"
+- name: fjarde-politiska-teorin
+  value: "Fj\xE4rde Politiska Teorin"
+- name: liberalism
+  value: liberalism
+- name: martin-heidegger
+  value: Martin Heidegger
+- name: vladimir-putin
+  value: Vladimir Putin
+title: "Antiliberalen Alexander Dugin: Vem \xE4r han?"
+type: post
 ---
 Namnet **Alexander Dugin** har nämnts i samband med Ukraina-krisen. Till exempel skrev Dagens Nyheters Michael Winiarski om honom i [Dagens Nyheter 11 mars 2014](http://www.dn.se/nyheter/varlden/sa-vill-putins-radgivare-lagga-europa-under-rysslands-fotter/). Så vem är han? På vilket sätt är han relevant?
 

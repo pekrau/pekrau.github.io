@@ -1,8 +1,24 @@
 ---
-title: Mahler och Widmann med Daniel Harding
+categories:
+- name: kultur
+  value: Kultur
+date: '2015-11-26'
 link: https://kraulis.wordpress.com/2015/11/26/mahler-och-widmann-med-daniel-harding/
 name: mahler-och-widmann-med-daniel-harding
-date: 2015-11-26
+path: /2015/11/26/mahler-och-widmann-med-daniel-harding/
+tags:
+- name: antoine-tamestis
+  value: Antoine Tamestis
+- name: bruno-walter
+  value: Bruno Walter
+- name: daniel-harding
+  value: Daniel Harding
+- name: gustav-mahler
+  value: Gustav Mahler
+- name: jorg-widmann
+  value: "J\xF6rg Widmann"
+title: Mahler och Widmann med Daniel Harding
+type: post
 ---
 Daniel Harding dirigerade Sveriges Radios Symfoniorkesters uppförande av Jörg Widmanns nykomponerade konsert för viola och Gustav Mahlers 9:e symfoni [26 november 2015](http://sverigesradio.se/sida/gruppsida.aspx?programid=2938&grupp=21081&artikel=6306373). Det är svårt att formulera de rätta superlativen utan det blir fånigt. Det var helt enkelt fantastiskt bra.
 

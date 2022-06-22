@@ -1,8 +1,15 @@
 ---
-title: Optimister och klåpare
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-03-28'
 link: https://kraulis.wordpress.com/2018/03/28/optimister-och-klapare/
 name: optimister-och-klapare
-date: 2018-03-28
+path: /2018/03/28/optimister-och-klapare/
+title: "Optimister och kl\xE5pare"
+type: post
 ---
 I ett märkligt inlägg betitlat ["Pessimismen svärtar ned hela borgerligheten"](https://www.dn.se/ledare/signerat/sofia-nerbrand-pessimismen-svartar-ned-hela-borgerligheten/) på Dagens Nyheters ledarsida 28 mars 2018 gör Sofia Nerbrand gällande att det pågår en "otrevlig batalj" mellan "optimister" och "pessimister" i borgerligheten. Pessimisterna är de som bland annat ser problemen med flyktingmottagande, medan optimisterna vill ha en mer välkomnande migrationspolitik.
 

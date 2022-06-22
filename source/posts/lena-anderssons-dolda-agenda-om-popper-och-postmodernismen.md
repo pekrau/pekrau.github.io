@@ -1,8 +1,48 @@
 ---
-title: Lena Anderssons dolda agenda om Popper och postmodernismen
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-01-04'
 link: https://kraulis.wordpress.com/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/
 name: lena-anderssons-dolda-agenda-om-popper-och-postmodernismen
-date: 2015-01-04
+path: /2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/
+tags:
+- name: ayn-rand
+  value: Ayn Rand
+- name: bertrand-russell
+  value: Bertrand Russell
+- name: ernst-mach
+  value: Ernst Mach
+- name: falsifikationism
+  value: falsifikationism
+- name: jacques-derrida
+  value: Jacques Derrida
+- name: jean-francois-lyotard
+  value: "Jean-Fran\xE7ois Lyotard"
+- name: judith-butler
+  value: Judith Butler
+- name: karl-popper
+  value: Karl Popper
+- name: lena-andersson
+  value: Lena Andersson
+- name: logisk-positivism
+  value: logisk positivism
+- name: ludwig-wittgenstein
+  value: Ludwig Wittgenstein
+- name: michel-foucault
+  value: Michel Foucault
+- name: objektivism
+  value: objektivism
+- name: postmodernism
+  value: postmodernism
+- name: progressiv
+  value: progressiv
+title: Lena Anderssons dolda agenda om Popper och postmodernismen
+type: post
 ---
 Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/posts/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
 

@@ -1,8 +1,20 @@
 ---
-title: 'Mobbning: Hobbes på skolgården'
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-02-20'
 link: https://kraulis.wordpress.com/2013/02/20/mobbning-hobbes-pa-skolgarden/
 name: mobbning-hobbes-pa-skolgarden
-date: 2013-02-20
+path: /2013/02/20/mobbning-hobbes-pa-skolgarden/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: thomas-hobbes
+  value: Thomas Hobbes
+title: "Mobbning: Hobbes p\xE5 skolg\xE5rden"
+type: post
 ---
 I Dagens Nyheter skriver [Susanna Birgersson 20 feb 2013 om mobbning](http://www.dn.se/ledare/signerat/mobbning-stoppa-skolgardstyrannerna). Hon skriver insiktsfullt, men det finns ett vidare perspektiv på detta, nämligen vad [Thomas Hobbes](http://sv.wikipedia.org/wiki/Thomas_Hobbes) har att säga om saken.
 

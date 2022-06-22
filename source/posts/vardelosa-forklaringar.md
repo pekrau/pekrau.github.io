@@ -1,8 +1,32 @@
 ---
-title: Värdelösa förklaringar
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2017-04-30'
 link: https://kraulis.wordpress.com/2017/04/30/vardelosa-forklaringar/
 name: vardelosa-forklaringar
-date: 2017-04-30
+path: /2017/04/30/vardelosa-forklaringar/
+tags:
+- name: eutyfron
+  value: Eutyfron
+- name: fred-hoyle
+  value: Fred Hoyle
+- name: lawrence-krauss
+  value: Lawrence Krauss
+- name: moral
+  value: moral
+- name: panspermi
+  value: panspermi
+- name: platon
+  value: Platon
+- name: svante-arrhenius
+  value: Svante Arrhenius
+- name: terror
+  value: terror
+title: "V\xE4rdel\xF6sa f\xF6rklaringar"
+type: post
 ---
 Varför skriver jag denna blogg? Tänk dig att jag svarade: "Förklaringen är att jag sitter framför datorn och skriver på tangentbordet." Skulle du tycka att det var en bra förklaring?
 

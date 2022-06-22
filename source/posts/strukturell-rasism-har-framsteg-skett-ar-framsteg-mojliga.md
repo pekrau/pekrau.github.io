@@ -1,8 +1,26 @@
 ---
-title: 'Strukturell rasism: Har framsteg skett? Är framsteg möjliga?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-04-04'
 link: https://kraulis.wordpress.com/2013/04/04/strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga/
 name: strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga
-date: 2013-04-04
+path: /2013/04/04/strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga/
+tags:
+- name: essentialism
+  value: essentialism
+- name: jasenko-selimovic
+  value: "Jasenko Selimovi\u0107"
+- name: jonas-hassen-khemiri
+  value: Jonas Hassen Khemiri
+- name: karl-popper
+  value: Karl Popper
+- name: rasism
+  value: rasism
+title: "Strukturell rasism: Har framsteg skett? \xC4r framsteg m\xF6jliga?"
+type: post
 ---
 Efter Jasenko Selimović artikel ([DN 27 mars 2013](http://www.dn.se/kultur-noje/debatt-essa/jonas-min-van)) har debatten kommit att kretsa kring begreppet "strukturell rasism". Lawen Mohtadi intervjuar Selimović i [Expressen 4 april 2013](http://www.expressen.se/kultur/hej-jasenko/), och hennes utgångspunkt är att hon "inte förstår vad han menar" när han, påstår Mohtadi, förnekar existensen av strukturell rasism i Sverige. Mohtadi tycks anse att den strukturella rasismen är ett uppenbart faktum.
 

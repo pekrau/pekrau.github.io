@@ -1,8 +1,36 @@
 ---
-title: Individualismen, människan och behovet av liberal självkritik
+categories:
+- name: filosofi-philosophy
+  value: Filosofi (philosophy)
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-10-23'
 link: https://kraulis.wordpress.com/2019/10/23/individualismen-manniskan-och-behovet-av-liberal-sjalvkritik/
 name: individualismen-manniskan-och-behovet-av-liberal-sjalvkritik
-date: 2019-10-23
+path: /2019/10/23/individualismen-manniskan-och-behovet-av-liberal-sjalvkritik/
+tags:
+- name: edmund-burke
+  value: Edmund Burke
+- name: friedrich-hayek
+  value: Friedrich Hayek
+- name: individualism
+  value: individualism
+- name: john-rawls
+  value: John Rawls
+- name: john-stuart-mill
+  value: John Stuart Mill
+- name: karl-marx
+  value: Karl Marx
+- name: karl-popper
+  value: Karl Popper
+- name: liberalism
+  value: liberalism
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+title: "Individualismen, m\xE4nniskan och behovet av liberal sj\xE4lvkritik"
+type: post
 ---
 Jesper Ahlin Marceta, filosof på KTH, har skrivit intressant om individualism på sistone. Han vill [nyansera bilden av individualismen](https://jahlinmarceta.com/2019/10/18/nyansera-den-viktiga-debatten-om-individualism/) (18 okt 2019). Han funderar i ett nytt inlägg på om vi individualister bör ägna oss åt självkritik. Det vill jag besvara med ett obetingat ja. Liberaler ägnar sig på tok för mycket åt distanslös, jag höll på att säga självgod, klagosång över samtidens ondska. För ett nyligt, särdeles patetiskt exempel, se Sofia Nerbrand i Opulens: [Oroande tecken i tiden](https://www.opulens.se/opinion/oroande-tecken-i-tiden/) (15 okt 2019).
 

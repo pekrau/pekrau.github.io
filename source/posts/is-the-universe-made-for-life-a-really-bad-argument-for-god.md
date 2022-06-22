@@ -1,9 +1,17 @@
 ---
-title: Is the universe made for life? A really bad argument for God.
+categories:
+- name: in-english
+  value: In English
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2016-02-07'
 link: https://kraulis.wordpress.com/2016/02/07/is-the-universe-made-for-life-a-really-bad-argument-for-god/
 name: is-the-universe-made-for-life-a-really-bad-argument-for-god
-date: 2016-02-07
-language: en
+path: /2016/02/07/is-the-universe-made-for-life-a-really-bad-argument-for-god/
+title: Is the universe made for life? A really bad argument for God.
+type: post
 ---
 It is sometimes said that the physical structure of our universe is exquisitely [fine-tuned](https://en.wikipedia.org/wiki/Fine-tuned_Universe). If the relative strengths of the physical forces (gravity, electrostatics, etc) were just slightly different, the universe would be a vastly different place, and life as we know it could not exist.
 

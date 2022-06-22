@@ -1,8 +1,16 @@
 ---
-title: 'Grundkurs i ateism, del 6: Susan Jacoby intervjuas'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2013-03-21'
 link: https://kraulis.wordpress.com/2013/03/21/grundkurs-i-ateism-del-6-susan-jacoby-intervjuas/
 name: grundkurs-i-ateism-del-6-susan-jacoby-intervjuas
-date: 2013-03-21
+path: /2013/03/21/grundkurs-i-ateism-del-6-susan-jacoby-intervjuas/
+tags:
+- name: susan-jacoby
+  value: Susan Jacoby
+title: 'Grundkurs i ateism, del 6: Susan Jacoby intervjuas'
+type: post
 ---
 Susan Jacoby, amerikansk författare, [intervjuas på websajten Five Books](http://fivebooks.com/interviews/susan-jacoby-on-atheism) om sina synpunkter och argument kring ateism. Några smakprov:
 

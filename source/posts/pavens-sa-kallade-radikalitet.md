@@ -1,8 +1,18 @@
 ---
-title: Påvens så kallade radikalitet
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2015-09-26'
 link: https://kraulis.wordpress.com/2015/09/26/pavens-sa-kallade-radikalitet/
 name: pavens-sa-kallade-radikalitet
-date: 2015-09-26
+path: /2015/09/26/pavens-sa-kallade-radikalitet/
+tags:
+- name: franciskus
+  value: Franciskus
+- name: paven
+  value: "p\xE5ven"
+title: "P\xE5vens s\xE5 kallade radikalitet"
+type: post
 ---
 Påven Franciskus tycks ha den gudabenådade (ha!) förmågan att kunna dupera även vanligtvis sansade och kritiska personer. Hans [besök i USA och FN](http://www.dn.se/nyheter/varlden/paven-vill-se-universellt-brodraskap/) i dessa dagar har lett till att det pratas vitt och brett om hans "radikalitet". 
 

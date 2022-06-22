@@ -1,8 +1,26 @@
 ---
-title: Yttrandefrihet, Charlie Hebdo, amerikanska PEN och 6 författare
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-05-03'
 link: https://kraulis.wordpress.com/2015/05/03/yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare/
 name: yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare
-date: 2015-05-03
+path: /2015/05/03/yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare/
+tags:
+- name: charlie-hebdo
+  value: Charlie Hebdo
+- name: christiane-amanpour
+  value: Christiane Amanpour
+- name: nick-cohen
+  value: Nick Cohen
+- name: salman-rushdie
+  value: Salman Rushdie
+- name: yttrandefrihet
+  value: yttrandefrihet
+title: "Yttrandefrihet, Charlie Hebdo, amerikanska PEN och 6 f\xF6rfattare"
+type: post
 ---
 Debatten om yttrandefriheten och Charlie Hebdo fortsätter. Nu är det 6 amerikanska författare som protesterat mot att amerikanska PEN beslutat hylla Charlie Hebdo. [The Economists blogg Prospero rapporterar 1 maj 2015](http://www.economist.com/blogs/prospero/2015/05/charlie-hebdo-and-pen):
 

@@ -1,8 +1,22 @@
 ---
-title: Religionen och terrorn
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2016-03-28'
 link: https://kraulis.wordpress.com/2016/03/28/religionen-och-terrorn/
 name: religionen-och-terrorn
-date: 2016-03-28
+path: /2016/03/28/religionen-och-terrorn/
+tags:
+- name: islamism
+  value: islamism
+- name: karen-armstrong
+  value: Karen Armstrong
+- name: maria-schottenius
+  value: Maria Schottenius
+title: Religionen och terrorn
+type: post
 ---
 Dagen efter [bombdådet i en park i Lahore](http://www.bbc.com/news/world-asia-35910124), där minst 70 personer dödades, därav 29 barn, så råkar jag läsa en liten notis av Maria Schottenius i DN Kultur publicerad dagen för dådet. Som en av veckans "5 bästa" skriver Schottenius om boken **Med Gud på vår sida** av Karen Armstrong, nyss utkommen på svenska:
 

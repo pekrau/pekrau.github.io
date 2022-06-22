@@ -1,8 +1,26 @@
 ---
-title: 'Ola Larsmo om liberalismen och Sverigedemokraterna: rätt men fel'
+categories:
+- name: politik
+  value: Politik
+date: '2015-08-19'
 link: https://kraulis.wordpress.com/2015/08/19/ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel/
 name: ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel
-date: 2015-08-19
+path: /2015/08/19/ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel/
+tags:
+- name: hakan-holmberg
+  value: "H\xE5kan Holmberg"
+- name: liberalism
+  value: liberalism
+- name: ola-larsmo
+  value: Ola Larsmo
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: stefan-lofven
+  value: "Stefan L\xF6fven"
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: "Ola Larsmo om liberalismen och Sverigedemokraterna: r\xE4tt men fel"
+type: post
 ---
 Ola Larsmo skriver bra om liberalismen och Sverigedemokraterna i [Dagens Nyheter 18 augusti 2015](http://www.dn.se/kultur-noje/kulturdebatt/liberalers-okenvandring-hogerut/). Men det räcker tyvärr inte. Hans slutsats är misslyckad.
 

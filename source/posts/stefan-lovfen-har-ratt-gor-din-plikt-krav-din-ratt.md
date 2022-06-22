@@ -1,8 +1,20 @@
 ---
-title: 'Stefan Lövfen har rätt: Gör din plikt, kräv din rätt'
+categories:
+- name: politik
+  value: Politik
+date: '2015-05-29'
 link: https://kraulis.wordpress.com/2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/
 name: stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt
-date: 2015-05-29
+path: /2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/
+tags:
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: stefan-lofven
+  value: "Stefan L\xF6fven"
+title: "Stefan L\xF6vfen har r\xE4tt: G\xF6r din plikt, kr\xE4v din r\xE4tt"
+type: post
 ---
 Stefan Löfven har påpekat något som är rätt och sant och egentligen inte så konstigt. Men ändå blir han påhoppad av sina "egna" i form av den vänsterpolitiska sajten [Politism](http://www.politism.se/). Så vad är det för något han säger? Ur [intervjun i Dagens Nyheter 29 maj 2015](http://www.dn.se/nyheter/politik/stefan-lofvens-nya-krav-pa-folket/):
 

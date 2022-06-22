@@ -1,8 +1,18 @@
 ---
-title: Kajsa Ekis Ekman yrar om våld
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-12-13'
 link: https://kraulis.wordpress.com/2013/12/13/kajsa-ekis-ekman-yrar-om-vald/
 name: kajsa-ekis-ekman-yrar-om-vald
-date: 2013-12-13
+path: /2013/12/13/kajsa-ekis-ekman-yrar-om-vald/
+tags:
+- name: vastvarlden
+  value: "v\xE4stv\xE4rlden"
+- name: vald
+  value: "v\xE5ld"
+title: "Kajsa Ekis Ekman yrar om v\xE5ld"
+type: post
 ---
 Kajsa Ekis Ekman, skribent på Dagens Nyheters kultursida, brukar åstadkomma texter som är lika frustande indignerade som intellektuellt förvirrade. Denna gången ([12 dec 2013](http://www.dn.se/kultur-noje/kulturdebatt/kajsa-ekis-ekman-bilden-av-pacifisten-mandela-ar-djupt-hycklande/)) handlar det om våld. **Och inte helt oväntat är tesen att "vår civilisation" är värst:**
 

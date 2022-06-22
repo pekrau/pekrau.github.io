@@ -1,8 +1,24 @@
 ---
-title: Den ynkliga reträtten från förnekandet av hedersmorden
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2018-02-16'
 link: https://kraulis.wordpress.com/2018/02/16/den-ynkliga-retratten-fran-fornekandet-av-hedersmorden/
 name: den-ynkliga-retratten-fran-fornekandet-av-hedersmorden
-date: 2018-02-16
+path: /2018/02/16/den-ynkliga-retratten-fran-fornekandet-av-hedersmorden/
+tags:
+- name: hederskultur
+  value: hederskultur
+- name: postkolonialism
+  value: postkolonialism
+- name: rasism
+  value: rasism
+title: "Den ynkliga retr\xE4tten fr\xE5n f\xF6rnekandet av hedersmorden"
+type: post
 ---
 Det är inte ofta en åsiktsmässig reträtt får en sådan skarp blixtbelysning som i Dagens Nyheters serie artiklar (länkar i [denna artikeln](https://www.dn.se/insidan/feministerna-har-glomt-bort-kvinnokampen/)) om hedersförtryck skrivna av Thomas Lerner och Hans Arbman.
 

@@ -1,8 +1,28 @@
 ---
-title: Tycker The Economist att jag är konservativ?
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2019-07-11'
 link: https://kraulis.wordpress.com/2019/07/11/tycker-the-economist-att-jag-ar-konservativ/
 name: tycker-the-economist-att-jag-ar-konservativ
-date: 2019-07-11
+path: /2019/07/11/tycker-the-economist-att-jag-ar-konservativ/
+tags:
+- name: oppna-samhallet
+  value: "\xF6ppna samh\xE4llet"
+- name: edmund-burke
+  value: Edmund Burke
+- name: karl-popper
+  value: Karl Popper
+- name: konservatism
+  value: konservatism
+- name: liberalism
+  value: liberalism
+- name: upplysningen
+  value: Upplysningen
+title: "Tycker The Economist att jag \xE4r konservativ?"
+type: post
 ---
 Tidskriften The Economist skriver i sin ledare 4 juli 2019 om ["The global crisis in conservatism"](https://www.economist.com/leaders/2019/07/04/the-global-crisis-in-conservatism). Det är en intressant analys av konservatismens förändring under senare år, där Edmund Burkes konservatism, född ur Upplysningen, nu tycks överflyglas av en reaktionär, populistisk, chauvinistisk nationalism.
 

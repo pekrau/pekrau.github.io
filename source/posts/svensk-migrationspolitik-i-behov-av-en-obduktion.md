@@ -1,8 +1,26 @@
 ---
-title: Svensk migrationspolitik i behov av en obduktion
+categories:
+- name: politik
+  value: Politik
+date: '2018-04-24'
 link: https://kraulis.wordpress.com/2018/04/24/svensk-migrationspolitik-i-behov-av-en-obduktion/
 name: svensk-migrationspolitik-i-behov-av-en-obduktion
-date: 2018-04-24
+path: /2018/04/24/svensk-migrationspolitik-i-behov-av-en-obduktion/
+tags:
+- name: centern
+  value: Centern
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+- name: moderaterna
+  value: Moderaterna
+- name: socialdemokraterna
+  value: Socialdemokraterna
+- name: sverigedemokraterna
+  value: Sverigedemokraterna
+title: Svensk migrationspolitik i behov av en obduktion
+type: post
 ---
 När saker och ting gått rejält åt pipan, då finns det anledning att besinna sig och fundera igenom vad som gått fel. Att tillsätta en haverikommission, se över sina rutiner, göra en obduktion. Välj vilken metafor du vill.
 

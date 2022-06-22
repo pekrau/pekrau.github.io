@@ -1,8 +1,22 @@
 ---
-title: Björn Wiman har makt över mobbningen av Madeleine Sjöstedt
+categories:
+- name: kultur
+  value: Kultur
+- name: politik
+  value: Politik
+date: '2013-12-01'
 link: https://kraulis.wordpress.com/2013/12/01/bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt/
 name: bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt
-date: 2013-12-01
+path: /2013/12/01/bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt/
+tags:
+- name: bjorn-wiman
+  value: "Bj\xF6rn Wiman"
+- name: ingegard-waaranpera
+  value: "Ingeg\xE4rd Waaranper\xE4"
+- name: madeleine-sjostedt
+  value: "Madeleine Sj\xF6stedt"
+title: "Bj\xF6rn Wiman har makt \xF6ver mobbningen av Madeleine Sj\xF6stedt"
+type: post
 ---
 Björn Wiman skriver om Madeleine Sjöstedt och kulturpolitiken i Stockholm i [Dagens Nyheter 1 dec 2013](http://www.dn.se/kultur-noje/kronikor/bjorn-wiman-anna-odells-film-satter-fart-pa-kulturens-kretslopp/):
 

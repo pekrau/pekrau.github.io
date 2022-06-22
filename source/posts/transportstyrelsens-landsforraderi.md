@@ -1,8 +1,18 @@
 ---
-title: Transportstyrelsens landsförräderi
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2017-07-16'
 link: https://kraulis.wordpress.com/2017/07/16/transportstyrelsens-landsforraderi/
 name: transportstyrelsens-landsforraderi
-date: 2017-07-16
+path: /2017/07/16/transportstyrelsens-landsforraderi/
+tags:
+- name: transportstyrelsen
+  value: Transportstyrelsen
+title: "Transportstyrelsens landsf\xF6rr\xE4deri"
+type: post
 ---
 Det är svårt att avgöra vad som är värst med skandalen om Transportstyrelsens agerande kring outsourcingen av IT-driften. Det sorglösa agerandet från genereldirektören Maria Ågrens sida, den ryggradslösa hållningen hos folket runt henne, inklusive styrelseordföranden, Säpos oförmåga att stoppa galenskapen, ministerns försök till mörkning, osv, etc. Eller, för den delen, den synbarliga liknöjdheten hos kommentariatet. Har någon ledarredaktion i Sverige bemödat sig att kommentera det som hänt? (*Uppdatering: [Expressen kommenterar](http://www.expressen.se/ledare/myndigheter-behover-ga-kurs-i-anti-naivitet-/) 2017-07-17)*
 
@@ -51,5 +61,5 @@ Det skojas numera ofta om "avgå alla!" Nu har dessvärre verkligheten kommit ik
 
 Det finns många frågor att ställa. Har svensk förvaltning blivit ett moras av outsourcing, genvägar och vänskapskorruption? Vi har sett hur Skatteverket har anfrätts av vänskapskorruption. Vi har sett att bidrag har givits till antidemokratiska rörelser med fusk och bedrägeri som affärsidé. Har ni generaldirektörer inte längre insikt om vad er primära uppgift är?
 
-En påminnelse: Ni är satta att tjäna det svenska folket genom att följa Sveriges rikes lag och agera oväldigt i syfte att bygga det demokratiska fria samhället. 
+En påminnelse: Ni är satta att tjäna det svenska folket genom att följa Sveriges rikes lag och agera oväldigt i syfte att bygga det demokratiska fria samhället.
 

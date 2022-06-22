@@ -1,8 +1,34 @@
 ---
-title: Konfrontera islams demoner
+categories:
+- name: politik
+  value: Politik
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2016-06-13'
 link: https://kraulis.wordpress.com/2016/06/13/konfrontera-islams-demoner/
 name: konfrontera-islams-demoner
-date: 2016-06-13
+path: /2016/06/13/konfrontera-islams-demoner/
+tags:
+- name: donald-trump
+  value: Donald Trump
+- name: homosexuella
+  value: homosexuella
+- name: islam
+  value: Islam
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: islamism
+  value: islamism
+- name: johan-hilton
+  value: Johan Hilton
+- name: kristendom
+  value: kristendom
+- name: orlando
+  value: Orlando
+title: Konfrontera islams demoner
+type: post
 ---
 Så har då ytterligare ett terrordåd ägt rum. Enligt senaste uppgiften har 49 <del datetime="2016-06-14T17:25:32+00:00">Minst 50</del> människor tvingats bort från livet. Och kvar finns vi som  ska försöka förstå vad som hänt. Kanske också försöka dra slutsatser.
 

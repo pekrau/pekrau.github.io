@@ -1,8 +1,18 @@
 ---
-title: Den sociala kompetensens tyranni och idioti
+categories:
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-02-02'
 link: https://kraulis.wordpress.com/2014/02/02/den-sociala-kompetensens-tyranni-och-idioti/
 name: den-sociala-kompetensens-tyranni-och-idioti
-date: 2014-02-02
+path: /2014/02/02/den-sociala-kompetensens-tyranni-och-idioti/
+tags:
+- name: arbetsliv
+  value: arbetsliv
+- name: rasism
+  value: rasism
+title: Den sociala kompetensens tyranni och idioti
+type: post
 ---
 Dagens Nyheter rapporterar om ["Jakten på en perfekt anställd"](http://www.dn.se/ekonomi/jobb-karriar/jakten-pa-en-perfekt-anstalld/) (2 februari 2014). Det låter som en dålig kopia av "Jakten på den vilda stenen".
 

@@ -1,8 +1,40 @@
 ---
-title: 'Rädda det kulturella världsarvet: Sprid det och gör det Open Source'
+categories:
+- name: kultur
+  value: Kultur
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-03-23'
 link: https://kraulis.wordpress.com/2015/03/23/radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source/
 name: radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source
-date: 2015-03-23
+path: /2015/03/23/radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source/
+tags:
+- name: 3d-scanning
+  value: 3D scanning
+- name: bamiyan
+  value: Bamiyan
+- name: byzantium
+  value: Byzantium
+- name: gustav-vasa
+  value: Gustav Vasa
+- name: ikonoklasm
+  value: ikonoklasm
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: kolonialism
+  value: kolonialism
+- name: konst
+  value: konst
+- name: nefertiti
+  value: Nefertiti
+- name: open-source
+  value: Open Source
+- name: protestantism
+  value: protestantism
+- name: reformation
+  value: reformation
+title: "R\xE4dda det kulturella v\xE4rldsarvet: Sprid det och g\xF6r det Open Source"
+type: post
 ---
 Maria Schottenius skriver i [Dagens Nyheter 23 mars 2015](http://www.dn.se/kultur-noje/kronikor/maria-schottenius-varldsarvet-behover-karlek-for-att-overleva-terrorismen/) om den ideologiskt inspirerade förstörelse av ovärderliga kulturskatter som sker i bland annat områden kontrollerat av Islamiska Staten. Flera andra har skrivit om detta, bland annat Duraid Al-Khamisi i [Expressen 11 mars 2015](http://www.expressen.se/kultur/toppnyheter-/bonderna-i-is-latsas-att-de-sjalva-ar-gud/).
 

@@ -1,8 +1,34 @@
 ---
-title: Invandring, tillit och samhällskontrakt
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2015-11-01'
 link: https://kraulis.wordpress.com/2015/11/01/invandring-tillit-och-samhallskontrakt/
 name: invandring-tillit-och-samhallskontrakt
-date: 2015-11-01
+path: /2015/11/01/invandring-tillit-och-samhallskontrakt/
+tags:
+- name: bo-rothstein
+  value: Bo Rothstein
+- name: flyktingpolitik
+  value: flyktingpolitik
+- name: invandring
+  value: invandring
+- name: jacob-lundberg
+  value: Jacob Lundberg
+- name: rasism
+  value: rasism
+- name: samhallskontraktet
+  value: "samh\xE4llskontraktet"
+- name: valfard
+  value: "v\xE4lf\xE4rd"
+- name: viktor-malm
+  value: Viktor Malm
+title: "Invandring, tillit och samh\xE4llskontrakt"
+type: post
 ---
 Bo Rothstein skriver mycket läsvärt om tillit och etnisk mångfald [i Dagens Nyheter 1 nov 2015](http://www.dn.se/debatt/ett-tillitsfullt-samhalle-klarar-att-ha-stor-etnisk-mangfald/). Tillsammans med andra forskare vid Göteborgs universitet har 80.000 (!) personer i närmare 200 regioner i Europa intervjuats:
 

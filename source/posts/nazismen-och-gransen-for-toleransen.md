@@ -1,8 +1,22 @@
 ---
-title: Nazismen och gränsen för toleransen
+categories:
+- name: politik
+  value: Politik
+date: '2017-09-19'
 link: https://kraulis.wordpress.com/2017/09/19/nazismen-och-gransen-for-toleransen/
 name: nazismen-och-gransen-for-toleransen
-date: 2017-09-19
+path: /2017/09/19/nazismen-och-gransen-for-toleransen/
+tags:
+- name: demokrati
+  value: demokrati
+- name: karl-popper
+  value: Karl Popper
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+- name: nazism
+  value: nazism
+title: "Nazismen och gr\xE4nsen f\xF6r toleransen"
+type: post
 ---
 Det är självklart att det blir en intensiv debatt om så kallade Nordiska Motståndsrörelsens (NMR) planer på en demonstration 30 september, vilket sammanfaller med den judiska högtiden Jom Kippur. Nazismen är en antidemokratisk och antiliberal ideologi. Dess mål är en diktatur med rasism som statsreligion. Den har visat att folkmord är en fundamental del av dess strategi. Nazisterna gör allt för att projicera en bild av våld och styrka. Om detta råder ingen tvekan.
 

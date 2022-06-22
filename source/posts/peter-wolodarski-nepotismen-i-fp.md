@@ -1,8 +1,22 @@
 ---
-title: 'Peter Wolodarski: Nepotismen i FP'
+categories:
+- name: politik
+  value: Politik
+date: '2013-01-27'
 link: https://kraulis.wordpress.com/2013/01/27/peter-wolodarski-nepotismen-i-fp/
 name: peter-wolodarski-nepotismen-i-fp
-date: 2013-01-27
+path: /2013/01/27/peter-wolodarski-nepotismen-i-fp/
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
+- name: folkpartiet
+  value: Folkpartiet
+- name: liberalerna
+  value: Liberalerna
+- name: peter-wolodarski
+  value: Peter Wolodarski
+title: 'Peter Wolodarski: Nepotismen i FP'
+type: post
 ---
 Peter Wolodarski [skriver i Dagens Nyheter 27 jan 2013](http://www.dn.se/ledare/signerat/peter-wolodarski-farligt-nar-folkstyret-borjar-likna-ett-familjeforetag) om nepotism i Sverige i allmänhet, och i FP i synnerhet. Han använder FP-kollektivet Klippan som huvudexempel. **Men hans analys av Klippans roll i FP är i grunden felaktig.**
 

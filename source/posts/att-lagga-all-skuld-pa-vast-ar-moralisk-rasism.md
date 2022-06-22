@@ -1,8 +1,26 @@
 ---
-title: Att lägga all skuld på Väst är moralisk rasism
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2015-11-19'
 link: https://kraulis.wordpress.com/2015/11/19/att-lagga-all-skuld-pa-vast-ar-moralisk-rasism/
 name: att-lagga-all-skuld-pa-vast-ar-moralisk-rasism
-date: 2015-11-19
+path: /2015/11/19/att-lagga-all-skuld-pa-vast-ar-moralisk-rasism/
+tags:
+- name: fascism
+  value: fascism
+- name: islamiska-staten
+  value: Islamiska Staten
+- name: moral
+  value: moral
+- name: rasism
+  value: rasism
+- name: upplysningen
+  value: Upplysningen
+title: "Att l\xE4gga all skuld p\xE5 V\xE4st \xE4r moralisk rasism"
+type: post
 ---
 Efter terrordåd vidtar alltid en diskussion om vems felet är. I vissa kretsar är det naturligt att rent rutinmässigt lägga skulden på Väst. Med Väst menas då den del av världen där liberalismen i bred mening är förhärskande, där demokrati och marknadsekonomi råder. De konflikter som utspelas i världen i allmänhet, och i Mellanöstern i synnerhet, sägs bero på den kolonialism, utsugning, krigföring och imperialism som Väst utövar. Alltså är skulden Västs.
 

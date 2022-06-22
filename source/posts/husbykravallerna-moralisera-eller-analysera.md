@@ -1,8 +1,28 @@
 ---
-title: 'Husbykravallerna: Moralisera eller analysera?'
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-06-02'
 link: https://kraulis.wordpress.com/2013/06/02/husbykravallerna-moralisera-eller-analysera/
 name: husbykravallerna-moralisera-eller-analysera
-date: 2013-06-02
+path: /2013/06/02/husbykravallerna-moralisera-eller-analysera/
+tags:
+- name: husby
+  value: Husby
+- name: jens-liljestrand
+  value: Jens Liljestrand
+- name: klasskamp
+  value: klasskamp
+- name: medelklass
+  value: medelklass
+- name: moral
+  value: moral
+- name: underklass
+  value: underklass
+title: 'Husbykravallerna: Moralisera eller analysera?'
+type: post
 ---
 När detta skrivs tycks kravallerna och bilbränderna i Husby och på andra ställen i Sverige ha avtagit. Det har sagts mycket om detta, men jag vill diskutera en särskild aspekt: Frågan om huruvida man ska moralisera över eller analysera kring det som hänt.
 

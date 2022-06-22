@@ -1,8 +1,18 @@
 ---
-title: 'Grundkurs i ateism, del 4: Påven'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2013-02-16'
 link: https://kraulis.wordpress.com/2013/02/16/grundkurs-i-ateism-del-4/
 name: grundkurs-i-ateism-del-4
-date: 2013-02-16
+path: /2013/02/16/grundkurs-i-ateism-del-4/
+tags:
+- name: kristendom
+  value: kristendom
+title: "Grundkurs i ateism, del 4: P\xE5ven"
+type: post
 ---
 [Marcus Birro är arg i Expressen 13 feb 2013](http://www.expressen.se/kronikorer/marcus-birro/birro-sverige-alskar-att-skita-ner-allt-heligt/) för att många brister i respekt för den katolska kyrkan. Han utmanar kritikerna:
 

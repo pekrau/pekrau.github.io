@@ -1,8 +1,18 @@
 ---
-title: 'Grundkurs i ateism, del 2: Ann Heberlein'
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+date: '2013-01-05'
 link: https://kraulis.wordpress.com/2013/01/05/grundkurs-i-ateism-del-2/
 name: grundkurs-i-ateism-del-2
-date: 2013-01-05
+path: /2013/01/05/grundkurs-i-ateism-del-2/
+tags:
+- name: ann-heberlein
+  value: Ann Heberlein
+- name: bok
+  value: bok
+title: 'Grundkurs i ateism, del 2: Ann Heberlein'
+type: post
 ---
 Del 2 av min impromptu-kurs i ateism består av att läsa Ann Heberleins essä i Dagens Nyheter 5 januari 2013 (dessvärre inte länkbar): **Gud, vem är du**. Det är en vanlig uppfattning att gudstro innebär trygghet och tröst för den troende. **Men Heberleins text visar hur gudstro för en tänkande människa snarare leder till ångest och moraliskt tvivel.** 
 

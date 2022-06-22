@@ -1,8 +1,26 @@
 ---
-title: Niall Ferguson i Almedalen
+categories:
+- name: religion-vs-ateism
+  value: Religion vs ateism
+- name: samhalle
+  value: "Samh\xE4lle"
+- name: vetenskap-science
+  value: Vetenskap (science)
+date: '2013-07-02'
 link: https://kraulis.wordpress.com/2013/07/02/niall-ferguson-i-almedalen/
 name: niall-ferguson-i-almedalen
-date: 2013-07-02
+path: /2013/07/02/niall-ferguson-i-almedalen/
+tags:
+- name: galileo
+  value: Galileo
+- name: giordano-bruno
+  value: Giordano Bruno
+- name: niall-ferguson
+  value: Niall Ferguson
+- name: roland-poirier-martinsson
+  value: Roland Poirier Martinsson
+title: Niall Ferguson i Almedalen
+type: post
 ---
 Niall Ferguson, brittisk historiker, talade i Almedalen 1 juli 2013, vilket uppmärksammades i medierna, t.ex. av [Johan Schück 1 juli 2013 i Dagens Nyheter](http://www.dn.se/nyheter/almedalen/harvardprofessor-sverige-for-daligt-pa-att-integrera-invandrare/). Jag har tidigare [kommenterat Niall Fergusons senaste bok Civilization](/posts/), så där kan man få ett kort sammandrag av vad Ferguson driver för tes.
 

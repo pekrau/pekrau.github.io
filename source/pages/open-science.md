@@ -1,8 +1,10 @@
 ---
-title: Open Science
+date: '2016-04-04'
 link: https://kraulis.wordpress.com/open-science/
 name: open-science
-date: 2016-04-04
+path: /open-science/
+title: Open Science
+type: page
 ---
 In this page I list links to articles discussing Open Science, data storage and handling, and Big Data issues.
 

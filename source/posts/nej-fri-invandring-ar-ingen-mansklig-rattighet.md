@@ -1,8 +1,26 @@
 ---
-title: Nej, fri invandring är ingen mänsklig rättighet
+categories:
+- name: politik
+  value: Politik
+- name: samhalle
+  value: "Samh\xE4lle"
+date: '2014-09-22'
 link: https://kraulis.wordpress.com/2014/09/22/nej-fri-invandring-ar-ingen-mansklig-rattighet/
 name: nej-fri-invandring-ar-ingen-mansklig-rattighet
-date: 2014-09-22
+path: /2014/09/22/nej-fri-invandring-ar-ingen-mansklig-rattighet/
+tags:
+- name: fredrik-segerfeldt
+  value: Fredrik Segerfeldt
+- name: invandring
+  value: invandring
+- name: lena-andersson
+  value: Lena Andersson
+- name: manskliga-rattigheter
+  value: "m\xE4nskliga r\xE4ttigheter"
+- name: stefan-jonsson
+  value: Stefan Jonsson
+title: "Nej, fri invandring \xE4r ingen m\xE4nsklig r\xE4ttighet"
+type: post
 ---
 Lena Andersson hävdar att den jobbiga diskussionen om invandring egentligen är helt onödig ([Dagens Nyheter 19 sept 2014](http://www.dn.se/ledare/kolumner/i-princip-odelbart/)):
 
