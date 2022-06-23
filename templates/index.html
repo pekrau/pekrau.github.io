@@ -8,13 +8,12 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 <img src="/files/civilisation-icon.png" 
      title="Sõrve Lighthouse, Saare, Estonia"
      class="rounded float-start me-4">
-<h1>
-  Civilisation
-  <br>
+<h1>Civilisation</h1>
+<h2>
   <small title="About politics, science and culture. By Per Kraulis" class="text-muted">
     Om politik, vetenskap och kultur. Av Per Kraulis
   </small>
-</h1>
+</h2>
 {% endblock%}
 
 {% block main %}
@@ -22,7 +21,7 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 
   <section class="col-lg-8 offset-lg-1">
     {% for post in posts %}
-    <div class="card border-dark mt-2">
+    <div class="card border-dark mb-2">
       <div class="card-header">
         <h5 class="card-title">{{ post["title"] }}
           <small class="text-muted">{{ post["date"] }}</small>
