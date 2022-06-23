@@ -87,7 +87,7 @@ def build_index():
     posts = POSTS[:3]
     converter = get_markdown_converter()
     for post in posts:
-        post["html"] = converter.convert("\n\n".join(post["content"].split("\n\n")[:2]))
+        post["short_html"] = converter.convert("\n\n".join(post["content"].split("\n\n")[:2]))
     build_html("index.html",
                updated=time.strftime("%Y-%m-%d"),
                categories=categories,
