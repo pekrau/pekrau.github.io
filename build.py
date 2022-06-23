@@ -1,7 +1,7 @@
 "Build the website by converting MD to HTML."
 
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 
 import os
@@ -84,9 +84,14 @@ def build_index():
     "Build the top index.html file."
     categories = list(CATEGORIES.values())
     categories.sort(key=lambda c: c["value"].lower())
+    posts = POSTS[:3]
+    converter = get_markdown_converter()
+    for post in posts:
+        post["html"] = converter.convert("\n\n".join(post["content"].split("\n\n")[:2]))
     build_html("index.html",
                updated=time.strftime("%Y-%m-%d"),
-               categories=categories)
+               categories=categories,
+               posts=posts)
 
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."

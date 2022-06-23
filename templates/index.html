@@ -19,14 +19,34 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 
 {% block main %}
 <div class="row">
-  <section class="col-lg-4 offset-lg-1">
+
+  <section class="col-lg-8 offset-lg-1">
+    {% for post in posts %}
+    <div class="card border-dark mt-2">
+      <div class="card-header">
+        <h5 class="card-title">{{ post["title"] }}
+          <small class="text-muted">{{ post["date"] }}</small>
+        </h5>
+      </div>
+      <div class="card-body">
+        {{ post["html"] | safe }}
+        <p class="text-end">
+          <a href="/blog{{ post['path'] }}">Hela inlägget...</a> 
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+    <div class="card border-dark mt-2">
+      <div class="card-body lead text-end">
+        <a href="/blog/">Alla inlägg</a>
+      </div>
+    </div>
   </section>
-  <section class="col-lg-4">
-  </section>
+
   <section class="col-lg-3">
     <div class="card">
       <div class="card-header">
-        Ämnen
+        <h5 class="card-title">Ämnen</h5>
       </div>
       <ul class="list-group list-group-flush">
         {% for category in categories %}
@@ -35,6 +55,7 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
       </ul>
     </div>
   </section>
+
 </div>
 {% endblock %}
 
