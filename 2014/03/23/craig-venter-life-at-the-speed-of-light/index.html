@@ -8,8 +8,10 @@
     <meta author=" | default('Per Kraulis')">
     <title>Craig Venter: Life at the Speed of Light</title>
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
-          rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          rel="stylesheet"
+          crossorigin="anonymous">
     
     
   </head>
@@ -31,24 +33,19 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="blog"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Sidor
+                Blogg
               </a>
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li>
-                  <a class="dropdown-item" href="/blog/">Lista med alla inlägg</a>
+                  <a class="dropdown-item" href="/blog/">Alla inlägg</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/index_en.html">
-                    List of posts in English
-                  </a>
+                  <a class="dropdown-item" href="/blog/en/">Posts in English</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
                 </li>
               </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/">Blogg</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/tags/">Etiketter</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="sidor"
@@ -108,9 +105,11 @@
       
 
       
-<div class="row">
-  <section class="col-lg-6 offset-lg-1">
-    <p>Craig Venter, en av de främsta bakom kartläggningen av människans hela arvsmassa (&quot;genom&quot;), har skrivit boken &quot;Life at the Speed of Light&quot;. <strong>Den handlar om Venters senaste projekt, att frambringa en syntetisk livsform.</strong></p>
+      <div class="row">
+
+        
+<section class="col-lg-6 offset-lg-1">
+  <p>Craig Venter, en av de främsta bakom kartläggningen av människans hela arvsmassa (&quot;genom&quot;), har skrivit boken &quot;Life at the Speed of Light&quot;. <strong>Den handlar om Venters senaste projekt, att frambringa en syntetisk livsform.</strong></p>
 <p>Bokens titel syftar på idén att DNA-koden för nytt liv i framtiden skulle kunna skickas med radiovågor (alltså ljusets hastighet) till maskiner på månen eller Mars, som med den informationen skulle kunna tillverka levande organismer på beställning från jorden. <strong>Ett fantasieggande scenario förvisso, men kanske inte helt förankrat i vare sig verklighet eller behov.</strong></p>
 <p>Vad Venter och hans medarbetare har gjort är att på syntetisk väg tillverka hela genomet (alltså hela arvsmassan) för en mikroorganism, för att sedan stoppa in det i en cell, varvid en ny livsform har sett dagens ljus. <strong>Detta är en teknisk bedrift av stora mått.</strong> Det är ett språng framåt för genteknologin. Men att betrakta denna livsform som helt syntetisk är att ta i för hårt, anser jag, av två olika anledningar.</p>
 <p><strong>Den första anledningen är att Venter valt att syntetisera ett genom som nästan helt och hållet är en direkt kopia av en existerande, naturligt förekommande organism, nämligen <a href="http://en.wikipedia.org/wiki/Mycoplasma_mycoides"><em>Mycoplasma mycoides</em></a>.</strong> Inget konstigt med det. Vi har idag inte tillnärmelsevis tillräcklig kunskap för att kunna designa ett helt syntetiskt genom, där alla gener i någon mening är konstgjorda. <strong>Allt vi kan göra, idag och under överskådlig framtid, är att kopiera sådana gener som finns i någon existerande organism och sätta ihop dom, möjligen med smärre modifikationer.</strong> Att försöka hitta på helt nya gener, utan förebilder i naturen, det är vi inte i närheten av.</p>
@@ -119,7 +118,7 @@
 <p>Venter tar sin utgångspunkt i en skrift av fysikern <strong>Erwin Schrödinger</strong>. Det låter kanske osannolikt, men denna korta skrift som heter <strong>&quot;What is Life&quot;</strong> har alltsedan publikationen 1944 varit ett riktmärke för många diskussioner om livets funktion och roll.</p>
 <p>Med elegans och klarhet går Schrödinger igenom de fundamentala förutsättningarna för att förstå livet som fenomen betraktat utifrån fysikens lagar. Trots sin ålder så framstår skriften fortfarande som den mest fascinerande beskrivningen av vad som är speciellt med liv jämfört med andra fysikaliska system. <strong>Svaret kan sägas vara tvåfalt: Livet är till sin natur en process som bygger på ordning (negativ entropi, i fysikaliska termer), och som aktivt uppsöker energikällor som kan skapa ordning. Livet behöver också en arvsmekanism: utan förmågan att lagra information om hur dessa ordningsskapande system ska byggas, så kan inte levande organismer vidmakthållas, eller utvecklas genom evolution.</strong></p>
 <p>Venter argumenterar mot <a href="http://en.wikipedia.org/wiki/Vitalism">vitalism</a>, läran att livet inte kan vara en enbart materiellt grundad företeelse, utan det behövs någon ytterligare kraft för att materian ska kunna bli liv. <strong>Den uttalade vitalismen har sedan länge tappat allt stöd bland forskare. Men Venter anser att den har kommit tillbaka bakvägen genom tal om &quot;<a href="http://sv.wikipedia.org/wiki/Emergens">emergens</a>&quot;</strong> (ungefär: frambringade, komplexitet ur enkla delar):</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>...vitalism today manifests itself in the guise of shifting emphasis away from DNA to an &quot;emergent&quot; property of the cell that is somehow greater than the sum of its molecular parts and how they work in a particular environment.</p>
 </blockquote>
 <p>This subtle new vitalism results in a tendency by some to downgrade or even ignore the central importance of DNA.</p>
@@ -132,27 +131,63 @@
 <p>J. Craig Venter: <strong>Life at the Speed of Light.</strong> Little, Brown, 2013, ISBN 978-1-4087-0524-7. På svenska: <strong>Liv i ljusets hastighet.</strong>, Fri Tanke Förlag, 2014, ISBN 9789187513053.</p>
 <p>Erwin Schrödinger: <strong>What is Life?</strong> Cambridge University Press, 1967. ISBN 0-521-09397-X. Modern utgåva: Cambridge University Press, 2012. ISBN 978-11-07604-66-7.</p>
 
-  </section>
-  <aside class="col-lg-3 offset-lg-2">
-    <ul class="list-group">
-      <li class="list-group-item">Publicerad 2014-03-23</li>
-      
-      <li class="list-group-item">
-        Föregående inlägg:
-        <a href="/2014/03/23/craig-venter-life-at-the-speed-of-light/">Craig Venter: Life at the Speed of Light</a>
-      </li>
-      
-      
-      <li class="list-group-item">
-        Nästa inlägg:
-        <a href="/2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/">Rickard III på Dramaten: Den pansrade lögnen och Putins öde</a>
-      </li>
-      
-      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
-    </ul>
-  </aside>
-</div>
+</section>
 
+
+        
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad 2014-03-23</li>
+    
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="/2014/03/30/goran-greider-den-solidariska-genen/">Göran Greider: Den solidariska genen</a>
+    </li>
+    
+    
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="/2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/">Rickard III på Dramaten: Den pansrade lögnen och Putins öde</a>
+    </li>
+    
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/biologi/">biologi</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/bok/">bok</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/craig-venter/">Craig Venter</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/erwin-schrodinger/">Erwin Schrödinger</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/genteknik/">genteknik</a>
+      </li>
+      
+    </ul>
+  </div>
+
+</aside>
+
+
+      </div>
+      
 
       <footer class="row">
         <div class="col offset-lg-1">

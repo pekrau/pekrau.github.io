@@ -11,5 +11,5 @@ path: /2015/01/11/jesuischarlie/
 title: '#JeSuisCharlie'
 type: post
 ---
-[![pen](/files/pen.png)](/posts/pen.png)
+[![pen](/files/pen.png)]
 

@@ -1,9 +1,8 @@
 ---
+language: en
 categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
-- name: in-english
-  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-09-29'

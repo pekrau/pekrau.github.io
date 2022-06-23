@@ -1,9 +1,8 @@
 ---
+language: en
 categories:
 - name: computing
   value: Computing
-- name: in-english
-  value: In English
 - name: politik
   value: Politik
 date: '2016-04-04'

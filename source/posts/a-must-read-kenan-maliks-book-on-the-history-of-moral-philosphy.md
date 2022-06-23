@@ -1,7 +1,9 @@
 ---
+language: en
+translation:
+- language: sv
+  name: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
 categories:
-- name: in-english
-  value: In English
 - name: kultur
   value: Kultur
 - name: politik
@@ -56,8 +58,6 @@ tags:
 title: 'A must-read: Kenan Malik''s book on the history of moral philosphy'
 type: post
 ---
-*Detta inlägg finns även [på svenska](/posts/).*
-
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), English writer and lecturer, has written a book about the history of moral philosophy. Every person interested in the topic simply must read it. **"The Quest for a Moral Compass" is a marvel of clarity and rigor.** The philosophers' positions are explained intelligibly without undue simplification. Their ethical reasoning is put into a social and intellectual context. It is unceasingly interesting and instructive.
 
 The book begins with the opening stanza from Homer's Iliad, "Sing, goddess, of the anger of Achilleus, son of Peleus. ...", and discusses the moral universe the story unfolds within. **It is the kind of writing that makes me rejoice. No long-winded introduction, pseudo-academic meta talk about how the book is organized, but just bang on, head first! That's how it should be done.</Strong>

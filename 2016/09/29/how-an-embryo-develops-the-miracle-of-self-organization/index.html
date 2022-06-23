@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="sv">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,8 +8,10 @@
     <meta author=" | default('Per Kraulis')">
     <title>How an embryo develops: The miracle of self-organization</title>
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
-          rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          rel="stylesheet"
+          crossorigin="anonymous">
     
     
   </head>
@@ -31,24 +33,19 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="blog"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Sidor
+                Blogg
               </a>
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li>
-                  <a class="dropdown-item" href="/blog/">Lista med alla inlägg</a>
+                  <a class="dropdown-item" href="/blog/">Alla inlägg</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/index_en.html">
-                    List of posts in English
-                  </a>
+                  <a class="dropdown-item" href="/blog/en/">Posts in English</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
                 </li>
               </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/">Blogg</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/tags/">Etiketter</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="sidor"
@@ -108,15 +105,17 @@
       
 
       
-<div class="row">
-  <section class="col-lg-6 offset-lg-1">
-    <p>The development of an organism such as a plant or a human being has always been a source of fascination. How can a small seed give rise to a giant tree? How can an egg cell combined with a sperm cell develop via the embryo into the complex structures of the human body? In a recent book <strong>&quot;Life Unfolding. How the human body creates itself&quot;</strong>, Jamie A. Davies, professor at the University of Edinburgh, describes the current scientific understanding of this miraculous process.</p>
+      <div class="row">
+
+        
+<section class="col-lg-6 offset-lg-1">
+  <p>The development of an organism such as a plant or a human being has always been a source of fascination. How can a small seed give rise to a giant tree? How can an egg cell combined with a sperm cell develop via the embryo into the complex structures of the human body? In a recent book <strong>&quot;Life Unfolding. How the human body creates itself&quot;</strong>, Jamie A. Davies, professor at the University of Edinburgh, describes the current scientific understanding of this miraculous process.</p>
 <p>One possible solution to the fundamental problem of an organism's development is the <a href="https://en.wikipedia.org/wiki/Teleology">teleological</a> one. Teleology is the idea that a purpose is the driver of a process. This idea is associated with <a href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a>, the great Greek philosopher, who, according to the <a href="http://plato.stanford.edu/entries/aristotle-biology/">Stanford Encyclopedia of Philosophy (SEP)</a> &quot;is properly recognized as the originator of the scientific study of life.&quot; Aristotle's argument was that the development of an organism is fundamentally teleological; the goal of the process is to produce a functional adult organism. The final cause, as he called it, is the driving force of the process. The SEP describes his view thus:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>[...] parts and the processes that produce them [organisms] do not necessitate the outcome; on the contrary, the outcome necessitates that the developmental processes bring about the parts that are necessary for the organism to live its life, and do so in a temporally and spatially coordinated manner.</p>
 </blockquote>
 <p>This way of looking at things is no longer part of natural science. It was attacked already in the early 1300s by William of Ockham, the great nominalist philosopher who in some ways anticipated scientific modes of thinking:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>The special characteristic of a final cause is that it is able to cause when it does not exist; from which it follows that this movement towards an end is not real but metaphorical.</p>
 </blockquote>
 <p>Larry Siedentop, from whose wonderful book <strong>&quot;Inventing the Individual&quot;</strong> (which I hope to write about later) I have taken the quote, says that Ockham here uses his <a href="https://en.wikipedia.org/wiki/Occam%27s_razor">famous razor</a> &quot;with more than a little sarcasm&quot;.</p>
@@ -125,7 +124,7 @@
 <p>But the scientist, when pressed, will admit that she does not actually believe that a plant has a goal. A plant is not conscious and cannot have intentions. The same with a cell or a tissue. We must explain the behavior of biological systems in some other way.</p>
 <p>Jamie Davies describes in his book how the apparently goal-oriented process of the developing human embryo actually is the result of a long series of spontaneous events starting with the fertilization of the egg cell. Each step is, in a very simple and yet interesting sense, natural. There are no special life forces involved, only the standard chemical and physical laws. What is special is the complexity and specific setup of the system, the fertilized egg and its contents.</p>
 <p>The fundamental insight is that the entire system is configured such that each event follows on the next without any centralized control. There is no architect or conductor issuing commands to everyone else. Things happen on their own in a massively parallel, decentralized fashion. Davies writes:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>[...] responsibility for biological construction is shared between all of the components involved rather than, as in most technological construction, someone being in overall charge.</p>
 </blockquote>
 <p>If we look at the molecular players in this drama, the main ones are the genes (in the DNA of each cell) and the proteins of the cell. In a nutshell: The genes specify which proteins a cell can make, and the proteins make up the cell (I know, this is extremely simplified.) The so-called Central Dogma of molecular biology, proposed by Francis Crick in 1958, states that the sequence information present in genes is transferred into the sequence of proteins, but never <em>vice versa</em>. Once a protein has been made, its sequence information cannot be translated back into the genes.</p>
@@ -133,12 +132,12 @@
 <p>But this garbled notion of the Central Dogma is not true. Information <strong>in the cell</strong> flows from genes to proteins and back again in innumerable feedback loops, and involves the environment of the cell as much as the genome. The Central Dogma, as formulated by Crick, focuses on the <strong>sequence</strong> information, which is just one part of all information in a cell. As a piece of DNA is translated into protein, the information in the sequence goes only one way. Every protein produced by a cell has its sequence template somewhere in the DNA of the cell. If a protein is taken up by a cell, it will never lead to the generation a new DNA sequence corresponding to the protein. That is the Central Dogma.</p>
 <p>It is essential to understand that there is much more information in the cell as a whole than just sequence information. The Central Dogma is about information encoded in the sequence of DNA and protein; it is not about the general flow of information in the cell. The Central Dogma as stated by Crick still holds, since it is, and always was, only about sequence information.</p>
 <p>Davies describes how the processes of a living cell is based on information feedback. Therefore, the genome cannot be said to be in charge; it is being controlled as much as it controls:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>Proteins are made only because active genes specify (via mRNA) that they should be made. Those genes are active only because proteins already present make them so. The logic is therefore circular: control is located nowhere, because control is located everywhere.</p>
 </blockquote>
 <p>One of the central problems of developmental biology is to explain how a single cell, the fertilized egg, can give rise to different kinds of cells that ultimately form different tissues in the body. How do the egg's daughter cells know which special type to become? Each cell has the identical genome as any other, so the decision cannot be based on the presence or absence of specific genes in each daughter cell.</p>
 <p>Davies describes how the first difference between cells occurs:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>When there were only a few cells in the embryo, every one took up a large enough portion of the total volume that some of each cell's surface faced the outside. Once cleavage has generated thirty-two of sixty-four cells, though, they are small enough in relation to the size of the spherical embryo that some find themselves in the middle, completely surrounded. Others are still on the outside [...]. Cells can sense whether they are completely surrounded by other cells or whether parts of them face nothing more than fluid, and they use this information to decide what to do next. Those that find themselves with a free surface activate a set of previously inactive genes and become the embryo's first specialized tissue, the trophectoderm.</p>
 </blockquote>
 <p>Here is the miracle of spontaneous events: A blob of dividing cells will, by trivial laws of geometry, cause some cells to be located on the surface of the blob. That simple fact is sensed by those cells, leading to the first steps toward differentiation. It is essential to understand that the genes of <strong>every</strong> cell in the embryo encode this propensity, this setup for a certain action on a specific cue. This means that it doesn't matter which cells end up at the surface. Those that do act accordingly, those that don't, don't.</p>
@@ -150,27 +149,87 @@
 <p>Jamie A. Davies: <strong>Life Unfolding. How the human body creates itself</strong>, Oxford University Press, 2014, ISBN 978-0-19-967354-4.</p>
 <p>Larry Siedentop: <strong>Inventing the Individual. The Origins of Western Liberalism</strong>, Penguin Books, 2014, ISBN 978-0-141-00954-4.</p>
 
-  </section>
-  <aside class="col-lg-3 offset-lg-2">
-    <ul class="list-group">
-      <li class="list-group-item">Publicerad 2016-09-29</li>
-      
-      <li class="list-group-item">
-        Föregående inlägg:
-        <a href="/2016/09/29/how-an-embryo-develops-the-miracle-of-self-organization/">How an embryo develops: The miracle of self-organization</a>
-      </li>
-      
-      
-      <li class="list-group-item">
-        Nästa inlägg:
-        <a href="/2016/09/28/porta-nazisterna/">Porta nazisterna!</a>
-      </li>
-      
-      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
-    </ul>
-  </aside>
-</div>
+</section>
 
+
+        
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad 2016-09-29</li>
+    
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="/2016/10/02/per-t-ohlssons-onsketankande/">Per T. Ohlssons önsketänkande</a>
+    </li>
+    
+    
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="/2016/09/28/porta-nazisterna/">Porta nazisterna!</a>
+    </li>
+    
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/aristoteles/">Aristoteles</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/biologi/">biologi</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/bok/">bok</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/evolution/">evolution</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/francis-crick/">Francis Crick</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/genom/">genom</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/jamie-davies/">Jamie Davies</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/ockham/">Ockham</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/protein/">protein</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/teleologi/">teleologi</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/utvecklingsbiologi/">utvecklingsbiologi</a>
+      </li>
+      
+    </ul>
+  </div>
+
+</aside>
+
+
+      </div>
+      
 
       <footer class="row">
         <div class="col offset-lg-1">

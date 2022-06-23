@@ -8,8 +8,10 @@
     <meta author=" | default('Per Kraulis')">
     <title>Därför är köer oundvikliga</title>
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
-          rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          rel="stylesheet"
+          crossorigin="anonymous">
     
     
   </head>
@@ -31,24 +33,19 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="blog"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Sidor
+                Blogg
               </a>
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li>
-                  <a class="dropdown-item" href="/blog/">Lista med alla inlägg</a>
+                  <a class="dropdown-item" href="/blog/">Alla inlägg</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/index_en.html">
-                    List of posts in English
-                  </a>
+                  <a class="dropdown-item" href="/blog/en/">Posts in English</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
                 </li>
               </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/">Blogg</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/tags/">Etiketter</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="sidor"
@@ -108,14 +105,11 @@
       
 
       
-<div class="row">
-  <section class="col-lg-6 offset-lg-1">
-    <p>*This blog post is also available <a href="/posts/">in English</a>.</p>
-<ul>
-<li>
-</li>
-</ul>
-<p>Vi klagar gärna på köer. Varför ska vi behöva vänta? Visar inte t.ex. vårdköerna att för snåla resurser läggs på sjukvården? Jag har tittat litet närmare på detta problem.</p>
+      <div class="row">
+
+        
+<section class="col-lg-6 offset-lg-1">
+  <p>Vi klagar gärna på köer. Varför ska vi behöva vänta? Visar inte t.ex. vårdköerna att för snåla resurser läggs på sjukvården? Jag har tittat litet närmare på detta problem.</p>
 <p><strong>Min slutsats: Nej, vi är nog inte beredda att betala vad det kostar att avskaffa köerna.</strong> Mitt resultat bygger på några enkla förutsättningar, och är tillämpligt på många olika typer av verksamheter. Jag har använt datorsimuleringar för att räkna på problemet. Siffrorna talar sitt tydliga språk: <strong>Det köfria samhället är en orimlig utopi.</strong></p>
 <p>Jag jobbar i en serviceverksamhet (<a href="https://portal.scilifelab.se/genomics/">National Genomics Infrastructure in Sweden</a> som befinner sig inom <a href="http://www.scilifelab.se/">SciLifeLab</a>), där vi processar prover inskickade av forskare i hela Sverige och levererar data (DNA-sekvenserna) tillbaka till dem. <strong>Det vanligaste klagomålet på oss är att vi har för långa köer. Det glunkas om att <a href="http://ki.se/">Karolinska Institutet</a>, där många av våra användare finns, funderar på att öppna en egen service, för att, som en KI-representant sa till mig, &quot;forskarna ska kunna komma ner och få sina prover körda direkt utan någon kö.&quot;</strong> Jag började fundera på det. Är den målsättningen rimlig?</p>
 <p>Det finns en mycket väl utvecklad teori om detta, främst inom det fält som heter <a href="http://en.wikipedia.org/wiki/Discrete_event_simulation">Discrete Event Simulation</a>, men de grundläggande dragen är så enkla att jag programmerade det följande själv. Källkod och andra filer finns på mitt GitHub-repo <a href="https://github.com/pekrau/queue_simulation">queue_simulation</a> för den som vill titta på detaljerna.</p>
@@ -146,27 +140,59 @@
 <p>Man skulle självklart kunna gå mer på djupet i dessa frågor, och visa grafer som relaterar förekomst av kö, eller medellängd på kön, till hur stor nyttjandegrad man har. Men jag avstår i detta inlägg, det är tillräckligt långt som det är. Man kan också diskutera om man kan förändra det grundläggande antagandet jag gör i analysen, nämligen att uppdragen inkommer vid slumpmässiga tidpunkter. Visst, man kan i vissa fall (dock inte akut sjukhusvård) tänka sig andra system, som t.ex. tidsbokning, som skulle minska eländet. Men de lösningarna har egna problem som det skulle leda för långt att här resonera om.</p>
 <p><strong>Jag vill avsluta med följande uppmaning till de som klagar på långa köer, i vård eller i andra sammanhang: Är ni beredda att betala för den överkapacitet som behövs för att uppnå frånvaron av köer?</strong> För även om verksamheten skulle betalas av andra, rent tekniskt, så ska man inte inbilla sig att det inte kostar samhällsekonomin något. Har man en verksamhet vars kapacitet är långt större än vad den principiellt behöver vara, så innebär det dödtid, och därmed slöseri: Resurser felallokeras. Används till ingen nytta. Kunde ha använts till annat. Betänk det innan ni börjar gnälla.</p>
 
-  </section>
-  <aside class="col-lg-3 offset-lg-2">
-    <ul class="list-group">
-      <li class="list-group-item">Publicerad 2015-01-31</li>
-      
-      <li class="list-group-item">
-        Föregående inlägg:
-        <a href="/2015/01/31/darfor-ar-koer-oundvikliga/">Därför är köer oundvikliga</a>
-      </li>
-      
-      
-      <li class="list-group-item">
-        Nästa inlägg:
-        <a href="/2015/01/31/why-queues-are-inevitable/">Why queues are inevitable</a>
-      </li>
-      
-      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
-    </ul>
-  </aside>
-</div>
+</section>
 
+
+        
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad 2015-01-31</li>
+    
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="/2015/02/15/timothy-garton-ash-om-charlie-hebdo/">Timothy Garton Ash om Charlie Hebdo</a>
+    </li>
+    
+    
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="/2015/01/31/why-queues-are-inevitable/">Why queues are inevitable</a>
+    </li>
+    
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/koer/">köer</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/ngi/">NGI</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/scilifelab/">SciLifeLab</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/simulering/">simulering</a>
+      </li>
+      
+    </ul>
+  </div>
+
+</aside>
+
+
+      </div>
+      
 
       <footer class="row">
         <div class="col offset-lg-1">

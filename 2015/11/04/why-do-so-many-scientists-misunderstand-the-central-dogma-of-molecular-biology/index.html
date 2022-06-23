@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="sv">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,8 +8,10 @@
     <meta author=" | default('Per Kraulis')">
     <title>Why do so many scientists misunderstand the Central Dogma of Molecular Biology?</title>
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/simplex/bootstrap.css"
-          rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          rel="stylesheet"
+          crossorigin="anonymous">
     
     
   </head>
@@ -31,24 +33,19 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="blog"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Sidor
+                Blogg
               </a>
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li>
-                  <a class="dropdown-item" href="/blog/">Lista med alla inlägg</a>
+                  <a class="dropdown-item" href="/blog/">Alla inlägg</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/index_en.html">
-                    List of posts in English
-                  </a>
+                  <a class="dropdown-item" href="/blog/en/">Posts in English</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
                 </li>
               </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/">Blogg</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/blog/tags/">Etiketter</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="sidor"
@@ -108,9 +105,11 @@
       
 
       
-<div class="row">
-  <section class="col-lg-6 offset-lg-1">
-    <p>Scientists are careful people who do not make statements without knowing the facts. They try hard to get things right. So we think; hope.</p>
+      <div class="row">
+
+        
+<section class="col-lg-6 offset-lg-1">
+  <p>Scientists are careful people who do not make statements without knowing the facts. They try hard to get things right. So we think; hope.</p>
 <p><strong>But there is a very curious case where intelligent, knowledgeable scientists seem to get things wrong at an alarming frequency.</strong> It is quite interesting, because the misunderstanding isn't that hard to avoid. It is a mystery why scientists keep flunking it. In an added twist of diabolical irony, the very article published to explicitly demolish the misunderstanding is often cited <u>in support</u> of it!</p>
 <p>I am thinking of the so-called <strong>Central Dogma of Molecular Biology</strong>, a statement about the information flow between DNA, RNA and protein. It was published in 1958 by <a href="https://en.wikipedia.org/wiki/Francis_Crick">Francis Crick</a>, co-discoverer of <a href="http://www.nature.com/nature/dna50/watsoncrick.pdf">the double-helical structure of DNA</a>, <a href="http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/">Nobel Prize laureate 1962</a> and a true giant of 20th century science.</p>
 <p>The misunderstanding of the Central Dogma can be stated in different ways. It is claimed that, e.g.:</p>
@@ -122,20 +121,20 @@
 </ul>
 <p><strong>All these statements are wrong.</strong> Not about the facts of the biological phenomena in themselves, but in the claim that they affect the Central Dogma.</p>
 <p>What does the Central Dogma say? Here is the full statement from Crick's 1958 paper (<a href="http://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/SCBBZY">Symp. Soc. Exp. Biol. 1958, vol 12, pp 138-163</a>):</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p><em>The Central Dogma</em></p>
 </blockquote>
 <p>This states that once 'information' has passed into protein <em>it cannot get out again</em>. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the <em>precise</em> determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein.</p>
 <p><strong>It is important to note that as stated here, the Central Dogma is even today exactly correct! Nothing in this statement has been shown to be wrong.</strong></p>
 <p>Incidentally, the paper containing the first statement of the Central Dogma is a veritable fireworks of ideas, interpretations and hypotheses. It is a joy to read. It's a snapshot of a scientific field at a time of fascinating confusion and progress. To be sure, it does put forth a number of hypotheses which have turned out to be either flatly wrong or subtly mistaken. But the Central Dogma is not one of those.</p>
 <p>In 1970, Crick published a paper (<a href="http://www.nature.com/nature/focus/crick/pdf/crick227.pdf">Nature 1970, vol 227, issue 5258, pp 561-563</a>) to explicitly combat widespread misconceptions of the Central Dogma. It is this paper that is so often cited in support of those very same mistaken interpretations of the Central Dogma that Crick tried to eradicate. Rarely has a brilliant scientific paper failed so miserably! Referring to a paper containing the misunderstanding, he wrote:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>This is not the first time that the idea of the central dogma has been misunderstood, in one way or another. In this article I explain why the term was originally introduced, its true meaning, and state why I think that, properly understood, it is still an idea of fundamental importance.</p>
 </blockquote>
 <p>And he illustrated the Central Dogma in the following way:</p>
 <p><a href="/posts/central-dogma-crick-1970.png"><img src="/files/central-dogma-crick-1970.png" alt="central-dogma-crick-1970" /></a></p>
 <p>The essential message of this image is <strong>the absence</strong> of arrows from protein to either RNA, DNA or protein. Crick wrote:</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>These are the three transfers which the central dogma postulates never occur:</p>
 </blockquote>
 <pre><code>Protein -&amp;gt; Protein
@@ -150,7 +149,7 @@ Protein -&amp;gt; RNA
 <p>As soon as it became reasonably clear which roles DNA and protein played, neither Crick nor really anyone else ever considered that the information flow in the cell did not involve proteins affecting DNA expression. In fact, the notion that any knowledgeable scientist, let alone Francis Crick, could have believed that DNA expression can occur without being regulated directly or indirectly by the environment is, frankly, ludicrous.</p>
 <p>I have recently come across several cases of misunderstandings of the Central Dogma in Ph.D. theses. In Sweden, a Ph.D. thesis in the biomedical sciences most often consists of 3-5 regular scientific papers, either already published in scientific journals, or in manuscript form intended for publication. In addition, the thesis also contains an introduction which puts the results of the regular scientific papers in perspective. This introduction often contains a brief overview of the fundamental facts of molecular biology and biochemistry. Its function is in part to show that the student understands the field in general. It is here the misunderstanding usually rears its ugly head.</p>
 <p>I will here quote from a recent Ph.D. thesis which clearly shows the misunderstanding. The name of the author is uninteresting, since I am concerned about the general phenomenon, not the individual scientist.</p>
-<blockquote>
+<blockquote class="blockquote ms-4">
 <p>The central dogma of molecular biology [...] is often stated in its popular form as &quot;DNA is transcribed into RNA and RNA is translated into proteins in the ribosomes&quot;. The dogma in this form postulates that the information flow in a cell is essentially a one way process [...]</p>
 </blockquote>
 <p>Exceptions to this central flow are however numerous [...]</p>
@@ -168,27 +167,59 @@ Protein -&amp;gt; RNA
 <p><strong>Addition:</strong> Casey Bergman (<a href="https://twitter.com/caseybergman">@caseybergman</a>) made me aware of a blog post <a href="http://sandwalk.blogspot.co.uk/2007/01/central-dogma-of-molecular-biology.html?m=1">from 15 Jan 2007</a> by Laurence A. Moran  which traces the origin of the misunderstanding all the way back to <a href="https://en.wikipedia.org/wiki/James_Watson">Jim Watson</a>, of all people! He apparently messed up the vital distinction in the first edition of his textbook <strong>The Molecular Biology of the Gene</strong> (1965). And there are other textbooks that provide confusion on the subject as well. Sigh...</p>
 <p><em>Correction: In the sentence &quot;In fact, the notion that...&quot;, it now says &quot;without&quot; rather than &quot;with&quot;! Thanks James Gilbert for spotting!</em></p>
 
-  </section>
-  <aside class="col-lg-3 offset-lg-2">
-    <ul class="list-group">
-      <li class="list-group-item">Publicerad 2015-11-04</li>
-      
-      <li class="list-group-item">
-        Föregående inlägg:
-        <a href="/2015/11/04/why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology/">Why do so many scientists misunderstand the Central Dogma of Molecular Biology?</a>
-      </li>
-      
-      
-      <li class="list-group-item">
-        Nästa inlägg:
-        <a href="/2015/11/01/invandring-tillit-och-samhallskontrakt/">Invandring, tillit och samhällskontrakt</a>
-      </li>
-      
-      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
-    </ul>
-  </aside>
-</div>
+</section>
 
+
+        
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad 2015-11-04</li>
+    
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="/2015/11/05/postkolonial-kortslutning/">Postkolonial kortslutning</a>
+    </li>
+    
+    
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="/2015/11/01/invandring-tillit-och-samhallskontrakt/">Invandring, tillit och samhällskontrakt</a>
+    </li>
+    
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/dna/">DNA</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/francis-crick/">Francis Crick</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/molecular-biology/">molecular biology</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/protein/">protein</a>
+      </li>
+      
+    </ul>
+  </div>
+
+</aside>
+
+
+      </div>
+      
 
       <footer class="row">
         <div class="col offset-lg-1">

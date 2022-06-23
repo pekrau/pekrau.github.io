@@ -1,4 +1,7 @@
 ---
+translation:
+- language: en
+  name: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
 categories:
 - name: kultur
   value: Kultur

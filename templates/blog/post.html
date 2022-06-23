@@ -6,28 +6,44 @@
 <h1>{{ post['title']}}</h1>
 {% endblock %}
 
-{% block main %}
-<div class="row">
-  <section class="col-lg-6 offset-lg-1">
-    {{ post['html'] | safe }}
-  </section>
-  <aside class="col-lg-3 offset-lg-2">
-    <ul class="list-group">
-      <li class="list-group-item">Publicerad {{ post["date"] }}</li>
-      {% if post["prev"] %}
+{% block main_section %}
+<section class="col-lg-6 offset-lg-1">
+  {{ post['html'] | safe }}
+</section>
+{% endblock %}
+
+{% block main_aside %}
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad {{ post["date"] }}</li>
+    {% if post["prev"] %}
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="{{ post['prev']['path'] }}">{{ post["prev"]["title"] }}</a>
+    </li>
+    {% endif %}
+    {% if post["next"] %}
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="{{ post['next']['path'] }}">{{ post["next"]["title"] }}</a>
+    </li>
+    {% endif %}
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for tag in post["tags"] %}
       <li class="list-group-item">
-        Föregående inlägg:
-        <a href="{{ post['prev']['path'] }}">{{ post["prev"]["title"] }}</a>
+        <a href="/blog/tags/{{ tag['name'] }}/">{{ tag["value"] }}</a>
       </li>
-      {% endif %}
-      {% if post["next"] %}
-      <li class="list-group-item">
-        Nästa inlägg:
-        <a href="{{ post['next']['path'] }}">{{ post["next"]["title"] }}</a>
-      </li>
-      {% endif %}
-      <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+      {% endfor %}
     </ul>
-  </aside>
-</div>
+  </div>
+
+</aside>
 {% endblock %}

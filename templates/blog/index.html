@@ -1,39 +1,23 @@
 {% extends 'base.html' %}
 
-{% block head_title %}Civilisation: Blogg{% endblock %}
+{% block head_title %}Alla blogginlägg{% endblock %}
 
 {% block header %}
 <header class="row my-3">
   <div class="col-lg-8 offset-lg-1">
-    {% block body_title %}
-    <h1>Civilisation: Blogg</h1>
-    {% endblock %}
+    {% block body_title %}<h1>Alla blogginlägg</h1>{% endblock %}
   </div>
   <div class="col">
     {% block header_meta %}
-    <a href="/blog/index_en.html">List of posts in English</a>
+    <a href="/blog/en/">List of posts in English</a>
     <img src="/files/en.svg" width="32px">
     {% endblock %}
   </div>
 </header>
 {% endblock %}
 
-{% block main %}
-<div class="row">
-  <section class="col-lg-10 offset-lg-1">
-    <table class="table table-borderless table-sm">
-      {% for post in posts %}
-      <tr>
-        <td class="text-nowrap">{{ post["date"] }}</td>
-        <td>
-          <a href="{{ post['path'] }}">{{ post["title"] }}</a>
-          {% if post.get('language') == 'en' %}
-          <img src="/files/en.svg" width="32px">
-          {% endif %}
-        </td>
-      </tr>
-      {% endfor %}
-    </table>
-  </section>
-</div>
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  {% include 'blog/posts_table.html' %}
+</section>
 {% endblock %}
