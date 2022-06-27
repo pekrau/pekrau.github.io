@@ -1,6 +1,6 @@
 ---
 date: '2016-04-04'
-link: https://kraulis.wordpress.com/open-science/
+language: en
 name: open-science
 path: /open-science/
 title: Open Science

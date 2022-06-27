@@ -1,6 +1,5 @@
 ---
 date: '2013-11-17'
-link: https://kraulis.wordpress.com/grundkurs-i-ateism/
 name: grundkurs-i-ateism
 path: /grundkurs-i-ateism/
 title: Grundkurs i ateism

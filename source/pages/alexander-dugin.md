@@ -1,6 +1,5 @@
 ---
 date: '2014-05-11'
-link: https://kraulis.wordpress.com/alexander-dugin/
 name: alexander-dugin
 path: /alexander-dugin/
 title: Alexander Dugin

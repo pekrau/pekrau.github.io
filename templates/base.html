@@ -51,20 +51,18 @@
                 Sidor
               </a>
               <ul class="dropdown-menu" aria-labelledby="sidor">
+                {% for page in PAGES %}
                 <li>
-                  <a class="dropdown-item" href="/djavulens-liberal/">Djävulens liberal</a>
+                  <a class="dropdown-item" href="{{ page['path'] }}">{{ page['title'] }}</a>
                 </li>
-                <li>
-                  <a class="dropdown-item" href="/karl-popper/">Karl Popper</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/publikationer-i-andra-media/">Publikationer i andra media</a>
-                </li>
+                {% endfor %}
               </ul>
             </li>
+            {% for page in PAGES if page.get('menu') %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ page['path'] }}">{{ page['title'] }}</a>
+            </li>
+            {% endfor %}
             <li class="nav-item">
               <a class="nav-link" href="/library/">Library</a>
             </li>
@@ -78,7 +76,7 @@
               <a class="nav-link" href="/lectures">Lectures</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">Per Kraulis</a>
+              <a class="nav-link" href="/per-kraulis">Per Kraulis</a>
             </li>
           </ul>
           <form class="d-flex" role="search">

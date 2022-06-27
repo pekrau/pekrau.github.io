@@ -1,10 +1,10 @@
 ---
 date: '2014-12-30'
-link: https://kraulis.wordpress.com/karl-popper/
 name: karl-popper
 path: /karl-popper/
 title: Karl Popper
 type: page
+menu: true
 ---
 id="attachment_7404" align="alignleft" width="300"]![](/files/popper-christchurch-nz.jpg) Memorial plaque in Christchurch, New Zealand.
 

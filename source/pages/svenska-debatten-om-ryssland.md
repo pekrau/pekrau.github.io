@@ -8,9 +8,7 @@ type: page
 ---
 Här samlar jag länkar till inlägg i den svenska debatten om utvecklingen i Putins Ryssland och händelserna i Ukraina. Fokus ligger på tolkningar av skeendena på det politiska och samhälleliga planet, rena nyhetsartiklar tas med endast i särskilda fall. Notera att artiklarna listas i omvänd tidsordning.
 
-Jag har samlat information om [Alexander Dugin på en egen sida](/posts/ ‎).
-
-Tips med länkar till relevanta artiklar kan skickas till mig via kommentarsfältet.
+Jag har samlat information om [Alexander Dugin på en egen sida](/alexander-dugin/ ‎).
 
 - Peter Wolodarski: [Vissa uttalanden ska man ta på allvar](http://www.dn.se/ledare/signerat/peter-wolodarski-vissa-uttalanden-ska-man-ta-pa-allvar/), Dagens Nyheter 2015-03-29. Om Putins hot mot Skandinavien.
 - Per T. Ohlsson: [Europa enligt Putin](http://www.sydsvenskan.se/opinion/per-t-ohlsson/europa-enligt-putin/), Sydsvenskan 2015-03-29. Klarspråk om Putins regim och dess antieuropeiska strategi.

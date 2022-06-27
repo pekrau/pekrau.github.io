@@ -1,6 +1,5 @@
 ---
 date: '2013-11-17'
-link: https://kraulis.wordpress.com/framtidens-dna/
 name: framtidens-dna
 path: /framtidens-dna/
 title: Framtidens DNA
@@ -90,17 +89,9 @@ James D. Watson: **DNA. The Secret of Life**, Arrow Books, 2004, ISBN 978-0-09-9
 
 ### Inlägg om genteknik
 
-<ol>
-
-<li> [Kräver den nya gentekniken en ny etik?](/posts/)</li>
-
-<li> [Genteknikens välsignelser, del 2: Bot för sjukdomar](/posts/)</li>
-
-<li> [Romernas "kidnappade" barn](/posts/)</li>
-
-<li> [GMO och framtidens grödor](/posts/)</li>
-
-<li> [Dina gener på ett id-kort: Individualiserad medicin?](/posts/)</li>
-
-</ul>
-
+- [Kräver den nya gentekniken en ny etik?](/2015/12/14/kraver-den-nya-gentekniken-en-ny-etik/)
+- [Genteknikens välsignelser, del 2: Bot för sjukdomar](/2014/01/18/genteknikens-valsignelser-del-2-bot-for-sjukdomar/)
+- [Romernas "kidnappade" barn](/2013/11/17/genteknikens-valsignelser-del-1-romernas-kidnappade-barn/)
+- [GMO och framtidens grödor](/2013/11/10/gmo-och-framtidens-grodor/)
+- [Individualiserad medicin: ge makten till patienten!](/2013/06/20/individualiserad-medicin-ge-makten-till-patienten/)
+- [Dina gener på ett id-kort: Individualiserad medicin?](/2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/)

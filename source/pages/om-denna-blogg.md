@@ -1,30 +1,22 @@
 ---
 date: '2013-02-28'
-link: https://kraulis.wordpress.com/om-denna-blogg/
-name: om-denna-blogg
-path: /om-denna-blogg/
-title: Om bloggen
+link: https://kraulis.wordpress.com/per-kraulis
+name: per-kraulis
+path: /per-kraulis/
+title: Per Kraulis
 type: page
 ---
-Min blogg **Civilisation** handlar om samhälle, politik, vetenskap och kultur. Jag kommenterar företeelser och debatt i liberal och progressiv anda. Det handlar om framsteg, upplysning och civilisationens utveckling.
 
-Pretentiöst? Visst! Men varför skriva om strunt när det finns viktiga saker?
+![Per Kraulis](/files/Per_Kraulis_2019-06-25.jpg)
 
-Vänliga hälsningar,
+Jag är liberal, ateist, inspirerad av Karl Popper, biomedicinsk forskare, gay, och programmerare med Python, databaser och webben som fokus.
 
-Per Kraulis
+Jag är för närvarande intresserad av evolutionen, både som abstrakt process, och som konkret historia om hur bland annat människan utvecklades. Jag tror att den politiska filosofin i allmänhet, och liberalismen i synnerhet, har mycket att lära av de senaste 20-30 årens framsteg inom dessa frågor. Människans natur är av grundläggande intresse för politisk filosofi, så det är enligt min mening nödvändigt att förhålla sig till vetenskapens nya rön om hur människan kom till, och vad det säger om hennes natur.
 
-[![Per_Kraulis_jan_2016](/files/per_kraulis_jan_2016.jpg)](/posts/per_kraulis_jan_2016.jpg)
-
-Progressive liberal, atheist, Karl Popper fan, scientist, swimmer, gay, data engineer, programmer, SciLifeLab Data Office, Pythonista, RESTful web, Open Science
-
-email: per.kraulis@gmail.com
-
-Hemsida: [kraulis.se](http://kraulis.se/)
+email: per.kraulis@gmail.com, per.kraulis@scilifelab.se
 
 Twitter: [@PerKraulis](https://twitter.com/PerKraulis)
 
 GitHub: [pekrau](https://github.com/pekrau)
 
-Jag har rollen som Data Engineer för [Data Office](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/), med en forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/), [Stockholms universitet](http://www.su.se/).
-
+Jag arbetar som Data Engineer för [Data Centre](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/), med en forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/), [Stockholms universitet](http://www.su.se/).

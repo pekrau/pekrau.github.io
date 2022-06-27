@@ -33,6 +33,7 @@ env = jinja2.Environment(
     autoescape=jinja2.select_autoescape(['html'])
 )
 env.globals["len"] = len
+env.globals["PAGES"] = PAGES
 
 
 class HTMLRenderer(marko.html_renderer.HTMLRenderer):
@@ -56,11 +57,11 @@ def read_posts():
         post["html"] = converter(post["content"])
         POSTS.append(post)
     POSTS.sort(key=lambda p: p["date"], reverse=True)
-    POSTS[0]["next"] = POSTS[1]
-    POSTS[-1]["prev"] = POSTS[-2]
+    POSTS[0]["prev"] = POSTS[1]
+    POSTS[-1]["next"] = POSTS[-2]
     for i, post in enumerate(POSTS[1:-1], start=1):
-        post["prev"] = POSTS[i-1]
-        post["next"] = POSTS[i+1]
+        post["next"] = POSTS[i-1]
+        post["prev"] = POSTS[i+1]
     for post in POSTS:
         for tag in post.get("tags", []):
             try:
@@ -79,6 +80,15 @@ def read_posts():
                 CATEGORIES[category["name"]] = category
     for category in CATEGORIES.values():
         category["posts"].sort(key=lambda p: p["date"], reverse=True)
+
+def read_pages():
+    "Read all Markdown files for pages and pre-process."
+    converter = get_markdown_converter()
+    for filename in os.listdir(PAGES_PATH):
+        page = read_md(os.path.join(PAGES_PATH, filename))
+        page["html"] = converter(page["content"])
+        PAGES.append(page)
+    PAGES.sort(key=lambda p: p["name"])
 
 def build_index():
     "Build the top index.html file."
@@ -110,6 +120,14 @@ def build_blog():
                    template_filepath="blog/tags/tag.html",
                    tag=tag,
                    posts=tag["posts"])
+
+def build_pages():
+    "Build page files."
+    for page in PAGES:
+        build_html(os.path.join(page["path"].strip("/"), "index.html"),
+                   template_filepath="page.html", 
+                   page=page,
+                   language=page.get("language", "sv"))
 
 def build_html(html_filepath, template_filepath=None, **kwargs):
     "Build a single HTML page from the data for an item."
@@ -146,6 +164,7 @@ def read_md(filepath):
 
 if __name__ == "__main__":
     read_posts()
+    read_pages()
     build_index()
     build_blog()
-    
+    build_pages()
