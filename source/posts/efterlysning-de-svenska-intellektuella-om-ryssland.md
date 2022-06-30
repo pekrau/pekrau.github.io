@@ -62,5 +62,5 @@ Vi ser det också hos en debattör som **Göran Greider**, vars inlägg i detta 
 
 **Kanske är jag alltför cynisk. Jag hoppas det. Den ryska nyfascismen är för oroväckande och farlig för att ignoreras bara för en fix idé om att allt ont utgår från EU och NATO. Den dagen en svensk debattör tar sig an att skriva på allvar om Rysslands väg in i nyfascismen, då är jag beredd att tro mer om de svenska intellektuella än vad jag för tillfället har anledning att göra.**
 
-Om ni som läser detta kan upplysa mig om viktiga inlägg i den svenska debatten, i vilka tidningar som helst, om Ryssland under den senaste tiden, så skicka mig en länk i kommentarsfältet nedan. Jag har [lagt upp en sida med länkar](/posts/) till de viktigaste inläggen.
+Om ni som läser detta kan upplysa mig om viktiga inlägg i den svenska debatten, i vilka tidningar som helst, om Ryssland under den senaste tiden, så skicka mig en länk i kommentarsfältet nedan. Jag har [lagt upp en sida med länkar](/svenska-debatten-om-ryssland/) till de viktigaste inläggen.
 

@@ -76,7 +76,7 @@ Birgersson begår samma fel som Harrison, att nyfascism måste ha samma yttre at
 
 Denna slutsats blir obegriplig om man tror att SD bara handlar om nationalism.
 
-Det är uppenbart att SD:s tänkande är reaktionärt, inte endast konservativt, och att det har starka drag av totalitära attityder (se nedan). Om man har läst sin **Karl Popper** (se mina kommentarer nyligen [här](/posts/) och [här](/posts/)) så känner man igen dessa tankar utan större problem. Åkesson vill ha ett slutet samhälle; han är en i den långa raden av det öppna samhällets fiender.
+Det är uppenbart att SD:s tänkande är reaktionärt, inte endast konservativt, och att det har starka drag av totalitära attityder (se nedan). Om man har läst sin **Karl Popper** (se mina kommentarer nyligen [här](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/) och [här](/2014/12/05/lena-andersson-vs-karl-popper/)) så känner man igen dessa tankar utan större problem. Åkesson vill ha ett slutet samhälle; han är en i den långa raden av det öppna samhällets fiender.
 
 **Håkan Holmberg** har uppmärksammat SD:s riksdagsmotion från i år om "Folkbildningsfrågor" och skriver om det i [Upsala Nya Tidning 30 november 2014](http://www.unt.se/asikt/ledare/sd-vill-likrikta-folkbildningen-3486331.aspx). Han citerar ur motionen:
 
@@ -88,37 +88,37 @@ Holmberg påpekar att Förvaltningslagen i dagsläget gör detta projekt omöjli
 
 Det finns förebilder – just nu i Ryssland, tidigare i andra länder.
 
-En annan illustration av vad vi har att göra med är denna video, publicerad av SDU inför EU-valet 2014. Jag har [kommenterat den tidigare](/posts/).
+En annan illustration av vad vi har att göra med är denna video, publicerad av SDU inför EU-valet 2014. Jag har [kommenterat den tidigare](/2014/05/28/sa-ser-den-moderna-nazismen-ut/).
 
 [youtube https://www.youtube.com/watch?v=VR-lAGj_dlQ&amp;w=640&amp;h=390]
 
 **För att se hur dagens nyfascister tänker kan vi roa oss med några axplock ur Gustav Kasselstrands (ordförande för Sverigedemokratisk Ungdom) [Twitterflöde](https://twitter.com/gustavkassel). Alla tweetsen är från hösten 2014.**
 
-[![Kasselstrand-tweet-2014-11-26-vakna](/files/kasselstrand-tweet-2014-11-26-vakna.png)](/posts/kasselstrand-tweet-2014-11-26-vakna.png)
+[![Kasselstrand-tweet-2014-11-26-vakna](/files/kasselstrand-tweet-2014-11-26-vakna.png)](/files/kasselstrand-tweet-2014-11-26-vakna.png)
 
 Här ser vi ett exempel på synen att svenskarna "sover". Om de var "vakna", alltså förstod hur verkligheten är, skulle de revoltera. De vill egentligen något helt annat än dagens samhälle. **En klassisk totalitär tankefigur, vars utgångspunkt är att ingen, egentligen, kan vara motståndare till de egna idealen.** Såvida man inte "sover", eller är ondsint.
 
-[![Kasselstrand-tweet-2014-11-30-vänsterns-dominans](/files/kasselstrand-tweet-2014-11-30-vc3a4nsterns-dominans.png)](/posts/kasselstrand-tweet-2014-11-30-vc3a4nsterns-dominans.png)
+[![Kasselstrand-tweet-2014-11-30-vänsterns-dominans](/files/kasselstrand-tweet-2014-11-30-vc3a4nsterns-dominans.png)](/files/kasselstrand-tweet-2014-11-30-vc3a4nsterns-dominans.png)
 
 Här ser vi hur det blir med åsiktsfriheten i Sverige vid ett maktövertagande av SD. **Utrensningar.** Är det rimligt att tro att det stannar vid vänsterfolk i kulturlivet?
 
-[![Kasselstrand-tweet-2014-11-19-äktenskapet](/files/kasselstrand-tweet-2014-11-19-c3a4ktenskapet.png)](/posts/kasselstrand-tweet-2014-11-19-c3a4ktenskapet.png)
+[![Kasselstrand-tweet-2014-11-19-äktenskapet](/files/kasselstrand-tweet-2014-11-19-c3a4ktenskapet.png)](/files/kasselstrand-tweet-2014-11-19-c3a4ktenskapet.png)
 
 **Att SDU är homofober är inget att förvånas över.** Det handlar om mer än nationalism och sedvanlig konservatism. Av vilken anledning skall vi tro att de tänker agera på annat sätt gentemot LGBT-personer än Vladimir Putin, om de skulle få makten?
 
 **Apropå Putin**, vilka är SDU:s fränder ute i världen? Här är ett par exempel:
 
-[![Kasselstrand-tweet-2014-12-07-Marine-Le-Pen](/files/kasselstrand-tweet-2014-12-07-marine-le-pen.png)](/posts/kasselstrand-tweet-2014-12-07-marine-le-pen.png)
+[![Kasselstrand-tweet-2014-12-07-Marine-Le-Pen](/files/kasselstrand-tweet-2014-12-07-marine-le-pen.png)](/files/kasselstrand-tweet-2014-12-07-marine-le-pen.png)
 
-[![Kasselstrand-tweet-2014-10-19-vlaams-belang](/files/kasselstrand-tweet-2014-10-19-vlaams-belang.png)](/posts/kasselstrand-tweet-2014-10-19-vlaams-belang.png)
+[![Kasselstrand-tweet-2014-10-19-vlaams-belang](/files/kasselstrand-tweet-2014-10-19-vlaams-belang.png)](/files/kasselstrand-tweet-2014-10-19-vlaams-belang.png)
 
 **Så till sist Vladimir Putin, Europas störste och hitintills mest framgångsrike nyfascist. Vilken inställning har SDU till honom och hans verk?**
 
-[![Kasselstrand-tweet-2014-12-07-sanktioner](/files/kasselstrand-tweet-2014-12-07-sanktioner.png)](/posts/kasselstrand-tweet-2014-12-07-sanktioner.png)
+[![Kasselstrand-tweet-2014-12-07-sanktioner](/files/kasselstrand-tweet-2014-12-07-sanktioner.png)](/files/kasselstrand-tweet-2014-12-07-sanktioner.png)
 
 Vi kan dra slutsatsen att SDU och Kasselstrand hör till de som i Tyskland kallas **Putinversteher**, alltså "de som förstår Putin". Det hela blir extra pikant när vi ser följande tweet [(originalet här)](https://twitter.com/gustavkassel/status/527137948354232320):
 
-[![Kasselstrand-tweet-2014-10-28-konsult-Ryssland](/files/kasselstrand-tweet-2014-10-28-konsult-ryssland.png)](/posts/kasselstrand-tweet-2014-10-28-konsult-ryssland.png)
+[![Kasselstrand-tweet-2014-10-28-konsult-Ryssland](/files/kasselstrand-tweet-2014-10-28-konsult-ryssland.png)](/files/kasselstrand-tweet-2014-10-28-konsult-ryssland.png)
 
 **Kasselstrand har alltså intressen i "ett bolag med verksamhet i Ryssland".** Här är en lös tråd för någon journalist att nysta upp. **Vilket bolag? Vem ägs det av? På vilket sätt ersätts Kasselstrand för sitt uppdrag?** Vilka andra kontakter med dylika bolag har Kasselstrand eller andra personer i SDU, eller för den delen, SD?
 

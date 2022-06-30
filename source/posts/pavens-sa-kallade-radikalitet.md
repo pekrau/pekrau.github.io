@@ -22,33 +22,33 @@ Jag orsakade ett twittergräl om detta 24 sept 2015. Jag vet, man ska inte låta
 
 
 
-[![franciskus-8](/files/franciskus-8.png)](/posts/franciskus-8.png)
+[![franciskus-8](/files/franciskus-8.png)](/files/franciskus-8.png)
 
-[![franciskus-1](/files/franciskus-1.png)](/posts/franciskus-1.png)
+[![franciskus-1](/files/franciskus-1.png)](/files/franciskus-1.png)
 
-[![franciskus-2](/files/franciskus-2.png)](/posts/franciskus-2.png)
+[![franciskus-2](/files/franciskus-2.png)](/files/franciskus-2.png)
 
-[![franciskus-7](/files/franciskus-7.png)](/posts/franciskus-7.png)
+[![franciskus-7](/files/franciskus-7.png)](/files/franciskus-7.png)
 
-[![franciskus-12](/files/franciskus-12.png)](/posts/franciskus-12.png)
+[![franciskus-12](/files/franciskus-12.png)](/files/franciskus-12.png)
 
-[![franciskus-11](/files/franciskus-11.png)](/posts/franciskus-11.png)
+[![franciskus-11](/files/franciskus-11.png)](/files/franciskus-11.png)
 
-[![franciskus-10](/files/franciskus-101.png)](/posts/franciskus-101.png)
+[![franciskus-10](/files/franciskus-101.png)](/files/franciskus-101.png)
 
-[![franciskus-4](/files/franciskus-4.png)](/posts/franciskus-4.png)
+[![franciskus-4](/files/franciskus-4.png)](/files/franciskus-4.png)
 
-[![franciskus-5](/files/franciskus-5.png)](/posts/franciskus-5.png)
+[![franciskus-5](/files/franciskus-5.png)](/files/franciskus-5.png)
 
-[![franciskus-13](/files/franciskus-13.png)](/posts/franciskus-13.png)
+[![franciskus-13](/files/franciskus-13.png)](/files/franciskus-13.png)
 
-[![franciskus-14](/files/franciskus-14.png)](/posts/franciskus-14.png)
+[![franciskus-14](/files/franciskus-14.png)](/files/franciskus-14.png)
 
-[![franciskus-9](/files/franciskus-9.png)](/posts/franciskus-9.png)
+[![franciskus-9](/files/franciskus-9.png)](/files/franciskus-9.png)
 
-[![franciskus-6](/files/franciskus-6.png)](/posts/franciskus-6.png)
+[![franciskus-6](/files/franciskus-6.png)](/files/franciskus-6.png)
 
 Det är trist när påpekande av fakta karaktäriseras som "enkelspårighet" av en erfaren journalist.
 
-*Detta är del 13 i min serie "[Grundkurs i ateism](/posts/)".*
+*Detta är del 13 i min serie "[Grundkurs i ateism](/grundkurs-i-ateism/)".*
 

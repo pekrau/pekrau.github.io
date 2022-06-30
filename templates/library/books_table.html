@@ -1,0 +1,13 @@
+{# Standard table of books. #}
+
+<table class="table table-borderless table-sm">
+  {% for book in books %}
+  <tr>
+    <td>{{ "; ".join(book["authors"]) }}</td>
+    <td width="70%">
+      <a href="/library/{{ book['isbn'] }}.html">{{ book["title"] }}</a>
+    </td>
+    <td>{{ book["published"] }}</td>
+  </tr>
+  {% endfor %}
+</table>

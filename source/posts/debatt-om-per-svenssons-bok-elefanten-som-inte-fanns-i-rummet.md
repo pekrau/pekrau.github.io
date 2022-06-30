@@ -30,7 +30,7 @@ tags:
 title: 'Debatt om Per Svenssons bok: Elefanten som inte fanns i rummet'
 type: post
 ---
-Den debatt som [Liberal Debatt](http://www.liberaldebatt.se/) anordnade i Stockholm 18 mars 2014 om [Per Svenssons nyutkomna bok](/posts/) tydliggjorde alltför väl dess stora brist: **Att inget stort aktuellt samhällsproblem diskuteras i den.**
+Den debatt som [Liberal Debatt](http://www.liberaldebatt.se/) anordnade i Stockholm 18 mars 2014 om [Per Svenssons nyutkomna bok](/2014/03/16/per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel/) tydliggjorde alltför väl dess stora brist: **Att inget stort aktuellt samhällsproblem diskuteras i den.**
 
 De som deltog i debatten ([PJ Anders Linder](http://sv.wikipedia.org/wiki/P.J._Anders_Linder), [Susanne Birgersson](https://twitter.com/susbirgersson), [Mattias Svensson](https://twitter.com/mattias_neo), [Irene Wennemo](https://twitter.com/Wennemo) och [Per Svensson](http://www.sydsvenskan.se/taggar/per-svensson/) själv) håller förmodligen inte med mig. Ämnet som diskuterades mest var integritetsfrågorna, alltså att Google, Facebook, FRA, NSA, etc samlar på sig en massa personlig information som kan användas för att kartlägga människors liv. Per Svensson, och de övriga, tyckte tämligen samstämmigt att detta var ett stort problem, och att skarp maktkritik krävs från liberalt håll.
 

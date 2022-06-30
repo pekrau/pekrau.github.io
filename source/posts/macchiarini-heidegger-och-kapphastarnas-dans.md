@@ -34,11 +34,11 @@ Jag ser inget behov att försvara Tännsjö, det klarar han själv. Däremot vil
 
 Det passerade ett så kallat meme, alltså en bild med en fyndig text, i mitt Twitterflöde, som något tillspetsat sammanfattar kontentan av Ruins artikel:
 
-[![macchiarini-nazistisk-filosofi](/files/macchiarini-nazistisk-filosofi.jpg)](/posts/macchiarini-nazistisk-filosofi.jpg)
+[![macchiarini-nazistisk-filosofi](/files/macchiarini-nazistisk-filosofi.jpg)](/files/macchiarini-nazistisk-filosofi.jpg)
 
 
 
-Bakgrunden är att Hans Ruin har byggt hela sin karriär på Martin Heidegger och dennes filosofi. Jag har tidigare diskuterat Heidegger, dennes nazism, och Ruins krumbuktande kring denna aspekt, se [denna listan av inlägg](/posts/).
+Bakgrunden är att Hans Ruin har byggt hela sin karriär på Martin Heidegger och dennes filosofi. Jag har tidigare diskuterat Heidegger, dennes nazism, och Ruins krumbuktande kring denna aspekt, se [denna listan av inlägg](/tag/hans-ruin/).
 
 Flera av de tankefigurer som Ruin använder, som det "tekniska handlandet", "att reflektera över det mänskliga handlandets villkor", "den teoretiska-tekniska kulturen" och "praxisbaserad etisk reflektion", är hämtade mer eller mindre direkt ur Heideggers tänkande. Den underliggande tanken är att teknik, vetenskap och rationalitet är onda, imperialistiska krafter som undanträngt den autentiska människan. Det är en civilisationskritik som vänder sig mot Upplysningen. Den vill idag gärna framstå som radikal och hipp. Men dess antiprogressiva och djupt konservativa natur låter sig inte förnekas. Heidegger deltog i den så kallade [revolutionära konservativa rörelsen](https://en.wikipedia.org/wiki/Conservative_Revolutionary_movement) i mellankrigstidens Tyskland, en rörelse som förebådade och så småningom uppgick i nazismen. Han var reaktionär, i ordets bokstavliga mening. Han gick följaktligen med i Nazistpartiet 1933 och förblev medlem till krigets slut, så länge det var möjligt.
 

@@ -16,7 +16,7 @@ tags:
 title: Kan en artificiell intelligens ges en ultimat drivkraft?
 type: post
 ---
-Olle Häggström har kommenterar [mitt senaste inlägg](/posts/) i diskussionen om artificiell intelligens (AI) i [ett tillägg](http://haggstrom.blogspot.se/2014/06/om-evolution-drivkrafter-och.html?showComment=1404812651345#c3385937744547286673) till sin ursprungliga bloggartikel.
+Olle Häggström har kommenterar [mitt senaste inlägg](/2014/07/07/artificiell-intelligens-hot-mojlighet-eller-fantasi/) i diskussionen om artificiell intelligens (AI) i [ett tillägg](http://haggstrom.blogspot.se/2014/06/om-evolution-drivkrafter-och.html?showComment=1404812651345#c3385937744547286673) till sin ursprungliga bloggartikel.
 
 Jag vill bara kommentera Häggströms kritik av mitt argument om den existentiella ångest som jag hävdar att en intelligent maskin kommer att försättas i. Han skriver att den synpunkten "luktar antropomorfism lång väg", alltså att jag på ett felaktigt sätt extrapolerar från specifikt mänskliga egenskaper till hur en annan typ av intelligens kan förmodas fungera.
 

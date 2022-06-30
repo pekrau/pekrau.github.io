@@ -24,6 +24,8 @@ Craig Venter, en av de främsta bakom kartläggningen av människans hela arvsma
 
 Bokens titel syftar på idén att DNA-koden för nytt liv i framtiden skulle kunna skickas med radiovågor (alltså ljusets hastighet) till maskiner på månen eller Mars, som med den informationen skulle kunna tillverka levande organismer på beställning från jorden. **Ett fantasieggande scenario förvisso, men kanske inte helt förankrat i vare sig verklighet eller behov.**
 
+
+
 Vad Venter och hans medarbetare har gjort är att på syntetisk väg tillverka hela genomet (alltså hela arvsmassan) för en mikroorganism, för att sedan stoppa in det i en cell, varvid en ny livsform har sett dagens ljus. **Detta är en teknisk bedrift av stora mått.** Det är ett språng framåt för genteknologin. Men att betrakta denna livsform som helt syntetisk är att ta i för hårt, anser jag, av två olika anledningar.
 
 **Den första anledningen är att Venter valt att syntetisera ett genom som nästan helt och hållet är en direkt kopia av en existerande, naturligt förekommande organism, nämligen [*Mycoplasma mycoides*](http://en.wikipedia.org/wiki/Mycoplasma_mycoides).** Inget konstigt med det. Vi har idag inte tillnärmelsevis tillräcklig kunskap för att kunna designa ett helt syntetiskt genom, där alla gener i någon mening är konstgjorda. **Allt vi kan göra, idag och under överskådlig framtid, är att kopiera sådana gener som finns i någon existerande organism och sätta ihop dom, möjligen med smärre modifikationer.** Att försöka hitta på helt nya gener, utan förebilder i naturen, det är vi inte i närheten av.

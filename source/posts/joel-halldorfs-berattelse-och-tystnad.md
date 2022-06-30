@@ -18,7 +18,7 @@ tags:
 title: "Joel Halldorfs ber\xE4ttelse och tystnad"
 type: post
 ---
-Joel Halldorf har [skrivit en hel del på sistone](/posts/), och han tycks eftersträva den stil och framtoning som många religiösa apologeter beskyller bland annat Richard Dawkins för: Den arrogante, förnumstige översittaren till debattör som vill förvisa sina motståndare till historiens skräphög. Fast med den skillnaden att när Dawkins sägs göra detta så kallas det nyateism. När Halldorf gör det vill han kalla det postsekulärt. En bättre benämning vore: nyreligionism.
+Joel Halldorf har [skrivit en hel del på sistone](/tag/joel-halldorf/), och han tycks eftersträva den stil och framtoning som många religiösa apologeter beskyller bland annat Richard Dawkins för: Den arrogante, förnumstige översittaren till debattör som vill förvisa sina motståndare till historiens skräphög. Fast med den skillnaden att när Dawkins sägs göra detta så kallas det nyateism. När Halldorf gör det vill han kalla det postsekulärt. En bättre benämning vore: nyreligionism.
 
 I [Expressen 18 juni 2016](http://www.expressen.se/kultur/hur-mycket-mangfald-tal-var-offentlighet/) skriver Halldorf om att det inte räcker att berätta en "ny berättelse om Sverige. Vi måste också skriva den." Kort sagt är berättelsen att det sekulära samhället är på väg att ersättas av det så kallade postsekulära samhället. Med vilket menas ett samhälle där religiösa inte längre håller sin religion privat:
 

@@ -62,5 +62,5 @@ I nästa del av denna artikel visar jag bilden. Men innan vi går vidare, så vi
 
 Låt oss istället försöka vända på steken. Istället för att röra oss uppifrån och ner, reducera, låt oss försöka gå åt andra hållet: Alltså att man givet grunddata eller "lägre" företeelser skall syntetisera (eller vilket ord vi nu ska välja) den "högre" aspekten. Då blir det genast svårare.
 
-Gå nu till [nästa del av denna artikeln](/posts/).
+Gå nu till [nästa del av denna artikeln](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/).
 

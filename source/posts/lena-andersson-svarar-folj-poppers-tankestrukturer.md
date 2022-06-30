@@ -56,17 +56,17 @@ Inlägg i denna diskussionen:
 
 <ol start="0">
 
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/posts/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
+  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
 
   <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
 
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/posts/)</li>
+  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
 
   <li>Lena Andersson: Följ Poppers tankestrukturer (inlägget ovan)</li>
 
-  <li>Per Kraulis: [Ytliga likheter](/posts/)</li>
+  <li>Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)</li>
 
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/posts/)</li>
+  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
 
 </ol>
 

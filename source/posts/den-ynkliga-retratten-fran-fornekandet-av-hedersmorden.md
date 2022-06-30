@@ -42,7 +42,7 @@ Först beklagar hon hur det blev. Sedan vidhåller hon den fundamentala felsyn s
 
 Människans särart gentemot alla djur är den helt dominerande roll kultur spelar för oss. Vi är en hypersocial art vars sociala konstruktioner utgör en miljö som ingen annan djurart kommer i närheten av.
 
-En viss sorts vänster har tidigare trott att den måste bekämpa rasism genom att förneka kulturens roll för människor. Se till exempel [min kommentar 2013 om Stefan Jonsson](/posts/) som skrev nipprigt om hedersförtryck.
+En viss sorts vänster har tidigare trott att den måste bekämpa rasism genom att förneka kulturens roll för människor. Se till exempel [min kommentar 2013 om Stefan Jonsson](/2013/08/13/stefan-jonsson-om-hedersmord-och-situationen/) som skrev nipprigt om hedersförtryck.
 
 Det faktum att vissa numera hävdar att de aldrig tyckt så, eller att de inte kommer ihåg varför de tyckte så, är trots allt ett tecken på att vettet kanske är på väg tillbaka.
 

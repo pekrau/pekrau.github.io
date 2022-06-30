@@ -24,7 +24,7 @@ type: post
 ---
 Ola Larsmo skriver bra om liberalismen och Sverigedemokraterna i [Dagens Nyheter 18 augusti 2015](http://www.dn.se/kultur-noje/kulturdebatt/liberalers-okenvandring-hogerut/). Men det räcker tyvärr inte. Hans slutsats är misslyckad.
 
-Larsmo har fått bättre ordning på tänkandet sedan inlägget 4 dec 2014 om SD och budgetkrisen i riksdagen (se min kommentar [här](/posts/)). Det kan  bero på att han den här gången lutar sig mot en utmärkt ledare skriven av [Håkan Holmberg 15 aug 2015 i UNT](http://www.unt.se/asikt/ledare/till-hoger-om-liberalismen-3838547.aspx).
+Larsmo har fått bättre ordning på tänkandet sedan inlägget 4 dec 2014 om SD och budgetkrisen i riksdagen (se min kommentar [här](/2014/12/04/ola-larsmos-ansvar/)). Det kan  bero på att han den här gången lutar sig mot en utmärkt ledare skriven av [Håkan Holmberg 15 aug 2015 i UNT](http://www.unt.se/asikt/ledare/till-hoger-om-liberalismen-3838547.aspx).
 
 
 
@@ -36,7 +36,7 @@ Larsmo skriver vidare:
 
 > Den liberala demokratin bygger också på en radikal människosyn som handlar om rättigheter och skyldigheter och om allas lika värde. Om medborgarskap, inte nationalitet.
 
-Detta är rätt. Med tanke på hur attityderna till välfärdssystemet har förändrats hos folk i allmänhet och vänsteraktivister i synnerhet, så är det oerhört bra att Larsmo nämner **både** rättigheter och skyldigheter. Alltför ofta glöms ledet om skyldigheterna bort, och ibland till och med förhånas det, vilket man sett i diskussionen om Stefan Löfvens uttalande om plikt och rätt. Jag har skrivit om det under etiketten [samhällskontraktet](/posts/).
+Detta är rätt. Med tanke på hur attityderna till välfärdssystemet har förändrats hos folk i allmänhet och vänsteraktivister i synnerhet, så är det oerhört bra att Larsmo nämner **både** rättigheter och skyldigheter. Alltför ofta glöms ledet om skyldigheterna bort, och ibland till och med förhånas det, vilket man sett i diskussionen om Stefan Löfvens uttalande om plikt och rätt. Jag har skrivit om det under etiketten [samhällskontraktet](/tag/samhallskontraktet/).
 
 Men Larsmo avslutar med ett råd som jag tror tyvärr är fel:
 

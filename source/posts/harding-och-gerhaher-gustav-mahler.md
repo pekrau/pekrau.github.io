@@ -20,7 +20,7 @@ I Berwaldhallen 24 jan 2014 sjöng [Christian Gerhaher](http://en.wikipedia.org/
 
 
 
-Gerhaher hade tidvis svårt att modulera sin röststyrka på ett bra sätt gentemot orkestern. Ibland kändes det som att han och Harding inte var överens om tempot, där Gerhaher tydligt eftersträvade ett i min mening alldeles för långsamt tempo i den första sången, medan Harding tycktes vilja få upp tempot. Det fungerade bättre i de därpå följande styckena. Gerhaher har en  röst som förmodligen gör sig alldeles fantastiskt på inspelningar, och i romanser med piano, men i detta formatet gjorde det sig inte perfekt. Intensiteten på förra veckans [Mahlersånger med Goerne och Andsnes](/posts/) var bra mycket högre.
+Gerhaher hade tidvis svårt att modulera sin röststyrka på ett bra sätt gentemot orkestern. Ibland kändes det som att han och Harding inte var överens om tempot, där Gerhaher tydligt eftersträvade ett i min mening alldeles för långsamt tempo i den första sången, medan Harding tycktes vilja få upp tempot. Det fungerade bättre i de därpå följande styckena. Gerhaher har en  röst som förmodligen gör sig alldeles fantastiskt på inspelningar, och i romanser med piano, men i detta formatet gjorde det sig inte perfekt. Intensiteten på förra veckans [Mahlersånger med Goerne och Andsnes](/2014/01/17/goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj/) var bra mycket högre.
 
 **Kvällen fortsatte med ett fantastiskt framförande av Mahlers sjunde symfoni.** Harding lyckas få en linje i den tredje satsen, där det krävs en mycket säker hand för att navigera en del knixiga passager. Den sista satsens maniska intensitet fick hög energi utan att det romantiska inslaget gick förlorat.
 

@@ -1,8 +1,9 @@
 ---
-language: en
 categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
+- name: in-english
+  value: In English
 date: '2016-03-06'
 link: https://kraulis.wordpress.com/2016/03/06/plato-at-the-googleplex-philosophical-solutions-and-their-problems/
 name: plato-at-the-googleplex-philosophical-solutions-and-their-problems
@@ -35,7 +36,7 @@ However, Goldstein is not entirely happy simply discarding the aspect of how ide
 
 This is fine as far as it goes. But there is another way of looking at this issue which alters the perspective.
 
-My starting point is a theme in the later philosophy of [Karl Popper](/posts/), more precisely the [epistemology](https://en.wikipedia.org/wiki/Epistemology) (theory of knowledge) that he presents in one of the essays in the book **Objective Knowledge. An Evolutionary Approach**. In chapter 3, **Epistemology Without a Knowing Subject**, Popper offers the following schema to describe the process of obtaining knowledge:
+My starting point is a theme in the later philosophy of [Karl Popper](/karl-popper/), more precisely the [epistemology](https://en.wikipedia.org/wiki/Epistemology) (theory of knowledge) that he presents in one of the essays in the book **Objective Knowledge. An Evolutionary Approach**. In chapter 3, **Epistemology Without a Knowing Subject**, Popper offers the following schema to describe the process of obtaining knowledge:
 
 > <code>P<sub>1</sub> &rarr; TT &rarr; EE &rarr; P<sub>2</sub></code>
 

@@ -30,7 +30,7 @@ Frågan om monarki eller republik är en ickefråga. Med den ordning vi sedan l�
 
 
 
-Det hela började med att Maria Schottenius krävde, inte bara en gång, utan två, att kungen skulle blanda sig i en politisk strid i Stockholms stad genom utpressningsmetoder. Jag har [tidigare kommenterat](/posts/) detta befängda initiativ från en erfaren journalist på Dagens Nyheters Kulturredaktion.
+Det hela började med att Maria Schottenius krävde, inte bara en gång, utan två, att kungen skulle blanda sig i en politisk strid i Stockholms stad genom utpressningsmetoder. Jag har [tidigare kommenterat](/2016/03/15/maria-schottenius-hahahaha/) detta befängda initiativ från en erfaren journalist på Dagens Nyheters Kulturredaktion.
 
 Därefter lyckades Schottenius kuppa till sig [en intervju](http://www.dn.se/kultur-noje/kungen-det-gar-ju-att-flytta-pa-nobel-center/) med kungen och drottningen, förmodligen utan att hovets presschef var i närheten. Där tycker kungaparet en massa om det planerade bygget, och bland annat föreslår drottningen ett "referendum", med vilket hon förmodligen menar en folkomröstning. Vi gläds alla åt hennes demokratiska sinnelag.
 
@@ -44,7 +44,7 @@ Så Torekovskompromissen undantog alltså sådana politiska konflikter där kung
 
 På Twitter skrev Linder i en debatt om kungens uttalande:
 
-[![Nobel-dignitet-tystnad](/files/nobel-dignitet-tystnad.png)](/posts/nobel-dignitet-tystnad.png)
+[![Nobel-dignitet-tystnad](/files/nobel-dignitet-tystnad.png)](/files/nobel-dignitet-tystnad.png)
 
 Alltså: I oviktiga frågor får kungen blanda sig i. Men om nu frågan är så oviktig, varför jublade Linder när kungen uttalade sig?
 

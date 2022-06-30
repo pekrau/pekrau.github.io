@@ -30,7 +30,7 @@ Tyvärr tycks lockelsen att tramsa till flyktingfrågan vara ett återkommande p
 
 ![](/files/mattias-goldmann-tre-per-svensk-1.png)
 
-"Tre per svensk", det blir ca 30 miljoner människor, som Goldmann betraktar som den gräns där det tycks bli för obekvämt även för honom. Se mina tidigare kommentarer om Goldmanns dumheter [här](/posts/) och [här](/posts/).
+"Tre per svensk", det blir ca 30 miljoner människor, som Goldmann betraktar som den gräns där det tycks bli för obekvämt även för honom. Se mina tidigare kommentarer om Goldmanns dumheter [här](/2015/10/24/mattias-goldmanns-obegripliga-lattsinne-om-invandringen/) och [här](/2016/04/20/tror-liberaler-pa-samhallet/).
 
 Detta handlar om djupa frågor: nationalstaten, rättsstaten, välfärden och individens rättigheter. Därför måste man resonera noggrant om dom.
 

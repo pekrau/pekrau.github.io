@@ -1,7 +1,4 @@
 ---
-translation:
-- language: en
-  name: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
 categories:
 - name: kultur
   value: Kultur
@@ -57,7 +54,7 @@ tags:
 title: "M\xE5ste l\xE4sas: Kenan Maliks bok om moralfilosofins historia"
 type: post
 ---
-*This blog post is also available [in English](/posts/).*
+*This blog post is also available [in English](/2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/).*
 
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), engelsk skribent och föreläsare, har skrivit en bok om moralfilosofins historia som varje person intresserad av ämnet helt enkelt måste läsa. **"The Quest for a Moral Compass" är ett under av klarhet och stringens.** Filosofernas ståndpunkter framställs begripligt utan orimlig förenkling. Deras etiska resonemang sätts in i ett socialt och intellektuellt sammanhang. Det är oupphörligt intressant och lärorikt.
 
@@ -75,7 +72,7 @@ Han visar också på samband som han menar är underskattade eller bortglömda. 
 
 **När jag går igenom de anteckningar jag gjort inför denna kommentar, så inser jag att det inte är möjligt att följa upp alla trådarna. Maliks bok tillhandahåller ett dignande smörgåsbord av utgångspunkter för många olika debatter.** Så här kommer ett mycket litet urval av synpunkter.
 
-Ett återkommande tema är **Eutyfrons dilemma** (som jag har nämnt i andra sammanhang på denna blogg, [här](/posts/), [här](/posts/) och [här](/posts/)). I Platons dialog formuleras detta dilemma sålunda:
+Ett återkommande tema är **Eutyfrons dilemma** (som jag har nämnt i andra sammanhang på denna blogg, [här](/2013/03/25/ronald-dworkin-religion-utan-gud/), [här](/2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/) och [här](/2014/12/29/ronald-dworkins-bok-religion-without-god/)). I Platons dialog formuleras detta dilemma sålunda:
 
 > Älskas det fromma av gudarna, därför att det är fromt, eller är det fromt, därför att det älskas av gudarna?
 
@@ -89,7 +86,7 @@ Malik visar hur filosofer, teologer och moraliska riktningar svarar olika på de
 
 Malik  skriver att "while Nietzsche's philosophy was not a precursor of Nazism...", för att sedan på nästa sida citera Richard Wolin som säger ungefär motsatsen, och jag tycker nog att Maliks egen framställning av Nietzsche gör kopplingen till nazismen tämligen uppenbar. Kruxet är nog betydelsen av "precursor" (ungefär "förstadium" på svenska). Man kan se Nietzsches tänkande som ett förstadium till nazism, utan att för den skull påstå att den faktiskt är helt identisk med nazism, vilket den uppenbart inte är. Ett förstadium måste ju förändras för att bli det ting som det är förstadium till, och alltså är det icke-identiskt. Men relationen är mycket stark.
 
-**Ett tema som behandlas i flera av bokens kapitlen är konsekventialism gentemot dygdetik ("virtue ethics").** Jag har tidigare skrivit om dygdetik kontra utilitarism (den vanligaste formen av konsekventialism) i [en kommentar till en bok av Ann Heberlein](/posts/), en bok som för övrigt närmast framstår som en gymnasieuppsats vid sidan av Maliks verk.
+**Ett tema som behandlas i flera av bokens kapitlen är konsekventialism gentemot dygdetik ("virtue ethics").** Jag har tidigare skrivit om dygdetik kontra utilitarism (den vanligaste formen av konsekventialism) i [en kommentar till en bok av Ann Heberlein](/2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/), en bok som för övrigt närmast framstår som en gymnasieuppsats vid sidan av Maliks verk.
 
 Malik kommenterar de olika försök som gjorts att modifiera den naiva utilitarismen i syfte att undvika dess mest uppenbara problem:
 
@@ -101,7 +98,7 @@ Nå, Malik är inte någon uttalad anhängare av dygdetik. Den kanske mest känd
 
 > With the coming of modernity, as the necessity of traditions gave way to the possibilities of collective change, so a new question was posed. People now asked themselves not simply 'What moral claims are rational given the social structure?', but also 'What social structures are rational?' What kind of society, what types of social institutions, what forms of social relations, will best allow moral lives to flourish?
 
-Jämför detta med Karl Poppers ord ur **The Open Society and Its Enemies, The Spell of Plato** (som jag [nyligen diskuterat](/posts/)):
+Jämför detta med Karl Poppers ord ur **The Open Society and Its Enemies, The Spell of Plato** (som jag [nyligen diskuterat](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)):
 
 > The social engineer and technologist, on the other hand, will hardly take much interest in the origin of institutions, or in the original intentions of their founders [...]. Rather, he will put his problem like this. If such and such are our aims, is this institution well designed and organized to serve them?
 

@@ -1,5 +1,6 @@
 ---
 date: '2014-05-11'
+link: https://kraulis.wordpress.com/alexander-dugin/
 name: alexander-dugin
 path: /alexander-dugin/
 title: Alexander Dugin
@@ -32,6 +33,6 @@ En mycket intressant genomgång av Dugins intellektuella och politiska historia 
 
 Här finns länkar till alla mina blogginlägg om Alexander Dugin.
 
-- [Alexander Dugins ideologi är antiliberalism](/posts/), 2017-02-05.
-- [Antiliberalen Alexander Dugin: Vem är han?](/posts/), 2014-05-10.
+- [Alexander Dugins ideologi är antiliberalism](/2017/02/05/alexander-dugins-ideologi-ar-antiliberalism/), 2017-02-05.
+- [Antiliberalen Alexander Dugin: Vem är han?](/2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/), 2014-05-10.
 

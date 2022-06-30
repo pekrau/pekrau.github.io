@@ -10,6 +10,8 @@
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/litera/bootstrap.min.css"
           rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
+          rel="stylesheet">
     {% block css %}
     {% endblock %}
   </head>
@@ -41,43 +43,44 @@
                   <a class="dropdown-item" href="/blog/en/">Posts in English</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
+                  <a class="dropdown-item" href="/blog/categories/">Alla teman</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Alla etiketter</a>
                 </li>
               </ul>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="sidor"
+              <a class="nav-link dropdown-toggle" href="#" id="sidor" title="Pages"
                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Sidor
               </a>
               <ul class="dropdown-menu" aria-labelledby="sidor">
-                {% for page in PAGES %}
+                {% for page in pages %}
                 <li>
                   <a class="dropdown-item" href="{{ page['path'] }}">{{ page['title'] }}</a>
                 </li>
                 {% endfor %}
               </ul>
             </li>
-            {% for page in PAGES if page.get('menu') %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="library"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Bibliotek
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="library">
+                <li>
+                  <a class="dropdown-item" href="/library/">Alla böcker</a>
+                </li>
+              </ul>
+            </li>
+            {% for page in pages %}
+            {% if page.get('menu') %}
             <li class="nav-item">
               <a class="nav-link" href="{{ page['path'] }}">{{ page['title'] }}</a>
             </li>
+            {% endif %}
             {% endfor %}
-            <li class="nav-item">
-              <a class="nav-link" href="/library/">Library</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/python">Python code</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/MolScript">MolScript</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/lectures">Lectures</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/per-kraulis">Per Kraulis</a>
-            </li>
           </ul>
           <form class="d-flex" role="search">
             <input class="form-control me-2" type="search"

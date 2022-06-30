@@ -52,7 +52,7 @@ Det handlar om mod, rättrådighet, vishet, måttfullhet. Under kristendom tillk
 
 **Slutligen skriver Kenneth Johansson om tålamodet.** Behållningen här är ett resonemang om Adam Smiths moralteori, något så ovanligt i svenska sammanhang som en seriös diskussion av dennes tankar.
 
-Jag har [tidigare kommenterat](/posts/) Ann Heberleins recension av boken i Dagens Nyheter 26 okt 2012. När jag nu läst boken kan jag konstatera att Heberlein drar högre växlar på den än den är värd. Heberleins kritik av liberalismens individualism motsvaras inte av något mer utförligt resonemang i boken.
+Jag har [tidigare kommenterat](/2012/10/29/moralfilosofi-dygd-istallet-for-politik/) Ann Heberleins recension av boken i Dagens Nyheter 26 okt 2012. När jag nu läst boken kan jag konstatera att Heberlein drar högre växlar på den än den är värd. Heberleins kritik av liberalismens individualism motsvaras inte av något mer utförligt resonemang i boken.
 
 Eva Österberg, Marie Lindstedt Cronberg, Catharina Stenqvist (red): **Dygdernas renässans**, [Atlantis förlag](http://www.atlantisbok.se/layout/detail.php?id=7748), 2012, ISBN 978-91-7353-596-0.
 

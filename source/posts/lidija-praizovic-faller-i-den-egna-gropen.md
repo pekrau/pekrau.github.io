@@ -30,7 +30,7 @@ Anaya tycker alltså att Praizovic, som tydligen har kristen bakgrund, ska håll
 
 **Enligt det synsättet beror alltså rätten att diskutera på vilken bakgrund man har. Att lyssna på vad någon säger är ointressant om personen har fel etikett. Argument, ställningstaganden, synpunkter, allt, skall bedömas utifrån härkomst.**
 
-Så ser ett antiliberalt, antihumanistiskt, ja, i grunden reaktionärt förhållningssätt ut. En slags intellektuell apartheid, som [jag har kommenterat tidigare](/posts/).
+Så ser ett antiliberalt, antihumanistiskt, ja, i grunden reaktionärt förhållningssätt ut. En slags intellektuell apartheid, som [jag har kommenterat tidigare](/2013/09/30/vem-far-saga-nagot-i-dagens-debatt/).
 
 Jag skulle sympatisera med Praizovic när hon värjer sig mot detta trams, om det inte vore för det faktum att hon tidigare har ägnat sig åt exakt samma sak. I [en recension 4 juli 2013](http://www.aftonbladet.se/kultur/article17071394.ab) av Johanna Langhorsts bok Förortshat skrev Praizovic:
 

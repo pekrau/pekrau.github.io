@@ -52,7 +52,7 @@ Jaha. Också ett slags lösning, som dock inte överensstämmer vidare bra med s
 
 > Är det goda gott för att gudarna vill det eller vill gudarna det goda för att det är gott? [sid 46]
 
-Är alltså Gud upphovet till moralen, och den som enväldigt och utan begränsningar kan bestämma vad som är moraliskt rätt? Eller har moralen en existens oberoende av Gud, så att denne på sin höjd kan agera konsult om hur man ska leva moraliskt? (Jag har tidigare nämnt Eutyfron-dilemmat, [se denna lista](/posts/).)
+Är alltså Gud upphovet till moralen, och den som enväldigt och utan begränsningar kan bestämma vad som är moraliskt rätt? Eller har moralen en existens oberoende av Gud, så att denne på sin höjd kan agera konsult om hur man ska leva moraliskt? (Jag har tidigare nämnt Eutyfron-dilemmat, [se denna lista](/tag/eutyfron/).)
 
 Det svar Heberlein ger är för mig något överraskande:
 
@@ -64,7 +64,7 @@ Ståndpunkten innebär att inga rationella argument kan tänkas gälla inom etik
 
 Heberleins argument, att Gud måste vara allsmäktig, framstår som helt ihåligt med tanke på hennes förslag till lösning av teodicé-problemet i bokens andra del, där "Gud" upprepade gånger framhåller att han inte är allsmäktig. Kunde inte en redaktör, eller någon annan som läst hennes text innan den kom i tryck, ha påpekat att detta är helt osammanhängande?
 
-När det stod klart för mig hur fullständigt Heberlein kapitulerar inför Guds moraliska godtycke, så insåg jag vad svaret är på [den fråga jag ställde](/posts/) om Heberleins förra bok **Etik: Människa, moral, mening**. I den boken lyckas hon helt förbigå frågan om kopplingen mellan Gud och moral, vilket jag ansåg vara anmärkningsvärt för en troende etiker.
+När det stod klart för mig hur fullständigt Heberlein kapitulerar inför Guds moraliska godtycke, så insåg jag vad svaret är på [den fråga jag ställde](/2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/) om Heberleins förra bok **Etik: Människa, moral, mening**. I den boken lyckas hon helt förbigå frågan om kopplingen mellan Gud och moral, vilket jag ansåg vara anmärkningsvärt för en troende etiker.
 
 Svaret är tydligen: **Heberlein tror att Gud bestämmer moralen. Därmed är alla försök att rationellt förstå eller undersöka moralen ytterst prekära, förmodligen helt dömda att misslyckas.** Gud har ju inte uppvisat något större mått av rationalitet om man ser till sakernas tillstånd. Om hen bestämmer, så kan vad som helst gälla inom moralen.
 
@@ -76,5 +76,5 @@ Ann Heberlein: **Gud, om vi ska talas vid du och jag måste jag vara helt ärlig
 
 Christopher Hitchens: **Du store Gud? Hur religionen förgiftar allt.** Fri Tanke förlag, 2014, ISBN 978-91-87513-07-7.
 
-PS. Dagens Nyheter publicerade för två år sedan en essä av Heberlein med titeln "Gud, vem är du". Det är numera uppenbart att den essän var ett förarbete till ovanstående bok. Se [den kommentar](/posts/) jag skrev då.
+PS. Dagens Nyheter publicerade för två år sedan en essä av Heberlein med titeln "Gud, vem är du". Det är numera uppenbart att den essän var ett förarbete till ovanstående bok. Se [den kommentar](/2013/01/05/grundkurs-i-ateism-del-2/) jag skrev då.
 

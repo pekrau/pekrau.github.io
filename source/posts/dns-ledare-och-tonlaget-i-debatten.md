@@ -22,7 +22,7 @@ type: post
 ---
 Jag tycker litet synd om ledarskribenter. De tycks aldrig kunna erkänna att de skrivit något som var mindre lyckat. Kanske har de inte förstått. Eller så har de det, och försöker inte låtsas om det. I värsta fall försöker de trampa vidare i klaveret. Illa vilket som.
 
-Jag [skrev tidigare](/posts/) om det usla resonemanget i Dagens Nyheters ledare 13 juni 2016. I ledaren av 18 juni kan vi läsa:
+Jag [skrev tidigare](/2016/06/13/konfrontera-islams-demoner/) om det usla resonemanget i Dagens Nyheters ledare 13 juni 2016. I ledaren av 18 juni kan vi läsa:
 
 > Nattklubbsskytten i Florida skördade ett 50-tal offer innan han själv träffades av polisens kulor. Också ett terrordåd, av allt att döma, men en del av omständigheterna och motiven är fortfarande suddiga.
 

@@ -1,9 +1,7 @@
 ---
-language: en
-translation:
-- language: sv
-  name: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
 categories:
+- name: in-english
+  value: In English
 - name: kultur
   value: Kultur
 - name: politik
@@ -58,6 +56,8 @@ tags:
 title: 'A must-read: Kenan Malik''s book on the history of moral philosphy'
 type: post
 ---
+*Detta inlägg finns även [på svenska](/2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/).*
+
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), English writer and lecturer, has written a book about the history of moral philosophy. Every person interested in the topic simply must read it. **"The Quest for a Moral Compass" is a marvel of clarity and rigor.** The philosophers' positions are explained intelligibly without undue simplification. Their ethical reasoning is put into a social and intellectual context. It is unceasingly interesting and instructive.
 
 The book begins with the opening stanza from Homer's Iliad, "Sing, goddess, of the anger of Achilleus, son of Peleus. ...", and discusses the moral universe the story unfolds within. **It is the kind of writing that makes me rejoice. No long-winded introduction, pseudo-academic meta talk about how the book is organized, but just bang on, head first! That's how it should be done.</Strong>
@@ -74,7 +74,7 @@ Although the book focuses on ethics and morals, it also explains the different p
 
 **When I go through the notes I made before writing this comment, I realize that it is not possible to pick up all threads. Malik's book provides a sumptuous smorgasbord of starting points for many different debates.** I will discuss a small sample here.
 
-A recurring theme is the **Euthyphro dilemma** (which I have discussed elsewhere on this blog, [here](/posts/), [here](/posts/) and [here](/posts/)). In Plato's dialogue this dilemma is formulated thus:
+A recurring theme is the **Euthyphro dilemma** (which I have discussed elsewhere on this blog, [here](/2013/03/25/ronald-dworkin-religion-utan-gud/), [here](/2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/) and [here](/2014/12/29/ronald-dworkins-bok-religion-without-god/)). In Plato's dialogue this dilemma is formulated thus:
 
 > Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?
 
@@ -100,7 +100,7 @@ Well, Malik is not an explicit supporter of virtue ethics. Perhaps the most famo
 
 > With the coming of modernity, as the necessity of traditions gave way to the possibilities of collective change, so a new question was posed. People now asked themselves not simply 'What moral claims are rational given the social structure?', but also 'What social structures are rational?' What kind of society, what types of social institutions, what forms of social relations, will best allow moral lives to flourish?
 
-Compare this with Karl Popper's words from <strong> The Open Society and Its Enemies, The Spell of Plato ** (which I [discussed recently](/posts/)):
+Compare this with Karl Popper's words from <strong> The Open Society and Its Enemies, The Spell of Plato ** (which I [discussed recently](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)):
 
 > The social engineer and technologist, on the other hand, will hardly take much interest in the origin of institutions, or in the original intentions of their founders [...]. Rather, he will put his problem like this. If such and such are our aims, is this institution well designed and organized to serve them?
 

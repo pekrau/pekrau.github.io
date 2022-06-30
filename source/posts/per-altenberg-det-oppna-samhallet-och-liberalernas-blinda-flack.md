@@ -36,9 +36,9 @@ Hans tes är följande:
 
 Allra viktigast är att vi erkänner den nya kollektivismen som det främsta hotet. [...] Det är först när vi på allvar vågar ta strid för den individbaserade samhällssynen som vi vinner förståelse för att kampen är på allvar [...]
 
-Altenberg refererar till Karl Poppers resonemang om skillnaden mellan det öppna och det slutna samhället, som presenterades i verket **The Open Society and Its Enemies**, utgivet 1945 (se [min sida om Karl Popper](/posts/) för länkar; notera att hela texten för The Open Society finns tillgänglig på nätet). Altenberg beskriver de olika högerpopulisterna i Västvärlden som kollektivister och som anhängare av det slutna samhället i Poppers mening. I ett slutet samhälle ses inte människor som individer med egen vilja och eget ansvar, utan som delar av kollektiv och underordnade dessa kollektivs regler.
+Altenberg refererar till Karl Poppers resonemang om skillnaden mellan det öppna och det slutna samhället, som presenterades i verket **The Open Society and Its Enemies**, utgivet 1945 (se [min sida om Karl Popper](/karl-popper/) för länkar; notera att hela texten för The Open Society finns tillgänglig på nätet). Altenberg beskriver de olika högerpopulisterna i Västvärlden som kollektivister och som anhängare av det slutna samhället i Poppers mening. I ett slutet samhälle ses inte människor som individer med egen vilja och eget ansvar, utan som delar av kollektiv och underordnade dessa kollektivs regler.
 
-Jag har inget att invända mot Altenbergs analys. Det är korrekt att Sverigedemokraterna och deras motsvarande rörelser i andra länder är anhängare av ett slutet samhälle baserat på etnicitet och idéer om nationen. Det var därför jag för en tid sedan [karaktäriserade SD som ett nyfascistiskt parti](/posts/).
+Jag har inget att invända mot Altenbergs analys. Det är korrekt att Sverigedemokraterna och deras motsvarande rörelser i andra länder är anhängare av ett slutet samhälle baserat på etnicitet och idéer om nationen. Det var därför jag för en tid sedan [karaktäriserade SD som ett nyfascistiskt parti](/2014/12/12/joda-sverigedemokraterna-ar-nyfascister/).
 
 Altenbergs slutsats är:
 

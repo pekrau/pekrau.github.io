@@ -20,25 +20,25 @@ Torbjörn Tännsjö, professor i praktisk filosofi vid Stockholms Universitet, s
 
 Mycket riktigt, i min bokhylla hittar jag en pamflett på ca 20 sidor från 1979 författad av Torbjörn Tännsjö. Dess titel är: **Istället för yttrande- och tryckfrihet**.
 
-[![Istället-för-yttrande-och-tryckfrihet](/files/istc3a4llet-fc3b6r-yttrande-och-tryckfrihet.jpg)](/posts/istc3a4llet-fc3b6r-yttrande-och-tryckfrihet.jpg)
+[![Istället-för-yttrande-och-tryckfrihet](/files/istc3a4llet-fc3b6r-yttrande-och-tryckfrihet.jpg)](/files/istc3a4llet-fc3b6r-yttrande-och-tryckfrihet.jpg)
 
 
 
 Tännsjös tes i pamfletten är följande:
 
-[![tesen](/files/tesen.jpg)](/posts/tesen.jpg)
+[![tesen](/files/tesen.jpg)](/files/tesen.jpg)
 
 Han målar upp ett alternativt samhälle, ett Utopia, där yttrandefrihet är onödigt:
 
-[![utopia-1](/files/utopia-1.jpg)](/posts/utopia-1.jpg)
+[![utopia-1](/files/utopia-1.jpg)](/files/utopia-1.jpg)
 
-[![utopia-2](/files/utopia-21.jpg)](/posts/utopia-21.jpg)
+[![utopia-2](/files/utopia-21.jpg)](/files/utopia-21.jpg)
 
-[![utopia-3](/files/utopia-3.jpg)](/posts/utopia-3.jpg)
+[![utopia-3](/files/utopia-3.jpg)](/files/utopia-3.jpg)
 
 Och avslutningen på pamfletten lyder sålunda:
 
-[![slutsatsen](/files/slutsatsen1.jpg)](/posts/slutsatsen1.jpg)
+[![slutsatsen](/files/slutsatsen1.jpg)](/files/slutsatsen1.jpg)
 
 I dessa texter framtonar en intressant hybrid av [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau), [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) och [Jeremy Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham).
 

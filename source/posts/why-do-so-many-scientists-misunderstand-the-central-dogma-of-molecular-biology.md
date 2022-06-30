@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-11-04'
@@ -52,7 +53,7 @@ In 1970, Crick published a paper ([Nature 1970, vol 227, issue 5258, pp 561-563]
 
 And he illustrated the Central Dogma in the following way:
 
-[![central-dogma-crick-1970](/files/central-dogma-crick-1970.png)](/posts/central-dogma-crick-1970.png)
+[![central-dogma-crick-1970](/files/central-dogma-crick-1970.png)](/files/central-dogma-crick-1970.png)
 
 The essential message of this image is **the absence** of arrows from protein to either RNA, DNA or protein. Crick wrote:
 

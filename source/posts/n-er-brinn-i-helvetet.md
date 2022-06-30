@@ -20,7 +20,7 @@ tags:
 title: N-*-er, brinn i helvetet!
 type: post
 ---
-**Rasism och homofobi är samma andas barn.** Detta inläggs rubrik är en provokation som visar just detta: Byt ut ordet n-ordet mot "bög", så blir resultatet den lapp som enligt [Huffington Post 20 dec 2013](http://www.huffingtonpost.com/ariel-wengroff/still-standing-communitie_b_4481967.html) sattes upp nyligen på en dörr till ett LGBT-center i Kampala, Uganda.id="attachment_2205" align="alignleft" width="224"][![No haven for faggots. Kampala, Uganda, 2013-12-20.](/files/no-haven-4-faggots-uganda_2013-12-20.jpg)](/posts/no-haven-4-faggots-uganda_2013-12-20.jpg) No haven for faggots. Kampala, Uganda, 2013-12-20.
+**Rasism och homofobi är samma andas barn.** Detta inläggs rubrik är en provokation som visar just detta: Byt ut ordet n-ordet mot "bög", så blir resultatet den lapp som enligt [Huffington Post 20 dec 2013](http://www.huffingtonpost.com/ariel-wengroff/still-standing-communitie_b_4481967.html) sattes upp nyligen på en dörr till ett LGBT-center i Kampala, Uganda.id="attachment_2205" align="alignleft" width="224"][![No haven for faggots. Kampala, Uganda, 2013-12-20.](/files/no-haven-4-faggots-uganda_2013-12-20.jpg)](/files/no-haven-4-faggots-uganda_2013-12-20.jpg) No haven for faggots. Kampala, Uganda, 2013-12-20.
 
 Det handlar inte om någon enstaka tokskalle. Det handlar om Ugandas etablissemang. [BBC 20 dec 2013](http://www.bbc.co.uk/news/world-africa-25463942) rapporterar att Ugandas parlament har röstat för en lag som dels gör det möjligt att fängsla homosexuella personer på livstid, dels stadgar att angiveri av homosexuella personer skall vara obligatoriskt.
 

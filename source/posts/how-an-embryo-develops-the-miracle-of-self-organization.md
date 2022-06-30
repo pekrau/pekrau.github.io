@@ -1,8 +1,9 @@
 ---
-language: en
 categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
+- name: in-english
+  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-09-29'
@@ -63,7 +64,7 @@ The fundamental insight is that the entire system is configured such that each e
 
 If we look at the molecular players in this drama, the main ones are the genes (in the DNA of each cell) and the proteins of the cell. In a nutshell: The genes specify which proteins a cell can make, and the proteins make up the cell (I know, this is extremely simplified.) The so-called Central Dogma of molecular biology, proposed by Francis Crick in 1958, states that the sequence information present in genes is transferred into the sequence of proteins, but never *vice versa*. Once a protein has been made, its sequence information cannot be translated back into the genes.
 
-There is a common misunderstanding regarding the Central Dogma. The misunderstanding, which [I have written about previously](/posts/), is that the Central Dogma says that information in the cell flows from the genome, via mRNA to protein. If this were true, then there would be a central conductor in the cell: the genes.
+There is a common misunderstanding regarding the Central Dogma. The misunderstanding, which [I have written about previously](/2015/11/04/why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology/), is that the Central Dogma says that information in the cell flows from the genome, via mRNA to protein. If this were true, then there would be a central conductor in the cell: the genes.
 
 But this garbled notion of the Central Dogma is not true. Information **in the cell** flows from genes to proteins and back again in innumerable feedback loops, and involves the environment of the cell as much as the genome. The Central Dogma, as formulated by Crick, focuses on the **sequence** information, which is just one part of all information in a cell. As a piece of DNA is translated into protein, the information in the sequence goes only one way. Every protein produced by a cell has its sequence template somewhere in the DNA of the cell. If a protein is taken up by a cell, it will never lead to the generation a new DNA sequence corresponding to the protein. That is the Central Dogma.
 

@@ -24,13 +24,13 @@ tags:
 title: Lena Anderssons trams om Karl Popper
 type: post
 ---
-Lena Andersson skriver en hel del om den liberale filosofen [Karl Popper](/posts/) i sin senaste bok "Om falsk och äkta liberalism". Tyvärr är ganska mycket av det trams. Jag kommer här att granska en del av de påståenden Andersson gör. Alla indragna citat är från Anderssons bok, om inget annat anges.
+Lena Andersson skriver en hel del om den liberale filosofen [Karl Popper](/karl-popper/) i sin senaste bok "Om falsk och äkta liberalism". Tyvärr är ganska mycket av det trams. Jag kommer här att granska en del av de påståenden Andersson gör. Alla indragna citat är från Anderssons bok, om inget annat anges.
 
-Jag har tidigare diskuterat Popper med Lena Andersson (se [blogginlägget 5 dec 2014](/posts/), och länkar däri) så jag är inte helt förvånad över hennes inställning. Däremot är jag förbluffad över hennes oförmåga &ndash; ovilja? &ndash; att ge en rimlig beskrivning av hur Popper faktiskt resonerar.
+Jag har tidigare diskuterat Popper med Lena Andersson (se [blogginlägget 5 dec 2014](/2014/12/05/lena-andersson-vs-karl-popper/), och länkar däri) så jag är inte helt förvånad över hennes inställning. Däremot är jag förbluffad över hennes oförmåga &ndash; ovilja? &ndash; att ge en rimlig beskrivning av hur Popper faktiskt resonerar.
 
 
 
-Jag diskuterar inte Anderssons övriga ståndpunkter i detta inlägg. Jag hoppas publicera en artikel på annat ställe där jag kritiserar hennes liberalism (se [Liberal Debatt 3-2019](https://www.liberaldebatt.se/), eller [här](/posts/)). Hennes märkliga resonemang om essenser etc skulle också behöva en kommentar, men jag är inte säker på att jag orkar ta tag i den härvan.
+Jag diskuterar inte Anderssons övriga ståndpunkter i detta inlägg. Jag hoppas publicera en artikel på annat ställe där jag kritiserar hennes liberalism (se [Liberal Debatt 3-2019](https://www.liberaldebatt.se/), eller [här](/2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/)). Hennes märkliga resonemang om essenser etc skulle också behöva en kommentar, men jag är inte säker på att jag orkar ta tag i den härvan.
 
 > Vederläggning är det Poppers intellektuella gärning rör sig kring. ... Men hans önskan att vi endast ska beakta sådan kunskap som kan vederläggas leder till filosofins död... Poppers metod och tanke hör till ett naturvetenskapligt ideal av rena fakta av enskilda datapunkter, men går på tvärs mot tänkande som bygger på resonemang, abstraktion, förståelse och bedömning av samband och kontexter utan att göra avkall på rationalitet och logik. (sid 35)
 

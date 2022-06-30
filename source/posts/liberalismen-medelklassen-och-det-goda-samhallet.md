@@ -36,13 +36,13 @@ tags:
 title: "Liberalismen, medelklassen och det goda samh\xE4llet"
 type: post
 ---
-Jag har [tidigare kommenterat](/posts/) Ann Heberleins artikel ([DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) om Borzoo Tavakolis öppna brev till Kent Ekeroth ([DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). Det har kommit intressanta reaktioner från  Svend Dahl och Markus Uvell om Heberleins artikel.
+Jag har [tidigare kommenterat](/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/) Ann Heberleins artikel ([DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) om Borzoo Tavakolis öppna brev till Kent Ekeroth ([DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). Det har kommit intressanta reaktioner från  Svend Dahl och Markus Uvell om Heberleins artikel.
 
 **Svend Dahl** skrev en uppskattande [ledarartikel i Norran 3 dec 2013](http://norran.se/2013/12/ledare/att-se-sig-sjalv-i-andra/). Han drar liksom Heberlein slutsatsen att Tavakolis resonemang innebär att svaga människor räknas som mindre värda. Dahl köper helt Heberleins resonemang att Tavakoli begår ett misstag när
 
 > [...] han [anammar] ett perspektiv där bidraget till tillväxten och välfärden blir det enda som ger människan ett värde och rätt till en plats i samhällsgemenskapen.
 
-Som jag visat i [en tidigare kommentar](/posts/) är detta helt enkelt fel. Tavakoli gör inte alls detta. **Tyvärr har Dahl helt enkelt missat att Heberleins resonemang bygger på medelklassförakt.**
+Som jag visat i [en tidigare kommentar](/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/) är detta helt enkelt fel. Tavakoli gör inte alls detta. **Tyvärr har Dahl helt enkelt missat att Heberleins resonemang bygger på medelklassförakt.**
 
 
 

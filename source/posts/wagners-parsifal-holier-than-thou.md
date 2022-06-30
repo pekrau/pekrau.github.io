@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: kultur
   value: Kultur
 date: '2016-03-30'

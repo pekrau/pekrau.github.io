@@ -26,7 +26,7 @@ type: post
 ---
 [Ronald Dworkin](http://en.wikipedia.org/wiki/Ronald_Dworkin), liberal rättsfilosof och skribent, avled år 2013. Hans sista bok heter **Religion without God**, och den bygger på hans Einstein-föreläsning vid Berns universitet 2011. Tanken var att boken skulle utveckla föreläsningens text, men sjukdom förhindrade detta. Boken är därför en liten volym på endast ca 160 sidor.
 
-Jag har [tidigare skrivit](/posts/) om ett avsnitt ur boken som publicerades i New York Review of Books. Nu när jag har läst hela boken är mitt intryck något förändrat.
+Jag har [tidigare skrivit](/2013/03/25/ronald-dworkin-religion-utan-gud/) om ett avsnitt ur boken som publicerades i New York Review of Books. Nu när jag har läst hela boken är mitt intryck något förändrat.
 
 **Dworkins utgångspunkt kan sägas vara den insikt som Platon redovisade i dialogen [Eutyfron](http://en.wikipedia.org/wiki/Euthyphro):** Frågan om vad som är moraliskt rätt, vad som är att betrakta som ett värde i sig, kan inte utan vidare besvaras med att "gud har bestämt det". I så fall är ju moraliska värden enbart godtyckliga påbud från en himmelsk diktator, vilket onekligen solkar ner bilden en smula. Alternativet, att moraliska värden har en egen existens, stämmer bättre med hur vi faktiskt resonerar. Visserligen innebär det att gud får finna sig i en slags konsultroll vad gäller moralfrågor, men det är ju ett problem endast för gudstroende.
 
@@ -52,7 +52,7 @@ Dworkin gör en stor sak att flera framstående forskare har skrivit om sin för
 
 Betrakta bilden nedan. Det är [Hubble Ultra-Deep Field](http://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field), ett fotografi taget med Hubble-teleskopet av en mycket liten region av himlen, och med en extremt lång exponeringstid, som gör att man kan se objekt som ligger upp till 13 miljarder ljusår bort. I stort sett varje punkt i bilden är en galax, var och en innehållande många miljoner stjärnor. Det är en bild som man förvisso känner stor förundran inför. Den är också oerhört vacker.
 
-[![Hubble_ultra_deep_field_400x400](/files/hubble_ultra_deep_field_400x400.png)](/posts/hubble_ultra_deep_field_400x400.png)
+[![Hubble_ultra_deep_field_400x400](/files/hubble_ultra_deep_field_400x400.png)](/files/hubble_ultra_deep_field_400x400.png)
 
 **Men har det universum som bilden visar ett moraliskt värde? Jag ställer mig skeptisk till det. Möjligen om man tror att där ute finns planeter bebodda av andra medvetna varelser. Annars inte.** Moral och skönhet är inte samma sak, och man kan känna förundran inför det komplexa och vidunderliga universum vi lever i utan att för den skull vara tvungen att också tillordna det ett inneboende moraliskt värde.
 

@@ -80,7 +80,7 @@ Här illustreras min poäng på ett närmast övertydligt sätt: Denna tänkta s
 
 Jag tror att ganska många, men inte alla, liberaler, kan beslås med att omhulda politiska teorier vars naturliga kompanjon är en atomistisk individualism. Så kan det vara även om någon, eller flera, av dessa liberaler, själva personligen inte vill ha en sådan individualism. Låt mig bara nämna exemplet Hayek. Han inspirerade direkt eller indirekt Margaret Thatcher, som förknippas med det famösa uttalandet "There is no such thing as society." Undrar hur Edmund Burke hade reagerat? Det må vara så att detta uttalandet har tagits ur sitt sammanhang, men det faktum att detta närmast mytologiska uttalande har satt sig så starkt säger en hel del om Thatcher och hennes liberalism. Det är litet ironiskt när en av Hayeks lärjungar ger uttryck för just den "oigenkännliga karikatyr" han själv ondgjorde sig över.
 
-Men finns det då inget sätt att formulera en liberalism som inte leder till atomistisk individualism? Jo, jag tror det. Som exempel vill jag anföra [Karl Poppers samhällsfilosofi](/posts/). Popper resonerar i termer av det öppna och det slutna samhället:
+Men finns det då inget sätt att formulera en liberalism som inte leder till atomistisk individualism? Jo, jag tror det. Som exempel vill jag anföra [Karl Poppers samhällsfilosofi](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Popper resonerar i termer av det öppna och det slutna samhället:
 
 > In what follows, the magical or tribal or collectivist society will also be called the closed society, and the society in which individuals are confronted with personal decisions, the open society.
 

@@ -32,7 +32,7 @@ Det är möjligt att det är något djupt teologiskt här som jag missar. Men ja
 
 
 
-Idén att politik och religion är helt separata används nästan alltid av religionsapologeter när politiken ses som negativt, som orsak till krig och konflikt. Stefan Arvidsson är en annan skribent som har drivit den linjen, vilket jag [kommenterat tidigare](/posts/). När tvärtom religionen har synpunkter på politiken (Halldorf nämner tydligen miljöpolitik och samvetsfrihet för barnmorskor inför aborter) då står religionen för något fint och gott som självklart skall vägleda politiken.
+Idén att politik och religion är helt separata används nästan alltid av religionsapologeter när politiken ses som negativt, som orsak till krig och konflikt. Stefan Arvidsson är en annan skribent som har drivit den linjen, vilket jag [kommenterat tidigare](/2015/12/23/politik-eller-religion-vad-menar-stefan-arvidsson/). När tvärtom religionen har synpunkter på politiken (Halldorf nämner tydligen miljöpolitik och samvetsfrihet för barnmorskor inför aborter) då står religionen för något fint och gott som självklart skall vägleda politiken.
 
 **Krona så vinner jag, klave så förlorar du. Så kan man sammanfatta argumentationslinjen.**
 

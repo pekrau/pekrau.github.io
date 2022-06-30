@@ -30,7 +30,7 @@ Erik Helmerson, ledarskribent på Dagens Nyheter, skriver [8 november 2015](http
 
 Jag har oerhört svårt att förstå varför det skulle vara förkastligt att ändra sig när verkligheten gör det.
 
-**Han vill påskina att han (och DN) har bytt ståndpunkt om flyktingpolitiken därför att verkligheten har förändrat sig.** Det är snarare så att den ståndpunkt Helmerson tidigare intog (eller snarare antydde, vilket är ett kapitel i sig) var orimlig redan när det begav sig, som jag ([här](/posts/), [här](/posts/) och [här](/posts/)) redan påpekat. Det som har hänt är endast att utvecklingen till slut har fått även Helmerson att inse detta.
+**Han vill påskina att han (och DN) har bytt ståndpunkt om flyktingpolitiken därför att verkligheten har förändrat sig.** Det är snarare så att den ståndpunkt Helmerson tidigare intog (eller snarare antydde, vilket är ett kapitel i sig) var orimlig redan när det begav sig, som jag ([här](/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/), [här](/2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/) och [här](/2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/)) redan påpekat. Det som har hänt är endast att utvecklingen till slut har fått även Helmerson att inse detta.
 
 
 

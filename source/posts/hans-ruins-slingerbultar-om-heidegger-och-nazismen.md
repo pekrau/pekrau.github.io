@@ -28,7 +28,7 @@ type: post
 ---
 **Hans Ruin visar i sin artikel om Martin Heidegger i Dagens Nyheter 11 november 2013 (ej länkbar) att han är slingerbultarnas mästare.** Han skriver med anledning av att Heideggers mest kända verk **"Vara och tid"** har utkommit i ny svensk översättning.
 
-Som jag har diskuterat tidigare ([här](/posts/) och [här](/posts/)) så är det ostridigt att Heidegger var nazist. Detta faktum berör Ruin sålunda:
+Som jag har diskuterat tidigare ([här](/2013/10/23/filosofen-wagner-och-nazismen/) och [här](/2013/11/04/filosofen-wagner-och-nazismen-del-2/)) så är det ostridigt att Heidegger var nazist. Detta faktum berör Ruin sålunda:
 
 > Den politiska utvecklingen i Tyskland och Heideggers inledande ställningstagande för Nationalsocialisterna 1933 påverkade tveklöst bokens fortsatta mottagande, inte minst i Tyskland där han alltjämt är omstridd.
 

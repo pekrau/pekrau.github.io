@@ -18,7 +18,7 @@ tags:
 title: 'Grundkurs i ateism, del 5: Autism?'
 type: post
 ---
-Knappt har jag skrivit [det förra avsnittet i denna serie (del 4: Påven)](/posts/), förrän jag råkar få syn på en fascinerande artikel på Newsmill med rubriken ["Finns det ett samband mellan ateism och autism?"](http://www.newsmill.se/artikel/2013/02/14/finns-det-ett-samband-mellan-ateism-och-autism) skriven 15 feb 2013 av Lotta Knutsson Bråkenhielm, doktorand i religionsfilosofi vid Uppsala Universitet.
+Knappt har jag skrivit [det förra avsnittet i denna serie (del 4: Påven)](/2013/02/16/grundkurs-i-ateism-del-4/), förrän jag råkar få syn på en fascinerande artikel på Newsmill med rubriken ["Finns det ett samband mellan ateism och autism?"](http://www.newsmill.se/artikel/2013/02/14/finns-det-ett-samband-mellan-ateism-och-autism) skriven 15 feb 2013 av Lotta Knutsson Bråkenhielm, doktorand i religionsfilosofi vid Uppsala Universitet.
 
 Hon utgår från den kognitionsvetenskapliga forskningens resultat att människan inte föds som ett oskrivet blad ([tabula rasa](http://sv.wikipedia.org/wiki/Tabula_rasa)), utan att det finns mänskliga egenskaper som är medfödda, alltså genetiskt betingade. Jag råkar just ha läst *The Blank Slate* av Steven Pinker, och kan därmed intyga att det är en korrekt beskrivning av vetenskapens nuvarande ståndpunkt. **Kan det vara så att människans religiositet har en genetisk bas?**
 

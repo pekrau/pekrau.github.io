@@ -30,7 +30,7 @@ Därför behöver vi, i skarp kontrast till det ”bortskämdhets­samhälle” 
 
 
 
-Jag har tidigare [skrivit om samhällskontraktet](/posts/) i samband med bland annat ett uttalande av Stefan Löfven. Det gläder mig mycket att denna tanke lever i politiken, för jag tror nämligen att den kan vara basen för ett nytänkande om den politiska strategin för välfärden och samhället. Kom ihåg kraften i Franklin Roosevelts [New Deal](http://en.wikipedia.org/wiki/New_Deal), vars fokus var att åter skapa möjligheter för det arbetande folket att se en framtid.
+Jag har tidigare [skrivit om samhällskontraktet](/tag/samhallskontraktet/) i samband med bland annat ett uttalande av Stefan Löfven. Det gläder mig mycket att denna tanke lever i politiken, för jag tror nämligen att den kan vara basen för ett nytänkande om den politiska strategin för välfärden och samhället. Kom ihåg kraften i Franklin Roosevelts [New Deal](http://en.wikipedia.org/wiki/New_Deal), vars fokus var att åter skapa möjligheter för det arbetande folket att se en framtid.
 
 Vi har idag en stor grupp människor, kalla dem prekariat, ofta unga outbildade män, eller invandrare, som lever i en otrygg situation som upplevs som hopplös. I [The Economist 30 maj 2015](http://www.economist.com/printedition/2015-05-30) beskrivs det växande problem som en underklass av unga outbildade män utgör i västvärlden. Arbetslöshet leder till uppgivenhet, och utbildningsförakt kombineras med ovilja till förändring. Demokrati- och politikerförakt är en aspekt av detta, stödet för Sverigedemokraterna en annan. Även många i traditionell arbetarklass och medelklass känner oro för framtiden på ett sätt som tär på samhällskontraktet.
 

@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: samhalle
   value: "Samh\xE4lle"
 - name: vetenskap-science

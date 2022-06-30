@@ -8,12 +8,8 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 <img src="/files/civilisation-icon.png" 
      title="Sõrve Lighthouse, Saare, Estonia"
      class="rounded float-start me-4">
-<h1>Civilisation</h1>
-<h2>
-  <small title="About politics, science and culture. By Per Kraulis" class="text-muted">
-    Om politik, vetenskap och kultur. Av Per Kraulis
-  </small>
-</h2>
+<h1 title="About politics, science and culture. By Per Kraulis">Civilisation</h1>
+<h3 class="text-muted">Om politik, vetenskap och kultur. Av Per Kraulis</h3>
 {% endblock%}
 
 {% block main %}
@@ -23,12 +19,12 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
     {% for post in posts %}
     <div class="card border-secondary mb-2">
       <div class="card-header">
-        <h5 class="card-title">{{ post["title"] }}
-          <small class="text-muted">{{ post["date"] }}</small>
+        <h5 class="card-title">{{ post['title'] }}
+          <small class="text-muted">{{ post['date'] }}</small>
         </h5>
       </div>
       <div class="card-body">
-        {{ post["short_html"] | safe }}
+        {{ post['short_html'] | safe }}
         <div class="text-end">
           <a href="{{ post['path'] }}">Hela inlägget...</a> 
         </div>
@@ -43,27 +39,32 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
   </section>
 
   <section class="col-lg-3">
+    <div class="card mb-4">
+      <div class="card-header">
+        <h4 class="card-title">Sidor</h4>
+      </div>
+      <ul class="list-group list-group-flush">
+        {% for page in pages %}
+        <li class="list-group-item">
+          <a href="{{ page['path'] }}">{{ page['title'] }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
     <div class="card">
       <div class="card-header">
         <h4 class="card-title">Ämnen</h4>
       </div>
       <ul class="list-group list-group-flush">
         {% for category in categories %}
-        <li class="list-group-item">{{ category["value"] }}</li>
+        <li class="list-group-item">
+          <a href="/category/{{ category['name'] }}/">{{ category['value'] }}</a>
+        </li>
         {% endfor %}
       </ul>
     </div>
 
-    <div class="card mt-4">
-      <div class="card-header">
-        <h4 class="card-title">Sidor</h4>
-      </div>
-      <ul class="list-group list-group-flush">
-        <!-- {% for category in categories %} -->
-        <!-- <li class="list-group-item">{{ category["value"] }}</li> -->
-        <!-- {% endfor %} -->
-      </ul>
-    </div>
   </section>
 
 </div>

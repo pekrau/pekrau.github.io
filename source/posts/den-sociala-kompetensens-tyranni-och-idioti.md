@@ -38,7 +38,7 @@ Psykologen Knutsson uppvisar trots allt en liten spricka i den annars så perfek
 
 **Vi ska nog vara tacksamma för att psykologen inser att "drömprofilen" kan "se lite olika ut" beroende på arbetsuppgiften, eller som han kallar den, "den specifika rollen". Jo, man tackar!**
 
-Det har pratats en del om strukturell rasism, och [jag tillhör de som inte tycker att det begreppet är vidare lyckat](/posts/). Men när jag läser den här sortens okritiska reportage om "jakten på en perfekt anställd", då måste jag erkänna att jag förstår vad man kanske menar. **Psykologen tycks inte inse att dessa fem kriterier fungerar utmärkt väl som svenskhetsfilter.** Den kulturella komponenten i de fem kriterierna är nämligen mycket stor. Det kan till och med en amatör som jag se.
+Det har pratats en del om strukturell rasism, och [jag tillhör de som inte tycker att det begreppet är vidare lyckat](/2013/04/04/strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga/). Men när jag läser den här sortens okritiska reportage om "jakten på en perfekt anställd", då måste jag erkänna att jag förstår vad man kanske menar. **Psykologen tycks inte inse att dessa fem kriterier fungerar utmärkt väl som svenskhetsfilter.** Den kulturella komponenten i de fem kriterierna är nämligen mycket stor. Det kan till och med en amatör som jag se.
 
 Nästa gång en invandrare frågar varför han eller hon inte fick jobbet trots utmärkta sakkunskaper, så kanske följande fråga är relevant: Utsattes vederbörande för ett personlighetstest, antingen ett formellt från Assessio, eller genom personalchefens försåtliga frågor om familj och fritid?
 

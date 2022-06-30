@@ -14,15 +14,15 @@ tags:
 title: "Om reduktionism: En glimt i \xF6gat, del 3"
 type: post
 ---
-I [del 1](/posts/) av denna artikeln visade jag en tabell av siffror och utmanade därmed den filosofiska reduktionismen att gissa vad det handlade om. Jag avslöjade att tabellen var ett 9x9 pixlar stort utsnitt ur en större bild. I [del 2](/posts/) visade jag den lilla bilden. Så är det dags att avslöja vad hela bilden föreställer:
+I [del 1](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/) av denna artikeln visade jag en tabell av siffror och utmanade därmed den filosofiska reduktionismen att gissa vad det handlade om. Jag avslöjade att tabellen var ett 9x9 pixlar stort utsnitt ur en större bild. I [del 2](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/) visade jag den lilla bilden. Så är det dags att avslöja vad hela bilden föreställer:
 
 
 
-id="attachment_4594" align="alignleft" width="417"][![Johannes Vermeer - Girl with a Pearl Earring](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg)](/posts/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg) Johannes Vermeer - Girl with a Pearl Earring
+id="attachment_4594" align="alignleft" width="417"][![Johannes Vermeer - Girl with a Pearl Earring](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg)](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg) Johannes Vermeer - Girl with a Pearl Earring
 
 Detta är [Johannes Vermeers](https://en.wikipedia.org/wiki/Johannes_Vermeer) berömda målning "[Flicka med pärlörhänge](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)". Jag behöver inte orda om hur fantastisk den är.
 
-Om läsaren tittar noga kan man se att den lilla bilden som visades i [den förra delen](/posts/) av artikeln utgör en liten del av flickans högra öga (till vänster, från oss sett). Den ljusa fläcken i 9x9 bilden är alltså blänket av ljus i flickans öga.
+Om läsaren tittar noga kan man se att den lilla bilden som visades i [den förra delen](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/) av artikeln utgör en liten del av flickans högra öga (till vänster, från oss sett). Den ljusa fläcken i 9x9 bilden är alltså blänket av ljus i flickans öga.
 
 Jämför nu tabellen i den första delen av artikeln med glimten i ögat hos flickan. Är det möjligt att påstå att tabellen innehåller allt som man behöver veta om den delen av bilden? Nej, jag tror inte det. Och därmed, påstår jag, undermineras den filosofiska reduktionismen.
 

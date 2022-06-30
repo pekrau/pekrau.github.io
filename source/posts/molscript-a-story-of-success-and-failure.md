@@ -1,8 +1,9 @@
 ---
-language: en
 categories:
 - name: computing
   value: Computing
+- name: in-english
+  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-11-03'
@@ -19,9 +20,13 @@ type: post
 ---
 A scientific paper I published in 1991 is on the list of **"The 100 most highly cited papers of all time"**. The paper in question is
 
-> Per J. Kraulis.
-  MOLSCRIPT: a program to produce both detailed and schematic plots of protein structures.
-  J. Appl. Cryst. (1991) 24, 946-950
+<code>Per J. Kraulis
+
+MOLSCRIPT: a program to produce both detailed and schematic plots of protein structures.
+
+J. Appl. Cryst. (1991) 24, 946-950
+
+</code>
 
 The Top 100 list is published in the [30 Oct 2014 issue](http://www.nature.com/news/the-top-100-papers-1.16224) of Nature magazine. The list contains the 100 most-cited papers in the entire scientific literature since 1900. **The MolScript paper is number 82 on the list, with 13,496 citations.**
 
@@ -29,15 +34,19 @@ The Top 100 list is published in the [30 Oct 2014 issue](http://www.nature.com/n
 
 Here are a couple of images prepared using the MolScript program:
 
-![Ras p21, standard view](/files/ras_std.png "Ras p21, standard view") Ras p21, standard view
+id="attachment_3257" align="alignleft" width="300"][![Ras p21, standard view](/files/ras_std.png)](/files/ras_std.png) Ras p21, standard view
 
 This image shows a schematic overview of the [*ras p21* protein](http://en.wikipedia.org/wiki/HRAS), based on a 3D structure determined by Ernest Laue's group, which I was a member of ([Kraulis, PJ, et al, Biochemistry (1994) 12, 3515-3531](http://www.ncbi.nlm.nih.gov/pubmed/8142349)). The *ras p21* protein is a key component of growth signaling in the cell. In a large fraction of cancer cases, this molecule has been mutated, so that its normal regulatory function has broken down.
 
-![Ras p21, view of GDP binding](/files/ras_gdp.png "Ras p21, view of GDP binding") Ras p21, view of GDP binding
+<br style="clear:both;" />
+
+
+
+id="attachment_3258" align="alignleft" width="300"][![Ras p21, view of GDP binding](/files/ras_gdp.png)](/files/ras_gdp.png) Ras p21, view of GDP binding
 
 This image is a close-up of the binding site for the GDP molecule in the *ras p21* protein. The dashed lines show some of the important interactions. Both images were ray-traced using [Raster3D](http://skuld.bmsc.washington.edu/raster3d/) written by David Bacon, Ethan Merritt, Michael Murphy and Wayne Anderson.
 
-There is an [Offical MolScript website](http://kraulis.se/molscript/), and the code can be downloaded from the new [GitHub repository](https://github.com/pekrau/MolScript).
+There is an [Offical MolScript website](http://www.avatar.se/molscript/), and the code can be downloaded from the new [GitHub repository](https://github.com/pekrau/MolScript).
 
 I thought it might be of interest to give the background story of the success of MolScript, and also how it has since failed.
 
@@ -51,7 +60,7 @@ This was extremely frustrating. The science of macromolecular structures was pro
 
 I obtained my Ph.D. in 1989 at Uppsala University with T. Alwyn Jones as my supervisor (who, by the way, also appears on the Top 100 list!). I worked for another year at the department before going on a post-doc. It was towards the end of 1990 that Alwyn got one of the first PostScript laser printers. This was a really nice toy, and a great improvement on the awful pen plotters. [PostScript](http://en.wikipedia.org/wiki/PostScript) is a proper programming language designed to describe very precisely what to draw and how.
 
-**While learning how to use PostScript, I had a revelation: PostScript provided the solution to a problem in computer graphics called [hidden surface removal](http://en.wikipedia.org/wiki/Hidden_surface_determination)!** It allowed me to use the [painter's algorithm](http://en.wikipedia.org/wiki/Painter's_algorithm). The break-through idea was to first produce the schematic object geometrically from the protein structure, then to split it up in small pieces, and finally to output these pieces to PostScript in the reverse order of distance from the viewer. The PostScript printer would then automatically do the hidden surface removal!
+**While learning how to use PostScript, I had a revelation: PostScript provided the solution to a problem in computer graphics called [hidden surface removal](http://en.wikipedia.org/wiki/Hidden_surface_determination)! **It allowed me to use the [painter's algorithm](http://en.wikipedia.org/wiki/Painter's_algorithm). The break-through idea was to first produce the schematic object geometrically from the protein structure, then to split it up in small pieces, and finally to output these pieces to PostScript in the reverse order of distance from the viewer. The PostScript printer would then automatically do the hidden surface removal!
 
 Although this was *the* crucial idea, a number of other factors allowed me to write the MolScript program:
 
@@ -73,7 +82,7 @@ Almost immediately, many researchers in the field wanted the software. I told th
 
 The use of MolScript that has made me the most happy, I think, was for the [fifth edition of Stryer's Biochemistry (2002)](http://www.ncbi.nlm.nih.gov/books/NBK21154/), which is a classic handbook used in many academic biochemistry courses the world over. Most of the illustrations in it [were made using MolScript](http://www.ncbi.nlm.nih.gov/books/NBK21159/#A35).
 
-**The third crucial idea I had was to charge companies money for the software.** A company got the software with source code and a right to make any number of copies internally for a single, one-time fee. I guaranteed nothing with regards to function. I set up the company Avatar Software AB to handle the selling of MolScript. By the way, this was before [the movie Avatar](http://www.imdb.com/title/tt0499549/)! I had read a little about Hindu mythology, and I got the name [Avatar](http://en.wikipedia.org/wiki/Avatar) from there. I thought that the idea of a god incarnated in a wordly being was a good fit for my company...
+**The third crucial idea I had was to charge companies money for the software.** A company got the software with source code and a right to make any number of copies internally for a single, one-time fee. I guaranteed nothing with regards to function. I set up the company [Avatar Software AB](http://www.avatar.se/) to handle the selling of MolScript. By the way, this was before [the movie Avatar](http://www.imdb.com/title/tt0499549/)! I had read a little about Hindu mythology, and I got the name [Avatar](http://en.wikipedia.org/wiki/Avatar) from there. I thought that the idea of a god incarnated in a wordly being was a good fit for my company...
 
 During the late 1990s and beginning of 2000s, almost all large pharmaceutical companies, and a number of biotech companies, including e.g. [the Kirin brewery in Japan](http://www.kirinichiban.com/), purchased the MolScript software. It was interesting to see how international companies behaved, confirming national stereotypes: American companies sometimes requested ridiculous legal paperwork, demanding that I indemnify them from everything and anything (I refused), and then sometimes not paying until after numerous reminders. Japanese companies often payed immediately, well before the due date of the invoice.
 

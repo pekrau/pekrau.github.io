@@ -28,7 +28,7 @@ I Björn Wimans krönika i [Dagens Nyheter 13 okt 2013](http://www.dn.se/kultur-
 
 > I förra veckan presenterade den ansedda tidskriften Science nya forskningsrön om hur läsning av ”god litteratur” ökar människans empati.
 
-Jag har redan [kommenterat](/posts/) själva Science-artikeln av Kidd och Castano. Att först Maria Schottenius och sedan Björn Wiman jublar är inte så konstigt. En litteraturkritiker vill självklart att skönlitteratur skall vara nyttig på något sätt.
+Jag har redan [kommenterat](/2013/10/07/skonlitteratur-gor-dig-kanske-battre/) själva Science-artikeln av Kidd och Castano. Att först Maria Schottenius och sedan Björn Wiman jublar är inte så konstigt. En litteraturkritiker vill självklart att skönlitteratur skall vara nyttig på något sätt.
 
 Men notera följande:
 

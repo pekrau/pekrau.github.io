@@ -32,7 +32,7 @@ Om man blandar samman dessa perspektiv riskerar man tankegegga. Som intellektuel
 
 
 
-Det finns inget tvivel om att Sverigedemokraterna skiljer ut sig från de övriga partierna (bortsett möjligen Vänsterpartiet) på ett avgörande sätt: SD är i grunden motståndare till det öppna samhället. Och då menar jag inte bara i frågan om invandring, utan det öppna samhället i Karl Poppers mening ([som jag skrev om nyligen](/posts/)). Visserligen har SD under Mattias Karlssons ledning satsat allt på sitt invandringshat, men det bör inte skymma sikten för att SD:s ideologi handlar om att upprätta ett renodlat och stillastående mytologiskt "Sverige", där alla var hela, rena, moraliska, mor står i köket, och far arbetar i verkstan.
+Det finns inget tvivel om att Sverigedemokraterna skiljer ut sig från de övriga partierna (bortsett möjligen Vänsterpartiet) på ett avgörande sätt: SD är i grunden motståndare till det öppna samhället. Och då menar jag inte bara i frågan om invandring, utan det öppna samhället i Karl Poppers mening ([som jag skrev om nyligen](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)). Visserligen har SD under Mattias Karlssons ledning satsat allt på sitt invandringshat, men det bör inte skymma sikten för att SD:s ideologi handlar om att upprätta ett renodlat och stillastående mytologiskt "Sverige", där alla var hela, rena, moraliska, mor står i köket, och far arbetar i verkstan.
 
 Så där har Ola Larsmo rätt: Det föreligger en avgrund mellan SD:s tänkande och i stort sett alla övriga partier.
 

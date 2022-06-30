@@ -16,7 +16,7 @@ type: post
 ---
 The Economist har en oerhört bra [artikel 19 okt 2013](http://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble) om en pågående kris i forskningen: **Antalet fel i vetenskapliga publikationer är på tok för högt, och visar ingen tendens att minska.** Tvärtom, olika mekanismer verkar idag åt fel håll. Nya idéer och åtgärder måste till för att vända trenden.
 
-Jag har [tidigare skrivit om problem i forskningen](/posts/), och jag förde fram tanken **att slarv var ett förmodligen viktigare problem än fusk.** Artikeln i The Economist skriver visserligen inte just så, men deras resonemang vidimerar min slutsats.
+Jag har [tidigare skrivit om problem i forskningen](/2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/), och jag förde fram tanken **att slarv var ett förmodligen viktigare problem än fusk.** Artikeln i The Economist skriver visserligen inte just så, men deras resonemang vidimerar min slutsats.
 
 Jag tänker inte referera The Economists artikel i detalj. **Varje person som är det minsta intresserad av vetenskap bör läsa den!** Jag har svårt att hitta något i den som jag tror The Economist har fått om bakfoten.
 

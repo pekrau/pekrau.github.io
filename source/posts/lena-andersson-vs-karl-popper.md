@@ -26,7 +26,7 @@ tags:
 title: Lena Andersson vs. Karl Popper
 type: post
 ---
-Ohlininstitutet arrangerade [4 dec 2014](http://www.ohlininstitutet.se/2014/11/04/det-oppna-samhallet-och-dess-fiender-2015/) en diskussion om Karl Popper, den liberale filosofen vars centrala politiska verk är "**Det öppna samhället och dess fiender**" ([som jag skrev om nyligen](/posts/)). **Lennart Nordfors**, fil. dr. i statsvetenskap och vice vd för Gullers grupp, talade om Poppers betydelse då och nu. Det talet kommer att ges ut som en skrift av Ohlininstitutet så småningom, och jag ämnar kommentera det då.
+Ohlininstitutet arrangerade [4 dec 2014](http://www.ohlininstitutet.se/2014/11/04/det-oppna-samhallet-och-dess-fiender-2015/) en diskussion om Karl Popper, den liberale filosofen vars centrala politiska verk är "**Det öppna samhället och dess fiender**" ([som jag skrev om nyligen](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)). **Lennart Nordfors**, fil. dr. i statsvetenskap och vice vd för Gullers grupp, talade om Poppers betydelse då och nu. Det talet kommer att ges ut som en skrift av Ohlininstitutet så småningom, och jag ämnar kommentera det då.
 
 På plats var även **Lena Andersson**, författare, och **Håkan Holmberg**, politisk chefredaktör för Upsala Nya Tidning. De kommenterade Karl Poppers filosofi på ett intressant och givande sätt med synpunkter som delvis kontrasterade mot Nordfors. Över huvud taget var det en intellektuellt högt stående diskussion.
 
@@ -66,7 +66,7 @@ Visst, frasen "mänskliga rättigheter" förekommer inte här. Men vad är inneh
 
 Jag ska inte gå in på Poppers diskussion om detta, utan bara konstatera att ingen i publiken blev klar över varför Andersson tyckte så illa om Poppers negativa inställning till essentialismen. Jag tror att skälen för Anderssons kritik står att finna i hennes egna inspirationskällor.
 
-Anderson har själv, såvitt jag känner till, inte angett att hon är kraftigt influerad av den libertarianska ikonen [Ayn Rand](http://en.wikipedia.org/wiki/Ayn_Rand), men jag tycker det finns gott om indicier på att så är fallet. Hon skriver i en kolumn i Dagens Nyheter att "den universella naturrättens principer är objektiva" ([se min kommentar](/posts/)). I en annan ([som jag kommenterade här](/posts/)) skriver hon att "Är det i stället hjälptanken som är problemet, som vi borde göra upp med, och som borde ersättas med: vi får inte hindra andra." Av sammanhanget framgår att det är välfärdssystemet hon anser bör avskaffas.
+Anderson har själv, såvitt jag känner till, inte angett att hon är kraftigt influerad av den libertarianska ikonen [Ayn Rand](http://en.wikipedia.org/wiki/Ayn_Rand), men jag tycker det finns gott om indicier på att så är fallet. Hon skriver i en kolumn i Dagens Nyheter att "den universella naturrättens principer är objektiva" ([se min kommentar](/2014/09/22/nej-fri-invandring-ar-ingen-mansklig-rattighet/)). I en annan ([som jag kommenterade här](/2013/12/15/lena-andersson-faller-i-extremistfallan/)) skriver hon att "Är det i stället hjälptanken som är problemet, som vi borde göra upp med, och som borde ersättas med: vi får inte hindra andra." Av sammanhanget framgår att det är välfärdssystemet hon anser bör avskaffas.
 
 **Den slutliga pusselbiten som visar att Andersson är randian kom alltså under diskussionen om Popper. Hennes problem med Poppers avfärdande av Aristoteles har nämligen, tror jag, sin grund i att Ayn Rand var en stor beundrare av Aristoteles filosofi, och hämtade explicit mycket inspiration därur. Så Poppers kritik av Aristoteles är alltså, indirekt, kritik av Anderssons husgud Ayn Rand. Det förklarar varför det var så viktigt för Andersson att säga det, vilket hon alltså misslyckades kapitalt att förklara för publiken.**
 
@@ -92,13 +92,13 @@ Inlägg i denna diskussionen:
 
   <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
 
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/posts/)</li>
+  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
 
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/posts/)</li>
+  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
 
-  <li>Per Kraulis: [Ytliga likheter](/posts/)</li>
+  <li>Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)</li>
 
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/posts/)</li>
+  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
 
 </ol>
 

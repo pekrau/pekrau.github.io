@@ -1,0 +1,111 @@
+{% extends 'base.html' %}
+
+{% block head_title %}{{ book["title"] }}{% endblock %}
+
+{% block body_title %}
+<h1>{{ book["title"] }}</h1>
+<h3>
+  {% for author in book['authors'] %}
+  {{ author }}
+  {% if author != book['authors'][-1] %}
+  ;
+  {% endif %}
+  {% endfor %}
+</h3>
+{% endblock %}
+
+{% block main_section %}
+<section class="col-lg-6 offset-lg-1">
+  {% if book.get('rating') %}
+  <div class="card">
+    <div class="card-header">
+      Comments
+    </div>
+    <div class="card-body">
+      <p title="{{ book['rating'] }}">
+        Rating:
+        {% for i in range(book["rating"]) %}
+        <i class="bi bi-star-fill text-warning"></i>
+        {% endfor %}
+      </p>
+      {{ book['html'] | safe }}
+    </div>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}
+
+{% block main_aside %}
+<aside class="col-lg-3 offset-lg-2">
+
+  <div class="card">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">
+        {{ book['published'] }}
+      </li>
+      {% if book.get('publisher') %}
+      <li class="list-group-item">
+        {{ book['edition']['publisher'] }}
+      </li>
+      {% endif %}
+      {% if book.get('isbn') %}
+      <li class="list-group-item">
+        ISBN {{ book['isbn'] }}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+  
+  <div class="card mt-3">
+    <div class="card-header" title="Tags">
+      Ämnen
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for subject in book["subjects"] %}
+      <li class="list-group-item">
+        <a href="/library/{{ subject }}/">{{ subject }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="card mt-3">
+    <div class="card-header" title="External links">
+      Externa länkar
+      <i class="bi bi-box-arrow-up-right"></i>
+    </div>
+    <ul class="list-group list-group-flush">
+      {% if book.get("goodreads") %}
+      <li class="list-group-item">
+        <a target="_blank" href="https://www.goodreads.com/book/show/{{ book['goodreads'] }}">
+          Goodreads
+        </a>
+      </li>
+      {% endif %}
+      {% if book.get("isbn") %}
+      <li class="list-group-item">
+        <a target="_blank" href="https://isbnsearch.org/isbn/{{ book['isbn'] }}">
+          ISBN Search
+        </a>
+      </li>
+      <li class="list-group-item">
+        <a target="_blank" href="https://www.bookfinder.com/search/?author=&title=&lang=en&isbn={{ book['isbn'] }}&new_used=*&destination=se&currency=SEK&mode=basic&st=sr&ac=qr">
+          Bookfinder
+        </a>
+      </li>
+      <li class="list-group-item">
+        <a target="_blank" href="https://www.bokus.com/bok/{{ book['isbn'] }}">
+          Bokus
+        </a>
+      </li>
+      <li class="list-group-item">
+        <a target="_blank" href="https://www.adlibris.com/se/sok?q={{ book['isbn'] }}">
+          Adlibris
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+
+</aside>
+{% endblock %}

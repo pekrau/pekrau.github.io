@@ -56,7 +56,7 @@ Fysikern Lawrence Krauss skriver i boken "Ett universum ur ingenting" att en tä
 
 #### Vilken är moralens grund? Gud gav oss moralen.
 
-Men på vilket sätt blir moralen god därför att någon, i detta fallet Gud, skulle ha gett oss den? Redan Platon insåg problemet och formulerade det i Eutyfrons dilemma (som jag har [skrivit om tidigare](/posts/)):
+Men på vilket sätt blir moralen god därför att någon, i detta fallet Gud, skulle ha gett oss den? Redan Platon insåg problemet och formulerade det i Eutyfrons dilemma (som jag har [skrivit om tidigare](/tag/eutyfron/)):
 
 > Älskas det fromma av gudarna, därför att det är fromt, eller är det fromt, därför att det älskas av gudarna?
 

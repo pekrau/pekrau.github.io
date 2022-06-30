@@ -22,7 +22,7 @@ tags:
 title: Niall Ferguson i Almedalen
 type: post
 ---
-Niall Ferguson, brittisk historiker, talade i Almedalen 1 juli 2013, vilket uppmärksammades i medierna, t.ex. av [Johan Schück 1 juli 2013 i Dagens Nyheter](http://www.dn.se/nyheter/almedalen/harvardprofessor-sverige-for-daligt-pa-att-integrera-invandrare/). Jag har tidigare [kommenterat Niall Fergusons senaste bok Civilization](/posts/), så där kan man få ett kort sammandrag av vad Ferguson driver för tes.
+Niall Ferguson, brittisk historiker, talade i Almedalen 1 juli 2013, vilket uppmärksammades i medierna, t.ex. av [Johan Schück 1 juli 2013 i Dagens Nyheter](http://www.dn.se/nyheter/almedalen/harvardprofessor-sverige-for-daligt-pa-att-integrera-invandrare/). Jag har tidigare [kommenterat Niall Fergusons senaste bok Civilization](/2013/01/26/niall-ferguson-civilization/), så där kan man få ett kort sammandrag av vad Ferguson driver för tes.
 
 Den konservative författaren och filosofen Roland Poirier Martinsson skrev en essä i Dagens Nyheter 28 juni 2013 (ej länkbar) om Fergusons bok. **Intressant nog lyfter Poirier Martinsson fram det resonemang hos Ferguson som jag ansåg vara det svagaste, nämligen att den minskande religiositeten (alltså kristendomen) i väst är en bidragande orsak till västs försämrade konkurrensförmåga.**
 

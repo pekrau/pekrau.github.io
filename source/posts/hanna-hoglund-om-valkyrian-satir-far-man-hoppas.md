@@ -16,7 +16,7 @@ tags:
 title: "Hanna H\xF6glund om Valkyrian: Satir, f\xE5r man hoppas"
 type: post
 ---
-Hanna Höglund, skribent på Expressens kultursida, ägnar sig åt satir om operadebatten. Tror jag. I en [artikel 6 dec 2013](http://www.expressen.se/kultur/i-wotans-vald/) anlägger hon genusperspektiv på [framförandet av tredje akten i Valkyrian](/posts/) häromdagen:
+Hanna Höglund, skribent på Expressens kultursida, ägnar sig åt satir om operadebatten. Tror jag. I en [artikel 6 dec 2013](http://www.expressen.se/kultur/i-wotans-vald/) anlägger hon genusperspektiv på [framförandet av tredje akten i Valkyrian](/2013/12/07/valkyrian-i-berwaldhallen/) häromdagen:
 
 > [...] det sedvanliga könsförtrycket.
 
@@ -26,7 +26,7 @@ När Terfel långsamt och ömt kysser Stemme på pannan till Wagners evighetsmel
 
 Publikens hänryckning och stående ovationer efter Allfaderns alltför välbekanta maktuppvisning får mig att må lite illa.
 
-Jag gapskrattade när jag läste detta. **Onekligen fyndigt, att satirisera den så kallat politiskt korrekta debatt** som bland annat ägt rum [kring Wagners Parsifal](/posts/)!
+Jag gapskrattade när jag läste detta. **Onekligen fyndigt, att satirisera den så kallat politiskt korrekta debatt** som bland annat ägt rum [kring Wagners Parsifal](/2013/10/23/filosofen-wagner-och-nazismen/)!
 
 **Men så smyger sig en otäck känsla över mig. Kan det vara så att Hanna Höglund menar allvar?!** Kan det vara så illa att hon inte har nått insikten att när en publik applåderar ett framförande, så är det inte nödvändigtvis innebörden i operans handling som man bifaller, utan snarare gestaltningen, framförandet? Om det är så, undrar jag: Kunde ingen vänlig själ på Expressens kulturredaktion ha påpekat detta för henne?
 

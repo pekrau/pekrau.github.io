@@ -15,15 +15,15 @@
            class="table table-sm table-borderless table-hover display compact">
       <thead>
         <tr>
-          <th>Tag</th>
-          <th># posts</th>
+          <th>Etikett</th>
+          <th>Antal inlägg</th>
         </tr>
       </thead>
       <tbody>
         {% for tag in tags  %}
         <tr>
-          <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag["value"] }}</a></td>
-          <td>{{ len(tag["posts"]) }}</td>
+          <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag['value'] }}</a></td>
+          <td>{{ len(tag['posts']) }}</td>
         </tr>
         {% endfor %}
       </tbody>

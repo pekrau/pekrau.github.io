@@ -21,7 +21,7 @@ En stillsam fråga, finns det verkligen inget viktigare och mer angeläget ämne
 
 Ingela Douhan, Kista
 
-På vilket jag skrev ett svar som publicerades [27 dec 2013](/posts/dn-20131227-a39.pdf) med rubriken "Fånig forskning kan vara viktig". Här är texten:
+På vilket jag skrev ett svar som publicerades [27 dec 2013](/files/dn-20131227-a39.pdf) med rubriken "Fånig forskning kan vara viktig". Här är texten:
 
 > Ingela Douhan undrar om det inte finns viktigare forskning än att titta på blodflödet i däggdjurs nosar. Men det är inte alltid så lätt att veta vad som är viktigt eller inte. För hundra år sedan forskade Thomas Hunt Morgan på den obetydliga bananflugan. Komplett ointressant kan man tycka. Men det lade grunden för dagens genetik, och förståelsen av en mängd sjukdomar som t.ex. cancer.
 

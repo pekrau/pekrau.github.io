@@ -48,7 +48,7 @@ Låt mig ignorera skallet på den nyvalda ärkebiskopen (det är inte mitt probl
 
 **Men detta är ju bakvänt! Birro, och hans trosbröder och -systrar, är väl kristna därför att Gud och Jesus finns?** Och därför att det som står i Bibeln är sant? Och därför att Gud skapade oss människor och allt annat, och fastslog vad som är moraliskt eller inte? **Inte har väl Birro skickat efter en konsumentundersökning och prickat av de olika religionernas för- och nackdelar, för att sedan göra ett medvetet val?**
 
-Birros resonemang är ett underbart exempel på en paradox som redan Platon noterade i dialogen Eutyfron (se [min tidigare kommentar](/posts/)): Ska vi tro på gudarna (på hans tid var de polyteister) därför att de är goda? Eller är det goda gott, därför att gudarna har så bestämt?
+Birros resonemang är ett underbart exempel på en paradox som redan Platon noterade i dialogen Eutyfron (se [min tidigare kommentar](/2013/03/25/ronald-dworkin-religion-utan-gud/)): Ska vi tro på gudarna (på hans tid var de polyteister) därför att de är goda? Eller är det goda gott, därför att gudarna har så bestämt?
 
 Den som tror på hinduismen skulle kunna svara Birro med att påpeka att eftersom hinduismen är sann, så är hans snack om jämlikhet och sånt bara trams. Brahma, Vishnu, Shiva och Kali har skapat världen som den är, med kastsystem och allt. Världen är god som den är, därför att gudarna har skapat den sådan.
 

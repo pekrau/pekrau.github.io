@@ -44,9 +44,9 @@ tags:
 title: Lena Anderssons dolda agenda om Popper och postmodernismen
 type: post
 ---
-Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/posts/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
+Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
 
-**Låt mig istället fokusera på hennes centrala påstående, att Poppers tänkande har mycket gemensamt med de postmoderna tankar som bland annat i form av identitetspolitik och allmän moralisk relativism har hemsökt den västerländska debatten.** Andersson förde fram samma tes på ett seminarium 4 dec 2014, men i [min kommentar om det](/posts/) så valde jag att utelämna detta, eftersom jag betraktade det som såpass apart att det inte förtjänade uppmärksamhet. Men när nu Andersson gör stort nummer av det i en kolumn i DN så tvingas jag ta itu med det.
+**Låt mig istället fokusera på hennes centrala påstående, att Poppers tänkande har mycket gemensamt med de postmoderna tankar som bland annat i form av identitetspolitik och allmän moralisk relativism har hemsökt den västerländska debatten.** Andersson förde fram samma tes på ett seminarium 4 dec 2014, men i [min kommentar om det](/2014/12/05/lena-andersson-vs-karl-popper/) så valde jag att utelämna detta, eftersom jag betraktade det som såpass apart att det inte förtjänade uppmärksamhet. Men när nu Andersson gör stort nummer av det i en kolumn i DN så tvingas jag ta itu med det.
 
 **Lena Anderssons påstående är nämligen falskt. Inte vad gäller postmodernismens skadlighet, där träffar hon rätt. Det är hennes utpekande av Popper som en tidig postmodernist som är helt bort i tok.**
 
@@ -74,11 +74,11 @@ Därmed kan vi se vad som är fel med följande påstående av Andersson:
 
 **Andersson vill få oss att tro att Popper vill "dekonstruera" (ett ord han aldrig använder) kunskap utan att bygga upp något annat. Detta är med förlov sagt trams. Hela poängen med Poppers kritiska rationalism är att kunna vinna ny kunskap som stämmer bättre med verkligheten genom att fokusera på det som våra nuvarande teorier inte förmår förklara, för att tydliggöra var det behövs nya teorier.**
 
-Kontrastera detta mot postmodernismen, kanske framförallt i dess identitetspolitiska skepnad. Hela poängen med Foucaults kritik av upplysningen går ut på att dennas höga anspråk på rationalism och kritik är hyckleri och kamouflage för en obönhörlig maktutövning. Kritik inifrån systemet är omöjligt. All kritik måste komma utifrån eller underifrån, och kan inte syfta till att reformera systemet, utan till dess avslöjande. **För postmodernismen är framstegets omöjlighet, varje reformförslags inneboende understödjande av *status quo*, en helt central punkt. Kapitalismen och förnuftet kan inte reformeras.** Många radikaler idag tycker detta är en fantastisk insikt, men när man påpekar att Foucault själv ansåg att mullornas Iran utgjorde ett sådant radikalt alternativ till det förkastliga liberala västerlandet, ja, då blir det litet jobbigt. Det blir det också om man påpekar att Foucaults och Derridas husgud och inspiratör [Martin Heidegger](http://en.wikipedia.org/wiki/Martin_Heidegger) var inbiten nazist (vilket jag skriver om [här](/posts/) och [här](/posts/)), och att detta var en helt integrerad del av hans antihumanism och antiliberalism.
+Kontrastera detta mot postmodernismen, kanske framförallt i dess identitetspolitiska skepnad. Hela poängen med Foucaults kritik av upplysningen går ut på att dennas höga anspråk på rationalism och kritik är hyckleri och kamouflage för en obönhörlig maktutövning. Kritik inifrån systemet är omöjligt. All kritik måste komma utifrån eller underifrån, och kan inte syfta till att reformera systemet, utan till dess avslöjande. **För postmodernismen är framstegets omöjlighet, varje reformförslags inneboende understödjande av *status quo*, en helt central punkt. Kapitalismen och förnuftet kan inte reformeras.** Många radikaler idag tycker detta är en fantastisk insikt, men när man påpekar att Foucault själv ansåg att mullornas Iran utgjorde ett sådant radikalt alternativ till det förkastliga liberala västerlandet, ja, då blir det litet jobbigt. Det blir det också om man påpekar att Foucaults och Derridas husgud och inspiratör [Martin Heidegger](http://en.wikipedia.org/wiki/Martin_Heidegger) var inbiten nazist (vilket jag skriver om [här](/2014/08/11/hans-ruins-heidegger-chock/) och [här](/2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/)), och att detta var en helt integrerad del av hans antihumanism och antiliberalism.
 
 Så var det med den eventuella relationen mellan Popper och postmodernismen. **Andersson tycks vara medveten om hur tunn hennes anklagelse är när hon skriver att "Karl Popper skulle inte ha känt igen något av detta som sitt". Det stämmer, helt enkelt därför att det inte är det.**
 
-Men varför framhärdar då Lena Andersson med sin ohållbara tes? Jag tror det har att göra med något jag påpekade i [min tidigare kommentar](/posts/). **Anderssons kritik kommer från en bestämd plats i det filosofiska rummet: [Ayn Rands](http://en.wikipedia.org/wiki/Ayn_Rand) så kallade [objektivism](http://en.wikipedia.org/wiki/Objectivism_(Ayn_Rand)).** Hennes diskussion om essentialism, som är ganska obegriplig för de flesta, har sin grund i att den är en viktig sak för Rand, som i sin tur tar det från Aristoteles. Just Aristoteles essentialism kritiseras ganska dräpande av Popper, vilket förklarar Anderssons kommentarer om den saken.
+Men varför framhärdar då Lena Andersson med sin ohållbara tes? Jag tror det har att göra med något jag påpekade i [min tidigare kommentar](/2014/12/05/lena-andersson-vs-karl-popper/). **Anderssons kritik kommer från en bestämd plats i det filosofiska rummet: [Ayn Rands](http://en.wikipedia.org/wiki/Ayn_Rand) så kallade [objektivism](http://en.wikipedia.org/wiki/Objectivism_(Ayn_Rand)).** Hennes diskussion om essentialism, som är ganska obegriplig för de flesta, har sin grund i att den är en viktig sak för Rand, som i sin tur tar det från Aristoteles. Just Aristoteles essentialism kritiseras ganska dräpande av Popper, vilket förklarar Anderssons kommentarer om den saken.
 
 Men det finns en djupare anledning till Anderssons avoga inställning gentemot Popper. I [Wikipedias text om Rands kunskapsteori](http://en.wikipedia.org/wiki/Objectivism_(Ayn_Rand)) kan man läsa följande:
 
@@ -102,17 +102,17 @@ Inlägg i denna diskussionen:
 
 <ol start="0">
 
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/posts/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
+  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
 
   <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
 
   <li>Per Kraulis: Lena Anderssons dolda agenda om Popper och postmodernismen (inlägget ovan)</li>
 
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/posts/)</li>
+  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
 
-  <li>Per Kraulis: [Ytliga likheter](/posts/)</li>
+  <li>Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)</li>
 
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/posts/)</li>
+  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
 
 </ol>
 

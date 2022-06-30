@@ -4,6 +4,7 @@
 
 {% block body_title %}
 <h1>{{ post['title']}}</h1>
+<h3 class="text-muted">{{ post['date'] }}</h3>
 {% endblock %}
 
 {% block main_section %}
@@ -16,7 +17,6 @@
 <aside class="col-lg-3 offset-lg-2">
 
   <ul class="list-group">
-    <li class="list-group-item">Publicerad {{ post["date"] }}</li>
     {% if post["prev"] %}
     <li class="list-group-item">
       Föregående inlägg:
@@ -29,11 +29,10 @@
       <a href="{{ post['next']['path'] }}">{{ post["next"]["title"] }}</a>
     </li>
     {% endif %}
-    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
   </ul>
 
-  <div class="card mt-4">
-    <div class="card-header">
+  <div class="card mt-3">
+    <div class="card-header" title="Tags">
       Etiketter
     </div>
     <ul class="list-group list-group-flush">

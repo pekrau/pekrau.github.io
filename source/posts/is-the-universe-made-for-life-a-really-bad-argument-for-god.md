@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: religion-vs-ateism
   value: Religion vs ateism
 - name: vetenskap-science

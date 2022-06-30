@@ -14,7 +14,7 @@ tags:
 title: 'Individualiserad medicin: ge makten till patienten!'
 type: post
 ---
-Jag har deltagit i konferensen [Human Genomics and Personalized Medicine](/posts/Human%20Genomics%20and%20Personalized%20Medicine) i Stockholm 17-20 juni 2013, vilket [jag redan skrivit om](/posts/). En viktig tendens som diskuterades särskilt under konferensens sista dag är att patienter och andra "användare" av vården börjar engagera sig mycket mer i vad som pågår.
+Jag har deltagit i konferensen [Human Genomics and Personalized Medicine](/2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/Human%20Genomics%20and%20Personalized%20Medicine) i Stockholm 17-20 juni 2013, vilket [jag redan skrivit om](/2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/). En viktig tendens som diskuterades särskilt under konferensens sista dag är att patienter och andra "användare" av vården börjar engagera sig mycket mer i vad som pågår.
 
 Det började med AIDS-aktivisterna på 80-talet. Sedan dess har allt fler patientgrupper aktiverat sig, och vill påverka hur forskningen bedrivs, och hur resultaten kommer till användning. **Patientmakt har blivit ett begrepp.**
 

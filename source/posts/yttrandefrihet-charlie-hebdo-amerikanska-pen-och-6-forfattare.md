@@ -46,7 +46,7 @@ Vi har sett argumentet förut: "Vi är för yttrandefrihet, <i>men</i>..." Och a
 
 **Salman Rushdie** attackerade tämligen omedelbart kritikerna av PEN-priset (se t.ex. [Guardians reportage 27 april 2015](http://www.theguardian.com/books/2015/apr/27/salman-rushdie-pen-charlie-hebdo-peter-carey)):
 
-[![Salman-Rushdie-pussies](/files/salman-rushdie-pussies.png)](/posts/salman-rushdie-pussies.png)
+[![Salman-Rushdie-pussies](/files/salman-rushdie-pussies.png)](/files/salman-rushdie-pussies.png)
 
 En av de som ställer upp för yttrandefriheten är nyhetsankaret och journalisten på CNN **Christiane Amanpour** som i [ett inlägg på Facebook 2 maj 2015](https://www.facebook.com/camanpour/posts/10155536572695370) tydliggör vad det handlar om.
 
@@ -60,7 +60,7 @@ Ett annat inlägg som måste läsas kommer från **Timothy Garton Ash** [i New Y
 
 De ska bli intressant att se hur, och om, denna debatten refereras i svenska medier. Jag har inte sett så mycket om det än så länge. Idag, 3 maj, är det pressfrihetens dag. Då kanske man skulle kunna vänta sig något referat av Charlie Hebdo-striden i USA? Men jag har inte hittat något i svensk press.
 
-Vi hade vår egen variant av Charlie Hebdo-debatten redan tidigare i år, där bland annat [Ann Heberlein](/posts/) och [Theodor Kallifatides](/posts/) sällade sig till skaran av de som säger "yttrandefrihet är bra, men..." Så kanske den svenska kulturdebatten anser sig vara färdig med frågan?
+Vi hade vår egen variant av Charlie Hebdo-debatten redan tidigare i år, där bland annat [Ann Heberlein](/2015/01/12/ann-heberlein-kranker-mig/) och [Theodor Kallifatides](/2015/01/14/yttrandefrihet-krankning-och-bultande-hjarta/) sällade sig till skaran av de som säger "yttrandefrihet är bra, men..." Så kanske den svenska kulturdebatten anser sig vara färdig med frågan?
 
 **Tillägg**
 

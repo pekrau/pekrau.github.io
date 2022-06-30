@@ -18,7 +18,7 @@ type: post
 ---
 Statsvetarna Ulf Bjereld och Marie Demker undrar hur demokratin egentligen mår i en debattartikel i Dagens Nyheter [30 nov 2013](http://www.dn.se/debatt/partierna-kapitulerar-for-populism-och-ekonomism/). De ser demokratiska problem med att partierna inte förmår utforma ideologiska program, och att de stora partierna synbarligen uppehåller sig vid mitten av den politiska skalan.
 
-Jag har [tidigare diskuterat](/posts/) denna önskan efter mer ideologi i politiken, något som ofta efterlyses, inte bara från socialdemokrater, utan även liberaler och konservativa.** Min tes är att den brist många upplever i politiken inte främst handlar om för litet ideologi *per se*, utan om för få seriösa förslag till reformer och samhällsförändringar.** Om en politisk rörelse upplevs bekymra sig om ett faktiskt samhällsproblem, och har förslag på någorlunda konkreta åtgärder, så stärker det partiets trovärdighet, vilket indirekt också vitaliserar demokratin.
+Jag har [tidigare diskuterat](/2013/07/14/behovs-det-verkligen-mer-ideologi-i-politiken/) denna önskan efter mer ideologi i politiken, något som ofta efterlyses, inte bara från socialdemokrater, utan även liberaler och konservativa.** Min tes är att den brist många upplever i politiken inte främst handlar om för litet ideologi *per se*, utan om för få seriösa förslag till reformer och samhällsförändringar.** Om en politisk rörelse upplevs bekymra sig om ett faktiskt samhällsproblem, och har förslag på någorlunda konkreta åtgärder, så stärker det partiets trovärdighet, vilket indirekt också vitaliserar demokratin.
 
 
 

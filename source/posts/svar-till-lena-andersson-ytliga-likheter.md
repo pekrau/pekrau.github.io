@@ -38,8 +38,8 @@ Hej Lena,
 
 Det var ju inte bara essentialismen som gjorde att jag gissade att du är påverkad av Ayn Rand. Utan också din tydliga libertarianism, som jag diskuterat tidigare:
 
-- [Nej, fri invandring är ingen mänsklig rättighet](/posts/), där jag påpekar att du skriver att "den universella naturrättens principer är objektiva".
-- [Lena Andersson faller i extremistfällan](/posts/), där jag påtalar att du dels argumenterar för att fri invandring är en mänsklig rättighet, dels ifrågasätter välfärdstanken: "Är det i stället hjälptanken som är problemet, som vi borde göra upp med, och som borde ersättas med: vi får inte hindra andra."
+- [Nej, fri invandring är ingen mänsklig rättighet](/2014/09/22/nej-fri-invandring-ar-ingen-mansklig-rattighet/), där jag påpekar att du skriver att "den universella naturrättens principer är objektiva".
+- [Lena Andersson faller i extremistfällan](/2013/12/15/lena-andersson-faller-i-extremistfallan/), där jag påtalar att du dels argumenterar för att fri invandring är en mänsklig rättighet, dels ifrågasätter välfärdstanken: "Är det i stället hjälptanken som är problemet, som vi borde göra upp med, och som borde ersättas med: vi får inte hindra andra."
 
 Dessa ställningstaganden och argument tyckte jag fick sin enklaste förklaring av att du var influerad av Ayn Rand (även om Robert Nozick kanske skulle kunna vara en möjlighet). Bertrand Russell har väl vad jag vet inte diskuterat på detta viset om naturrätt eller välfärd?
 
@@ -49,7 +49,7 @@ Men om du nu säger att Rand inte är din inspiration, så är det då ett faktu
 
 Essentialismen är inte en aktuell fråga i dagens debatter, vad jag kan se (möjligen att det finns i identitetssnacket), och jag tycker inte du har lyckats redogöra för varför den egentligen behövs. Om man vill hävda att människan har en viss natur så ser jag inte att man behöver essentialism för det. Det tror jag inte Popper ansåg heller. Självklart har olika objekt olika egenskaper, "natur" om man så vill. Men egenskaper vilka som helst duger bra, till och med [Humes](http://en.wikipedia.org/wiki/David_Hume) "[bundle theory](http://en.wikipedia.org/wiki/Bundle_theory)" skulle funka.
 
-Jag tyckte det var litet kul att du använde exemplet "bok" som en essens under ditt föredrag på mötet ([med Ohlininstitutet 4 dec 2014](/posts/)). Hur ska man formulera den essensen så att den omfattar såväl en fysisk pappersbok, som en eBook? Och kan vi i en sådan essens-definition fånga in alla eventuella framtida bok-inkarnationer? Det problemet försvinner, blir ointressant, om man överger essentialismen.
+Jag tyckte det var litet kul att du använde exemplet "bok" som en essens under ditt föredrag på mötet ([med Ohlininstitutet 4 dec 2014](/2014/12/05/lena-andersson-vs-karl-popper/)). Hur ska man formulera den essensen så att den omfattar såväl en fysisk pappersbok, som en eBook? Och kan vi i en sådan essens-definition fånga in alla eventuella framtida bok-inkarnationer? Det problemet försvinner, blir ointressant, om man överger essentialismen.
 
 Jag blev uppmärksammad på en annan av dina krönikor där du tycks argumentera mot essentialism (kanske det handlade om identitetspolitik?), så jag är numera inte helt säker på vad du hävdar. Men själv är jag inte så värst intresserad av essentialism, det kanske är min naturvetarbakgrund som spökar.
 
@@ -73,17 +73,17 @@ Inlägg i denna diskussionen:
 
 <ol start="0">
 
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/posts/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
+  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
 
   <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
 
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/posts/)</li>
+  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
 
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/posts/)</li>
+  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
 
   <li>Per Kraulis: Ytliga likheter (inlägget ovan)</li>
 
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/posts/)</li>
+  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
 
 </ol>
 

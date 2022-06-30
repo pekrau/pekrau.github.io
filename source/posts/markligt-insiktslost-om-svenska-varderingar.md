@@ -48,7 +48,7 @@ Jag tror att det bakom Stenbergs resonemang döljer sig en vag föreställning a
 
 Vi har idealbilder om vad som är rätt och fel. Dessa ändras med tiden som en följd av debatter, konflikter, förändringar i omvärlden och i vetenskap och teknologi. Ingen med minsta kunskap om historien kan tro att moralen är en och samma hela tiden. För endast 30 år sedan var tanken på könsneutralt äktenskap närmast löjeväckande i den allmänna politiska debatten. Idag anges den ofta som exempel på en svensk värdering. Inte därför att den alltid omfattats av många svenskar, vilket den alltså helt självklart inte har gjort ända tills helt nyligen. Utan därför att den nu, idag, betraktas som självklar.
 
-Det är dålig stil att citera [sig själv](/posts/), men jag gör det ändå:
+Det är dålig stil att citera [sig själv](/2016/09/07/antikrundan-och-svenska-varderingar/), men jag gör det ändå:
 
 > Jag tror därför att svenska liberaler ska ägna något mindre tid att hånskratta åt svenska värderingar. Därför de handlar om framsteg som faktiskt skett, och som vi bejakar. Det faktum att få, om ens några, av dessa ideal är ursvenska är faktiskt helt irrelevant. De har blivit svenska. Det är poängen. Om de är gamla eller inhemska spelar ingen roll.
 

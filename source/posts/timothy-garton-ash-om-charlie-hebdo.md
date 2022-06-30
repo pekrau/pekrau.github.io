@@ -1,5 +1,7 @@
 ---
 categories:
+- name: in-english
+  value: In English
 - name: politik
   value: Politik
 - name: religion-vs-ateism

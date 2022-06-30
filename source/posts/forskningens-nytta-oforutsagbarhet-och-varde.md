@@ -34,7 +34,7 @@ Precis som det mesta har forskning en sjunkande marginalnytta. Den första profe
 
 **Den första tesen förutsätter att forskningens nytta är beräkningsbar, åtminstone i princip. Men så är det inte.**
 
-[Karl Popper](/posts/) har i ett annat sammanhang (se boken **The Poverty of Historicism**) påpekat en fundamental sak om kunskap: Det går inte att förutsäga vad framtida ny kunskap kan innebära för samhället, eftersom en sådan förutsägelse kräver att man vet vad den nya kunskapen kommer att bestå i. Vet man det, ja, då är kunskapen inte längre framtida.
+[Karl Popper](/karl-popper/) har i ett annat sammanhang (se boken **The Poverty of Historicism**) påpekat en fundamental sak om kunskap: Det går inte att förutsäga vad framtida ny kunskap kan innebära för samhället, eftersom en sådan förutsägelse kräver att man vet vad den nya kunskapen kommer att bestå i. Vet man det, ja, då är kunskapen inte längre framtida.
 
 **Vi kan alltså inte förutsäga vad framtida vetenskapliga rön kan innebära. Det är inte bara svårt eller vanskligt att sia om det. Utan omöjligt.**
 

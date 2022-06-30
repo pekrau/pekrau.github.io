@@ -76,7 +76,7 @@ Macchiarini ler vänligt.
 
 Macchiarini: "Han bör göra det, han måste göra det. Det finns inget alternativ."
 
-Jag har forskat, om än inte i medicin, och har [någon erfarenhet](/posts/) av märkliga förhållanden. Jag tror jag förstår vad som pågår här. Det är med skräck jag ser denna korta episoden.
+Jag har forskat, om än inte i medicin, och har [någon erfarenhet](/2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/) av märkliga förhållanden. Jag tror jag förstår vad som pågår här. Det är med skräck jag ser denna korta episoden.
 
 Macchiarini framhåller först att alla jobbar hårt, att alla är med i laget. Lojaliteten cementeras. En ung forskare dristar sig att påpeka ett problem, med de synbarligen hovsamma orden "it's going to be quite difficult to distinguish the two measurements we get". Detta kanske inte låter så märkligt. Men det är en kod som forskare förstår. Vad han i själva verket säger är: "Det kommer att bli helt omöjligt att skilja mellan de två mätningarna."
 

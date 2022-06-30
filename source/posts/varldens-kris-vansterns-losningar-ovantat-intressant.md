@@ -46,7 +46,7 @@ type: post
 ---
 Antologin **Världens kris - vänsterns lösningar**, redigerad av Katrine Kielos och Jesper Bengtsson, handlar om idépolitiken i efterdyningarna av finanskrisen. Fokus ligger på den i vid mening socialdemokratiska internationella debatten. **Boken är oväntat intressant även för en liberal, och flera av essäerna i den förtjänar att ge inspiration till den liberala idédebatten.**
 
-Jag skriver "oväntat", eftersom jag tidigare har läst [Katrine Kielos bok **Det enda könet** och inte blivit speciellt imponerad](/posts/). Men de artiklar som Kielos och Bengtsson har ställt samman innehåller mycket av det jag saknade i Kielos egen bok, nämligen (för att citera mig själv) "resonemang om hur vi ska analysera samhället och dess problem, i syfte att formulera en progressiv politik".
+Jag skriver "oväntat", eftersom jag tidigare har läst [Katrine Kielos bok **Det enda könet** och inte blivit speciellt imponerad](/2013/04/28/katrine-kielos-hopplosheten-ar-en-man/). Men de artiklar som Kielos och Bengtsson har ställt samman innehåller mycket av det jag saknade i Kielos egen bok, nämligen (för att citera mig själv) "resonemang om hur vi ska analysera samhället och dess problem, i syfte att formulera en progressiv politik".
 
 Ett påfallande drag hos de flesta (men inte alla) bidragen till antologin är  önskan att föra fram utkast till reformförslag som har en realistisk möjlighet att kunna genomföras. Det är mycket uppmuntrande.
 

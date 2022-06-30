@@ -22,7 +22,7 @@ type: post
 ---
 [Svante Nordin](http://sv.wikipedia.org/wiki/Svante_Nordin) beskrivs som "professorn som har gått från intellektuell marxist till skribent för nykonservatismens flaggskepp" [i en artikel i Lundagård 27 maj 2010](http://lundagard.se/2010/05/27/i-civilisationens-tjanst/). Artikeln utgår bland annat från den bok, **[Humaniora i Sverige](http://www.atlantisbok.se/layout/detail.php?id=7346)**, som Nordin, professor i idé- och lärdomshistoria vid Lunds Universitet, utgav 2008.
 
-När jag nu läst denna bok förstår jag varför jag förbisåg hans bidrag till den antologi om humanioras ställning i Sverige, **Till vilken nytta?** (2013), som [jag skrev om](/posts/) för en tid sedan. Det bidraget var påfallande uddlöst, förmodligen därför att uppdraget var att diskutera "nytta". **Tvärtemot grundtonen i den antologin, så ser Nordin inte humanioras kris i Sverige främst som en fråga om utarmning från statens sida. För honom handlar det istället om ett forskarsamhälle som inte upprätthåller den intellektuella nivån.**
+När jag nu läst denna bok förstår jag varför jag förbisåg hans bidrag till den antologi om humanioras ställning i Sverige, **Till vilken nytta?** (2013), som [jag skrev om](/2013/05/19/humanioras-kris-slutet-pa-postmodernismen/) för en tid sedan. Det bidraget var påfallande uddlöst, förmodligen därför att uppdraget var att diskutera "nytta". **Tvärtemot grundtonen i den antologin, så ser Nordin inte humanioras kris i Sverige främst som en fråga om utarmning från statens sida. För honom handlar det istället om ett forskarsamhälle som inte upprätthåller den intellektuella nivån.**
 
 
 

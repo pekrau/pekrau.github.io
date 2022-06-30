@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: politik
   value: Politik
 - name: vetenskap-science
@@ -28,5 +29,5 @@ It's a response to Roland Paulsen who wrote [Studier i rent nonsens](http://www.
 
 The issues with errors abounding in science is part and parcel of science in progress, I maintain. We need to focus more on how to weed out errors as we progress, rather than worry mainly about cheating and sloppiness. Open Science is the way forward, and institutions as well as attitudes need to change to allow this. In particular, an infrastructure that allows scientists to work easily with and for Open Science needs to be developed.
 
-Read more in my previous two posts: [The mess in bioscience data handling](/posts/) and [What is important, and what is not, for bioscience data handling](/posts/).
+Read more in my previous two posts: [The mess in bioscience data handling](/2016/04/02/the-mess-in-bioscience-data-handling/) and [What is important, and what is not, for bioscience data handling](/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/).
 

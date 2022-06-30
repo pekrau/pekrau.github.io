@@ -32,7 +32,7 @@ Dessa två synsätt är ju oerhört filosofiskt och ideologiskt laddade. Det han
 
 Jag skulle vilja tillägga en viktig observation som visserligen faller utanför ramen för programmet, men som har stor relevans för vår syn på människan och krig: Det finns goda bevis för att våldet har minskat genom historien, så långt tillbaka som man kan se. Steven Pinker skriver i sin bok **The Better Angels of Our Nature** om de bevis som finns för tesen att våldet tycks minska, ostadigt och ibland med bakslag, men ändå långsiktigt. Han granskar statistik för mordfrekvens, uppgifter om livslängd, beskrivningar av, och attityder till, våld i historien, och mycket annat. Han diskuterar också vilka mekanismer som kan ligga bakom denna långa utveckling mot ett fredligare, mer humant samhälle.
 
-**Det är en epokgörande bok! Måste helt enkelt läsas av varje samhälleligt intresserad människa.** Jag har kommenterar Steven Pinkers bok [tidigare](/posts/). Jag vet inte om den är på gång i svensk översättning, men det borde den vara.
+**Det är en epokgörande bok! Måste helt enkelt läsas av varje samhälleligt intresserad människa.** Jag har kommenterar Steven Pinkers bok [tidigare](/2013/02/16/grundkurs-i-ateism-del-5-autism/). Jag vet inte om den är på gång i svensk översättning, men det borde den vara.
 
 När rapporter om våld och övergrepp tycks dominera nyhetsrapporteringen, så ger Pinkers analys en nödvändig "reality check", så att man kanske kan se de hoppfulla tecken som ändå finns. Misströstan och förtvivlan har aldrig varit framstegets vän. **Läs Pinker, och odla istället en aktiverande ilska över att mänskligheten inte snabbare kan tämja våldets krafter!**
 

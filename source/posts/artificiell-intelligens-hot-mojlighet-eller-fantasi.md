@@ -29,7 +29,7 @@ Låt mig börja detta inlägg om artificiell intelligens (AI) med fyra påståen
 
 
 
-I [mitt förra inlägg](/posts/) om risken för att datorerna skulle kunna ta över, så apostroferade jag Olle Häggström, professor i matematisk statistik vid Chalmers i Göteborg. Han svarade i [ett inlägg på sin blogg](http://haggstrom.blogspot.se/2014/06/om-evolution-drivkrafter-och.html). Min något försenade kommentar följer här.
+I [mitt förra inlägg](/2014/06/22/datorns-existentiella-angest-darfor-har-stephen-hawking-fel/) om risken för att datorerna skulle kunna ta över, så apostroferade jag Olle Häggström, professor i matematisk statistik vid Chalmers i Göteborg. Han svarade i [ett inlägg på sin blogg](http://haggstrom.blogspot.se/2014/06/om-evolution-drivkrafter-och.html). Min något försenade kommentar följer här.
 
 Häggström har rätt i att jag inte har vidare djup kunskap om hur diskussionen om AI har gått de senaste årtiondena. De diskussioner om AI och evolution som han refererar till har jag inte läst. Därför var det möjligen litet förhastat av mig att skriva så synbarligen självsäkert som jag gjorde. **Till min ursäkt kan anföras att mitt syfte var att just provocera en respons, så jag är glad att Häggström tog det på allvar och skrev ett mycket intressant svar.**
 

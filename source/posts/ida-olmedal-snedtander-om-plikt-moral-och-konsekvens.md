@@ -28,7 +28,7 @@ Som första exempel på Ölmedals undermåliga argumentationsteknik kan vi ta he
 
 > [...] statsministern [ägnade] försommaren åt att introducera en hel liten moralisk pliktflora för svenska folket: Det råder numera plikt på att hålla sina barn borta från datorspel, plikt på att välja en marknadsanpassad utbildning och plikt på att förverkliga sig själv.
 
-Vad sa Löfven egentligen? Jo, han tog upp en devis som har gamla anor i arbetarrörelsen: ["Gör din plikt, kräv din rätt."](/posts/). Han är inte ensam. Till exempel Karin Pettersson, chef för ledarredaktion på Aftonbladet, [ställer också upp på den devisen](/posts/), om än med en del hummanden.
+Vad sa Löfven egentligen? Jo, han tog upp en devis som har gamla anor i arbetarrörelsen: ["Gör din plikt, kräv din rätt."](/2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/). Han är inte ensam. Till exempel Karin Pettersson, chef för ledarredaktion på Aftonbladet, [ställer också upp på den devisen](/2015/06/10/karin-pettersson-vill-ha-kakan-och-ata-den/), om än med en del hummanden.
 
 **Vad Ölmedal gör är att utelämna det andra ledet i Löfvens resonemang, vilket gör det helt obegripligt. Det är vilseledande och intellektuellt ohederligt. Kan det vara så att Ölmedal inte ens inser att det finns ett andra led?**
 
@@ -40,7 +40,7 @@ Som tredje exempel tar vi följande:
 
 > Så blir empiriska erfarenheter om hur jihadistresor kan motverkas genom integration tabu – nej, öga för öga, tand för tand.
 
-Detta handlar med största sannolikhet om bråket kring Stockholms policy för återvändare från strider på den Islamiska Statens sida. Som jag diskuterat [här](/posts/) handlade bråket inte om behovet av allmänt förebyggande åtgärder, utan snarare om det särskilda stöd som planerades för de som återvänt. Denna viktiga distinktion nämner inte Ölmedal. Det är, i bästa fall, slarvigt.
+Detta handlar med största sannolikhet om bråket kring Stockholms policy för återvändare från strider på den Islamiska Statens sida. Som jag diskuterat [här](/2015/05/22/is-krigarna-och-samhallskontraktet/) handlade bråket inte om behovet av allmänt förebyggande åtgärder, utan snarare om det särskilda stöd som planerades för de som återvänt. Denna viktiga distinktion nämner inte Ölmedal. Det är, i bästa fall, slarvigt.
 
 Trots dessa brister i Ölmedals text så finns det ändå en aspekt av den som är värt en diskussion. Det handlar om något hennes resonemang utelämnar.
 
@@ -56,9 +56,9 @@ Till skillnad från konsekventialisten, vars yttersta mål exempelvis kan vara a
 
 Man ska veta att den [deontologi](https://en.wikipedia.org/wiki/Deontological_ethics) som Ölmedal refererar till har ett starkt samband med idén om individuella mänskliga rättigheter, något som hon inte berör. [Konsekventialismen](https://en.wikipedia.org/wiki/Consequentialism) (varav utilitarism är den mest kända varianten) har traditionellt haft svårt att argumentera för idén om strikta individuella rättigheter. Detta är ett välkänt filosofiskt problem. Ett exempel: Är det moraliskt rätt att tortera en människa för att få fram information för att avvärja ett stort terrordåd? Det naturliga för en utilitarist är att säga ja, för en anhängare av mänskliga rättigheter att säga nej. Vem har rätt?
 
-Den här typen av konflikt kommer igen i många av dagens politiska kontroverser, där samhällsnyttan och individens rättigheter ställs mot varandra. Mänskliga rättigheter, deontologi och dygdetik är inte samma sak, men har mycket med varandra att göra. Jag diskuterar dygdetik bland annat [här](/posts/) och [här](/posts/) (för dig som inte orkar läsa: nej, jag är skeptisk till dygdetik). Jag lämnar denna aspekten därhän, annars blir inlägget för långt.
+Den här typen av konflikt kommer igen i många av dagens politiska kontroverser, där samhällsnyttan och individens rättigheter ställs mot varandra. Mänskliga rättigheter, deontologi och dygdetik är inte samma sak, men har mycket med varandra att göra. Jag diskuterar dygdetik bland annat [här](/2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/) och [här](/2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/) (för dig som inte orkar läsa: nej, jag är skeptisk till dygdetik). Jag lämnar denna aspekten därhän, annars blir inlägget för långt.
 
-**Låt mig fokusera på den fundamentala blinda fläcken i Ölmedals resonemang. Välvilligt ska jag anta att hon vill ha en reformism som noga tar i beräkning hur samhället fungerar, och som genom empiriskt baserad analys drar slutsatser om vilka samhällsförändringar som ger bästa möjliga utfall. Det är en social ingenjörskonst i Karl Poppers anda, vilket är en term jag inte använder i förklenande syfte, eftersom jag själv är [anhängare av den strategin](/posts/) (se även [här](/posts/)).**
+**Låt mig fokusera på den fundamentala blinda fläcken i Ölmedals resonemang. Välvilligt ska jag anta att hon vill ha en reformism som noga tar i beräkning hur samhället fungerar, och som genom empiriskt baserad analys drar slutsatser om vilka samhällsförändringar som ger bästa möjliga utfall. Det är en social ingenjörskonst i Karl Poppers anda, vilket är en term jag inte använder i förklenande syfte, eftersom jag själv är [anhängare av den strategin](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/) (se även [här](/2015/03/12/reformpolitik-dod-eller-fel-fokus/)).**
 
 **Min poäng är nu att en sådan strategi måste inbegripa en analys av medborgarnas samhällsmoral, annars är den vare sig funktionsduglig eller rättfärdig. Det är något som Ölmedals resonemang inte lämnar utrymme för.**
 

@@ -28,7 +28,7 @@ tags:
 title: "Hans Ruin och de utifr\xE5n importerade l\xE4rosatserna"
 type: post
 ---
-Hans Ruin [skriver ett inlägg](http://www.dn.se/kultur-noje/kulturdebatt/vi-har-konstruerat-system-som-forflyttar-ansvaret-fran-den-plats-dar-det-maste-uppbaras/) i debatten om etik i kölvattnet av Macchiarini-skandalen. Han undviker att ta upp [frågan om Heidegger och nazismen](/posts/), vilket är klokt. Inget han kan säga där skulle undgå att vara löjligt eller hycklande. Men han vidhåller sin kritik mot den praktiska filosofin. Följande är kärnan i hans argument:
+Hans Ruin [skriver ett inlägg](http://www.dn.se/kultur-noje/kulturdebatt/vi-har-konstruerat-system-som-forflyttar-ansvaret-fran-den-plats-dar-det-maste-uppbaras/) i debatten om etik i kölvattnet av Macchiarini-skandalen. Han undviker att ta upp [frågan om Heidegger och nazismen](/2016/02/28/macchiarini-heidegger-och-kapphastarnas-dans/), vilket är klokt. Inget han kan säga där skulle undgå att vara löjligt eller hycklande. Men han vidhåller sin kritik mot den praktiska filosofin. Följande är kärnan i hans argument:
 
 > [...] om filosofin ska kunna bidra till att stärka den etiska omdömesförmågan inom professioner bör den gestaltas i nära dialog med respektive verksamhet och inte ha formen av utifrån importerade lärosatser och tankeexperiment.
 

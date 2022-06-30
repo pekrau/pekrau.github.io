@@ -1,6 +1,7 @@
 ---
-language: en
 categories:
+- name: in-english
+  value: In English
 - name: samhalle
   value: "Samh\xE4lle"
 - name: vetenskap-science
@@ -19,7 +20,7 @@ tags:
 title: 'Open Science: challenges for life science'
 type: post
 ---
-I have created a page [Open Science](/posts/) with links to interesting discussions and information about Open Science, especially issues related to life science (bioscience). I hope to add more links to the page as I find them. I may also discuss some of them in this forum. Please feel free to send me tips.
+I have created a page [Open Science](/teman/open-science/) with links to interesting discussions and information about Open Science, especially issues related to life science (bioscience). I hope to add more links to the page as I find them. I may also discuss some of them in this forum. Please feel free to send me tips.
 
 The latest addition to the page is a very good [recent article in The Economist](http://www.economist.com/news/science-and-technology/21694990-old-fashioned-ways-reporting-new-discoveries-are-holding-back-medical-research) about the emergence of [bioRxiv](http://biorxiv.org/), the pre-print server for life science. Publication of research in life science is currently under stress for many reasons. As the article in The Economist discusses, the delay between submission and publication of an article in life science may cause real damage. The peer review system is showing serious signs of dysfunction. Too many publications present results that cannot be replicated.
 

@@ -22,31 +22,31 @@ type: post
 ---
 Mattias Goldmann, VD för den gröna och liberala tankesmedjan [Fores](http://fores.se/), twittrade igår fredag 23 oktober 2015 en tweet som sedermera försvann innan jag hann ta en bild av den. Idag lördag 24 oktober återkom en modifierad variant av den:
 
-[![Mattias-Goldmann-tre-per-svensk-1](/files/mattias-goldmann-tre-per-svensk-1.png)](/posts/mattias-goldmann-tre-per-svensk-1.png)
+[![Mattias-Goldmann-tre-per-svensk-1](/files/mattias-goldmann-tre-per-svensk-1.png)](/files/mattias-goldmann-tre-per-svensk-1.png)
 
 
 
 Imorse lördag <del>Igår fredag</del> skickade jag följande fråga till Goldmann:
 
-[![Mattias-Goldmann-min-fraga](/files/mattias-goldmann-min-fraga.png)](/posts/mattias-goldmann-min-fraga.png)
+[![Mattias-Goldmann-min-fraga](/files/mattias-goldmann-min-fraga.png)](/files/mattias-goldmann-min-fraga.png)
 
 På den frågan fick jag då inget svar.
 
 Senare idag lördag satte diskussionen igång mellan Hanif Bali (moderat riksdagsman) och Mattias Goldmann, och jag ställde min fråga igen. Den här gången fick jag ett slags svar:
 
-[![Mattias-Goldmann-tre-pa-en](/files/mattias-goldmann-tre-pa-en.png)](/posts/mattias-goldmann-tre-pa-en.png)
+[![Mattias-Goldmann-tre-pa-en](/files/mattias-goldmann-tre-pa-en.png)](/files/mattias-goldmann-tre-pa-en.png)
 
 Men på den följdfrågan fick jag inget svar, åtminstone inte hittills.
 
 Under tiden har twitter-debatten gått vidare mellan Bali, Goldmann och några andra personer. Här är några nedslag, det hela blev ganska förvirrat, som det plägar på Twitter:
 
-[![Mattias-Goldmann-27-milj](/files/mattias-goldmann-27-milj.png)](/posts/mattias-goldmann-27-milj.png)
+[![Mattias-Goldmann-27-milj](/files/mattias-goldmann-27-milj.png)](/files/mattias-goldmann-27-milj.png)
 
-[![Mattias-Goldmann-mycket-fler](/files/mattias-goldmann-mycket-fler.png)](/posts/mattias-goldmann-mycket-fler.png)
+[![Mattias-Goldmann-mycket-fler](/files/mattias-goldmann-mycket-fler.png)](/files/mattias-goldmann-mycket-fler.png)
 
-[![Mattias-Goldmann-155-vs-194-lander](/files/mattias-goldmann-155-vs-194-lander.png)](/posts/mattias-goldmann-155-vs-194-lander.png)
+[![Mattias-Goldmann-155-vs-194-lander](/files/mattias-goldmann-155-vs-194-lander.png)](/files/mattias-goldmann-155-vs-194-lander.png)
 
-[![Mattias-Goldmann-sansa-debatten](/files/mattias-goldmann-sansa-debatten.png)](/posts/mattias-goldmann-sansa-debatten.png)
+[![Mattias-Goldmann-sansa-debatten](/files/mattias-goldmann-sansa-debatten.png)](/files/mattias-goldmann-sansa-debatten.png)
 
 **Och här blir jag riktigt deprimerad. Goldmann slänger ur sig att han "tror" Sverige kan ta emot tre flyktingar per vuxen svensk, alltså sådär en 23 miljoner. På min fråga vad han menar och hur han resonerar, så säger han något om "tankevända". Och så avrundar han med att tycka att "vi måste alla sansa debatten"! Jag blir mållös.**
 

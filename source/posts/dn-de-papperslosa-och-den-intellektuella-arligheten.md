@@ -45,7 +45,7 @@ Dessvärre har många debattörer antytt att ett "ja" på den första frågan au
 
 Man vill helst både ha kakan och äta den. Vara mot avvisningar, men inte för fri invandring. Det är möjligen förlåtligt att man intar den ståndpunkten om man inte insett hur det hänger ihop. Då är man bara förvirrad. **Men om man svarar "ja" på båda frågorna, och mycket noga och medvetet undviker att tydliggöra att det betyder att man är för fri invandring, ja, då är man intellektuellt oärlig.**
 
-[Jag har tidigare kritiserat Ann Heberlein](/posts/) för att hon hemföll åt denna oärlighet. De flesta andra inlägg i debatten har samma brist, även om det inte alltid är lika klart om det beror på förvirring eller oärlighet. De tävlar med varandra i att vara mest moraliska genom att i högstämda ordalag kräva stopp för polisens metoder. Men om fri invandring eller inte, icke ett ord. [Kristian Lundbergs inlägg 25 feb 2013](http://www.dn.se/kultur-noje/debatt-essa/kristian-lundberg-om-id-kontroller-pa-gatan-vi-talar-om-manniskor) var ett tydligt exempel. Där fanns bara åsikten att alla avvisningar är omänskliga. Inget om vad den logiska slutsatsen då måste bli. Och så har debatten rullat på.
+[Jag har tidigare kritiserat Ann Heberlein](/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/) för att hon hemföll åt denna oärlighet. De flesta andra inlägg i debatten har samma brist, även om det inte alltid är lika klart om det beror på förvirring eller oärlighet. De tävlar med varandra i att vara mest moraliska genom att i högstämda ordalag kräva stopp för polisens metoder. Men om fri invandring eller inte, icke ett ord. [Kristian Lundbergs inlägg 25 feb 2013](http://www.dn.se/kultur-noje/debatt-essa/kristian-lundberg-om-id-kontroller-pa-gatan-vi-talar-om-manniskor) var ett tydligt exempel. Där fanns bara åsikten att alla avvisningar är omänskliga. Inget om vad den logiska slutsatsen då måste bli. Och så har debatten rullat på.
 
 [Jonas Hassen Khemiris mångomtalade inlägg](http://www.dn.se/kultur-noje/basta-beatrice-ask) i DN 13 mars 2013 fogar sig intressant nog inte riktigt i den mallen. Hans drabbande redogörelse för svensk vardagsrasism har kommit i centrum för debatten. **Men det finns en central formulering i Khemiris text som förbigåtts under öronbedövande tystnad:**
 
@@ -59,7 +59,7 @@ Det är självklart viktigt för den allmänna debatten att den förs med utgån
 
  
 
-[Jag har tidigare kritiserat](/posts/) DN:s pinsamma argument att "polisen borde ha andra saker att göra", ett argument som ledarskribenten Erik Helmerson därefter återupprepat, vilket dessvärre visar att det inte var en tillfällig lapsus.
+[Jag har tidigare kritiserat](/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/) DN:s pinsamma argument att "polisen borde ha andra saker att göra", ett argument som ledarskribenten Erik Helmerson därefter återupprepat, vilket dessvärre visar att det inte var en tillfällig lapsus.
 
 I dagens ledare fullföljer DN sin linje. "Man behöver inte förespråka fri invandring", skriver man. Nehej? Vilka man? Är det DN som kanske leker med den idén? **DN:s ledarredaktion undviker här extremt noga att ta ställning. Det är inte en slump. Det är inte ett förbiseende. Det är utstuderat, fullt medvetet, och därmed helt igenom oärligt.**
 

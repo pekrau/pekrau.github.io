@@ -30,7 +30,7 @@ Smaka på det. Det är ett vidrigt sätt att beskriva det som är kittet i vårt
 
 Det är inte lätt att veta hur man ska göra. Men det är alltid anständigt att hjälpa andra.
 
-De ömsesidiga fräna beskyllningarna står som en giftig dimma över hela diskussionen. Jag har redan [redan kommenterat](/posts/) debatten. Men jag hade en känsla av att det var någon viktig aspekt som jag inte hade lyckats fånga.
+De ömsesidiga fräna beskyllningarna står som en giftig dimma över hela diskussionen. Jag har redan [redan kommenterat](/2016/12/12/godhet-egoism-kylig-berakning/) debatten. Men jag hade en känsla av att det var någon viktig aspekt som jag inte hade lyckats fånga.
 
 Jag tror jag har kommit på vad jag tidigare har missat: **Inget av de tidigare inläggen tydliggör den helt avgörande skillnaden mellan personlig och politisk godhet.** Vare sig Lernfelt, Heberlein eller någon annan debattör tycks ha gjort den distinktionen.
 

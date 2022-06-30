@@ -12,9 +12,9 @@ tags:
 title: "Om reduktionism: En glimt i \xF6gat, del 2"
 type: post
 ---
-I [den första delen](/posts/) av denna artikeln visade jag en tabell av 3-ställiga siffror, och avslöjade att den var en liten bild om 9 gånger 9 pixlar. Här är bilden förstorad 10 gånger:
+I [den första delen](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/) av denna artikeln visade jag en tabell av 3-ställiga siffror, och avslöjade att den var en liten bild om 9 gånger 9 pixlar. Här är bilden förstorad 10 gånger:
 
-[![reductionist-image90](/files/reductionist-image901.png)](/posts/reductionist-image901.png)
+[![reductionist-image90](/files/reductionist-image901.png)](/files/reductionist-image901.png)
 
 
 
@@ -34,5 +34,5 @@ Vi har ännu inte fått svaret på vad dessa 9x9 pixlar lilla bilden egentligen 
 
 Där har vi, tror jag, ännu ett problem med den filosofiska reduktionismen. Det finns alltid en kontext. Ibland kan den abstraheras bort, eller anses självklar. Eller, som i detta fallet, är den nödvändig för att alls förstå vad som pågår.
 
-Låt oss gå till [den sista delen](/posts/) av artikeln för att beskåda hela bilden.
+Låt oss gå till [den sista delen](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-3/) av artikeln för att beskåda hela bilden.
 

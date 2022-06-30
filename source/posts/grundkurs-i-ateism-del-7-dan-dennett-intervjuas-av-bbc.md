@@ -16,7 +16,7 @@ tags:
 title: 'Grundkurs i ateism, del 7: Dan Dennett intervjuas av BBC'
 type: post
 ---
-Tisdag 2 april 2013 sänds en intervju av filosofen Dan Dennett med BBC:s Stephen Sackur. Jag har av en slump [just diskuterat Dennetts bok Darwin's Dangerous Idea](/posts/). Ett kort klipp ur intervjun [finns här](http://www.bbc.co.uk/news/world-radio-and-tv-21947207), där Dennett jämför religion med den vanliga förkylningen.
+Tisdag 2 april 2013 sänds en intervju av filosofen Dan Dennett med BBC:s Stephen Sackur. Jag har av en slump [just diskuterat Dennetts bok Darwin's Dangerous Idea](/2013/03/29/daniel-dennett-darwins-dangerous-idea/). Ett kort klipp ur intervjun [finns här](http://www.bbc.co.uk/news/world-radio-and-tv-21947207), där Dennett jämför religion med den vanliga förkylningen.
 
 Tiderna för sändningen är som följer:
 

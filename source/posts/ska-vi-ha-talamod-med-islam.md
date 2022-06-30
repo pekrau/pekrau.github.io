@@ -18,7 +18,7 @@ type: post
 ---
 Det är dagen efter [ännu ett terrordåd i London](http://www.bbc.com/news/uk-40148737). När detta skrivs är det inte bekräftat att det rör sig om ett islamistiskt dåd, men det mesta talar för det.
 
-Dagens Nyheters kultursida fortsätter sin serie om islam och dess eventuella reformering. Jag har kommenterat de tidigare artiklarna [här](/posts/) och [här](/posts/). Man kunde ha hoppats på en viss tankeskärpa i [den tredje artikeln](http://www.dn.se/kultur-noje/kulturdebatt/pernilla-ouis-kvinnorna-staller-de-nya-och-ratta-fragorna-inom-islam/) skriven av forskaren Pernilla Ouis. I dessa dagar behövs verkligen klarsyn och skarp analys. Men icke. Vi får ytterligare en skopa snömos.
+Dagens Nyheters kultursida fortsätter sin serie om islam och dess eventuella reformering. Jag har kommenterat de tidigare artiklarna [här](/2017/05/18/bilan-osmans-enogda-argument-om-islam/) och [här](/2017/05/21/eventuell-reform-av-islam-forutsatter-ett-sekulart-samhalle/). Man kunde ha hoppats på en viss tankeskärpa i [den tredje artikeln](http://www.dn.se/kultur-noje/kulturdebatt/pernilla-ouis-kvinnorna-staller-de-nya-och-ratta-fragorna-inom-islam/) skriven av forskaren Pernilla Ouis. I dessa dagar behövs verkligen klarsyn och skarp analys. Men icke. Vi får ytterligare en skopa snömos.
 
 Artikeln börjar med den trötta och falska klichén att Luther var en liberal reformator som gjorde kristendomen mänsklig. Är det inte dags att denna myt utmönstras ur debatten?
 

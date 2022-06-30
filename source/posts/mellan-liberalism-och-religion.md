@@ -30,7 +30,7 @@ Jag påpekar att hans kritik av liberalismen är en litet snällare variant än 
 
 Joel Halldorf svarar på min kritik, och jag ger en kort kommentar till det. Dessvärre finns inte texten på nätet, utan man är tvungen att skaffa en papperskopia av tidskriften.
 
-2020-12-25. Den fullständiga texten till min artikel finns numera här: [Mellan liberalism och religion](/posts/)
+2020-12-25. Den fullständiga texten till min artikel finns numera här: [Mellan liberalism och religion](/2020/12/25/mellan-liberalism-och-religion-2/)
 
 Några avsnitt ur min text:
 

@@ -16,7 +16,7 @@ tags:
 title: "Johannes \xC5man: Dubbelfel"
 type: post
 ---
-Johannes Åman begår dubbelt tankefel i Dagens Nyheter 4 feb 2013. I en notis (ej länkbar) skriver han om Stefan Fölsters artikel igår ([se min blogg](/posts/)):
+Johannes Åman begår dubbelt tankefel i Dagens Nyheter 4 feb 2013. I en notis (ej länkbar) skriver han om Stefan Fölsters artikel igår ([se min blogg](/2013/02/03/stefan-folster-det-sociala-bakvattnet/)):
 
 > Det är inte fel att vidga perspektivet. Självklart finns mycket annat än invandring som påverkar sociala förhållanden. Att samhällen kan vitaliseras av inflyttning är också sant. Tråkigt bara att Fölster själv antyder orsakssamband där sådana knappast finns.
 

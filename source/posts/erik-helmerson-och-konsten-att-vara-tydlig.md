@@ -20,7 +20,7 @@ type: post
 ---
 Migrationsminister Tobias Billströms erbarmliga magplask i [DN-intervjun 18 mars 2013 ("blonda och blåögda")](http://www.dn.se/nyheter/de-flesta-bor-inte-hos-de-som-ar-blonda-och-blaogda) har dessvärre gjort det än svårare att diskutera sakfrågan: Fri invandring eller inte, vilka kriterier som ska gälla för uppehållstillstånd, och vilka metoder som bör användas för avvisningar.
 
-[Jag kritiserade tidigare](/posts/) DN:s huvudledare 17 mars 2013 för att vara intellektuellt oärlig i frågan. Idag 19 mars 2013 skriver DN:s ledarskribent Erik Helmerson vad som möjligen kan betraktas som ett svar på den anklagelsen. (Något annat svar har jag inte fått och inte heller förväntat mig.)
+[Jag kritiserade tidigare](/2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/) DN:s huvudledare 17 mars 2013 för att vara intellektuellt oärlig i frågan. Idag 19 mars 2013 skriver DN:s ledarskribent Erik Helmerson vad som möjligen kan betraktas som ett svar på den anklagelsen. (Något annat svar har jag inte fått och inte heller förväntat mig.)
 
 
 
@@ -36,7 +36,7 @@ Men sedan skriver Helmerson något mycket märkligt:
 
 > De senaste veckornas protester mot Reva har knappast riktat sig mot det faktum att människor måste lämna landet.
 
-Har Helmerson alls läst de inlägg som publicerats i den egna tidningen? För både Ann Heberleins och Kristian Lundbergs inlägg argumenterar just för att inga avvisningar skall ske (se [min tidigare blogg-artikel](/posts/)). Vi kanske ska tolka Helmersons förnekelse av vad som faktiskt framförts i debatten som att han tycker att den ståndpunkten är orimlig. Vem vet?
+Har Helmerson alls läst de inlägg som publicerats i den egna tidningen? För både Ann Heberleins och Kristian Lundbergs inlägg argumenterar just för att inga avvisningar skall ske (se [min tidigare blogg-artikel](/2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/)). Vi kanske ska tolka Helmersons förnekelse av vad som faktiskt framförts i debatten som att han tycker att den ståndpunkten är orimlig. Vem vet?
 
 **Men DN:s ledarredaktion har i alla fall gått från intellektuell oärlighet till otydlighet. På sätt och vis ett steg framåt, trots allt.**
 

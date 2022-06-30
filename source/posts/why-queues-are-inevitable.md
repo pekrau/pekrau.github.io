@@ -1,11 +1,9 @@
 ---
-language: en
-translation:
-- language: sv
-  name: darfor-ar-koer-oundvikliga
 categories:
 - name: computing
   value: Computing
+- name: in-english
+  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-01-31'
@@ -24,7 +22,7 @@ tags:
 title: Why queues are inevitable
 type: post
 ---
-*Detta inlägg finns även [på svenska](/posts/).*
+*Detta inlägg finns även [på svenska](/2015/01/31/darfor-ar-koer-oundvikliga/).*
 
 We love to complain about queues. Why do we have to wait? Do not the queues in e.g. the health care system show that too few resources are allocated to it? I have looked a little closer at this problem.
 
@@ -40,7 +38,7 @@ There is a very well-developed theory about this, mainly in the field of [Discre
 
 So what happens if we simulate a service facility to which tasks are submitted? Here is a visual representation:
 
-id="attachment_3869" align="alignleft" width="450"][![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/posts/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
+id="attachment_3869" align="alignleft" width="450"][![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/files/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
 
 This figure shows time horizontally. Each task is displayed in its own row. The following colors are used:
 
@@ -54,7 +52,7 @@ So this means that even if we have twice as much capacity as is required, strict
 
 If we are economists and administrators, or the one who actually pays for the party, we may want a more efficient operation, so that **the facility works at, say, 90% of its capacity**, and stands idle only 10% of the time. That may seem reasonable? The following happens:
 
-id="attachment_3870" align="alignleft" width="450"][![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/posts/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
+id="attachment_3870" align="alignleft" width="450"][![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/files/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
 
 Oops! A lot of red, which means a long wait for many tasks.
 
@@ -69,7 +67,7 @@ If this would involve an emergency room, the media would probably publish disast
 
 If we instead look at the goal which the above mentioned KI representative mentioned: A facility that has virtually no queues. How do we achieve it? Let's set **the utilization rate at an extremely low value of 20%**. This is how it looks:
 
-id="attachment_3868" align="alignleft" width="450"][![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/posts/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
+id="attachment_3868" align="alignleft" width="450"][![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/files/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
 
 Here the situation becomes almost queue-free; very little red is visible. But there is still some! And we also see long stretches where very little happens: The facility idles. Whoever pays for the facility will probably be a little concerned. **The luxury of getting rid of the queues is precisely that: a luxury. The facility is five times larger than it in principle needs to be; that is what 20% utilization means.**
 

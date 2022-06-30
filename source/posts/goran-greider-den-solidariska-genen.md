@@ -44,7 +44,7 @@ Låt mig först be om ursäkt: Det här inlägget är ovanligt långt. Det beror
 
 Den som tänker sig läsa Greider bör vara medveten om att man tvingas ha överseende med att han skriver "poetiskt", istället för "rätlinjigt berättande", som han själv säger. Tyvärr innebär det exempelvis att han titt som tätt levererar "sentenser" som inte är mer än platta åsiktsblaffor. Texten hade behövt en hårdare redigering. Vad värre är, Greider tar ibland argumentationsmässiga genvägar med det "poetiska" som alibi. Trist, för han kan uppenbart bättre än så. När han anstränger sig så lyckas han mycket bra i sitt uppsåt att folkbilda.
 
-Det finns en mycket uppfriskande aspekt av Greiders text: Han argumenterar på allvar (om än bristfälligt). Han hemfaller inte åt den orgie av ironi och sarkasm som en del yngre vänsterdebattörer, typ [Katrine Kielos](/posts/), så ofta gör.
+Det finns en mycket uppfriskande aspekt av Greiders text: Han argumenterar på allvar (om än bristfälligt). Han hemfaller inte åt den orgie av ironi och sarkasm som en del yngre vänsterdebattörer, typ [Katrine Kielos](/2013/04/28/katrine-kielos-hopplosheten-ar-en-man/), så ofta gör.
 
 ### Vetenskap eller agitprop
 

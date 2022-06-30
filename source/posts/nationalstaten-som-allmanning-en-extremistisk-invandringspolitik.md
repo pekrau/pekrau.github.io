@@ -40,7 +40,7 @@ För inte så länge sedan ansågs reglerad invandring vara en självklar stånd
 
 Fri invandring har alltså gått från att vara en löjeväckande ståndpunkt till en som "man" inte kan finna några argument mot.
 
-I och med att Sverigedemokraterna har vuxit sig starkare med sin antiinvandringspolitik, så har många velat bekämpa SD genom att försvara invandringen. Man har gjort det med argument som egentligen handlar om fri invandring, snarare än reglerad invandring. Exempel på detta kan man finna t.ex. i flera artiklar från Dagens Nyheters ledarredaktion. Se min tidigare kritik [här](/posts/) och [här](/posts/).
+I och med att Sverigedemokraterna har vuxit sig starkare med sin antiinvandringspolitik, så har många velat bekämpa SD genom att försvara invandringen. Man har gjort det med argument som egentligen handlar om fri invandring, snarare än reglerad invandring. Exempel på detta kan man finna t.ex. i flera artiklar från Dagens Nyheters ledarredaktion. Se min tidigare kritik [här](/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/) och [här](/2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/).
 
 Argumentationen är hela tiden är vänd mot SD. Då bryr man sig inte så mycket om vad argumenten egentligen betyder för den egna ståndpunkten, bara de punkterar SD:s. Det vi nu ser är att många debattörer från vänster till höger använder argument som logiskt leder till ståndpunkten att invandringen borde vara fri. Men det är ändå ganska sällsynt att just den frasen används explicit. Något håller tillbaka. Vad?
 
