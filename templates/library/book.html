@@ -43,7 +43,7 @@
       <li class="list-group-item">
         {{ book['published'] }}
       </li>
-      {% if book.get('publisher') %}
+      {% if book.get('edition').get('publisher') %}
       <li class="list-group-item">
         {{ book['edition']['publisher'] }}
       </li>
@@ -53,6 +53,9 @@
         ISBN {{ book['isbn'] }}
       </li>
       {% endif %}
+      <li class="list-group-item">
+        Goodreads {{ book['goodreads'] }}
+      </li>
     </ul>
   </div>
   

@@ -22,8 +22,6 @@ Joel Halldorf har [skrivit en hel del på sistone](/tag/joel-halldorf/), och han
 
 I [Expressen 18 juni 2016](http://www.expressen.se/kultur/hur-mycket-mangfald-tal-var-offentlighet/) skriver Halldorf om att det inte räcker att berätta en "ny berättelse om Sverige. Vi måste också skriva den." Kort sagt är berättelsen att det sekulära samhället är på väg att ersättas av det så kallade postsekulära samhället. Med vilket menas ett samhälle där religiösa inte längre håller sin religion privat:
 
-
-
 > Det nya som sker i dag är att allt fler troende underkänner den moderna idén om religionens privatisering. De förväntar sig att ett demokratiskt samhälle som hyllar mångfald ska ha plats för dem som religiösa, inte trots att de är religiösa.
 
 För den som tror att detta endast handlar om att religiösa personer ska kunna bära religiösa symboler och klädedräkter (som om det nu vore förbjudet), så förklarar Halldorf vad han i själva verket menar:
