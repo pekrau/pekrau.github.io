@@ -7,7 +7,8 @@ title: Karl Popper
 type: page
 menu: true
 ---
-![Karl Popper memorial plaque](/files/popper-christchurch-nz.jpg) Memorial plaque in Christchurch, New Zealand.
+![Karl Popper memorial plaque](/files/popper-christchurch-nz.jpg)  
+Memorial plaque in Christchurch, New Zealand.
 
 1902-1994. Liberal politisk filosof som diskuterade det öppna samhället, och kritiserade Platon, Hegel och Marx. Kunskapsteoretiker med den kritiska rationalismen som fundamentalt tema.
 
@@ -51,8 +52,6 @@ Karl Popper: **En intellektuell självbiografi.** Doxa, 1976, 1988, ISBN 91-578-
 
 Ulf Persson: **Karl Popper, falsifieringens profet.** CKM Förlag, Svenska Humanistiska Förbundets skriftserie nr 131, 2014, ISBN 978-91-7040-117-6.
 
-
-
 ### Books in English
 
 Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1, [Wikipedia](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies).
@@ -83,8 +82,6 @@ Karl Popper: **The Poverty of Historicism.** Routledge &amp; Kegan Paul, 1957, 1
 
 Karl R. Popper: **The Logic of Scientific Discovery.** Martino Fine Books, 2014, ISBN 978-1614277439.
 
-
-
 Karl R. Popper: **Objective Knowledge. An Evolutionary Approach.** Oxford University Press, 1972, 1979, ISBN 978-0198750246.
 
 - [Lena Anderssons trams om Karl Popper](/2019/05/30/lena-anderssons-trams-om-karl-popper/) 2019-05-30
@@ -106,4 +103,5 @@ Audio reading of Karl Popper's **Science as Falsification** [on YouTube](https:/
 
 Helmut Schmidt talks with Karl Popper (in German, 1992) [on YouTube](https://www.youtube.com/watch?feature=player_detailpage&v=W7EnHg4RIfg).
 
-![Karl and Hennie Popper's grave](/files/popper-vienna.jpg "Karl and Hennie Popper's grave") Karl and Hennie Popper's grave in Vienna, Austria.
+![Karl and Hennie Popper's grave](/files/popper-vienna.jpg "Karl and Hennie Popper's grave")  
+Karl and Hennie Popper's grave in Vienna, Austria.

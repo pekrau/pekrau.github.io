@@ -14,9 +14,7 @@ type: post
 ---
 I [den första delen](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/) av denna artikeln visade jag en tabell av 3-ställiga siffror, och avslöjade att den var en liten bild om 9 gånger 9 pixlar. Här är bilden förstorad 10 gånger:
 
-[![reductionist-image90](/files/reductionist-image901.png)](/files/reductionist-image901.png)
-
-
+![reductionist-image90](/files/reductionist-image901.png)
 
 Nu ser vi litet mer. Det finns sammanhängande fält av färg, och om vi har riktigt bra fantasi kan vi möjligen gissa vad bilden föreställer. Tips: det har med rubriken på denna artikeln att göra.
 

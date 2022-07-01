@@ -2,6 +2,9 @@
 categories:
 - name: vetenskap-science
   value: Vetenskap (science)
+tags:
+- name: forskning
+  value: forskning
 date: '2014-01-08'
 link: https://kraulis.wordpress.com/2014/01/08/insandare-i-dn-om-oviktig-forskning/
 name: insandare-i-dn-om-oviktig-forskning

@@ -18,8 +18,6 @@ Isaac Newton lyckades beskriva planeternas och månens omloppsbanor med samma te
 
 Trots detta vill jag här argumentera för varför reduktionismen som filosofisk ståndpunkt inte är hållbar.
 
-
-
 Att finna det gemensamma i det disparata, så vinns ny kunskap. Trots det har reduktionismen som idé fått en dålig klang. Till exempel anklagas ofta neoklassiska ekonomer för att vilja reducera allt mänskligt agerande till frågan om hur den ekonomiskt rationella människan, *Homo economicus*, teoretiskt uppför sig. Naturvetare anklagas ofta för att genom sina förklaringar av fenomen i naturen ta bort det djupa mysteriet, ja, skönheten, ur världen.
 
 Ofta förväxlar man en vilja att arbeta inom det reduktionistiska paradigmet (**metodologisk reduktionism**)  med tron att exakt allt i tillvaron helt restlöst kan förklaras med fenomen på "lägre" nivåer (låt mig kalla det **filosofisk reduktionism**). Forskare kan själva begå det misstaget. Ekonomer kan mycket väl tro att idén om den ekonomiska människan faktiskt är en fullständig beskrivning av människans beteende i den ekonomiska sfären, och inte en abstraktion. Och det finns naturvetare som tror att partiklar, vågrörelser och energi är allt som finns. Dessa forskare har inga problem att arbeta inom sina fält med den inställningen, den kan snarare var en sporre i arbetet.
