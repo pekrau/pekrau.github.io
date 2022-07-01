@@ -1,0 +1,99 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 6. Sequence motif databases</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes, main page</A>
+
+<P ALIGN="RIGHT">
+Lecture 30 Oct 2001
+Per Kraulis
+
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Databases in bioinformatics</A>
+</H2>
+
+<H1 ALIGN="CENTER">6. Sequence motif databases</H1>
+
+<H3>Pfam
+<A HREF="http://pfam.sanger.ac.uk/">pfam.sanger.ac.uk/</A>,
+<A HREF="http://pfam.cgb.ki.se/">pfam.cgb.ki.se</A>
+</H3>
+
+<P>
+Pfam is a database of protein families defined as domains (contiguous
+segments of entire protein sequences). For each domain, it contains a
+multiple alignment of a set of defining sequences (the seeds) and the
+other sequences in SWISS-PROT and TrEMBL that can be matched to that
+alignment.
+<P>
+The database was started in 1996 and is maintained by a consortium of
+scientists, among them Erik Sonnhammer (CGB, KI, Sweden), Sean Eddy
+(WashU, St Louis USA), Richard Durbin, Alan Bateman and Ewan Birney
+(Sanger Centre, UK). Release 6.6 (Sep 2001) contains 3,071 families.
+</P>
+
+<P>
+The alignments can be converted into hidden Markov models
+(HMM), which can be used to search for domains in a query protein 
+sequence. The software <A HREF="http://hmmer.janelia.org/">HMMER</A> (by
+Sean Eddy) is the computational foundation for Pfam. The domain
+structure of protein sequences in SWISS-PROT and TrEMBL are available
+directly from the Pfam web sites, and it is also possible to search
+for domains in other sequences using servers at the web sites.
+</P>
+
+<P>
+The Pfam database can be searched, or used to identify domains in a
+sequence, or downloaded from the websites above. An example of an
+alignment is given for the Raf-like Ras-binding domain
+(<A HREF="RBD.ali">Pfam name RBD, accession code PF02196</A>).
+</P>
+
+<P>
+The Pfam database is licensed under the GNU General Public License,
+which basically makes it available to anyone, but imposes the
+restriction that derivative works (new databases, modifications) must
+be made available in source form.
+</P>
+
+<H3>PROSITE
+<A HREF="http://www.expasy.ch/prosite/">www.expasy.ch/prosite/</A>
+</H3>
+
+<P>
+PROSITE is a database of protein families and domains. It consists of
+biologically significant sites, patterns and profiles that help to
+reliably identify to which known protein family (if any) a new
+sequence belongs.
+</P>
+
+<P>
+It was started by Amos Bairoch, is part of SWISS-PROT and is
+maintained in the same way as SWISS-PROT. The basis of it are regular
+expressions describing characteristic subsequences of specific protein
+families or domains. PROSITE has been extended to contain also some
+profiles, which can be described as probability patterns for specific
+protein sequence families.
+</P>
+
+<P>
+The site above can be used to search by keyword or other text in the
+entries, to search for a pattern in a sequence, or to search for
+proteins in SWISS-PROT that match a pattern. An example of a PROSITE
+regular expression is given for the Ras GTPase-activating proteins
+signature pattern 
+(<A HREF="PS00509.prosite">RAS_GTPASE_ACTIV_1, accession code PS00509</A>).
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 15:19:05 $
+</BODY>
+</HTML>

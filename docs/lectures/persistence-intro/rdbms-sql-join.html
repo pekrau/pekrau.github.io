@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: SQL join examples</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">SQL join examples</H1>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+SELECT seqlength, chromosome FROM Gene, Protein WHERE Gene.number=Protein.gene;
+</PRE>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH>seqlength</TH>
+<TH>chromosome</TH>
+</TR>
+<TR>
+<TD>301</TD>
+<TD>'21'</TD>
+</TR>
+</TABLE>
+</P>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+SELECT Protein.number FROM Gene, Protein
+    WHERE Gene.first < Gene.last AND Gene.number=Protein.gene;
+</PRE>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH>seqlength</TH>
+<TH>chromosome</TH>
+</TR>
+</TABLE>
+</P>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+SELECT Protein.name, Protein.number, Gene.name FROM Gene, Protein
+    WHERE Gene.first > Gene.last AND Gene.number=Protein.gene;
+</PRE>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH>name</TH>
+<TH>number</TH>
+<TH>name</TH>
+</TR>
+<TR>
+<TD>'leptin'</TD>
+<TD>3</TD>
+<TD>'OB'</TD>
+</TR>
+</TABLE>
+</P>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 11:55:53 $
+</BODY>
+</HTML>

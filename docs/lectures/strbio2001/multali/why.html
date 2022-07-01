@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 1. Multiple sequence alignments: why?</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes: Structural biochemistry and bioinformatics 2001</A>
+
+<P ALIGN="RIGHT">
+Lecture 12 Nov 2001,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Multiple sequence alignments</A>
+</H2>
+
+<H1 ALIGN="CENTER">1. Multiple sequence alignments: why?</H1>
+
+<P>
+The problem of how to compare two sequences (nucleotide or protein)
+through <STRONG>pairwise alignment</STRONG> has been discussed earlier
+in this course. By generating a pairwise alignment using one of the
+several available methods (Needleman &amp; Wunsch, Smith &amp;
+Waterman) one can compute <STRONG>how similar</STRONG> the sequences
+are (identity or similarity), and <STRONG>which parts</STRONG> of them
+are similar. These methods are based on specific assumptions about
+evolutionary processes of point mutations, insertions or deletions in
+the sequences starting from a common ancestral sequence, and rely on
+using appropriate parameters for quantifying these events.
+</P>
+
+<P>
+When using one of the popular sequence searching programs (FASTA,
+BLAST) to find similar sequences in a database, one very often obtains 
+<STRONG>many sequences</STRONG> that are significantly similar to the
+query sequence. Comparing each and every sequence to every other in
+separate figures may be possible when one has just a few sequences,
+but it quickly becomes impractical as the number of sequences increases.
+</P>
+
+<P>
+What we need is a <STRONG>multiple sequence alignment</STRONG>, where
+all similar sequences can be compared <STRONG>in one single figure or
+table</STRONG>. The basic idea is that the sequences are aligned on
+top of each other in a common coordinate system. In this coordinate
+system, <STRONG>each row is the sequence</STRONG> for one protein, and
+<STRONG>each column is the 'same' position</STRONG> in each
+sequence. Each column corresponds to a specific residue in the
+'prototypical' protein.
+</P>
+<P>
+As with pairwise alignments, there will be gaps in some sequences,
+most often shown by the dash '-' or dot '.' character. Note that to
+construct a multiple alignment, one may have to introduce gaps in
+sequences at positions where there were no gaps in the corresponding
+pairwise alignment. This means that multiple alignments typically
+contain more gaps than any given pair of aligned sequences. 
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 14:35:31 $
+</BODY>
+</HTML>

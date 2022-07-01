@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: DBM example</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">DBM example</H1>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+# <A HREF="hash.py">hash.py</A>
+# test hash tables (dictionaries) in Python
+
+hashtable = {'this is a key': 'and this is the value',
+             'another key':   'another value'}
+
+print 'line 1:', hashtable['this is a key']
+
+hashtable['third key'] = 'bla'
+print 'line 2:', hashtable['third key']
+</PRE>
+<HR WIDTH="50%" ALIGN="LEFT">
+<PRE>
+<I>Output:</I>
+
+line 1: and this is the value
+line 2: bla
+</PRE>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+# <A HREF="make_dbmfile.py">make_dbmfile.py</A>
+# test dbm-type database; gdbm variant
+
+import gdbm
+
+hashfile = gdbm.open('hashfile', 'c')   # create the file
+hashfile['a key'] = 'a bit of data'
+hashfile['protein sequence'] = 'ASWQQEDFFGLKPVCDAS'
+</PRE>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+# <A HREF="read_dbmfile.py">read_dbmfile.py</A>
+# test dbm-type database; gdbm variant
+
+import gdbm
+
+hashfile = gdbm.open('hashfile', 'r')   # open existing file
+for key in hashfile.keys():             # loop over all keys in file
+    print key, '=', hashfile[key]
+</PRE>
+
+<HR WIDTH="50%" ALIGN="LEFT">
+<PRE>
+<I>Output:</I>
+
+protein sequence = ASWQQEDFFGLKPVCDAS
+a key = a bit of data
+</PRE>
+                                        
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 11:07:11 $
+</BODY>
+</HTML>

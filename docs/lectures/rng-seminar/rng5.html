@@ -1,0 +1,88 @@
+<HTML>
+<HEAD>
+<TITLE>5. A simple RNG: linear congruential</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="WHITE">
+
+<A HREF="index.html">Top</A>
+<A HREF="rng4.html">Previous</A>
+<A HREF="rng6.html">Next</A>
+
+<H1 ALIGN="CENTER">5. A simple RNG: linear congruential</H1>
+
+<H3>Lehmer (1949)</H3>
+
+<BR>
+<FONT SIZE="+1">
+<PRE>
+          X<SUB>n+1</SUB> = (a * X<SUB>n</SUB> + c) mod m
+</PRE>
+</FONT>
+<BR>
+<P>
+where a, c and m are constants. An example:
+</P>
+
+<P>
+<TABLE ALIGN="CENTER" BORDER CELLPADDING=8, CELLSPACING=2>
+<CAPTION>
+Set a=7, c=7 and m=10:
+</CAPTION>
+<TR>
+<TH>X<SUB>n</SUB></TH>
+<TH>aX<SUB>n</SUB> + c</TH>
+<TH>X<SUB>n+1</SUB></TH>
+</TR>
+<TR>
+<TD>7</TD>
+<TD>7*7 + 7 = 56</TD>
+<TD>6</TD>
+</TR>
+<TR>
+<TD>6</TD>
+<TD>7*6 + 7 = 49</TD>
+<TD>9</TD>
+</TR>
+<TR>
+<TD>9</TD>
+<TD>7*9 + 7 = 70</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>0</TD>
+<TD>7*0 + 7 = 7</TD>
+<TD>7</TD>
+</TR>
+</TABLE>
+</P>
+
+<P>
+This is obviously not a great RNG: it cycles back to the original seed
+value after just 4 values.
+</P>
+
+<H3>Lewis, Goodman, Miller (1969)</H3>
+
+<P>
+A minimal standard RNG, according to Park and Miller (1988):
+<PRE>
+     a = 16807
+     c = 0
+     m = 2<SUP>31</SUP>-1 = 2147483647
+</PRE>
+</P>
+<P>
+Period: 2<SUP>31</SUP>-2 = approx 2.1*10<SUP>9</SUP>
+</P>
+<P>
+<STRONG>Note</STRONG> that an ordinary Pentium III will exhaust this
+period in less than one CPU hour!
+</P>
+
+<HR>
+Copyright &copy; 2000
+Per Kraulis
+$Date: 2000/12/04 12:20:05 $
+</BODY>
+</HTML>

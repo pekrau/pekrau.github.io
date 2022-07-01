@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: Object-oriented Database Management Systems</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">Object-oriented Database Management Systems</H1>
+
+<P>
+The basic idea for object-oriented database management systems is that
+an object-oriented program should be able to more-or-less magically
+save and retrieve any object in a simple way.
+</P>
+<P>
+Superficially, it should be simple to connect objects in a program to
+a RDBMS: just make one table for each class of objects.
+</P>
+<P>
+But in practice, there are serious problems with this: If the
+object-oriented programming (OOP) uses inheritance, then it is not 
+obvious how to deal with that in the tables.
+</P>
+<P>
+There are many different object-oriented database systems. This is
+actually a problem: very few (if any) standards exist, so no system is
+like another.
+</P>
+Here are some examples of free (GPL license, or similar)
+object-oriented database systems:
+<UL>
+<LI> <A HREF="http://www.acedb.org/">AceDB</A>, created for the
+<I>C. elegans</I> genome project, and used for many others.
+<LI> <A HREF="http://www.zope.org/Wikis/ZODB/">ZODB</A>, a system for
+Python.
+</UL>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 14:52:45 $
+</BODY>
+</HTML>

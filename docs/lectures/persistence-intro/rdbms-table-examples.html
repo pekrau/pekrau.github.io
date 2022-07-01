@@ -1,0 +1,129 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: Table examples</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">Table examples</H1>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH COLSPAN="6" bgcolor="#CCCCCC">Gene</TH>
+</TR>
+<TR>
+<TH>number<BR>INT<BR><NOBR>PRIMARY KEY</NOBR></TH>
+<TH>name<BR>VARCHAR<BR>NOT NULL</TH>
+<TH>species<BR>VARCHAR<BR>NOT NULL</TH>
+<TH>chromosome<BR>VARCHAR</TH>
+<TH>first<BR>INT</TH>
+<TH>last<BR>INT</TH>
+</TR>
+<TR>
+<TD>1</TD>
+<TD>'Son of sevenless'</TD>
+<TD>'Drosophila melanogaster'</TD>
+<TD>'II'</TD>
+<TD>123456</TD>
+<TD>124891</TD>
+</TR>
+<TR>
+<TD>24</TD>
+<TD>'OB'</TD>
+<TD>'Homo sapiens'</TD>
+<TD>'21'</TD>
+<TD>900001</TD>
+<TD>899023</TD>
+</TR>
+<TR>
+<TD>11</TD>
+<TD>'OB'</TD>
+<TD>'Mus musculus'</TD>
+<TD>'6'</TD>
+<TD>NULL</TD>
+<TD>NULL</TD>
+</TR>
+<TR>
+<TD>12</TD>
+<TD>'Toll'</TD>
+<TD>'Drosophila melanogaster'</TD>
+<TD>'III'</TD>
+<TD>3049580</TD>
+<TD>3049952</TD>
+</TR>
+<!--
+<TR>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+-->
+</TABLE>
+</P>
+
+<BR>
+<BR>
+<BR>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH COLSPAN="6" bgcolor="#CCCCCC">Protein</TH>
+</TR>
+<TR>
+<TH>number<BR>INT<BR><NOBR>PRIMARY KEY</NOBR></TH>
+<TH>name<BR>VARCHAR<BR>NOT NULL</TH>
+<TH>species<BR>VARCHAR</TH>
+<TH>gene<BR>INT<BR>FK*</TH>
+<TH>seqlength<BR>INT</TH>
+<TH>seq<BR>CLOB</TH>
+</TR>
+<TR>
+<TD>3</TD>
+<TD>'leptin'</TD>
+<TD>'Homo sapiens'</TD>
+<TD>24</TD>
+<TD>301</TD>
+<TD>ANCDTLKER...</TD>
+</TR>
+<TR>
+<TD>25</TD>
+<TD>'myoglobin'</TD>
+<TD>'Mus musculus'</TD>
+<TD>NULL</TD>
+<TD>158</TD>
+<TD>MHAGBQWTT...</TD>
+</TR>
+<TR>
+<TD>11</TD>
+<TD>'peptide X341'</TD>
+<TD>NULL</TD>
+<TD>NULL</TD>
+<TD>13</TD>
+<TD>DFVLPQWDFGGGA</TD>
+</TR>
+<!--
+<TR>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+-->
+</TABLE>
+</P>
+
+<P>
+FK* = Foreign key: column 'gene' refers to column 'number' in table 'Gene'.
+</P>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 15:01:31 $
+</BODY>
+</HTML>

@@ -1,0 +1,295 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 1. Regular expressions</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes: Structural biochemistry and bioinformatics 2001</A>
+
+<P ALIGN="RIGHT">
+Lecture 13 Nov 2001,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Hidden Markov models</A>
+</H2>
+
+<H1 ALIGN="CENTER">1. Regular expressions</H1>
+
+<P>
+A multiple alignment is very useful for a lot of different analysis,
+such as identifying patterns in the sequence that have some connection
+with the structure and/or the function of the protein domain. However,
+a large multiple alignment is difficult to handle, and we may want to 
+<STRONG>condense the information</STRONG> in it down to the bare
+minimum.
+</P>
+
+<P>
+One way of doing that is to <STRONG>extract an explicit description of
+the pattern of conserved residues</STRONG> that we can identify in a
+multiple alignment. How can we represent a pattern of residues as
+found in a multiple alignment? And how can we use such a pattern to
+search for it in other protein sequences?
+</P>
+
+<P>
+Computer sciencists have devised a formalism to describe the kind of
+patterns we need: <STRONG>regular expressions</STRONG> (svenska:
+"regulj&auml;ra uttryck"). Sometimes the term is abbreviated to
+<STRONG>regexp</STRONG>. Regular expressions can be used to describe
+languages of a particular, restricted kind. Ordinary human languages
+do not fall into this category; they are too complex.
+</P>
+
+<P>
+In our case, let us view the sequence of a protein (or DNA) as a
+sentence in a specific, small language. We can then define a
+particular regular expression (also called a grammar) that fits the
+given protein sequence. This regexp can then be used to test other
+sequences, to see whether they fit the pattern or not.
+</P>
+
+<P>
+It is essential to understand that <STRONG>either a string fits a
+regular expression, or it doesn't</STRONG>. There is no in
+between. This is both a strength and a weakness: It makes it possible
+to implement regular expression searches in a very efficient manner
+(using algorithms that behave as so-called finite state automata). On
+the other hand, if the pattern is wrong about just one single
+character, then it will fail to match strings that ought to be
+found. There is no such thing as 'nearly matched' for a regular
+expression. 
+</P>
+
+<P>
+It is of course not necessary to derive a regular expression from a
+given real sequence. One can make it up. For example, maybe we want to
+know if there are any sequences in SWISS-PROT that contain the
+tetrapeptide Cys-Xxx-Cys-His, where Xxx is any amino-acid
+residue. Then we can design a regular expression for this pattern, and
+test all sequences against it.
+</P>
+
+<P>
+Regular expressions are very useful in solving many different
+tasks involving text searching and pattern recognition. A
+<STRONG>standard notation for describing regular expressions</STRONG>
+has evolved in the UNIX world, for example in standard system programs
+such as <STRONG>grep</STRONG>  ('General REgular exPression'; for
+searching in text files). This notation employs a number of special
+characters to specify particular patterns. The ordinary alphanumerical
+characters just specify themselves, without any special meaning.
+</P>
+
+<P>
+Here are a number of UNIX-type regular expressions for different
+patterns, and the strings that were searched. <STRONG>This is not a
+complete list</STRONG>; check out the documentation for the modules
+that you are using. There are even entire books describing all the
+intricate details of regular expressions. Although the basic regular
+expressions look simple enough, it can be a quite difficult task to
+design a regexp that accurately implements a complicated pattern,
+particularly if the pattern contains complex repetitive elements.
+</P>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+
+<TR>
+<TH>Regular expression</TH>
+<TH>Description</TH>
+<TH>String</TH>
+<TH>Result</TH>
+<TH>Comment</TH>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER"><CODE>bc</CODE></TD>
+<TD ROWSPAN=2>Strings of ordinary alphanumerical characters match
+literally.</TD> 
+<TD ROWSPAN=2><CODE>abcde</CODE></TD>
+<TD>Matches!</TD>
+<TD>Proper substring</TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER"><CODE>ac</CODE></TD>
+<TD>No match</TD>
+<TD>Not a proper substring</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER"><CODE>b.d</CODE></TD>
+<TD ROWSPAN=2>Dot '.' matches any single character.</TD>
+<TD ROWSPAN=2><CODE>abcde</CODE></TD>
+<TD>Matches!</TD>
+<TD>Substring <CODE>bcd</CODE> matches</TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER"><CODE>a.d</CODE></TD>
+<TD>No match</TD>
+<TD>No substring having characters 'a-any-d'.</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER"><CODE>^abc</CODE></TD>
+<TD ROWSPAN=2>Caret (or hat) '^' matches the beginning of a string.</TD>
+<TD ROWSPAN=2><CODE>abcde</CODE></TD>
+<TD>Matches!</TD>
+<TD>The substring is at the beginning of the string.</TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER"><CODE>^bcd</CODE></TD>
+<TD>No match</TD>
+<TD>The substring is not at the beginning.</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER"><CODE>abc$</CODE></TD>
+<TD ROWSPAN=2>Dollar '$' matches the end of a string.</TD>
+<TD ROWSPAN=2><CODE>abcde</CODE></TD>
+<TD>No match</TD>
+<TD>The substring is not at the end of the string.</TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER"><CODE>cde$</CODE></TD>
+<TD>Matches!</TD>
+<TD>The substring is at the end.</TD>
+</TR>
+
+<TR>
+<TD ROWSPAN=2 ALIGN="CENTER"><CODE>a[bcd]e</CODE></TD>
+<TD ROWSPAN=2>Characters within brackets '[]' are choices: match one
+of them.</TD>
+<TD><CODE>ade</CODE></TD>
+<TD>Matches!</TD>
+<TD>'d' is one of the possible choices.</TD>
+</TR>
+<TR>
+<TD><CODE>aee</CODE></TD>
+<TD>No match</TD>
+<TD>'e' is not among the choice characters.</TD>
+</TR>
+
+<TR>
+<TD ROWSPAN=3 ALIGN="CENTER"><CODE>ab?c</CODE></TD>
+<TD ROWSPAN=3>A question mark '?' matches the preceding pattern zero
+or one times.</TD>
+<TD><CODE>abcde</CODE></TD>
+<TD>Matches!</TD>
+<TD>'b?' matched one time.</TD>
+</TR>
+<TR>
+<TD><CODE>acde</CODE></TD>
+<TD>Matches!</TD>
+<TD>'b?' matches zero times.</TD>
+</TR>
+<TR>
+<TD><CODE>abbcde</CODE></TD>
+<TD>No match</TD>
+<TD>More than one 'b'.</TD>
+</TR>
+
+<TR>
+<TD ROWSPAN=4 ALIGN="CENTER"><CODE>ab*d</CODE></TD>
+<TD ROWSPAN=4>Multiplication sign '*' matches  zero or more
+repetitions of the preceding pattern.</TD>
+<TD><CODE>abd</CODE></TD>
+<TD>Matches!</TD>
+<TD>One b matches 'b*'</TD>
+</TR>
+<TR>
+<TD><CODE>abbbd</CODE></TD>
+<TD>Matches!</TD>
+<TD>Three b's match 'b*'</TD>
+</TR>
+<TR>
+<TD><CODE>ad</CODE></TD>
+<TD>Matches!</TD>
+<TD>No 'b' is necessary.</TD>
+</TR>
+<TR>
+<TD><CODE>acd</CODE></TD>
+<TD>No match</TD>
+<TD>The 'c' makes a match impossible.</TD>
+</TR>
+
+<TR>
+<TD ROWSPAN=2 ALIGN="CENTER"><CODE>ab+d</CODE></TD>
+<TD ROWSPAN=2>Plus sign '+' matches one or more repetitions of the
+preceding pattern.</TD>
+<TD><CODE>abbbd</CODE></TD>
+<TD>Matches!</TD>
+<TD>Three 'b' fits the pattern.</TD>
+</TR>
+<TR>
+<TD><CODE>ad</CODE></TD>
+<TD>No match</TD>
+<TD>There must be at least one 'b'.</TD>
+</TR>
+
+<TR>
+<TD ROWSPAN=3 ALIGN="CENTER"><CODE>ab{2,4}c</CODE></TD>
+<TD ROWSPAN=3>Curly brackets '{}' match the preceding pattern the
+between the specified minimum or maximum number of times.</TD>
+<TD><CODE>abcd</CODE></TD>
+<TD>No match</TD>
+<TD>Just one 'b'; not enough.</TD>
+</TR>
+<TR>
+<TD><CODE>abbcd</CODE></TD>
+<TD>Matches!</TD>
+<TD>Two 'b' fits the pattern.</TD>
+</TR>
+<TR>
+<TD><CODE>abbbbbcd</CODE></TD>
+<TD>No match</TD>
+<TD>Five 'b' are too many.</TD>
+</TR>
+
+<!--
+<TR>
+<TD ALIGN="CENTER"><CODE></CODE></TD>
+<TD ROWSPAN=2></TD>
+<TD><CODE></CODE></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER"><CODE></CODE></TD>
+<TD><CODE></CODE></TD>
+<TD></TD>
+<TD></TD>
+</TR>
+-->
+
+</TABLE>
+</P>
+
+<P>
+There are many software modules available for performing
+searches in text data using a regular expressions. For example, the
+script language <A HREF="http://www.perl.com/">Perl</A> (often used in
+bioinformatics) has regular expression handling as a sophisticated
+built-in feature, and the object-oriented script language
+<A HREF="http://www.python.org/">Python</A> has a module
+<STRONG>re</STRONG> for regular expression handling.
+</P>
+
+<P>
+The technical details of using regular expressions in these languages
+can be very complex (depending on what you want to do). It is possible
+to create regexps that are terribly comples, and are very difficult to
+analysis 'by hand'. If you need some complex pattern recognition the
+you need to be very careful, and test the regexp extensively.
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 15:30:28 $
+</BODY>
+</HTML>

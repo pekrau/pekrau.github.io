@@ -1,0 +1,115 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 3. Signals and feedback</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+    <p>
+      Copyright &copy; 2003 <b>Per Kraulis</b>,
+      <A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+    </p>
+
+<P ALIGN="RIGHT">
+KTH Bioinformatics 2003,
+lecture 27 Feb 2003,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Systems Biology</A>
+</H2>
+
+<H1 ALIGN="CENTER">3. Signals and feedback</H1>
+
+<P>
+Living cells can be viewed as <STRONG>signal processors</STRONG>. That
+is not all they are, but it is a useful perspective in the current
+context. The cells <STRONG>receive signals from the
+environment</STRONG> in the form of specific molecules (e.g. hormones,
+transmitter substances), nutrient levels (e.g. glucose, lipids) or
+stresses (e.g. osmotic pressure, poisons, heat, cold). The cells also 
+<STRONG>produce signals internally</STRONG>, e.g. in the cell cycle,
+where such events as DNA damage or failures in chromosome duplication
+generate signals that stop cell division from occuring, and may also
+start repair processes or to begin the cell death program (apoptosis).
+</P>
+
+<P>
+The various signals and the machinery that processes them form a
+regulatory network. The purpose of the network is to control the life
+processes so that the organism can grow, survive and multiply in a
+constantly changing and challenging
+environment. <STRONG>Regulation</STRONG> is the key term here. The
+appropriate systems must be started up, or shut down, as the
+environment changes. If suddenly glucose becomes available, then the
+bacterium must produce glucose transport proteins and enzymes for the
+glucose metabolism. If the glucose level is then reduced, the
+bacterium needs to reduce the production of these proteins since
+otherwise unnecessary energy is wasted on synthesizing the
+proteins. An important concept in this connection is
+<STRONG>homeostasis</STRONG>, the tendency of living systems to
+maintain a steady level of important metabolites or other components
+in the face of varying external circumstances. The most obvious
+example is the constant body temperature in many animals. Other
+examples are the pH level in the blood, or the level of ATP in many
+cell types.
+</P>
+
+<P>
+<IMG SRC="feedback.gif" ALIGN="LEFT" VSPACE=8 HSPACE=12>
+An essential mechanism in regulation is <STRONG>feedback</STRONG>. The
+result of a process feeds back signals to control the process
+itself. This makes the process self-monitoring to some degree. One may
+distinguishes between negative and positive feedback.
+</P>
+<P>
+<STRONG>Negative feedback</STRONG> is a system where the product or
+resulting signal down-regulates the process (minus sign in the
+figure). This may be useful to keep the level of a substance at a
+steady state. This is very common in the metabolism, since the
+organism only wants to produce as much as is needed of some particular
+compound, and no more. For example, many synthesis pathways for
+compounds such as amino acids are regulated by negative feedback,
+where the final product of the pathway influences some early step in
+the pathway negatively by inhibiting an enzyme. In the figure,
+compound D binds to enzyme E2, thereby inhibiting it, and reducing the
+further production of itself.
+</P>
+<P>
+<STRONG>Positive feedback</STRONG> is a signalling loop where the
+product reinforces the process (plus sign in the figure). This is
+found in systems which have to maintain one chosen state among several
+alternatives, e.g. the specific state of a differentiated cell, or to
+commit a cell towards a chosen development path. The starting point is
+an undecided state, which by some process (influence from the outside,
+or purely stochastic events) starts to tilt over in one particular
+direction. This small, initial bias is then reinforced by the
+regulatory system, so that a final, fixed, stable state is reached.
+</P>
+
+<P>
+A special, very important class of regulatory networks generate
+<STRONG>cyclic processes</STRONG>. These are processes that never
+reach a steady state, but move between stages or states in an ordered
+fashion. There are many important examples of cyclic processes: The
+<STRONG>cell cycle</STRONG> is the prime example, but one could also
+mention the <STRONG>circadian clock</STRONG> (the changes governed by
+the 24-hour day/night cycle) in many plants and animals. These systems
+require complex networks having a dynamically cyclic behaviour that
+must both be robust and sensitive: Robust in the sense that it must
+continue to work even when the environment changes, and sensitive so
+that the process can adjust when the appropriate corrective signals
+are received from the environment.
+</P>
+
+<P>
+Signal network analysis is a very active research area. One important
+issue is the problem of <strong>reverse engineering</strong>. Given
+some experimental data (e.g. microarray expression levels), is it
+possible to determine what the underlying regulatory network is?
+Another issue is whether there are <strong>common motifs in regulatory
+networks</strong>. Is it possible to identify building blocks of
+regulatory components that occur more often in biological systems?
+</P>
+
+</BODY>
+</HTML>
