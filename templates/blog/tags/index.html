@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block css %}
+{% include 'datatables.css.html' %}
+{% endblock %}
+
+{% block head_title %}Alla etiketter{% endblock%}
+
+{% block body_title %}<h1>Alla etiketter</h1>{% endblock%}
+
+{% block main %}
+<div class="row">
+  <section class="col-lg-10 offset-lg-1">
+    <table id="table"
+           class="table table-sm table-borderless table-hover display compact">
+      <thead>
+        <tr>
+          <th>Etikett</th>
+          <th>Antal inlägg</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for tag in tags  %}
+        <tr>
+          <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag['value'] }}</a></td>
+          <td>{{ len(tag['posts']) }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </section>
+</div>
+{% endblock %}
+
+{% block javascript %}
+{% include 'datatables.js.html' %}
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[1, "desc"]],
+    });
+  });
+</script>
+{% endblock %}

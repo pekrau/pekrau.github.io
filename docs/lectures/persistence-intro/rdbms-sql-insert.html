@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<TITLE>Notes on persistence: SQL INSERT examples</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">SQL INSERT examples</H1>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+INSERT INTO Gene(number, name, species, chromosome)
+     VALUES (25, 'K-ras', 'Homo sapiens', '8');
+
+INSERT INTO Gene(number, name, species) VALUES (26, 'H-ras', 'Homo sapiens');
+</PRE>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH COLSPAN="6" bgcolor="#CCCCCC">Gene</TH>
+</TR>
+<TR>
+<TH>number<BR>INT<BR><NOBR>PRIMARY KEY</NOBR></TH>
+<TH>name<BR>VARCHAR<BR>NOT NULL</TH>
+<TH>species<BR>VARCHAR<BR>NOT NULL</TH>
+<TH>chromosome<BR>VARCHAR</TH>
+<TH>first<BR>INT</TH>
+<TH>last<BR>INT</TH>
+</TR>
+<TR>
+<TD COLSPAN=6>...</TD>
+</TR>
+<TR>
+<TD>25</TD>
+<TD>'K-ras'</TD>
+<TD>'Homo sapiens'</TD>
+<TD>'8'</TD>
+<TD>NULL</TD>
+<TD>NULL</TD>
+</TR>
+<TR>
+<TD>26</TD>
+<TD>'H-ras'</TD>
+<TD>'Homo sapiens'</TD>
+<TD>NULL</TD>
+<TD>NULL</TD>
+<TD>NULL</TD>
+</TR>
+</TABLE>
+</P>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+CREATE TABLE Species (
+  number INT PRIMARY KEY,
+  name   VARCHAR(100) NOT NULL
+);
+</PRE>
+
+<HR WIDTH="70%" ALIGN="LEFT">
+<PRE>
+INSERT INTO Species(number, name) VALUES(1, 'Homo sapiens');
+</PRE>
+
+<P>
+<TABLE BORDER CELLPADDING=2>
+<TR>
+<TH COLSPAN="2" bgcolor="#CCCCCC">Species</TH>
+</TR>
+<TR>
+<TH>number<BR>INT<BR><NOBR>PRIMARY KEY</NOBR></TH>
+<TH>name<BR>VARCHAR<BR>NOT NULL</TH>
+</TR>
+<TR>
+<TD>1</TD>
+<TD>'Homo sapiens'</TD>
+</TR>
+</TABLE>
+</P>
+
+<HR>
+&copy; 2001 Per Kraulis
+$Date: 2001/05/09 11:24:49 $
+</BODY>
+</HTML>

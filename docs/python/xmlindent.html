@@ -1,0 +1,244 @@
+
+<!doctype html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module xmlindent</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>xmlindent</strong></big></big> (version 1.2)</font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/pjk/websrc/xmlindent.py">/home/pjk/websrc/xmlindent.py</a></font></td></tr></table>
+    <p><tt>Generate&nbsp;indented&nbsp;XML.<br>
+&nbsp;<br>
+An&nbsp;extension&nbsp;of&nbsp;the&nbsp;<a href="xml.sax.saxutils.html#XMLGenerator">XMLGenerator</a>&nbsp;class&nbsp;from&nbsp;the&nbsp;SAX&nbsp;interface&nbsp;which&nbsp;provides<br>
+features&nbsp;for&nbsp;generating&nbsp;indented&nbsp;XML.&nbsp;The&nbsp;method&nbsp;'newline'&nbsp;in&nbsp;the&nbsp;extension<br>
+class&nbsp;<a href="#XMLIndentGenerator">XMLIndentGenerator</a>&nbsp;outputs&nbsp;a&nbsp;newline&nbsp;character&nbsp;and&nbsp;the&nbsp;appropriate<br>
+number&nbsp;of&nbsp;blank&nbsp;characters&nbsp;for&nbsp;indentation&nbsp;of&nbsp;the&nbsp;next&nbsp;item.<br>
+&nbsp;<br>
+Other&nbsp;features&nbsp;are:<br>
+-&nbsp;Attributes&nbsp;to&nbsp;the&nbsp;'startElement'&nbsp;method&nbsp;are&nbsp;passed&nbsp;as&nbsp;keyword&nbsp;arguments.<br>
+-&nbsp;The&nbsp;extension&nbsp;class&nbsp;maintains&nbsp;an&nbsp;internal&nbsp;stack&nbsp;of&nbsp;current&nbsp;element&nbsp;tags,<br>
+&nbsp;&nbsp;obviating&nbsp;the&nbsp;need&nbsp;to&nbsp;specify&nbsp;tag&nbsp;name&nbsp;in&nbsp;method&nbsp;'endElement'.&nbsp;This<br>
+&nbsp;&nbsp;simplifies&nbsp;XML&nbsp;generation&nbsp;slightly&nbsp;for&nbsp;application&nbsp;code.<br>
+-&nbsp;A&nbsp;number&nbsp;of&nbsp;common&nbsp;attribute&nbsp;keys&nbsp;are&nbsp;automatically&nbsp;translated&nbsp;from<br>
+&nbsp;&nbsp;the&nbsp;form&nbsp;'xxx_yyy'&nbsp;to&nbsp;'xxx:yyy',&nbsp;to&nbsp;simplify&nbsp;giving&nbsp;attributes<br>
+&nbsp;&nbsp;as&nbsp;keyword&nbsp;arguments.<br>
+-&nbsp;The&nbsp;class&nbsp;'<a href="#Xml">Xml</a>'&nbsp;to&nbsp;build&nbsp;lightweight&nbsp;element&nbsp;trees&nbsp;for&nbsp;output&nbsp;with<br>
+&nbsp;&nbsp;<a href="#XMLIndentGenerator">XMLIndentGenerator</a>.<br>
+&nbsp;<br>
+The&nbsp;prefix&nbsp;mapping&nbsp;and&nbsp;NS&nbsp;methods&nbsp;have&nbsp;not&nbsp;yet&nbsp;been&nbsp;properly&nbsp;implemented.<br>
+&nbsp;<br>
+Example&nbsp;usage:<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;from&nbsp;xmlindent&nbsp;import&nbsp;<a href="#XMLIndentGenerator">XMLIndentGenerator</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen&nbsp;=&nbsp;<a href="#XMLIndentGenerator">XMLIndentGenerator</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.startDocument()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.startElement('root',&nbsp;attr1='1',&nbsp;attr2='text&amp;data')<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.newline()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.startElement('item')<br>
+&nbsp;&nbsp;&nbsp;&nbsp;xml&nbsp;=&nbsp;<a href="#Xml">Xml</a>('another',&nbsp;<a href="#Xml">Xml</a>('and-another'),&nbsp;id='2',&nbsp;color='grey')<br>
+&nbsp;&nbsp;&nbsp;&nbsp;xml.output(gen)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.newline()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.startElement('item2')<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.characters('stuff')<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.endElement()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.newline()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.endElement()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.newline()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.endElement()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;gen.endDocument()<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;resulting&nbsp;XML:<br>
+&nbsp;<br>
+&lt;?xml&nbsp;version="1.0"&nbsp;encoding="iso-8859-1"?&gt;<br>
+&lt;root&nbsp;attr2="text&amp;amp;data"&nbsp;attr1="1"&gt;<br>
+&nbsp;&nbsp;&lt;item&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;another&nbsp;color="grey"&nbsp;id="2"&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;and-another/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/another&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;item2&gt;stuff&lt;/item2&gt;<br>
+&nbsp;&nbsp;&lt;/item&gt;<br>
+&lt;/root&gt;<br>
+&nbsp;<br>
+------------------------------------------------------------<br>
+Version&nbsp;1.2<br>
+&nbsp;<br>
+2004-12-09&nbsp;&nbsp;split&nbsp;out&nbsp;from&nbsp;other&nbsp;code<br>
+2007-08-23&nbsp;&nbsp;cleanup,&nbsp;docs&nbsp;written<br>
+2007-08-31&nbsp;&nbsp;added&nbsp;<a href="#Xml">Xml</a><br>
+&nbsp;<br>
+Copyright&nbsp;(C)&nbsp;2007&nbsp;Per&nbsp;Kraulis<br>
+&nbsp;<br>
+This&nbsp;program&nbsp;is&nbsp;free&nbsp;software:&nbsp;you&nbsp;can&nbsp;redistribute&nbsp;it&nbsp;and/or&nbsp;modify<br>
+it&nbsp;under&nbsp;the&nbsp;terms&nbsp;of&nbsp;the&nbsp;GNU&nbsp;General&nbsp;Public&nbsp;License&nbsp;as&nbsp;published&nbsp;by<br>
+the&nbsp;Free&nbsp;Software&nbsp;Foundation,&nbsp;either&nbsp;version&nbsp;3&nbsp;of&nbsp;the&nbsp;License,&nbsp;or<br>
+(at&nbsp;your&nbsp;option)&nbsp;any&nbsp;later&nbsp;version.<br>
+&nbsp;<br>
+This&nbsp;program&nbsp;is&nbsp;distributed&nbsp;in&nbsp;the&nbsp;hope&nbsp;that&nbsp;it&nbsp;will&nbsp;be&nbsp;useful,<br>
+but&nbsp;WITHOUT&nbsp;ANY&nbsp;WARRANTY;&nbsp;without&nbsp;even&nbsp;the&nbsp;implied&nbsp;warranty&nbsp;of<br>
+MERCHANTABILITY&nbsp;or&nbsp;FITNESS&nbsp;FOR&nbsp;A&nbsp;PARTICULAR&nbsp;PURPOSE.&nbsp;&nbsp;See&nbsp;the<br>
+GNU&nbsp;General&nbsp;Public&nbsp;License&nbsp;for&nbsp;more&nbsp;details.<br>
+&nbsp;<br>
+You&nbsp;should&nbsp;have&nbsp;received&nbsp;a&nbsp;copy&nbsp;of&nbsp;the&nbsp;GNU&nbsp;General&nbsp;Public&nbsp;License<br>
+along&nbsp;with&nbsp;this&nbsp;program.&nbsp;&nbsp;If&nbsp;not,&nbsp;see&nbsp;&lt;<a href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</a>&gt;.</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="xmlindent.html#Xml">Xml</a>
+</font></dt></dl>
+</dd>
+<dt><font face="helvetica, arial"><a href="xml.sax.saxutils.html#XMLGenerator">xml.sax.saxutils.XMLGenerator</a>(<a href="xml.sax.handler.html#ContentHandler">xml.sax.handler.ContentHandler</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="xmlindent.html#XMLIndentGenerator">XMLIndentGenerator</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="XMLIndentGenerator">class <strong>XMLIndentGenerator</strong></a>(<a href="xml.sax.saxutils.html#XMLGenerator">xml.sax.saxutils.XMLGenerator</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>This&nbsp;extension&nbsp;class&nbsp;provides&nbsp;features&nbsp;to&nbsp;generate&nbsp;indented&nbsp;XML.<br>
+Attributes&nbsp;to&nbsp;startElement&nbsp;are&nbsp;passed&nbsp;as&nbsp;keyword&nbsp;arguments.<br>
+It&nbsp;also&nbsp;maintains&nbsp;an&nbsp;internal&nbsp;stack&nbsp;of&nbsp;current&nbsp;element&nbsp;tags,&nbsp;thus<br>
+obviating&nbsp;the&nbsp;need&nbsp;to&nbsp;specify&nbsp;the&nbsp;element&nbsp;tag&nbsp;in&nbsp;endElement.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="xmlindent.html#XMLIndentGenerator">XMLIndentGenerator</a></dd>
+<dd><a href="xml.sax.saxutils.html#XMLGenerator">xml.sax.saxutils.XMLGenerator</a></dd>
+<dd><a href="xml.sax.handler.html#ContentHandler">xml.sax.handler.ContentHandler</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="XMLIndentGenerator-__init__"><strong>__init__</strong></a>(self, out<font color="#909090">=None</font>, encoding<font color="#909090">='iso-8859-1'</font>, increment<font color="#909090">=2</font>)</dt><dd><tt>out&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opened&nbsp;output&nbsp;file;&nbsp;sys.stdout&nbsp;if&nbsp;None&nbsp;given.<br>
+encoding&nbsp;&nbsp;&nbsp;Character&nbsp;encoding&nbsp;to&nbsp;use.<br>
+increment&nbsp;&nbsp;Indentation&nbsp;increment&nbsp;to&nbsp;use.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-characters"><strong>characters</strong></a>(self, content)</dt><dd><tt>Output&nbsp;the&nbsp;given&nbsp;character&nbsp;content.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-comment"><strong>comment</strong></a>(self, content)</dt><dd><tt>Output&nbsp;an&nbsp;XML&nbsp;comment.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-emptyElement"><strong>emptyElement</strong></a>(self, tagname, **attrs)</dt><dd><tt>Output&nbsp;an&nbsp;element&nbsp;with&nbsp;no&nbsp;content,&nbsp;with&nbsp;appropriate&nbsp;indentation.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-endCDATA"><strong>endCDATA</strong></a>(self)</dt><dd><tt>Finish&nbsp;a&nbsp;CDATA&nbsp;block&nbsp;of&nbsp;characters.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-endDocument"><strong>endDocument</strong></a>(self)</dt><dd><tt>Finish&nbsp;document&nbsp;output;&nbsp;checks&nbsp;that&nbsp;the&nbsp;element&nbsp;tag&nbsp;stack&nbsp;is&nbsp;empty.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-endElement"><strong>endElement</strong></a>(self, tagname<font color="#909090">=None</font>)</dt><dd><tt>Finish&nbsp;the&nbsp;current&nbsp;element.<br>
+The&nbsp;tagname&nbsp;argument&nbsp;is&nbsp;not&nbsp;required&nbsp;and&nbsp;is&nbsp;in&nbsp;fact&nbsp;currently&nbsp;ignored,<br>
+since&nbsp;the&nbsp;internal&nbsp;element&nbsp;tagname&nbsp;stack&nbsp;is&nbsp;used.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-newline"><strong>newline</strong></a>(self, force<font color="#909090">=False</font>)</dt><dd><tt>Output&nbsp;a&nbsp;newline&nbsp;character.&nbsp;If&nbsp;force,&nbsp;then&nbsp;do&nbsp;so&nbsp;even&nbsp;if&nbsp;the<br>
+previous&nbsp;character&nbsp;was&nbsp;a&nbsp;newline.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-startCDATA"><strong>startCDATA</strong></a>(self)</dt><dd><tt>Start&nbsp;a&nbsp;CDATA&nbsp;block&nbsp;of&nbsp;characters.&nbsp;The&nbsp;application&nbsp;must&nbsp;finish<br>
+the&nbsp;CDATA&nbsp;block&nbsp;explicitly.&nbsp;There&nbsp;is&nbsp;currently&nbsp;no&nbsp;internal&nbsp;check<br>
+that&nbsp;this&nbsp;is&nbsp;done&nbsp;properly.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-startElement"><strong>startElement</strong></a>(self, tagname, **attrs)</dt><dd><tt>Start&nbsp;a&nbsp;new&nbsp;element,&nbsp;with&nbsp;appropriate&nbsp;indentation.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="XMLIndentGenerator-translate_name_aliases"><strong>translate_name_aliases</strong></a>(cls, **attrs)<font color="#909090"><font face="helvetica, arial"> from __builtin__.classobj</font></font></dt></dl>
+
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>attr_name_aliases</strong> = {'href_template': 'href-template', 'xlink_actuate': 'xlink:actuate', 'xlink_arcrole': 'xlink:arcrole', 'xlink_from': 'xlink:from', 'xlink_href': 'xlink:href', 'xlink_label': 'xlink:label', 'xlink_show': 'xlink:show', 'xlink_title': 'xlink:title', 'xlink_to': 'xlink:to', 'xlink_type': 'xlink:type', ...}</dl>
+
+<hr>
+Methods inherited from <a href="xml.sax.saxutils.html#XMLGenerator">xml.sax.saxutils.XMLGenerator</a>:<br>
+<dl><dt><a name="XMLIndentGenerator-endElementNS"><strong>endElementNS</strong></a>(self, name, qname)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-endPrefixMapping"><strong>endPrefixMapping</strong></a>(self, prefix)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-ignorableWhitespace"><strong>ignorableWhitespace</strong></a>(self, content)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-processingInstruction"><strong>processingInstruction</strong></a>(self, target, data)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-startDocument"><strong>startDocument</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-startElementNS"><strong>startElementNS</strong></a>(self, name, qname, attrs)</dt></dl>
+
+<dl><dt><a name="XMLIndentGenerator-startPrefixMapping"><strong>startPrefixMapping</strong></a>(self, prefix, uri)</dt></dl>
+
+<hr>
+Data and other attributes inherited from <a href="xml.sax.saxutils.html#XMLGenerator">xml.sax.saxutils.XMLGenerator</a>:<br>
+<dl><dt><strong>GENERATED_PREFIX</strong> = 'xml.sax.saxutils.prefix%s'</dl>
+
+<hr>
+Methods inherited from <a href="xml.sax.handler.html#ContentHandler">xml.sax.handler.ContentHandler</a>:<br>
+<dl><dt><a name="XMLIndentGenerator-setDocumentLocator"><strong>setDocumentLocator</strong></a>(self, locator)</dt><dd><tt>Called&nbsp;by&nbsp;the&nbsp;parser&nbsp;to&nbsp;give&nbsp;the&nbsp;application&nbsp;a&nbsp;locator&nbsp;for<br>
+locating&nbsp;the&nbsp;origin&nbsp;of&nbsp;document&nbsp;events.<br>
+&nbsp;<br>
+SAX&nbsp;parsers&nbsp;are&nbsp;strongly&nbsp;encouraged&nbsp;(though&nbsp;not&nbsp;absolutely<br>
+required)&nbsp;to&nbsp;supply&nbsp;a&nbsp;locator:&nbsp;if&nbsp;it&nbsp;does&nbsp;so,&nbsp;it&nbsp;must&nbsp;supply<br>
+the&nbsp;locator&nbsp;to&nbsp;the&nbsp;application&nbsp;by&nbsp;invoking&nbsp;this&nbsp;method&nbsp;before<br>
+invoking&nbsp;any&nbsp;of&nbsp;the&nbsp;other&nbsp;methods&nbsp;in&nbsp;the&nbsp;DocumentHandler<br>
+interface.<br>
+&nbsp;<br>
+The&nbsp;locator&nbsp;allows&nbsp;the&nbsp;application&nbsp;to&nbsp;determine&nbsp;the&nbsp;end<br>
+position&nbsp;of&nbsp;any&nbsp;document-related&nbsp;event,&nbsp;even&nbsp;if&nbsp;the&nbsp;parser&nbsp;is<br>
+not&nbsp;reporting&nbsp;an&nbsp;error.&nbsp;Typically,&nbsp;the&nbsp;application&nbsp;will&nbsp;use<br>
+this&nbsp;information&nbsp;for&nbsp;reporting&nbsp;its&nbsp;own&nbsp;errors&nbsp;(such&nbsp;as<br>
+character&nbsp;content&nbsp;that&nbsp;does&nbsp;not&nbsp;match&nbsp;an&nbsp;application's<br>
+business&nbsp;rules).&nbsp;The&nbsp;information&nbsp;returned&nbsp;by&nbsp;the&nbsp;locator&nbsp;is<br>
+probably&nbsp;not&nbsp;sufficient&nbsp;for&nbsp;use&nbsp;with&nbsp;a&nbsp;search&nbsp;engine.<br>
+&nbsp;<br>
+Note&nbsp;that&nbsp;the&nbsp;locator&nbsp;will&nbsp;return&nbsp;correct&nbsp;information&nbsp;only<br>
+during&nbsp;the&nbsp;invocation&nbsp;of&nbsp;the&nbsp;events&nbsp;in&nbsp;this&nbsp;interface.&nbsp;The<br>
+application&nbsp;should&nbsp;not&nbsp;attempt&nbsp;to&nbsp;use&nbsp;it&nbsp;at&nbsp;any&nbsp;other&nbsp;time.</tt></dd></dl>
+
+<dl><dt><a name="XMLIndentGenerator-skippedEntity"><strong>skippedEntity</strong></a>(self, name)</dt><dd><tt>Receive&nbsp;notification&nbsp;of&nbsp;a&nbsp;skipped&nbsp;entity.<br>
+&nbsp;<br>
+The&nbsp;Parser&nbsp;will&nbsp;invoke&nbsp;this&nbsp;method&nbsp;once&nbsp;for&nbsp;each&nbsp;entity<br>
+skipped.&nbsp;Non-validating&nbsp;processors&nbsp;may&nbsp;skip&nbsp;entities&nbsp;if&nbsp;they<br>
+have&nbsp;not&nbsp;seen&nbsp;the&nbsp;declarations&nbsp;(because,&nbsp;for&nbsp;example,&nbsp;the<br>
+entity&nbsp;was&nbsp;declared&nbsp;in&nbsp;an&nbsp;external&nbsp;DTD&nbsp;subset).&nbsp;All&nbsp;processors<br>
+may&nbsp;skip&nbsp;external&nbsp;entities,&nbsp;depending&nbsp;on&nbsp;the&nbsp;values&nbsp;of&nbsp;the<br>
+<a href="http://xml.org/sax/features/external-general-entities">http://xml.org/sax/features/external-general-entities</a>&nbsp;and&nbsp;the<br>
+<a href="http://xml.org/sax/features/external-parameter-entities">http://xml.org/sax/features/external-parameter-entities</a><br>
+properties.</tt></dd></dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Xml">class <strong>Xml</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Lightweight&nbsp;XML&nbsp;element&nbsp;node,&nbsp;for&nbsp;output&nbsp;via&nbsp;<a href="#XMLIndentGenerator">XMLIndentGenerator</a>.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Xml-__init__"><strong>__init__</strong></a>(self, tagname, *nodes, **attrs)</dt><dd><tt>tag&nbsp;&nbsp;&nbsp;&nbsp;tagname&nbsp;of&nbsp;this&nbsp;element<br>
+nodes&nbsp;&nbsp;<a href="#Xml">Xml</a>&nbsp;instances&nbsp;or&nbsp;strings&nbsp;that&nbsp;are&nbsp;the&nbsp;content&nbsp;of&nbsp;this&nbsp;element<br>
+attrs&nbsp;&nbsp;attributes&nbsp;of&nbsp;this&nbsp;element</tt></dd></dl>
+
+<dl><dt><a name="Xml-output"><strong>output</strong></a>(self, gen)</dt><dd><tt>Output&nbsp;the&nbsp;contents&nbsp;of&nbsp;this&nbsp;<a href="#Xml">Xml</a>&nbsp;using&nbsp;the&nbsp;given&nbsp;generator.</tt></dd></dl>
+
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__dict__</strong> = &lt;dictproxy object&gt;<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dl>
+
+<dl><dt><strong>__weakref__</strong> = &lt;attribute '__weakref__' of 'Xml' objects&gt;<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;<a href="__builtin__.html#object">object</a>&nbsp;(if&nbsp;defined)</tt></dl>
+
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>__version__</strong> = '1.2'</td></tr></table>
+</body></html>

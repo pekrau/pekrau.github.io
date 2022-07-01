@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Alla blogginlägg{% endblock %}
+
+{% block header %}
+<header class="row my-3">
+  <div class="col-lg-8 offset-lg-1">
+    {% block body_title %}<h1>Alla blogginlägg</h1>{% endblock %}
+  </div>
+  <div class="col">
+    {% block header_meta %}
+    <a href="/blog/en/">Posts in English</a>
+    <img src="/files/en.svg" width="32px">
+    {% endblock %}
+  </div>
+</header>
+{% endblock %}
+
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  {% include 'blog/posts_table.html' %}
+</section>
+{% endblock %}

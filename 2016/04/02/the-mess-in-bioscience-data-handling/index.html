@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta description=" | default('Om politik, vetenskap och kultur')">
+    <meta keywords="| default('politics, science, culture, Homo sapiens, evolution, liberalism')">
+    <meta author=" | default('Per Kraulis')">
+    <title>The mess in bioscience data handling</title>
+    <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/litera/bootstrap.min.css"
+          rel="stylesheet">
+    
+    
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/" title="Home">
+          <img src="/files/civilisation-icon.png" width="32" height="32">
+        </a>
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="blog"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Blogg
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="blog">
+                <li>
+                  <a class="dropdown-item" href="/blog/">Alla inlägg</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/en/">Posts in English</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/blog/tags/">Etiketter</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="sidor"
+                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Sidor
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="sidor">
+                
+                <li>
+                  <a class="dropdown-item" href="/alexander-dugin/">Alexander Dugin</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/djavulens-liberal/">Djävulens liberal</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/framtidens-dna/">Framtidens DNA</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/grundkurs-i-ateism/">Grundkurs i ateism</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/karl-popper/">Karl Popper</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/lista-av-bocker-och-andra-verk/">Böcker och andra verk</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/open-science/">Open Science</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/per-kraulis/">Per Kraulis</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/publikationer-i-andra-media/">Publikationer</a>
+                </li>
+                
+                <li>
+                  <a class="dropdown-item" href="/svenska-debatten-om-ryssland/">Ryssland</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/djavulens-liberal/">Djävulens liberal</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/karl-popper/">Karl Popper</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/publikationer-i-andra-media/">Publikationer</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/library/">Library</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/python">Python code</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/MolScript">MolScript</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/lectures">Lectures</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/per-kraulis">Per Kraulis</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search"
+                   placeholder="Sök" aria-label="Sök">
+            <button class="btn btn-secondary" type="submit">Sök</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      
+      <header class="row my-3">
+        <div class="col offset-lg-1">
+          
+<h1>The mess in bioscience data handling</h1>
+
+        </div>
+      </header>
+      
+
+      
+      <div class="row">
+
+        
+<section class="col-lg-6 offset-lg-1">
+  <p>Science is a social activity relying on knowledge sharing, reproducibility, reanalysis and extension of previous work. The movement towards <a href="https://en.wikipedia.org/wiki/Open_access">Open Access</a> publication and <a href="https://en.wikipedia.org/wiki/Open_science">Open Science</a> sharing of data and analysis protocols can be seen as a natural development of these ideals. Large data sets are essential to many scientific investigations and are sometimes the product of an investigation. The biosciences have fairly recently started producing large data sets. There are several well-funded international efforts maintaining focused bioscience data sets, such as genomes at <a href="http://www.ensembl.org/">Ensembl</a>, protein sequence data at <a href="http://www.uniprot.org/">UniProt</a>, and many others.</p>
+<p>Bioscience researchers are performing more Big Data experiments, but the various infrastructures available at the group, department, university and national levels are unable to cope. The situation for individual research groups is basically a mess. Various <em>ad hoc</em> solutions are being implemented, ultimately leading to a patchwork of systems that is becoming increasingly difficult for anyone to navigate. This also makes proper implementation of Open Science extremely hard, if not impossible.</p>
+<p>Let's take stock of where we are today. From a situation where each piece of data had to be laboriously obtained one experiment at a time, we are now able to perform experiments that produce large or very large data sets. This is perhaps most obvious in <a href="https://en.wikipedia.org/wiki/Molecular_biology">molecular biology</a> and <a href="https://en.wikipedia.org/wiki/Genetics">genetics</a>, where new technologies have resulted in the emergence of an entire field of science called <a href="https://en.wikipedia.org/wiki/Genomics">genomics</a>. In the 1980's a high-profile scientific paper could be based on the determination of the DNA sequence of a single gene (e.g. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=6298635">c-Ha-ras-1</a>, now called <a href="https://en.wikipedia.org/wiki/HRAS">HRAS</a>), one of the first cancer-related genes to be sequenced). Research groups spent months getting the complete sequence of maybe 5,000 bases or so for a single gene. Today, a high-end sequencing machine such as the <a href="http://www.illumina.com/systems/sequencing.html">Illumina HiSeq X</a> can produce 1,800,000,000,000 bases of DNA sequence in less than three days.</p>
+<p>Obviously, this creates new problems. One issue is that computing technology has not kept up with the break-neck speed of improvement. Sequencing technology has <a href="https://www.genome.gov/sequencingcosts/">improved at a rate substantially faster</a> than <a href="https://en.wikipedia.org/wiki/Moore%27s_law">Moore's law</a>. It is increasingly difficult to match scientific demands for new sequencing capacity with the infrastructure required to handle data storage and computation. In some cases, funding agencies appear to find new sequencing capacity to be more &quot;sexy&quot; than data storage, allocating grants for the one but not the other. In other cases, funding is allocated to both, but various bureaucratic convolutions during procurement may delay in delivery of systems, which leads to forced inactivity and frustration.</p>
+<p>A somewhat embarrassing example at the national level is <a href="http://snicdocs.nsc.liu.se/wiki/SweStore">SweStore</a> (also <a href="http://www.snic.vr.se/projects/swestore">here</a>). It is a Swedish national infrastructure that is described thus:</p>
+<blockquote class="blockquote ms-4">
+<p>The aim of the nationally accessible storage is to build a robust, flexible and expandable system that can be used in most cases where access to large scale storage is needed. To the user, it appear as a single large system, while it is desirable that some parts of the system are distributed to benefit from the advantages of, among other things, locality and cache effects. The system is intended as a versatile long-term storage system.</p>
+</blockquote>
+<p>Quote from the <a href="http://www.snic.vr.se/projects/swestore">SNIC page for SweStore</a>.</p>
+<p>Excellent! This sounds like what we need. Let's ignore the troubling fact that SweStore is classed as a &quot;project&quot; by SNIC, which implies that it will have an end. And never mind that the application process, the interface, and so on, has the usual user-hostile design one has come to associate with academic computing. A research group can always force an unfortunate Ph.D. student to struggle with those things. At least it appears that SweStore provides badly needed data storage resources.</p>
+<p>But wait! In the page of the first link it says (last checked 2 April 2016):</p>
+<blockquote class="blockquote ms-4">
+<p>Swestore currently has a lack of resources. New projects will not be allocated until Spring 2016. In case you have any questions, please contact the SNIC office (office@snic.se).</p>
+</blockquote>
+<p><strong>Not so excellent. The fact that this situation has even been permitted to occur shows that something in the Swedish science system is seriously broken. How can Swedish science be serious about Big Data if this is allowed to happen?</strong></p>
+<p>However, it's about more than just coping with the sheer amount of data.</p>
+<p>Scientists are asking why data sets and analysis protocols of other scientists should be so hard to find and retrieve. Data can be buried as essentially unusable PDF files attached to research publications. Data sets are sometimes available only upon request, or at web sites which disappear after some indeterminate time. Tax payers are wondering why they finance research which becomes available only through publications behind paywalls. The general public as well as the scientific community has reason to ask what is being done to combat the problem of shoddy and/or outright fraudulent science, a problem whose magnitude is larger than has been generally recognized.</p>
+<p><strong>It is clear that the response to these challenges should involve he application of the ideal of openness inherent to science. Scientific data, protocols as well as publication must be made available for general inspection and use. This is the main reason why the movement towards <a href="https://en.wikipedia.org/wiki/Open_access">Open Access</a> publication and <a href="https://en.wikipedia.org/wiki/Open_science">Open Science</a> sharing of data and analysis protocols is gaining traction.</strong></p>
+<p>The immediate problem faced by bioscience is one of finding storage space for the data it produces. My experience at the <a href="https://www.scilifelab.se/platforms/ngi/">National Genomics Infrastructure in Sweden</a> is that this problem is consuming a fair amount of the attention of the producers as well as end-users of data. We use facilities at <a href="http://www.uppmax.uu.se/">UPPMAX</a> which have been partly financed and designed specifically for our needs. The daily struggle to free up storage space to handle new data produced by the NGI sequencers fills a significant part of each working day. Some end-user scientists are experienced in computing and know how to deal with the data sets. Others are novices, and find it very hard to navigate the complexities of data handling. Although it is hard to gauge the problem, it is possible that at least some researchers decide to work with their data on local resources, such as a collection of desk-side terabyte disk drives. Anyone with any experience of how things usually are organized in individual research groups knows that this is a recipe for disaster.</p>
+<p>To conclude: The situation for data storage for bioscience in Sweden is a mess. This causes real problems for biomedical research, and is an impediment for the development of Open Science.</p>
+<p>What is to be done? In the near future, I intend to write about my vision for a useful and viable storage system in Sweden. Stay tuned.</p>
+
+</section>
+
+
+        
+<aside class="col-lg-3 offset-lg-2">
+
+  <ul class="list-group">
+    <li class="list-group-item">Publicerad 2016-04-02</li>
+    
+    <li class="list-group-item">
+      Föregående inlägg:
+      <a href="/2016/03/30/wagners-parsifal-holier-than-thou/">Wagner&#39;s Parsifal: holier-than-thou</a>
+    </li>
+    
+    
+    <li class="list-group-item">
+      Nästa inlägg:
+      <a href="/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/">What is important, and what is not, for bioscience data handling</a>
+    </li>
+    
+    <li class="list-group-item"><a href="/blog/">Alla inlägg</a></li>
+  </ul>
+
+  <div class="card mt-4">
+    <div class="card-header">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/big-data/">Big Data</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/data-storage/">data storage</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/life-science/">life science</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/open-access/">Open Access</a>
+      </li>
+      
+      <li class="list-group-item">
+        <a href="/blog/tags/open-science/">Open Science</a>
+      </li>
+      
+    </ul>
+  </div>
+
+</aside>
+
+
+      </div>
+      
+
+      <footer class="row">
+        <div class="col offset-lg-1">
+          <hr>
+          
+          
+        </div>
+      </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+    
+    
+  </body>
+</html>

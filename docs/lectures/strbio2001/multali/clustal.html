@@ -1,0 +1,173 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 5. A standard multiple alignment program: ClustalW</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="../index.html">Lecture notes: Structural biochemistry and bioinformatics 2001</A>
+
+<P ALIGN="RIGHT">
+Lecture 12 Nov 2001,
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="index.html">Multiple sequence alignments</A>
+</H2>
+
+<H1 ALIGN="CENTER">5. A standard multiple alignment program: ClustalW</H1>
+
+<P>
+From what we have learned in previous sections, doing a simultaneous
+N-wise alignment is not a realistic option if we have, say, 50
+sequences to align. What to do? The obvious alternative is to use a
+so-called <STRONG>progressive alignment method</STRONG>: The alignment
+is built up in stages where a new sequence is added to an existing
+alignment, using some rules to determine in which order the sequences
+should be added, and how.
+</P>
+
+<P>
+ClustalW
+(<A HREF="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7984417&dopt=Abstract">Thompson,
+Higgins &amp; Gibson, 1994</A>) is one of the standard programs
+implementing one variant of the progressive method in wide use today
+for multiple sequence alignment. The W denotes a specific version
+that has been developed from the original Clustal program.
+</P>
+
+<P>
+The basic steps of the algorithm implemented in ClustalW are:
+<OL>
+<LI>
+Compute the <STRONG>pairwise alignments</STRONG> for all against all
+sequences. The similarities are stored in a matrix (sequences versus
+sequences).
+<LI>
+Convert the sequence similarity matrix values to
+<STRONG>distance</STRONG> measures, reflecting evolutionary distance
+between each pair of sequences.
+<LI>
+Construct a tree (the so-called <STRONG>guide tree</STRONG>) for the
+order in which pairs of sequences are to be aligned and combined with
+previous alignments. This is done using a neighbour-joining clustering
+algorithm. In the case of ClustalW, a method by Saitou &amp; Nei is
+used. 
+<LI>
+<STRONG>Progressively align</STRONG> the sequences/alignments together
+into each branch point of the guide tree, starting with the least
+distant pairs of sequences. At each branch point, one must do either a
+sequence-sequence, sequence-profile, or profile-profile alignment. 
+</OL>
+</P>
+
+<P>
+Note that the original idea of using a simultaneous N-wise dynamic
+programming alignment method had the algorithmic complexity
+<STRONG>O(c<SUP>2n</SUP>)</STRONG>, whereas this method has something
+like <STRONG>O(n<SUP>2</SUP>)</STRONG> (which comes from the
+all-against-all pairwise comparison step).
+</P>
+
+<P>
+A number of rules (tricks, some would say) are used to increase the
+success rate of the procedure:
+<UL>
+<LI>
+Each sequence is weighted according to how different it is from the
+other sequences. This accounts for the case where one specific
+subfamily is overrepresented in the data set.
+<LI>
+The substitution matrix used for each alignment step depends on the
+similarity of the sequences (a somewhat circular argument, but what
+the hell...). 
+<LI>
+Position-specific gap-open penalties are modified according to residue
+type using empirical observations in a set of alignments based on 3D 
+structures. In general, hydrophobic residues have higher gap penalties
+than hydrophilic, since they are more likely to be in the hydrophobic
+core, where gaps should not occur.
+<LI>
+Gap-open penalties are decreased if the position is spanned by a
+consecutive stretch of five or more hydrophilic residues.
+<LI>
+Both gap-open and gap-extend penalties are increased if there are no
+gaps in a column, but gaps occur nearby in the alignment.
+<LI>
+The guide tree can in some circumstances be overriden, for instance by
+deferring joining two branches if they are too dissimilar, until more
+information has been added by processing other branches.
+</UL>
+</P>
+
+<P>
+There are some specific cases where ClustalW is know to <STRONG>have
+problems</STRONG>.
+<UL>
+<LI>
+If the sequences are <STRONG>similar only in some smaller
+regions</STRONG>, while the larger parts are not recognisably similar,
+then ClustalW may have problems aligning all sequences properly. This
+is because ClustalW tries to find global alignments, not local. In
+such a case, it may be wise to cut out the similar parts with some
+other tool (text editor).
+<LI>
+If one sequence contains a <STRONG>large insertion</STRONG> compared
+to the rest, then there may be problems, for much the same reason as
+the previous point. 
+<LI>
+If one sequence contains a <STRONG>repetitive element</STRONG> (such
+as a domain), while another sequence only contains one copy of the
+element, then ClustalW may split the single domain into two
+half-domains to try to align the first half with the first the domain
+in the first sequence, and the other half to the second domain in the
+first sequence. There are many proteins that contain multiple, very
+similar copies of a domain, so one should watch out for this.
+</UL>
+</P>
+
+<P>
+ClustalW is an example of an algorithm that has given up on trying to
+be perfect (because it takes too much time), and instead uses an
+approximation strategy, combined with more-or-less intelligent tricks
+that guide the computation towards a successful (but not necessarily
+optimal) result. This is called a <STRONG>heuristic
+algorithm</STRONG>.
+</P>
+
+<P>
+One important point to keep in mind is that since ClustalW is a
+heuristic algorithm, it cannot produce a solution that is guaranteed 
+to be optimal. But in practice, the results it produces are good
+enough, and one should perhaps worry more about the quality of the
+input data. For example, if one has sequences that are just barely
+significantly similar, one should worry more about if all of them
+really belong in the alignment at all, rather than if the alignment is
+perfect or not (which it in such a case almost certainly isn't).
+</P>
+
+<P>
+ClustalW has a number of parameters that the user can change. This
+will affect the exact manner in which the computation proceeds, and it
+may be useful to compare runs with different parameters; the
+near-perfect parameter set varies with the specific case.
+</P>
+
+<P>
+One shouldn't really be content with just ClustalW. There are other
+multiple-alignment software out there, and it is by no means clear
+that ClustalW is the best. It is usually very difficult to make good,
+unbiased comparisons between multiple-alignment software. And of
+course, one still has the basic problem of how to choose the
+objective criterion to determine what the best multiple alignment
+really is.
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/11/09 14:35:31 $
+</BODY>
+</HTML>

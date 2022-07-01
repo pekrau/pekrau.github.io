@@ -1,0 +1,78 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 4. Sequence profiles</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="index.html">Lecture notes:  Molecular Bioinformatics 2001,
+Uppsala University</A>
+
+<P ALIGN="RIGHT">
+Lecture 22 Jan 2001
+Per Kraulis
+</P>
+
+<H2 ALIGN="CENTER">
+<A HREF="hmm.html">Hidden Markov models</A>
+</H2>
+
+<H1 ALIGN="CENTER">4. Sequence profiles</H1>
+
+<P>
+Sequence patterns using regular expressions (such as PROSITE) have
+<STRONG>a problem with large multiple alignments</STRONG> of divergent 
+families: As more sequences are added, the probability that there will
+be even a few constant or even strongly conserved sites will
+diminish. <STRONG>There will always be an exception to the
+rule</STRONG>. In order to avoid missing a known member of a family,
+the regexp has to be made more general, but then the danger of
+including garbage increases. This is the typical
+sensitivity-specificity problem.
+</P>
+
+<P>
+There is another approach. <STRONG>Sequence profiles</STRONG>
+(<A HREF="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3474607&dopt=Abstract">Gribskov
+et al 1987</A>) are essentially patterns where <STRONG>each position
+in the sequence of the segment (or motif) has been assigned a
+probability</STRONG> value for each possible amino-acid residue
+type. Instead of requiring a yes/no response to the question "does the
+amino acid in the sequence fit the pattern?", we now get a response
+"it fits at a level of 0.9", or "it fits at level of 0.1". The idea is
+to make the process softer. Add together the soft responses to an
+overall sum and then make a decision. Don't make the decision at each
+comparison step.
+</P>
+
+<P>
+One can use <STRONG>an analogy</STRONG>: An exam for students can be
+designed so that a correct answer is required for each and every
+question in the exam, although each question may be fairly
+simple. This corresponds to the regular expression approach. Another
+type of exam gives points for each correct answer, sums up all points
+at the end, and decides whether the student has passed or not based on 
+the sum. This corresponds to profiles. A student may be unable to
+answer one particular question, but can make up for it by answering
+other questions correctly.
+</P>
+
+<P>
+This approach works as if a substitution matrix had been defined for
+each position in the sequence. This <STRONG>requires that the
+alignment contains many sequences</STRONG>, which should be as varied
+as the family really is. Good statistics is necessary. If some parts
+of the family tree are missing, then the profile will not give members
+from that part of the tree high scores. It is therefore common to add
+in information from a Dayhoff-type substitution matrix (or similar);
+this is like mixing a pure position-dependent matrix with a pure
+general substitution matrix.
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/01/22 12:14:20 $
+</BODY>
+</HTML>

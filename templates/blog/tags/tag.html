@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Etikett: {{ tag["value"] }}{% endblock%}
+
+{% block body_title %}<h1>Etikett: {{ tag["value"] }}</h1>{% endblock%}
+
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  {% include 'blog/posts_table.html' %}
+</section>
+{% endblock %}

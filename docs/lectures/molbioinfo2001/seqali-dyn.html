@@ -1,0 +1,140 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: 3. Algorithm for sequence alignment: dynamic
+programming</TITLE> 
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<A HREF="http://www.sbc.su.se/">Stockholm Bioinformatics Center, SBC</A>
+<BR>
+<A HREF="index.html">Lecture notes, main page</A>
+
+<P ALIGN="RIGHT">
+Lecture notes 19 Jan 2001
+Per Kraulis
+</P>
+
+<H1 ALIGN="CENTER">3. Algorithm for sequence alignment: dynamic
+programming</H1> 
+
+<P>
+Making an alignment by hand is possible, but tedious. In some cases,
+when one has a lot of information about the proteins, such as active
+site residues, secondary structure, 3D structure, mutations, etc, it
+may still be necessary to make a manual alignment (or at least edit an
+alignment) to fit all the data. The available automatic methods may
+not be able to produce a good enough alignment in such cases.
+</P>
+
+<P>
+Of course, we would like to have a completely automatic method to
+perform sequence alignment. The method of choice is based on so-called
+<STRONG>dynamic programming</STRONG>, which is a general algorithm for
+solving certain optimization problems. The word "programming" does not
+mean that it has to be a computer program; this is just mathematical
+jargon for using a fixed set of rules to arrive at a solution.
+</P>
+
+<P>
+For any automatic method to work, we need to be explicit about the
+assumptions that should go into it. We therefore need to have an
+explicit scheme for the gap penalties and for the substitution matrix
+(see the <A HREF="seqali-def.html">previous page</A>). The chosen gap
+penalties and substitution matrices are often collectively called the
+<STRONG>scoring scheme</STRONG>.
+</P>
+
+<P>
+There are clearly many different possible scoring schemes. One may
+also complicate things further by allowing position-specific scores:
+If one knows from other sources (3D structure) that a gap should 
+absolutely not be allowed in a certain part of a sequence, then the
+gap-open penalty could be set to a very high value in that part.
+</P>
+
+<P>
+Given a scoring scheme, how does an alignment algorithm work? Let us
+use the classical <STRONG>Needleman-Wunsch-Sellers</STRONG> algorithm
+to demonstrate how a dynamic-programming algorithm can work. Please
+note that there are other variants of dynamic programming in sequence
+analysis.
+</P>
+
+<P>
+The Needleman-Wunsch-Sellers algorithm sets up a matrix where each
+sequence is placed along the sides of the matrix. Each element in the
+matrix represents the two residues of the sequences being aligned at
+that position. To calculate the score in every position
+(<STRONG>i</STRONG>, <STRONG>j</STRONG>) one looks at the alignment
+that has already been made up to that point, and finds the best way to 
+continue. Having gone through the entire matrix in this way, one can
+go back and trace which way through the matrix gives the best alignment.
+</P>
+
+<P>
+Let us use the following gap-penalty function, where
+<STRONG>k</STRONG> is the length of the gap,
+<STRONG>c<SUB>open</SUB></STRONG> the gap-open penalty constant, and 
+<STRONG>c<SUB>length</SUB></STRONG> the gap-length penalty constant:
+</P>
+<P ALIGN="CENTER">
+W(k) = c<SUB>open</SUB> + c<SUB>length</SUB> * k
+</P>
+<P>
+The formulat describing the Needleman-Wunsch-Sellers method is
+recursive, and for the position (<STRONG>i</STRONG>,
+<STRONG>j</STRONG>) is as follows, where <STRONG>D</STRONG> is value
+of element (<STRONG>i</STRONG>, <STRONG>j</STRONG>) in the matrix and 
+<STRONG>subst</STRONG> is the substitution matrix:
+</P>
+
+<TABLE ALIGN="CENTER">
+
+<TR>
+<TD ROWSPAN=3>D<SUB>i, j</SUB> = max { </TD>
+<TD>
+D<SUB>i - 1, j - 1</SUB> + subst(A<SUB>i</SUB>, B<SUB>j</SUB>)
+</TD>
+</TR>
+
+<TR>
+<TD>
+D<SUB>i - 1, j - k</SUB> + W(k) (where k = 1, ..., j - 1)
+</TD>
+</TR>
+
+<TR>
+<TD>
+D<SUB>i - k, j - 1</SUB> + W(k) (where k = 1, ..., i - 1)
+</TD>
+</TR>
+
+</TABLE>
+
+<P>
+After one has applied this to the matrix, one finds the optimal
+alignment by tracing backwards from the diagonal element backwards to
+the previous highest value, and so on.
+</P>
+
+<P>
+I have found a good tutorial describing dynamic programming for
+sequence alignment of the Needleman-Wunsch variant. The tutorial
+was written by <STRONG>Eric C. Rouchka</STRONG> (Washington University
+in St. Louis), and walks through an example in detail.
+<OL>
+<LI> <A HREF="dynprog/dynamic.html">Dynamic programming, a simple
+variant</A>, with no gap penalties and a simple substitution scoring
+scheme. 
+<LI> <A HREF="dynprog/adv_dynamic.html">Dynamic programming, a more
+advanced variant</A>, with gap penalties and a slightly more
+complicated substitution scoring scheme.
+</OL>
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/01/18 08:56:28 $
+</BODY>
+</HTML>

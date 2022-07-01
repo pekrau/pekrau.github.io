@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block head_title %}{{ page['title'] }}{% endblock%}
+
+{% block body_title %}
+<h1>{{ page['title'] }}</h1>
+{% endblock%}
+
+{% block main_section %}
+<section class="col-lg-8 offset-lg-1">
+  {{ page['html'] | safe }}
+</section>
+{% endblock %}

@@ -1,0 +1,222 @@
+<HTML>
+<HEAD>
+<TITLE>Lecture notes: Sequence alignment</TITLE>
+</HEAD>
+<BODY BGCOLOR="WHITE">
+
+<H1 ALIGN="CENTER">The 20 common amino acids</H1>
+
+<TABLE BORDER CELLPADDING=2>
+
+<TR>
+<TH>Name</TH>
+<TH>Formula (note 1)</TH>
+<TH>Three- letter code</TH>
+<TH>Single-letter code</TH>
+<TH>Occurrence in proteins (%) (note 2)</TH>
+<TH>Properties</TH>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Glycine</TD>
+<TD><IMG SRC="C00037.gif"></TD>
+<TD>Gly</TD>
+<TD>G</TD>
+<TD>7.2</TD>
+<TD>small, flexible, nonpolar</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Alanine</TD>
+<TD><IMG SRC="C00041.gif"></TD>
+<TD>Ala</TD>
+<TD>A</TD>
+<TD>7.8</TD>
+<TD>small, hydrophobic, nonpolar</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Serine</TD>
+<TD><IMG SRC="C00065.gif"></TD>
+<TD>Ser</TD>
+<TD>S</TD>
+<TD>6.8</TD>
+<TD>small, hydrophilic, hydrogen-bonding</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Threonine</TD>
+<TD><IMG SRC="C00188.gif"></TD>
+<TD>Thr</TD>
+<TD>T</TD>
+<TD>5.9</TD>
+<TD>hydrophilic, hydrogen-bonding</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Proline</TD>
+<TD><IMG SRC="C00148.gif"></TD>
+<TD>Pro</TD>
+<TD>P</TD>
+<TD>5.2</TD>
+<TD>hydrophobic, rigid</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Valine</TD>
+<TD><IMG SRC="C00183.gif"></TD>
+<TD>Val</TD>
+<TD>V</TD>
+<TD>6.6</TD>
+<TD>hydrophobic</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Leucine</TD>
+<TD><IMG SRC="C00123.gif"></TD>
+<TD>Leu</TD>
+<TD>L</TD>
+<TD>9.1</TD>
+<TD>large, hydrophobic</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Isoleucine</TD>
+<TD><IMG SRC="C00407.gif"></TD>
+<TD>Ile</TD>
+<TD>I</TD>
+<TD>5.3</TD>
+<TD>large, hydrophobic</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Methionine</TD>
+<TD><IMG SRC="C00073.gif"></TD>
+<TD>Met</TD>
+<TD>M</TD>
+<TD>2.3</TD>
+<TD>large, hydrophobic, pot. metal binder (Fe, Zn,...)</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Cysteine</TD>
+<TD><IMG SRC="C00097.gif"></TD>
+<TD>Cys</TD>
+<TD>C</TD>
+<TD>1.9</TD>
+<TD>hydrophobic, forms disulfide bridges, pot. metal binder (Zn, Fe,...)</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Aspartic acid (Aspartate)</TD>
+<TD><IMG SRC="C00049.gif"></TD>
+<TD>Asp</TD>
+<TD>D<P>"Aspar<U>d</U>ate"</TD>
+<TD>5.3</TD>
+<TD>hydrophilic, acidic, negative charge, pot. metal binder (Ca,
+Mg,...)</TD> 
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Glutamic acid (Glutamate)</TD>
+<TD><IMG SRC="C00025.gif"></TD>
+<TD>Glu</TD>
+<TD>E<P>"Glutamat<U>e</U>"</TD>
+<TD>6.3</TD>
+<TD>large, hydrophilic, acidic, negative charge, pot. metal binder
+(Ca, Mg,...)</TD> 
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Asparagine</TD>
+<TD><IMG SRC="C00152.gif"></TD>
+<TD>Asn</TD>
+<TD>N<P>"Asparagi<U>n</U>e"</TD>
+<TD>4.3</TD>
+<TD>hydrophilic, polar, hydrogen bonding</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Glutamine</TD>
+<TD><IMG SRC="C00064.gif"></TD>
+<TD>Gln</TD>
+<TD>Q<P>"<U>Q</U>ue?"</TD>
+<TD>4.2</TD>
+<TD>large, hydrophilic, polar, hydrogen bonding</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Arginine</TD>
+<TD><IMG SRC="C00062.gif"></TD>
+<TD>Arg</TD>
+<TD>R<P>"A<U>r</U>ginine"</TD>
+<TD>5.1</TD>
+<TD>large, hydrophilic, basic, positive charge</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Lysine</TD>
+<TD><IMG SRC="C00047.gif"></TD>
+<TD>Lys</TD>
+<TD>K<P>"basi<U>k</U>"</TD>
+<TD>5.9</TD>
+<TD>large, hydrophilic, basic, positive charge</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Histidine</TD>
+<TD><IMG SRC="C00135.gif"></TD>
+<TD>His</TD>
+<TD>H</TD>
+<TD>2.3</TD>
+<TD>hydrophilic, intermediate pKa, proton shuttle, pot. metal binder
+(Fe, Zn,...)</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Phenylalanine</TD>
+<TD><IMG SRC="C00079.gif"></TD>
+<TD>Phe</TD>
+<TD>F<P>"<U>F</U>enyl..."</TD>
+<TD>3.9</TD>
+<TD>large, hydrophobic</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Tyrosine</TD>
+<TD><IMG SRC="C00082.gif"></TD>
+<TD>Tyr</TD>
+<TD>Y<P>"T<U>y</U>rosine"</TD>
+<TD>3.2</TD>
+<TD>large, hydrophobic, hydrogen bonding, slightly acidic</TD>
+</TR>
+
+<TR ALIGN="CENTER">
+<TD>Tryptophan</TD>
+<TD><IMG SRC="C00078.gif"></TD>
+<TD>Trp</TD>
+<TD>W<P>"t<U>w</U>o rings"</TD>
+<TD>1.4</TD>
+<TD>large, hydrophobic, hydrogen bonding</TD>
+</TR>
+
+</TABLE>
+
+<P>
+<STRONG>Notes</STRONG>:
+<OL>
+<LI> The formula images are taken from the
+<A HREF="http://www.genome.ad.jp/dbget/ligand.html">LIGAND
+database</A> in
+<A HREF="http://www.genome.ad.jp/kegg/">KEGG</A>.
+<LI> Values from R.F. Doolittle (1989), calculated from 1150 protein
+sequences. 
+</OL>
+</P>
+
+<HR>
+Copyright &copy; 2001
+Per Kraulis
+$Date: 2001/01/19 13:18:15 $
+</BODY>
+</HTML>
