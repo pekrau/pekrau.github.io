@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head_title %}{{ author }}{% endblock %}
+
+{% block body_title %}<h1>{{ author }}</h1></h3>
+{% endblock %}
+
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  {% include 'library/books_table.html' %}
+</section>
+{% endblock %}
+
+{% block javascript %}
+{% include 'datatables.js.html' %}
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "asc"]],
+    });
+  });
+</script>
+{% endblock %}

@@ -1,8 +1,9 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.3.0"
+__version__ = "0.4.0"
 
-
+import csv
+import json
 import os
 import os.path
 import re
@@ -16,21 +17,34 @@ import yaml
 
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
 
-POSTS = []                # sorted by date
-PAGES = []
+POSTS = []                # List of posts sorted by date.
+PAGES = []                # List of pages.
 TAGS = {}                 # key: tag name; value: dict(name, value, posts)
 CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
-BOOKS = []
-BOOKS_LOOKUP = {}         # key: "{lastname} {published}", optional resolving suffix
-HTML_FILES = set()        # All files created during a run.
+BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
+AUTHORS = {}              # key: name; value: canonical name
+HTML_FILES = set()        # All HTML files created during a run.
 
 
 # The Jinja2 template processing environment.
+def author_link(author):
+    return f"""<a href="/library/authors/{author}.html">{author}</a>"""
+
+def authors_links(book):
+    return "; ".join([author_link(a) for a in book["authors"]])
+
+def book_link(book):
+    return f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>"""
+
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
     autoescape=jinja2.select_autoescape(['html'])
 )
+env.globals["author_link"] = author_link
+env.globals["authors_links"] = authors_links
+env.globals["book_link"] = book_link
 env.globals["len"] = len
+env.globals["sorted"] = sorted
 
 
 class HTMLRenderer(marko.html_renderer.HTMLRenderer):
@@ -97,21 +111,77 @@ def read_pages():
     PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))
 
 def read_books():
-    "Read all Markdown files for books."
-    for filename in os.listdir("source/books"):
-        if filename.endswith("~"): continue
-        BOOKS.append(read_md(os.path.join("source/books", filename)))
-    # Set the key for the book, if not already set.
-    for book in BOOKS:
-        if "key" not in book:
+    "Read the Goodreads dump CSV file and apply any corrections."
+    # Read lookup table of canonical author names.
+    with open("source/authors_canonical.csv") as infile:
+        reader = csv.DictReader(infile)
+        for row in reader:
+            AUTHORS[row["name"]] = row["canonical"]
+
+    non_subjects = set(["currently-reading", "to-read", "read"])
+    with open("source/goodreads_library_export.csv") as infile:
+        reader = csv.DictReader(infile)
+        for row in reader:
+            book = {
+                "title": row["Title"],
+                "goodreads": row["Book Id"],
+                "isbn": row["ISBN13"].lstrip("=").strip('"') or row["ISBN"].lstrip("=").strip('"'),
+                "published": row["Original Publication Year"] or row["Year Published"],
+                "edition": {"published": row["Year Published"],
+                            "publisher": row["Publisher"]}
+            }
+            book["authors"] = [row["Author l-f"]]
             lastname = book["authors"][0].split(",")[0].strip()
             book["key"] = f"{lastname} {book['published']}"
-        BOOKS_LOOKUP.setdefault(book["key"], []).append(book)
-    for key, books in BOOKS_LOOKUP.items():
-        if len(books) > 1:
-            print(key)
-            for book in books:
-                print("  ", book["goodreads"], book["title"])
+            for name in row["Additional Authors"].split(","):
+                name = name.strip()
+                if not name: continue
+                parts = name.split()
+                lastname = parts[-1]
+                firstname = " ".join(parts[0:-1])
+                book["authors"].append(f"{lastname}, {firstname}")
+            book["subjects"] = []
+            subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
+            for subject in set(subjects).difference(non_subjects):
+                book["subjects"].append(subject.replace("-", " ").capitalize())
+            if row["My Rating"] and row["My Rating"] != "0":
+                book["rating"] = int(row["My Rating"])
+            if row["My Review"]:
+                book["html"] = MARKDOWN.convert(row["My Review"].strip('"').replace("<br/>", "\n"))
+
+            # Read any corrections file for the book.
+            try:
+                with open(f"source/corrections/{book['goodreads']}.json") as infile:
+                    book.update(json.load(infile))
+            except IOError:
+                pass
+            if book["key"] in BOOKS:
+                raise ValueError(f"more than one book for {key}")
+            BOOKS[book["key"]] = book
+
+            # Normalize author names; do after corrections!
+            for pos, author in enumerate(book["authors"]):
+                author = author.replace(".", "").strip().rstrip(",")
+                book["authors"][pos] =  AUTHORS.get(author, author)
+
+    # Check the validity of book data.
+    isbns = set()
+    keys = dict()
+    for book in BOOKS.values():
+        if not book.get("published"):
+            print(">>> lacking published:", book["goodreads"], book["title"])
+        if not book["isbn"]:
+            print(">>> lacking ISBN:", book["goodreads"], book["title"])
+        if book["isbn"] in isbns:
+            print(">>> duplicate isbn:", book["goodreads"], book["title"])
+        elif book["isbn"]:
+            isbns.add(book["isbn"])
+        key = book["key"]
+        if key in keys:
+            print(">>> duplicate key:", book["goodreads"], book["title"])
+            print("                  ", keys[key]["goodreads"], keys[key]["title"])
+        else:
+            keys[key] = book
 
 def build_index():
     "Build the top index.html file."
@@ -133,14 +203,14 @@ def build_blog():
     build_html("blog/en/index.html", "blog/en/index.html", posts=en_posts)
     for post in POSTS:
         build_html(os.path.join(post["path"].strip("/"), "index.html"),
-                   template_filepath="blog/post.html", 
+                   template="blog/post.html", 
                    post=post,
                    language=post.get("language", "sv"))
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
     build_html("blog/tags/index.html", tags=tags)
     for tag in tags:
         build_html(os.path.join("blog/tags", tag["name"], "index.html"),
-                   template_filepath="blog/tags/tag.html",
+                   template="blog/tags/tag.html",
                    tag=tag,
                    posts=tag["posts"])
     categories = sorted(CATEGORIES.values(), key=lambda c: c["value"].lower())
@@ -151,34 +221,44 @@ def build_pages():
     for page in PAGES:
         if page.get("predefined"): continue
         build_html(os.path.join(page["path"].strip("/"), "index.html"),
-                   template_filepath="page.html", 
+                   template="page.html", 
                    page=page,
                    language=page.get("language", "sv"))
 
 def build_books():
     "Build book files."
-    books = list(sorted(BOOKS, key=lambda b: (b["authors"], b["published"])))
+    books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
+                        key=lambda b: b["key"]))
     build_html("library/index.html", books=books)
-    for book in BOOKS:
-        if not book.get("isbn"): continue
+    for book in books:
         build_html(f"library/{book['isbn']}.html",
-                   template_filepath="library/book.html",
+                   template="library/book.html",
                    book=book)
+    authors = {}
+    for book in books:
+        for author in book["authors"]:
+            authors.setdefault(author, []).append(book)
+    build_html("library/authors/index.html", authors=authors)
+    for author, books in authors.items():
+        build_html(f"library/authors/{author}.html",
+                   template="library/authors/author.html",
+                   author=author,
+                   books=books)
 
-def build_html(html_filepath, template_filepath=None, pages=None, **kwargs):
+def build_html(filepath, template=None, pages=None, **kwargs):
     "Build a single HTML page from the data for an item."
-    if template_filepath is None:
-        template_filepath = html_filepath
+    if template is None:
+        template = filepath
     if pages is None:
         pages = PAGES
-    template = env.get_template(template_filepath)
-    html_filepath = os.path.join("docs", html_filepath)
-    dirpath = os.path.dirname(html_filepath)
+    template = env.get_template(template)
+    filepath = os.path.join("docs", filepath)
+    dirpath = os.path.dirname(filepath)
     if dirpath and not os.path.exists(dirpath):
         os.makedirs(dirpath)
-    with open(html_filepath, "w") as outfile:
+    with open(filepath, "w") as outfile:
         outfile.write(template.render(pages=pages, **kwargs))
-    HTML_FILES.add(html_filepath)
+    HTML_FILES.add(filepath)
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
