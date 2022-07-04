@@ -6,14 +6,14 @@
     <meta description=" | default('Om politik, vetenskap och kultur')">
     <meta keywords="| default('politics, science, culture, Homo sapiens, evolution, liberalism')">
     <meta author=" | default('Per Kraulis')">
-    <title>Poland Prepares for Russian Invasion</title>
+    <title>Kategori: Computing</title>
     <link href="/files/civilisation-icon.png" type="image/png" rel="shortcut icon">
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/litera/bootstrap.min.css"
           rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
           rel="stylesheet">
-    
-    
+    <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
+          rel="stylesheet">
   </head>
 
   <body>
@@ -43,7 +43,7 @@
                   <a class="dropdown-item" href="/blog/en/">Posts in English</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/categories/">Alla teman</a>
+                  <a class="dropdown-item" href="/blog/categories/">Alla kategorier</a>
                 </li>
                 <li>
                   <a class="dropdown-item" href="/blog/tags/">Alla etiketter</a>
@@ -183,10 +183,7 @@
       
       <header class="row my-3">
         <div class="col offset-lg-1">
-          
-<h1>Poland Prepares for Russian Invasion</h1>
-<h3 class="text-muted">2014-10-30</h3>
-
+          <h1>Kategori: Computing</h1>
         </div>
       </header>
       
@@ -195,41 +192,55 @@
       <div class="row">
 
         
-<section class="col-lg-6 offset-lg-1">
-  <p>Chilling observations from the horizon of Poland.</p>
+<section class="col-lg-10 offset-lg-1">
+  
 
+<table id="table" class="table table-sm table-hover display compact">
+  <thead>
+    <tr>
+      <th title="Date">Datum</th>
+      <th title="Post">Inlägg</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td class="text-nowrap">2016-06-21</td>
+      <td><a href="/2016/06/21/a-researchers-view-of-data-handling-for-life-science/">A researcher&#39;s view of data handling for life science</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2016-04-04</td>
+      <td><a href="/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/">What is important, and what is not, for bioscience data handling</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2016-04-02</td>
+      <td><a href="/2016/04/02/the-mess-in-bioscience-data-handling/">The mess in bioscience data handling</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2015-01-31</td>
+      <td><a href="/2015/01/31/darfor-ar-koer-oundvikliga/">Därför är köer oundvikliga</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2015-01-31</td>
+      <td><a href="/2015/01/31/why-queues-are-inevitable/">Why queues are inevitable</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2014-11-03</td>
+      <td><a href="/2014/11/03/molscript-a-story-of-success-and-failure/">MolScript: A story of success and failure</a></td>
+    </tr>
+    
+  </tbody>
+</table>
 </section>
 
 
         
-<aside class="col-lg-3 offset-lg-2">
-
-  <ul class="list-group">
-    
-    <li class="list-group-item">
-      Föregående inlägg:
-      <a href="/2014/09/22/nej-fri-invandring-ar-ingen-mansklig-rattighet/">Nej, fri invandring är ingen mänsklig rättighet</a>
-    </li>
-    
-    
-    <li class="list-group-item">
-      Nästa inlägg:
-      <a href="/2014/11/03/molscript-a-story-of-success-and-failure/">MolScript: A story of success and failure</a>
-    </li>
-    
-  </ul>
-
-  <div class="card mt-3">
-    <div class="card-header" title="Tags">
-      Etiketter
-    </div>
-    <ul class="list-group list-group-flush">
-      
-    </ul>
-  </div>
-
-</aside>
-
+        
 
       </div>
       
@@ -246,7 +257,19 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
     
-    
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "desc"]],
+    });
+  });
+</script>
+
   </body>
 </html>

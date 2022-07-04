@@ -1,7 +1,6 @@
 ---
+language: en
 categories:
-- name: in-english
-  value: In English
 - name: kultur
   value: Kultur
 - name: politik

@@ -21,3 +21,15 @@
   {% include 'blog/posts_table.html' %}
 </section>
 {% endblock %}
+
+{% block javascript %}
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "desc"]],
+    });
+  });
+</script>
+{% endblock %}

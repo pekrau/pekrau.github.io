@@ -1,39 +1,31 @@
 {% extends 'base.html' %}
 
-{% block css %}
-{% include 'datatables.css.html' %}
-{% endblock %}
+{% block head_title %}Alla kategorier{% endblock%}
 
-{% block head_title %}Alla teman{% endblock%}
+{% block body_title %}<h1>Alla kategorier</h1>{% endblock%}
 
-{% block body_title %}<h1>Alla teman</h1>{% endblock%}
-
-{% block main %}
-<div class="row">
-  <section class="col-lg-10 offset-lg-1">
-    <table id="table"
-           class="table table-sm table-borderless table-hover display compact">
-      <thead>
-        <tr>
-          <th>Teman</th>
-          <th>Antal inlägg</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for category in categories  %}
-        <tr>
-          <td><a href="/blog/categories/{{ category['name'] }}/">{{ category['value'] }}</a></td>
-          <td>{{ len(category['posts']) }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </section>
-</div>
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  <table id="table" class="table table-sm table-hover">
+    <thead>
+      <tr>
+        <th>Kategori</th>
+        <th>Antal inlägg</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for category in categories  %}
+      <tr>
+        <td><a href="/blog/categories/{{ category['name'] }}/">{{ category['value'] }}</a></td>
+        <td>{{ len(category['posts']) }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
 {% endblock %}
 
 {% block javascript %}
-{% include 'datatables.js.html' %}
 <script>
   $(function() {
     $("#table").DataTable( {

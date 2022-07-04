@@ -1,9 +1,8 @@
 ---
+language: en
 categories:
 - name: computing
   value: Computing
-- name: in-english
-  value: In English
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-01-31'

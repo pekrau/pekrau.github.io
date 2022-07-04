@@ -12,8 +12,8 @@
           rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
           rel="stylesheet">
-    
-    
+    <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
+          rel="stylesheet">
   </head>
 
   <body>
@@ -43,7 +43,7 @@
                   <a class="dropdown-item" href="/blog/en/">Posts in English</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/categories/">Alla teman</a>
+                  <a class="dropdown-item" href="/blog/categories/">Alla kategorier</a>
                 </li>
                 <li>
                   <a class="dropdown-item" href="/blog/tags/">Alla etiketter</a>
@@ -195,24 +195,26 @@
 <section class="col-lg-10 offset-lg-1">
   
 
-<table class="table table-borderless table-sm">
-  
-  <tr>
-    <td class="text-nowrap">2017-04-30</td>
-    <td>
-      <a href="/2017/04/30/vardelosa-forklaringar/">Värdelösa förklaringar</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2016-03-25</td>
-    <td>
-      <a href="/2016/03/25/marie-demkers-trippelfel-efter-bryssel/">Marie Demkers trippelfel efter Bryssel</a>
-      
-    </td>
-  </tr>
-  
+<table id="table" class="table table-sm table-hover display compact">
+  <thead>
+    <tr>
+      <th title="Date">Datum</th>
+      <th title="Post">Inlägg</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td class="text-nowrap">2017-04-30</td>
+      <td><a href="/2017/04/30/vardelosa-forklaringar/">Värdelösa förklaringar</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2016-03-25</td>
+      <td><a href="/2016/03/25/marie-demkers-trippelfel-efter-bryssel/">Marie Demkers trippelfel efter Bryssel</a></td>
+    </tr>
+    
+  </tbody>
 </table>
 </section>
 
@@ -235,7 +237,19 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
     
-    
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "desc"]],
+    });
+  });
+</script>
+
   </body>
 </html>

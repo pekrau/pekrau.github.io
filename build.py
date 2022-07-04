@@ -215,6 +215,12 @@ def build_blog():
                    posts=tag["posts"])
     categories = sorted(CATEGORIES.values(), key=lambda c: c["value"].lower())
     build_html("blog/categories/index.html", categories=categories)
+    for category in categories:
+        build_html(f"blog/categories/{category['name']}/index.html",
+                   template="blog/categories/category.html",
+                   category=category,
+                   posts=category["posts"])
+
 
 def build_pages():
     "Build page files."
