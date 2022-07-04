@@ -4,14 +4,7 @@
 
 {% block body_title %}
 <h1>{{ book["title"] }}</h1>
-<h3>
-  {% for author in book['authors'] %}
-  {{ author }}
-  {% if author != book['authors'][-1] %}
-  ;
-  {% endif %}
-  {% endfor %}
-</h3>
+<h3>{{ authors_links(book) | safe }}</h3>
 {% endblock %}
 
 {% block main_section %}
