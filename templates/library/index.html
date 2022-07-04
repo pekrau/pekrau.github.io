@@ -9,16 +9,3 @@
   {% include 'library/books_table.html' %}
 </section>
 {% endblock %}
-
-{% block javascript %}
-{% include 'datatables.js.html' %}
-<script>
-  $(function() {
-    $("#table").DataTable( {
-        "pagingType": "full_numbers",
-        "pageLength": 25,
-        "order": [[0, "asc"]],
-    });
-  });
-</script>
-{% endblock %}

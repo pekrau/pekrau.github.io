@@ -1,7 +1,4 @@
 ---
-categories:
-- name: uncategorized
-  value: Uncategorized
 date: '2016-09-21'
 link: https://kraulis.wordpress.com/2016/09/21/abisko-2016/
 name: abisko-2016

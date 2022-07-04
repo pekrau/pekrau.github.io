@@ -6,25 +6,12 @@
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  <table class="table table-borderless table-sm">
+  <table class="table table-sm">
     {% for author, books in sorted(authors.items()) %}
     <tr>
-    <td><a href="/library/authors/{{ author }}.html">{{ author }}</a></td>
-  </tr>
-  {% endfor %}
-</table>
+      <td><a href="/library/authors/{{ author }}.html">{{ author }}</a></td>
+    </tr>
+    {% endfor %}
+  </table>
 </section>
-{% endblock %}
-
-{% block javascript %}
-{% include 'datatables.js.html' %}
-<script>
-  $(function() {
-    $("#table").DataTable( {
-        "pagingType": "full_numbers",
-        "pageLength": 25,
-        "order": [[0, "asc"]],
-    });
-  });
-</script>
 {% endblock %}

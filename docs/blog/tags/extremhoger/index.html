@@ -12,8 +12,8 @@
           rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
           rel="stylesheet">
-    
-    
+    <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
+          rel="stylesheet">
   </head>
 
   <body>
@@ -43,7 +43,7 @@
                   <a class="dropdown-item" href="/blog/en/">Posts in English</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/blog/categories/">Alla teman</a>
+                  <a class="dropdown-item" href="/blog/categories/">Alla kategorier</a>
                 </li>
                 <li>
                   <a class="dropdown-item" href="/blog/tags/">Alla etiketter</a>
@@ -195,88 +195,66 @@
 <section class="col-lg-10 offset-lg-1">
   
 
-<table class="table table-borderless table-sm">
-  
-  <tr>
-    <td class="text-nowrap">2018-07-05</td>
-    <td>
-      <a href="/2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/">Djävulens liberal: Per Svensson har svårt att förstå</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2014-08-11</td>
-    <td>
-      <a href="/2014/08/11/hans-ruins-heidegger-chock/">Hans Ruins Heidegger-chock</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2014-05-28</td>
-    <td>
-      <a href="/2014/05/28/sa-ser-den-moderna-nazismen-ut/">Så ser den moderna nazismen ut</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2014-05-11</td>
-    <td>
-      <a href="/2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/">Roland Poirier Martinssons spegelbild av vänsterns trams om våld</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2014-05-10</td>
-    <td>
-      <a href="/2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/">Antiliberalen Alexander Dugin: Vem är han?</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2013-11-11</td>
-    <td>
-      <a href="/2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/">Hans Ruins slingerbultar om Heidegger och nazismen</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2013-11-04</td>
-    <td>
-      <a href="/2013/11/04/filosofen-wagner-och-nazismen-del-2/">Filosofen, Wagner och nazismen, del 2</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2013-10-23</td>
-    <td>
-      <a href="/2013/10/23/filosofen-wagner-och-nazismen/">Filosofen, Wagner och nazismen</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2013-06-11</td>
-    <td>
-      <a href="/2013/06/11/isaiah-berlin-om-nationalismen/">Isaiah Berlin om nationalismen</a>
-      
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="text-nowrap">2012-12-01</td>
-    <td>
-      <a href="/2012/12/01/sd-fascismen-och-framtiden/">SD, fascismen och framtiden</a>
-      
-    </td>
-  </tr>
-  
+<table id="table" class="table table-sm table-hover display compact">
+  <thead>
+    <tr>
+      <th title="Date">Datum</th>
+      <th title="Post">Inlägg</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td class="text-nowrap">2018-07-05</td>
+      <td><a href="/2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/">Djävulens liberal: Per Svensson har svårt att förstå</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2014-08-11</td>
+      <td><a href="/2014/08/11/hans-ruins-heidegger-chock/">Hans Ruins Heidegger-chock</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2014-05-28</td>
+      <td><a href="/2014/05/28/sa-ser-den-moderna-nazismen-ut/">Så ser den moderna nazismen ut</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2014-05-11</td>
+      <td><a href="/2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/">Roland Poirier Martinssons spegelbild av vänsterns trams om våld</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2014-05-10</td>
+      <td><a href="/2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/">Antiliberalen Alexander Dugin: Vem är han?</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2013-11-11</td>
+      <td><a href="/2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/">Hans Ruins slingerbultar om Heidegger och nazismen</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2013-11-04</td>
+      <td><a href="/2013/11/04/filosofen-wagner-och-nazismen-del-2/">Filosofen, Wagner och nazismen, del 2</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2013-10-23</td>
+      <td><a href="/2013/10/23/filosofen-wagner-och-nazismen/">Filosofen, Wagner och nazismen</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2013-06-11</td>
+      <td><a href="/2013/06/11/isaiah-berlin-om-nationalismen/">Isaiah Berlin om nationalismen</a></td>
+    </tr>
+    
+    <tr>
+      <td class="text-nowrap">2012-12-01</td>
+      <td><a href="/2012/12/01/sd-fascismen-och-framtiden/">SD, fascismen och framtiden</a></td>
+    </tr>
+    
+  </tbody>
 </table>
 </section>
 
@@ -299,7 +277,19 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
     
-    
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "desc"]],
+    });
+  });
+</script>
+
   </body>
 </html>

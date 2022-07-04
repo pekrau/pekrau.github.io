@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Kategori: {{ category["value"] }}{% endblock%}
+
+{% block body_title %}<h1>Kategori: {{ category["value"] }}</h1>{% endblock%}
+
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  {% include 'blog/posts_table.html' %}
+</section>
+{% endblock %}
+
+{% block javascript %}
+<script>
+  $(function() {
+    $("#table").DataTable( {
+        "pagingType": "full_numbers",
+        "pageLength": 25,
+        "order": [[0, "desc"]],
+    });
+  });
+</script>
+{% endblock %}

@@ -1,9 +1,8 @@
 ---
+language: en
 categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
-- name: in-english
-  value: In English
 date: '2016-03-06'
 link: https://kraulis.wordpress.com/2016/03/06/plato-at-the-googleplex-philosophical-solutions-and-their-problems/
 name: plato-at-the-googleplex-philosophical-solutions-and-their-problems
