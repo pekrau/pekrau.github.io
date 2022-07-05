@@ -15,7 +15,7 @@ type: post
 ---
 Jag fjällvandrade i Abiskofjällen i augusti 2016. Det blev sex dagar med osannolikt bra väder, och ett återseende av några av mina absoluta favoritplatser i fjällen. Jag hoppas det framgår av den video jag klippt ihop.
 
-http://www.youtube.com/watch?v=RLUPjhO0Tr8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLUPjhO0Tr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Senaste gången jag var ute på en ordentlig vandring måste ha varit 1995 eller 1996. Så det var intressant att se hur det kändes, 20 år senare. Med modern utrustning (det mesta var nyköpt) hade jag en packning på 15 kilo, vilket var mycket trevligt jämfört med de 20 kg jag var van vid tidigare.
 
