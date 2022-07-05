@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.4.0"
+__version__ = "0.5.0"
 
 import csv
 import json
@@ -33,8 +33,13 @@ def author_link(author):
 def authors_links(book):
     return "; ".join([author_link(a) for a in book["authors"]])
 
-def book_link(book):
-    return f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>"""
+def book_link(book, full=False):
+    if full:
+        return " ".join(["; ".join(book["authors"]),
+                         book_link(book),
+                         f"({book['published']})"])
+    else:
+        return f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>"""
 
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
@@ -118,7 +123,7 @@ def read_books():
         for row in reader:
             AUTHORS[row["name"]] = row["canonical"]
 
-    non_subjects = set(["currently-reading", "to-read", "read"])
+    non_subjects = set(["currently-reading", "to-read", "read", "reviewed"])
     with open("source/goodreads_library_export.csv") as infile:
         reader = csv.DictReader(infile)
         for row in reader:
@@ -132,7 +137,7 @@ def read_books():
             }
             book["authors"] = [row["Author l-f"]]
             lastname = book["authors"][0].split(",")[0].strip()
-            book["key"] = f"{lastname} {book['published']}"
+            book["reference"] = f"{lastname} {book['published']}"
             for name in row["Additional Authors"].split(","):
                 name = name.strip()
                 if not name: continue
@@ -144,6 +149,7 @@ def read_books():
             subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
             for subject in set(subjects).difference(non_subjects):
                 book["subjects"].append(subject.replace("-", " ").capitalize())
+            book["subjects"].sort()
             if row["My Rating"] and row["My Rating"] != "0":
                 book["rating"] = int(row["My Rating"])
             if row["My Review"]:
@@ -155,9 +161,9 @@ def read_books():
                     book.update(json.load(infile))
             except IOError:
                 pass
-            if book["key"] in BOOKS:
-                raise ValueError(f"more than one book for {key}")
-            BOOKS[book["key"]] = book
+            if book["reference"] in BOOKS:
+                raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOK[book['reference']]['goodreads']}, {BOOK[book['reference']]['title']}")
+            BOOKS[book["reference"]] = book
 
             # Normalize author names; do after corrections!
             for pos, author in enumerate(book["authors"]):
@@ -166,7 +172,6 @@ def read_books():
 
     # Check the validity of book data.
     isbns = set()
-    keys = dict()
     for book in BOOKS.values():
         if not book.get("published"):
             print(">>> lacking published:", book["goodreads"], book["title"])
@@ -176,12 +181,6 @@ def read_books():
             print(">>> duplicate isbn:", book["goodreads"], book["title"])
         elif book["isbn"]:
             isbns.add(book["isbn"])
-        key = book["key"]
-        if key in keys:
-            print(">>> duplicate key:", book["goodreads"], book["title"])
-            print("                  ", keys[key]["goodreads"], keys[key]["title"])
-        else:
-            keys[key] = book
 
 def build_index():
     "Build the top index.html file."
@@ -198,14 +197,19 @@ def build_index():
 
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."
+    # Index of all blog posts.
     build_html("blog/index.html", "blog/index.html", posts=POSTS)
+    # Index of all blog posts in English.
     en_posts = [p for p in POSTS if p.get("language") == "en"]
     build_html("blog/en/index.html", "blog/en/index.html", posts=en_posts)
+    # All blog post pages.
     for post in POSTS:
         build_html(os.path.join(post["path"].strip("/"), "index.html"),
                    template="blog/post.html", 
                    post=post,
-                   language=post.get("language", "sv"))
+                   language=post.get("language", "sv"),
+                   references=[BOOKS[ref] for ref in post.get("references", [])])
+    # Index of all tags.
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
     build_html("blog/tags/index.html", tags=tags)
     for tag in tags:
@@ -213,6 +217,7 @@ def build_blog():
                    template="blog/tags/tag.html",
                    tag=tag,
                    posts=tag["posts"])
+    # Index of all categories.
     categories = sorted(CATEGORIES.values(), key=lambda c: c["value"].lower())
     build_html("blog/categories/index.html", categories=categories)
     for category in categories:
@@ -234,7 +239,7 @@ def build_pages():
 def build_books():
     "Build book files."
     books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
-                        key=lambda b: b["key"]))
+                        key=lambda b: b["reference"]))
     build_html("library/index.html", books=books)
     for book in books:
         build_html(f"library/{book['isbn']}.html",

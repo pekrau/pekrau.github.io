@@ -7,32 +7,18 @@
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
   <table id="table" class="table table-sm table-hover">
-    <thead>
-      <tr>
-        <th>Kategori</th>
-        <th>Antal inlägg</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for category in categories  %}
-      <tr>
-        <td><a href="/blog/categories/{{ category['name'] }}/">{{ category['value'] }}</a></td>
-        <td>{{ len(category['posts']) }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
+    <tr>
+      <th>Kategori</th>
+      <th>Antal inlägg</th>
+    </tr>
+    {% for category in categories  %}
+    <tr>
+      <td>
+        <a href="/blog/categories/{{ category['name'] }}/">{{ category['value'] }}</a>
+      </td>
+      <td>{{ len(category['posts']) }}</td>
+    </tr>
+    {% endfor %}
   </table>
 </section>
-{% endblock %}
-
-{% block javascript %}
-<script>
-  $(function() {
-    $("#table").DataTable( {
-        "pagingType": "full_numbers",
-        "pageLength": 25,
-        "order": [[1, "desc"]],
-    });
-  });
-</script>
 {% endblock %}

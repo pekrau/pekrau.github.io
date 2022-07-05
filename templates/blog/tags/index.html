@@ -7,32 +7,16 @@
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
   <table id="table" class="table table-sm table-hover">
-    <thead>
-      <tr>
-        <th>Etikett</th>
-        <th>Antal inlägg</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for tag in tags  %}
-      <tr>
-        <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag['value'] }}</a></td>
-        <td>{{ len(tag['posts']) }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
+    <tr>
+      <th>Etikett</th>
+      <th>Antal inlägg</th>
+    </tr>
+    {% for tag in tags  %}
+    <tr>
+      <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag['value'] }}</a></td>
+      <td>{{ len(tag['posts']) }}</td>
+    </tr>
+    {% endfor %}
   </table>
 </section>
-{% endblock %}
-
-{% block javascript %}
-<script>
-  $(function() {
-    $("#table").DataTable( {
-        "pagingType": "full_numbers",
-        "pageLength": 25,
-        "order": [[1, "desc"]],
-    });
-  });
-</script>
 {% endblock %}

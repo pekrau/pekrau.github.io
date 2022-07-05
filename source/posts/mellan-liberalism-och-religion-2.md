@@ -21,6 +21,10 @@ tags:
   value: Sans magasin
 title: Mellan liberalism och religion
 type: post
+references:
+- Halldorf 2018
+- Deneen 2018
+- Siedentop 2014
 ---
 *Denna text har publicerats i [SANS Magasin nr 3 2019](https://fritanke.se/sans/sans-nr-3-2019/), men är inte tillgänglig på nätet där.*
 
@@ -55,9 +59,3 @@ Slutligen tillbaka till frågan jag ställde allra först. Vilket är svaret på
 Det betyder att en politisk ideologi som bokstavligt eller bildligt ser individen som startpunkten, och samhället som något som uppstår när individer sluter sig samman, antingen via Thomas Hobbes Leviathan eller John Lockes samhällsfördrag, har fundamentalt fel. Samhället är grunden. Individens frihet är inte något som ska återerövras. Det är något som ska skapas och underhållas. Friheten är inte ursprunglig, den är en uppfinning. Det kräver att människans sociala natur ses som en utgångspunkt, inte som ett sekundärt fenomen. Robinson Crusoes frihet är det ytterst få som eftersträvar. Det vi vill ha är en frihet i ett socialt sammanhang.
 
 Den lärdom vi bör dra av rönen om människans ursprung är att evolutionen har gjort just vår art helt beroende av samarbete och social samvaro i en kultur. Det finns många djur som går i flock, men inga som kan samarbeta och uppfinna nya sätt att samarbeta som vi människor. En liberalism som ser att individualismen förutsätter ett fungerande samhälle, som bygger på samarbete, gemenskaper och kultur, och analyserar samhällets fortbestånd och utveckling ur det perspektivet, kanske kan finna nya vägar ur dagens kris.
-
-Joel Halldorf: **Gud: Återkomsten**. Libris, 2018, ISBN 978-91-7387-773-2
-
-Patrick J. Deneen:** Why liberalism failed**. Yale University Press, 2018, ISBN 978-0-300-22344-6
-
-Larry Siedentop: **Inventing the individual: The origins of Western liberalism**. Allen Lane, 2014, ISBN 978-0-141-00954-4
