@@ -31,6 +31,7 @@
     {% endif %}
   </ul>
 
+  {% if post["tags"] %}
   <div class="card mt-3">
     <div class="card-header" title="Tags">
       Etiketter
@@ -43,6 +44,22 @@
       {% endfor %}
     </ul>
   </div>
+  {% endif %}
+
+  {% if references %}
+  <div class="card mt-3">
+    <div class="card-header" title="References">
+      Referenser
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for book in references %}
+      <li class="list-group-item">
+        {{ book_link(book, full=True) | safe }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 
 </aside>
 {% endblock %}

@@ -12,14 +12,12 @@
           rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
           rel="stylesheet">
-    <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
-          rel="stylesheet">
   </head>
 
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/" title="Home">
+        <a class="navbar-brand" href="/">
           <img src="/files/civilisation-icon.png" width="32" height="32">
         </a>
         <button class="navbar-toggler" type="button"
@@ -195,21 +193,17 @@
 <section class="col-lg-10 offset-lg-1">
   
 
-<table id="table" class="table table-sm table-hover display compact">
-  <thead>
-    <tr>
-      <th title="Date">Datum</th>
-      <th title="Post">Inlägg</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-    <tr>
-      <td class="text-nowrap">2016-09-04</td>
-      <td><a href="/2016/09/04/liberal-debatt-med-lennart-nordfors/">Liberal debatt med Lennart Nordfors</a></td>
-    </tr>
-    
-  </tbody>
+<table id="table" class="table table-sm table-hover">
+  <tr>
+    <th title="Date">Datum</th>
+    <th title="Post">Inlägg</th>
+  </tr>
+  
+  <tr>
+    <td class="text-nowrap">2016-09-04</td>
+    <td><a href="/2016/09/04/liberal-debatt-med-lennart-nordfors/">Liberal debatt med Lennart Nordfors</a></td>
+  </tr>
+  
 </table>
 </section>
 
@@ -232,19 +226,5 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
-    
-<script>
-  $(function() {
-    $("#table").DataTable( {
-        "pagingType": "full_numbers",
-        "pageLength": 25,
-        "order": [[0, "desc"]],
-    });
-  });
-</script>
-
   </body>
 </html>
