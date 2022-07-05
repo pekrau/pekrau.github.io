@@ -6,17 +6,11 @@
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  <table id="table" class="table table-sm table-hover">
-    <tr>
-      <th>Etikett</th>
-      <th>Antal inlägg</th>
-    </tr>
+  <p>
     {% for tag in tags  %}
-    <tr>
-      <td><a href="/blog/tags/{{ tag['name'] }}/">{{ tag['value'] }}</a></td>
-      <td>{{ len(tag['posts']) }}</td>
-    </tr>
+    {{ tag_link(tag) }}
+    &nbsp;
     {% endfor %}
-  </table>
+  </p>
 </section>
 {% endblock %}

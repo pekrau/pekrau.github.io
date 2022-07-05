@@ -4,6 +4,7 @@ __version__ = "0.5.0"
 
 import csv
 import json
+import math
 import os
 import os.path
 import re
@@ -11,6 +12,7 @@ import shutil
 import time
 
 import jinja2
+import markupsafe
 import marko
 import yaml
 
@@ -41,6 +43,16 @@ def book_link(book, full=False):
     else:
         return f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>"""
 
+def tag_link(tag, sized=True):
+    if sized:
+        number = len(tag["posts"])
+        factor = 50 * (math.log(number) + 1.5)
+        span = f"""<span title="{number}" style="font-size: {factor}%;">{tag['value']}</span>"""
+    else:
+        span = tag['value']
+    href = f"/blog/tags/{tag['name']}"
+    return markupsafe.Markup(f'<a href="{href}">{span}</a>')
+
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
     autoescape=jinja2.select_autoescape(['html'])
@@ -48,6 +60,7 @@ env = jinja2.Environment(
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["book_link"] = book_link
+env.globals["tag_link"] = tag_link
 env.globals["len"] = len
 env.globals["sorted"] = sorted
 
