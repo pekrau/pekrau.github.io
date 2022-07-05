@@ -4,7 +4,7 @@
 
 {% block body_title %}
 <h1>{{ book["title"] }}</h1>
-<h3>{{ authors_links(book) | safe }}</h3>
+<h3>{{ authors_links(book) }}</h3>
 {% endblock %}
 
 {% block main_section %}
@@ -56,7 +56,7 @@
   </div>
   
   <div class="card mt-3">
-    <div class="card-header" title="Tags">
+    <div class="card-header" title="Subjects">
       Ämnen
     </div>
     <ul class="list-group list-group-flush">

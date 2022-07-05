@@ -30,26 +30,30 @@ HTML_FILES = set()        # All HTML files created during a run.
 
 # The Jinja2 template processing environment.
 def author_link(author):
-    return f"""<a href="/library/authors/{author}.html">{author}</a>"""
+    return markupsafe.Markup(f"""<a href="/library/authors/{author}.html">{author}</a>""")
 
 def authors_links(book):
-    return "; ".join([author_link(a) for a in book["authors"]])
+    return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"]]))
 
 def book_link(book, full=False):
     if full:
-        return " ".join(["; ".join(book["authors"]),
-                         book_link(book),
-                         f"({book['published']})"])
+        return markupsafe.Markup(" ".join(["; ".join(book["authors"]),
+                                           book_link(book),
+                                           f"({book['published']})"]))
     else:
-        return f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>"""
+        return markupsafe.Markup(f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>""")
 
 def tag_link(tag, sized=True):
-    if sized:
+    try:
         number = len(tag["posts"])
+    except KeyError:
+        tag = TAGS[tag["name"]]
+        number = len(tag["posts"])
+    if sized:
         factor = 50 * (math.log(number) + 1.5)
-        span = f"""<span title="{number}" style="font-size: {factor}%;">{tag['value']}</span>"""
+        span = f"""<span title="{number}" class="text-nowrap" style="font-size: {factor}%;">{tag['value']}</span>"""
     else:
-        span = tag['value']
+        span = f"""<span title="{number}" class="text-nowrap">{tag['value']}</span>"""
     href = f"/blog/tags/{tag['name']}"
     return markupsafe.Markup(f'<a href="{href}">{span}</a>')
 

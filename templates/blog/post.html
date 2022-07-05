@@ -39,7 +39,7 @@
     <ul class="list-group list-group-flush">
       {% for tag in post["tags"] %}
       <li class="list-group-item">
-        <a href="/blog/tags/{{ tag['name'] }}/">{{ tag["value"] }}</a>
+        {{ tag_link(tag, sized=False) }}
       </li>
       {% endfor %}
     </ul>
@@ -54,7 +54,7 @@
     <ul class="list-group list-group-flush">
       {% for book in references %}
       <li class="list-group-item">
-        {{ book_link(book, full=True) | safe }}
+        {{ book_link(book, full=True) }}
       </li>
       {% endfor %}
     </ul>
