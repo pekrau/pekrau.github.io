@@ -27,6 +27,8 @@ tags:
   value: utilitarism
 title: 'Ann Heberlein: Etik. En introduktion med brister.'
 type: post
+references:
+- Heberlein 2014
 ---
 Ann Heberlein, akademiker verksam inom etik vid Centrum för teologi och religionsvetenskap vid Lunds universitet, har skrivit boken **Etik: Människa, moral, mening.**
 
@@ -39,8 +41,6 @@ Till bokens förtjänster hör ett glasklart resonemang om kulturrelativismen, s
 Heberleins resonemang är dock alldeles för ofta ganska oskarpa. Manuskriptet hade behövt gås igenom av några tuffa kritiker. Då hade kanske en del uppenbara svagheter kunnat åtgärdats. Boken hade vunnit på att utelämna kanske en tredjedel av filosoferna, och istället fördjupa diskussionen.
 
 Jag koncentrerar mig här på två ganska iögonenfallande brister i Heberleins redogörelse.
-
-
 
 **Den första bristen** handlar om ett ganska fundamentalt problem för en etiker verksam vid en teologisk institution. Man hade förväntat sig ett resonemang om relationen mellan gud och moral. Men religion nämns bara i vissa begränsade, neutrala påståenden. **Det framstår som ett mysterium att Heberlein, som är troende kristen, inte diskuterar hur gud, religion och etik hänger ihop.**
 
@@ -70,15 +70,10 @@ Heberlein redogör för de välkända problem som utilitarismen har. Diskussione
 
 > Vi ska bara utföra de handling som görs utifrån en regel som vi vill upphöja till allmän lag.
 
-**Gott så. Men varför skulle vi vilja upphöja en viss föreslagen regel till allmän lag? Jo, rimligen därför att den leder till goda ting, alltså till positiva konsekvenser.
-
-**
+**Gott så. Men varför skulle vi vilja upphöja en viss föreslagen regel till allmän lag? Jo, rimligen därför att den leder till goda ting, alltså till positiva konsekvenser.**
 
 Jag är inte professionell filosof, så jag kanske har missat något. Men ingenstans i Heberleins bok finner jag några mer handfasta argument för specifika regler eller plikter som, explicit eller implicit, bygger på annat än argument om att de får positiva konsekvenser om de tillämpas. Kanske beror det på att Heberlein inte lyckas förklara hur det ligger till.
 
 **Kan det vara så att det inte finns någon koherent deontologi? Att varje etisk teori som vill vara relevant för mänskligt liv måste handla om konsekvenser, om än indirekt?** Det enda som skiljer deontologin från utilitarism kanske är att den förra har ett lager av regler (dygder, plikter, etc) mellan människan och hennes handlingar. I slutändan är det ändå konsekvenserna det handlar om.
 
 Heberlein resonerar inte alls om detta, och jag har inte tillräcklig kunskap för att kunna säga om någon av de mer kända deontologerna som [Elizabeth Anscombe](http://en.wikipedia.org/wiki/G._E._M._Anscombe) eller [Alasdair MacIntyre](http://en.wikipedia.org/wiki/Alasdair_MacIntyre) gör det. Dock vill jag avslöja en misstanke: Påtagligt ofta är det troende kristna personer som är deontologer; både Anscombe och MacIntyre är katoliker. Ett alternativ till att bygga etiken på vilka konsekvenser den har är ju att påstå att gud helt enkelt har bestämt vad som är gott. **Bakom deontologin kanske det bara döljer sig en övernaturlig diktator?**
-
-Ann Heberlein: **Etik. Människa, moral, mening. En introduktion.** Albert Bonniers Förlag, 2014. ISBN 978-91-0-013571-3.
-

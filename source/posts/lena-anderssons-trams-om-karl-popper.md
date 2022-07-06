@@ -23,12 +23,14 @@ tags:
   value: Platon
 title: Lena Anderssons trams om Karl Popper
 type: post
+references:
+- Andersson 2019
+- Popper 1974
+- Popper 1972
 ---
 Lena Andersson skriver en hel del om den liberale filosofen [Karl Popper](/karl-popper/) i sin senaste bok "Om falsk och äkta liberalism". Tyvärr är ganska mycket av det trams. Jag kommer här att granska en del av de påståenden Andersson gör. Alla indragna citat är från Anderssons bok, om inget annat anges.
 
 Jag har tidigare diskuterat Popper med Lena Andersson (se [blogginlägget 5 dec 2014](/2014/12/05/lena-andersson-vs-karl-popper/), och länkar däri) så jag är inte helt förvånad över hennes inställning. Däremot är jag förbluffad över hennes oförmåga &ndash; ovilja? &ndash; att ge en rimlig beskrivning av hur Popper faktiskt resonerar.
-
-
 
 Jag diskuterar inte Anderssons övriga ståndpunkter i detta inlägg. Jag hoppas publicera en artikel på annat ställe där jag kritiserar hennes liberalism (se [Liberal Debatt 3-2019](https://www.liberaldebatt.se/), eller [här](/2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/)). Hennes märkliga resonemang om essenser etc skulle också behöva en kommentar, men jag är inte säker på att jag orkar ta tag i den härvan.
 
@@ -98,19 +100,12 @@ Andersson avslutar sin bok så här:
 
 > Äkta liberalism handlar därför till sin kärna om Karl Poppers gamla fråga, den som han inte ställde [sic?].
 
-Platon undrade: *Vilka ska styra staten?*
+> Platon undrade: *Vilka ska styra staten?*
 
-Popper frågade i polemik med Platon: *Hur blir man av med de styrande?*
+> Popper frågade i polemik med Platon: *Hur blir man av med de styrande?*
 
-Liberalen påminner i polemik med dem båda: *Hur lång ska de styrandes räckvidd vara? (sid 199)*
+> Liberalen påminner i polemik med dem båda: *Hur lång ska de styrandes räckvidd vara? (sid 199)*
 
 Det är en korrekt, om än något hårt sammanfattad, beskrivning av Poppers ståndpunkt. Jag är själv liberal (förvisso förmodligen skenliberal enligt Andersson, men vet hon min essens bättre än jag själv?) och kan inte riktigt se att den tredje satsen ovan, om de styrandes räckvidd, alls svarar på samma problem som Platon och Popper diskuterar. Anderssons inställning i denna boken är att hon endast behöver säga att staten skall vara minimal, sedan lämnar hon allt övrigt därhän. Så den polemik hennes "liberal" använder är helt enkelt: goddag yxskaft.
 
 Slutligen: Andersson har fräckheten att på ett ställe förnumstigt ha en åsikt om vad en "hederlig empirist" borde tycka. Jag vill gärna skicka tillbaka den bollen, och påminna Andersson att en hederlig platonist inte bör förvanska eller skriva strunt om de ståndpunkter man argumenterar mot.
-
-Lena Andersson: **Om äkta och falsk liberalism**, Liberal Idédebatt #4, Stiftelsen Liberal Debatt, 2019, ISBN 978-91-981660-3-3.
-
-Karl Popper: **En intellektuell självbiografi.** Doxa, 1976, 1988, ISBN 91-578-0243-2.
-
-Karl R. Popper: **Objective Knowledge. An Evolutionary Approach.** Oxford University Press, 1972, 1979, ISBN 978-0198750246.
-

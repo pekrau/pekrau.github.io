@@ -44,7 +44,9 @@ def book_link(book, full=False):
                                            book_link(book),
                                            f"({book['published']})"]))
     else:
-        return markupsafe.Markup(f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>""")
+        href = f"/library/{book['isbn']}.html"
+        reviewed = book.get("html") and ' <i class="bi bi-pencil-square"></i>' or ""
+        return markupsafe.Markup(f"""<a href={href}>{book['title']}{reviewed}</a>""")
 
 def tag_link(tag, sized=True):
     try:

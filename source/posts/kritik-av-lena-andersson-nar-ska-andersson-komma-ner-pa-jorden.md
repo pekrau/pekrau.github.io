@@ -23,6 +23,8 @@ tags:
   value: "v\xE4lf\xE4rd"
 title: "Kritik av Lena Andersson: N\xE4r ska Andersson komma ner p\xE5 jorden?"
 type: post
+references:
+- Andersson 2019
 ---
 *Uppdaterat 2019-10-01: Nummer 3-2019 av Liberal Debatt kom ut för ca en månad sedan och finns numera på nätet [här](https://www.liberaldebatt.se/). Den publicerade versionen av min artikel finns [här](https://www.liberaldebatt.se/2019/09/nar-ska-andersson-komma-ner-pa-jorden/). Texten här nedanför är manuset, i stort sett identisk med den publicerade texten. Se till att också läsa de tre andra artiklar i samma nummer av LD som kritiserar Lena Anderssons bok **Om falsk och äkta liberalism**.*
 
@@ -73,6 +75,4 @@ Vad jag kräver av Andersson och andra debattörer är att man tar de ståndpunk
 Jag vet, detta är ett empiriskt sätt att nalkas frågan. Och empiri förkastar Andersson mångordigt i sin bok. Men det, hävdar jag, kan inte en seriös liberal göra. En liberalism som inte alls bryr sig om hur samhället ser ut konkret är bara en konstruktion. Jag finner, ärligt talat, Anderssons ständiga fnysande gentemot empiri vara ett obegripligt förhållningssätt. Hur kan verkligheten inte spela roll?
 
 På ett ställe skriver Andersson “Liberalismen är här och nu, livet på jorden och människan sådan hon är.” Det inger visst hopp. Kanske kan Andersson, trots allt, ta sig ner från den förföriskt enkla och sköna platonska rymden av essenser och postulat om naturrätten, och landa på jorden. En jord där människor lever liv i samhällen som kan, och har, utvecklats till det bättre. Där många människor har upplevt frigörelse för individen, men alltför många fortfarande i smärtsamt hög grad lever under förhållanden som konkret beskär friheten.
-
-Lena Andersson: **Om äkta och falsk liberalism**, Liberal Idédebatt #4, Stiftelsen Liberal Debatt, 2019, ISBN 978-91-981660-3-3.
 

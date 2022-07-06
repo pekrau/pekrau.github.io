@@ -17,10 +17,13 @@ tags:
   value: Sans magasin
 title: 'Vetenskap och faktaresistens: En kritik'
 type: post
+references:
+- Wikforss 2017
+- Frans 2017
 ---
 Jag har skrivit en text publicerad i [Sans magasin nummer 2-2018](http://fritanke.se/sans/sans-nr-2-%E2%80%A2-2018/) med rubrik som ovan.
 
-Hela texten finns [numera här](/2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/).
+*Hela texten finns [här](/2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/).*
 
 Min text utgår från, och kritiserar, Åsa Wikforss **Alternativa fakta: Om kunskapen och dess fiender** och Emma Frans **Larmrapporten: Att skilja vetenskap från trams**. Wikforss svarar på min kritik i samma nummer.
 
