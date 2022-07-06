@@ -42,8 +42,6 @@ Jesper Ahlin Marceta, filosof på KTH, har skrivit intressant om individualism p
 
 Om samhällsutvecklingen går fel, så måste man åtminstone någon gång ställa sig frågan om man själv på något sätt kan ha bidragit till det, om än omedvetet. All mänsklig aktivitet kan leda till oförutsedda negativa konsekvenser. Det vore bra märkligt om liberalismen var undantaget från den regeln.
 
-
-
 I det nya blogginlägget [Om den klassiska invändningen att individualister inte förstår människan](https://jahlinmarceta.com/2019/10/21/om-den-klassiska-invandningen-att-individualister-inte-forstar-manniskan/) (21 okt 2019) skriver Ahlin Marceta:
 
 > Kritiker brukar hävda att individualister inte förstår människan. Den individualistiska bilden av människan som en atom, självskapad och avskuren från sociala sammanhang, är helt enkelt fel.
@@ -111,14 +109,3 @@ John Stuart Mill trodde alltså att apor var bra på att imitera. Så är det in
 Kommunikationen mellan politisk filosofi och forskningen om människans ursprung är idag i det närmaste obefintlig. Det är orimligt. Politisk filosofi bygger alltid, på ett eller annat sätt, på antaganden om människans sociala och kulturella väsen. Då borde det vara intressant att veta vad forskningen har kommit fram till om människans evolution. Eftersom vår djupa historia är fundamentalt social och kulturell, så menar jag att vår politiska filosofi måste utgå från det. Vår förmåga till samarbete skiljer oss från övriga primater, och det är i samarbetet som, tror jag, vi finner mening i tillvaron. Detta är ett tema som jag hoppas återkomma till.
 
 Det är dags att vi liberaler tar oss an, självkritiskt, den atomistiska individualismen. Vi måste se att den har en stark koppling till många av de liberala politiska teorierna, även om vi önskade att det vore annorlunda. Om vi vill kämpa för en annan individualism så kräver det att vi tänker nytt. Vi måste granska våra ställningstaganden i ljuset av att samhället är en nödvändig förutsättning för individen. En fungerande individualism måste bygga på samhällets existens.
-
-John Stuart Mill: **On Liberty**, 1859, [text at Project Gutenberg](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)
-
-Robert Nozick: **Anarchy, State and Utopia**, Basic Books, 1974, ISBN 0-631-19780-X
-
-John Rawls: **A Theory of Justice**, 1971, Oxford University Press, 1971, ISBN 0-19-881301-5
-
-Michael Tomasello: **A Natural History of Human Morality**, Harvard University Press, 2016, ISBN 978-0-674-08864-1
-
-Michael Tomasello, Carol Dweck, Joan Silk, Brian Skyrms, Elizabeth Spelke: **Why We Cooperate**, Boston Review Book, The MIT Press, 2009, ISBN 978-0-262-01359-8
-

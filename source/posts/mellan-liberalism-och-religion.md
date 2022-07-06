@@ -21,8 +21,14 @@ tags:
   value: Sans magasin
 title: Mellan liberalism och religion
 type: post
+references:
+- Halldorf 2018
+- Deneen 2018
+- Siedentop 2014
 ---
 Jag har skrivit en text publicerad i [Sans magasin nummer 3-2019](https://fritanke.se/sans/sans-nr-3-%e2%80%a2-2019/) med rubrik som ovan.
+
+*Den fullständiga texten hittar man [här](/2020/12/25/mellan-liberalism-och-religion-2/).*
 
 Texten utgår från Joel Halldorfs bok **Gud: Återkomsten**, där han bland annat skriver att dagens känsla av kris orsakas av “den tomhet som finns i hjärtat av det liberala projektet.”
 
@@ -45,10 +51,3 @@ Men samtidigt anger han som stöd för sin andra tes om liberalismens behov av e
 Alltså: Det tankemässiga innehållet är inte viktigt för religionen som gemenskap, vilket är religionens främsta bidrag till samhället. Samtidigt är de moraliska och etiska idéerna inom religionen nödvändiga för att stödja en annars tom liberalism. Som läsare av Halldorfs skrift ställer man sig frågan: Är de religiösa tankarna viktiga eller inte? Halldorf tycks inte själv se svårigheten i att hävda dessa två ståndpunkter samtidigt.
 
 Jag avslutar texten med ett resonemang om att liberalismens problem är dess individualism, synen att individen föregår samhället. Jag tror vi måste stöpa om liberalismen i termer av att människan är en fundamentalt social varelse, så att friheten för individen handlar om något som måste vinnas och byggas. Det handlar inte om att återerövra. Friheten är ett projekt som bygger på att samhället finns och fungerar. Det får konsekvenser för synen på sådant som rättigheter. Detta är tankar som jag hoppas kunna skriva mer om i andra sammanhang.
-
-Joel Halldorf: **Gud: Återkomsten**, Libris Förlag, 2018, ISBN 978-91-7387-773-2
-
-Patrick J. Deneen: **Why liberalism failed**, Yale University Press, 2018, 978-0-300-22344-6
-
-Larry Siedentop: **Inventing the individual. The origins of Western liberalism**, Penguin Books, 2014, 978-0-141-00954-4
-

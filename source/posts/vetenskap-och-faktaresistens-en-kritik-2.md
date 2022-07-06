@@ -29,6 +29,9 @@ tags:
   value: Sans magasin
 title: 'Vetenskap och faktaresistens: En kritik'
 type: post
+references:
+- Wikforss 2017
+- Frans 2017
 ---
 *Denna text har publicerats i [SANS Magasin nr 2 2018](https://fritanke.se/sans/sans-nr-2-2018/), men är inte tillgänglig på nätet där.*
 

@@ -23,6 +23,9 @@ tags:
   value: Upplysningen
 title: "Tycker The Economist att jag \xE4r konservativ?"
 type: post
+references:
+- Lindenfors 2019
+- Tomasello 2016
 ---
 Tidskriften The Economist skriver i sin ledare 4 juli 2019 om ["The global crisis in conservatism"](https://www.economist.com/leaders/2019/07/04/the-global-crisis-in-conservatism). Det är en intressant analys av konservatismens förändring under senare år, där Edmund Burkes konservatism, född ur Upplysningen, nu tycks överflyglas av en reaktionär, populistisk, chauvinistisk nationalism.
 
@@ -33,8 +36,6 @@ Men det är inte artikelns huvudtema jag vill kommentera, utan istället dess ko
 Oj! Om detta stämmer, så är jag tydligen konservativ, inte liberal. Det är nämligen, anser jag, uppenbart att det påstående som här kallas liberalt &ndash; att sociala förhållanden skapas spontant genom individers frivilliga handlingar &ndash; helt enkelt inte är sant. Den kontrasterande satsen, att sociala förhållanden är primära och att frihet skapas utifrån dessa, vilket alltså skulle vara ett konservativt synsätt, tycks mig däremot vara närmare sanningen, om än inte hela sanningen.
 
 Eftersom jag betraktar mig som liberal, så blir jag litet bekymrad. Hur ska jag se på detta? Har jag fel? Är jag i själva verket konservativ? Eller har The Economist fel? Vad är det som pågår?
-
-
 
 Visst, det är omöjligt att i en enda mening sammanfatta två ideologier, så man skulle kunna avfärda hela problemet med att det är orimligt förenklat. Men jag tror att ändå den fångar något viktigt, nämligen en blind fläck som historiskt har varit ett problem för liberalismen, och är det i än högre grad idag.
 
@@ -67,8 +68,3 @@ Det har i debatten de senaste åren raljerats om svensk kultur. Det har sagts at
 Självklart finns det en svensk kultur. Den utövas av de människor som befinner sig i Sverige. Den är mångfasetterad och splittrad, men den finns. Den har förändrats mycket under min levnad, i huvudsak till det bättre, enligt min mening. Att det är svårt att definiera den betyder inte att den inte finns. Försök definiera liberalism på ett okontroversiellt sätt. Nehej, gick inte det? Betyder det att liberalismen inte finns?
 
 Frågan om svensk kultur alls finns är så korkad att jag inte begriper hur vi kan diskutera den. Den fråga vi liberaler snarare bör diskutera är vad som är gott i svensk kultur och i svenskt samhällsliv, och vad som bör förändras. Det gör vi faktiskt hela tiden, även när vi helt orimligt försöker förneka den svenska kulturens existens.
-
-Patrik Lindenfors: **Det kulturella djuret. Om människans evolution och tänkandets utveckling**, Ordfront, 2019, ISBN 978-91-7775-073-4
-
-Michael Tomasello: **A Natural History of Human Morality**, Harvard University Press, 2016, ISBN 978-0-674-08864-1
-
