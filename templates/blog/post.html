@@ -31,30 +31,30 @@
     {% endif %}
   </ul>
 
-  {% if post["tags"] %}
-  <div class="card mt-3">
-    <div class="card-header" title="Tags">
-      Etiketter
-    </div>
-    <ul class="list-group list-group-flush">
-      {% for tag in post["tags"] %}
-      <li class="list-group-item">
-        <a href="/blog/tags/{{ tag['name'] }}/">{{ tag["value"] }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
   {% if references %}
-  <div class="card mt-3">
+  <div class="card text-dark bg-light mt-3">
     <div class="card-header" title="References">
       Referenser
     </div>
     <ul class="list-group list-group-flush">
       {% for book in references %}
       <li class="list-group-item">
-        {{ book_link(book, full=True) | safe }}
+        {{ book_link(book, full=True) }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if post["tags"] %}
+  <div class="card text-dark bg-light mt-3">
+    <div class="card-header" title="Tags">
+      Etiketter
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for tag in post["tags"] %}
+      <li class="list-group-item">
+        {{ tag_link(tag, sized=False) }}
       </li>
       {% endfor %}
     </ul>

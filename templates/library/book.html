@@ -4,7 +4,7 @@
 
 {% block body_title %}
 <h1>{{ book["title"] }}</h1>
-<h3>{{ authors_links(book) | safe }}</h3>
+<h3>{{ authors_links(book) }}</h3>
 {% endblock %}
 
 {% block main_section %}
@@ -55,8 +55,23 @@
     </ul>
   </div>
   
-  <div class="card mt-3">
-    <div class="card-header" title="Tags">
+  {% if book.get("posts") %}
+  <div class="card text-dark bg-light mt-3">
+    <div class="card-header" title="Referred">
+      Refereras i inlägg
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for post in book["posts"] %}
+      <li class="list-group-item">
+        {{ post_link(post) }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <div class="card text-dark bg-light mt-3">
+    <div class="card-header" title="Subjects">
       Ämnen
     </div>
     <ul class="list-group list-group-flush">
