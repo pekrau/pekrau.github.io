@@ -17,12 +17,18 @@
     <tr>
       <th title="Authors">Författare</th>
       <th title="Title" width="60%">Titel</th>
+      <th title="Discussed">Diskuterad</th>
       <th title="Reference">Referens</th>
     </tr>
     {% for book in books %}
     <tr>
       <td>{{ authors_links(book) }}</td>
       <td width="70%">{{ book_link(book) }}</td>
+      <td>
+        {% if book["html"] %}
+        <i class="bi bi-pencil-square"></i>
+        {% endif %}
+      </td>
       <td>{{ book["reference"] }}</td>
     </tr>
     {% endfor %}

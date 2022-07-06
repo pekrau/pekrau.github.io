@@ -28,7 +28,10 @@ AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
 
 
-# The Jinja2 template processing environment.
+# Setup the Jinja2 template processing environment.
+def post_link(post):
+    return markupsafe.Markup(f"""<a href="{post['path']}">{post['title']}</a>""")
+
 def author_link(author):
     return markupsafe.Markup(f"""<a href="/library/authors/{author}.html">{author}</a>""")
 
@@ -61,6 +64,7 @@ env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
     autoescape=jinja2.select_autoescape(['html'])
 )
+env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["book_link"] = book_link
@@ -123,19 +127,6 @@ def read_pages():
     for filename in os.listdir("source/pages"):
         if filename.endswith("~"): continue
         PAGES.append(read_md(os.path.join("source/pages", filename)))
-    PAGES.append({"name": "python",
-                  "path": "/python/",
-                  "title": "Python code",
-                  "predefined": True})
-    PAGES.append({"name": "lectures",
-                  "path": "/lectures/",
-                  "title": "Old lectures",
-                  "predefined": True})
-    PAGES.append({"name": "molscript",
-                  "path": "/MolScript/",
-                  "title": "MolScript",
-                  "predefined": True,
-                  "menu": True})
     PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))
 
 def read_books():
@@ -253,7 +244,7 @@ def build_blog():
 def build_pages():
     "Build page files."
     for page in PAGES:
-        if page.get("predefined"): continue
+        if page.get("external"): continue
         build_html(os.path.join(page["path"].strip("/"), "index.html"),
                    template="page.html", 
                    page=page,
@@ -263,8 +254,11 @@ def build_books():
     "Build book files."
     books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
-    # Index of all books.
+    # Index of all books and their pages.
     build_html("library/index.html", books=books)
+    for post in POSTS:
+        for reference in post.get("references", []):
+            BOOKS[reference].setdefault("posts", []).append(post)
     for book in books:
         build_html(f"library/{book['isbn']}.html",
                    template="library/book.html",
@@ -275,15 +269,14 @@ def build_books():
         for author in book["authors"]:
             authors.setdefault(author, []).append(book)
     build_html("library/authors/index.html", authors=authors)
-    for author, abooks in authors.items():
+    for author, author_books in authors.items():
         build_html(f"library/authors/{author}.html",
                    template="library/authors/author.html",
                    author=author,
-                   books=abooks)
+                   books=author_books)
     # All ratings.
     for rating in range(5, 0, -1):
         rated = [b for b in books if b.get("rating") == rating]
-        print(rating, len(rated))
         build_html(f"library/rating{rating}.html",
                    template="library/rating.html",
                    rating=rating,

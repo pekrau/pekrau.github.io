@@ -55,7 +55,22 @@
     </ul>
   </div>
   
-  <div class="card mt-3">
+  {% if book.get("posts") %}
+  <div class="card text-dark bg-light mt-3">
+    <div class="card-header" title="Referred">
+      Refereras i inlägg
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for post in book["posts"] %}
+      <li class="list-group-item">
+        {{ post_link(post) }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <div class="card text-dark bg-light mt-3">
     <div class="card-header" title="Subjects">
       Ämnen
     </div>
