@@ -75,6 +75,12 @@
                 <li>
                   <a class="dropdown-item" href="/library/authors/">Alla författare</a>
                 </li>
+                {% for rating in range(1, 6) %}
+                <li>
+                  <a class="dropdown-item" href="/library/rating{{ rating }}.html">
+                    Böcker med betyg {{ rating }}</a>
+                </li>
+                {% endfor %}
               </ul>
             </li>
             {% for page in pages %}

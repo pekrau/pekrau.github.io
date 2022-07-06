@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.5.0"
+__version__ = "0.6.0"
 
 import csv
 import json
@@ -51,11 +51,11 @@ def tag_link(tag, sized=True):
         number = len(tag["posts"])
     if sized:
         factor = 50 * (math.log(number) + 1.5)
-        span = f"""<span title="{number}" class="text-nowrap" style="font-size: {factor}%;">{tag['value']}</span>"""
+        span = f"""<span style="font-size: {factor}%;">{tag['value']}</span>"""
     else:
-        span = f"""<span title="{number}" class="text-nowrap">{tag['value']}</span>"""
+        span = tag['value']
     href = f"/blog/tags/{tag['name']}"
-    return markupsafe.Markup(f'<a href="{href}">{span}</a>')
+    return markupsafe.Markup(f'<a href="{href}" class="text-nowrap" title="{number}">{span}</a>')
 
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
@@ -92,6 +92,12 @@ def read_posts():
     for i, post in enumerate(POSTS[1:-1], start=1):
         post["next"] = POSTS[i-1]
         post["prev"] = POSTS[i+1]
+    # Remove the tag "bok".
+    for post in POSTS:
+        for pos, tag in enumerate(post.get("tags", [])):
+            if tag["name"] == "bok":
+                post["tags"].pop(pos)
+                break
     for post in POSTS:
         for tag in post.get("tags", []):
             try:
@@ -257,21 +263,31 @@ def build_books():
     "Build book files."
     books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
+    # Index of all books.
     build_html("library/index.html", books=books)
     for book in books:
         build_html(f"library/{book['isbn']}.html",
                    template="library/book.html",
                    book=book)
+    # Authors index and pages.
     authors = {}
     for book in books:
         for author in book["authors"]:
             authors.setdefault(author, []).append(book)
     build_html("library/authors/index.html", authors=authors)
-    for author, books in authors.items():
+    for author, abooks in authors.items():
         build_html(f"library/authors/{author}.html",
                    template="library/authors/author.html",
                    author=author,
-                   books=books)
+                   books=abooks)
+    # All ratings.
+    for rating in range(5, 0, -1):
+        rated = [b for b in books if b.get("rating") == rating]
+        print(rating, len(rated))
+        build_html(f"library/rating{rating}.html",
+                   template="library/rating.html",
+                   rating=rating,
+                   books=rated)
 
 def build_html(filepath, template=None, pages=None, **kwargs):
     "Build a single HTML page from the data for an item."
