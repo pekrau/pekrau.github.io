@@ -2,16 +2,27 @@
 
 {% block head_title %}Alla författare{% endblock %}
 
-{% block body_title %}<h1>Alla författare</h1>{% endblock %}
+{% block body_title %}
+<h1>Alla författare <small class="text-muted">({{ len(authors) }})</small></h1>
+{% endblock %}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
   <table class="table table-sm">
-    {% for author, books in sorted(authors.items()) %}
-    <tr>
-      <td><a href="/library/authors/{{ author }}.html">{{ author }}</a></td>
-    </tr>
-    {% endfor %}
+    <thead>
+      <tr>
+        <th title="Author">Författare</th>
+        <th title="Number of books">Antal böcker</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for author, books in sorted(authors.items()) %}
+      <tr>
+        <td>{{ author_link(author) }}</td>
+        <td>{{ len(books) }}</th>
+      </tr>
+      {% endfor %}
+    </tbody>
   </table>
 </section>
 {% endblock %}

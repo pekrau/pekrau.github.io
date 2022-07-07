@@ -2,23 +2,12 @@
 
 {% block head_title %}Alla böcker{% endblock %}
 
-{% block body_title %}<h1>Alla böcker</h1>{% endblock %}
+{% block body_title %}
+<h1>Alla böcker <small class="text-muted">({{ len(books) }})</small></h1>
+{% endblock %}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  <table class="table table-sm table-hover">
-    <tr>
-      <th title="Authors">Författare</th>
-      <th title="Title" width="60%">Titel</th>
-      <th title="Reference">Referens</th>
-    </tr>
-    {% for book in books %}
-    <tr>
-      <td>{{ authors_links(book) }}</td>
-      <td width="70%">{{ book_link(book) }}</td>
-      <td class="text-nowrap">{{ book["reference"] }}</td>
-    </tr>
-    {% endfor %}
-  </table>
+  {% include 'library/books_table.html' %}
 </section>
 {% endblock %}

@@ -4,7 +4,7 @@
 
 {% block body_title %}
 <h1>{{ book["title"] }}</h1>
-<h3>{{ authors_links(book) }}</h3>
+<h3>{{ authors_links(book, max=None) }}</h3>
 {% endblock %}
 
 {% block main_section %}
@@ -12,11 +12,19 @@
   {% if book.get('rating') %}
   <div class="card">
     <div class="card-header bg-light">
+      {% if language == 'en' %}
       My comments
+      {% else %}
+      Mina kommentarer
+      {% endif %}
     </div>
     <div class="card-body">
       <p title="{{ book['rating'] }}">
+        {% if language == 'en' %}
         Rating:
+        {% else %}
+        Betyg:
+        {% endif %}
         {% for i in range(book["rating"]) %}
         <i class="bi bi-star-fill text-warning"></i>
         {% endfor %}
@@ -58,7 +66,11 @@
   {% if book.get("posts") %}
   <div class="card mt-3">
     <div class="card-header bg-light" title="Referred">
+      {% if language == 'en' %}
+      Referred to in posts
+      {% else %}
       Refereras i inlägg
+      {% endif %}
     </div>
     <ul class="list-group list-group-flush">
       {% for post in book["posts"] %}
@@ -72,20 +84,27 @@
 
   <div class="card mt-3">
     <div class="card-header bg-light" title="Subjects">
+      {% if language == 'en' %}
+      Subjects
+      {% else %}
       Ämnen
+      {% endif %}
     </div>
-    <ul class="list-group list-group-flush">
+    <div class="card-body">
       {% for subject in book["subjects"] %}
-      <li class="list-group-item">
-        <a href="/library/{{ subject }}/">{{ subject }}</a>
-      </li>
+      {{ subject_link(subject) }}
+      <br>
       {% endfor %}
-    </ul>
+    </div>
   </div>
 
   <div class="card mt-3">
     <div class="card-header" title="External links">
+      {% if language == 'en' %}
+      External links
+      {% else %}
       Externa länkar
+      {% endif %}
       <i class="bi bi-box-arrow-up-right"></i>
     </div>
     <ul class="list-group list-group-flush">
