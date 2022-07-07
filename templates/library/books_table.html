@@ -1,0 +1,16 @@
+{# Standard table of books. #}
+
+<table class="table table-sm table-hover">
+  <tr>
+    <th title="Authors">Författare</th>
+    <th title="Title">Titel</th>
+    <th title="Reference">Referens</th>
+  </tr>
+  {% for book in books %}
+  <tr>
+    <td>{{ authors_links(book) }}</td>
+    <td width="70%">{{ book_link(book) }}</td>
+    <td class="text-nowrap">{{ book["reference"] }}</td>
+  </tr>
+  {% endfor %}
+</table>

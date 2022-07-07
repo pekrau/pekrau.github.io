@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Alla ämnen{% endblock %}
+
+{% block body_title %}<h1 title="All subjects">Alla ämnen</h1>{% endblock %}
+
+{% block main_section %}
+<section class="col-lg-10 offset-lg-1">
+  <table id="table" class="table table-sm table-hover">
+    <tr>
+      <th title="Subject">Ämne</th>
+      <th title="Number of books">Antal böcker</th>
+    </tr>
+    {% for subject, books in sorted(subjects)  %}
+    <tr>
+      <td>{{ subject_link(subject) }}</td>
+      <td>{{ len(books) }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</section>
+{% endblock %}
