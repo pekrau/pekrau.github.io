@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.6.0"
+__version__ = "0.7.0"
 
 import csv
 import json
@@ -33,10 +33,13 @@ def post_link(post):
     return markupsafe.Markup(f"""<a href="{post['path']}">{post['title']}</a>""")
 
 def author_link(author):
-    return markupsafe.Markup(f"""<a href="/library/authors/{author}.html">{author}</a>""")
+    return markupsafe.Markup(f"""<a href="/library/authors/{author}">{author}</a>""")
 
-def authors_links(book):
-    return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"]]))
+def authors_links(book, max=3):
+    if max and len(book["authors"]) > max:
+        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"][:3]] + ["..."]))
+    else:
+        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"]]))
 
 def book_link(book, full=False):
     if full:
@@ -47,6 +50,9 @@ def book_link(book, full=False):
         href = f"/library/{book['isbn']}.html"
         reviewed = book.get("html") and ' <i class="bi bi-pencil-square"></i>' or ""
         return markupsafe.Markup(f"""<a href={href}>{book['title']}{reviewed}</a>""")
+
+def category_link(category):
+    return markupsafe.Markup(f"""<a href="/blog/categories/{category['name']}" class="text-nowrap">{category['value']}</a>""")
 
 def tag_link(tag, sized=True):
     try:
@@ -62,6 +68,11 @@ def tag_link(tag, sized=True):
     href = f"/blog/tags/{tag['name']}"
     return markupsafe.Markup(f'<a href="{href}" class="text-nowrap" title="{number}">{span}</a>')
 
+def subject_link(subject):
+    title = " ".join([p.capitalize() for p in subject.split("-")])
+    return markupsafe.Markup(f"""<a href="/library/subjects/{subject}" class="text-nowrap">{title}</a>""")
+
+
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
     autoescape=jinja2.select_autoescape(['html'])
@@ -70,7 +81,9 @@ env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["book_link"] = book_link
+env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
+env.globals["subject_link"] = subject_link
 env.globals["len"] = len
 env.globals["sorted"] = sorted
 
@@ -139,7 +152,7 @@ def read_books():
         for row in reader:
             AUTHORS[row["name"]] = row["canonical"]
 
-    non_subjects = set(["currently-reading", "to-read", "read", "reviewed"])
+    non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
     with open("source/goodreads_library_export.csv") as infile:
         reader = csv.DictReader(infile)
         for row in reader:
@@ -161,11 +174,12 @@ def read_books():
                 lastname = parts[-1]
                 firstname = " ".join(parts[0:-1])
                 book["authors"].append(f"{lastname}, {firstname}")
-            book["subjects"] = []
             subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
-            for subject in set(subjects).difference(non_subjects):
-                book["subjects"].append(subject.replace("-", " ").capitalize())
-            book["subjects"].sort()
+            if "svenska" in subjects:
+                book["language"] = "sv"
+            else:
+                book["language"] = "en"
+            book["subjects"] = sorted(set(subjects).difference(non_subjects))
             if row["My Rating"] and row["My Rating"] != "0":
                 book["rating"] = int(row["My Rating"])
             if row["My Review"]:
@@ -246,6 +260,7 @@ def build_blog():
 def build_pages():
     "Build page files."
     for page in PAGES:
+        # External pages have no HTML, just links to them.
         if page.get("external"): continue
         build_html(os.path.join(page["path"].strip("/"), "index.html"),
                    template="page.html", 
@@ -264,7 +279,8 @@ def build_books():
     for book in books:
         build_html(f"library/{book['isbn']}.html",
                    template="library/book.html",
-                   book=book)
+                   book=book,
+                   language=book.get("language") or "sv")
     # Authors index and pages.
     authors = {}
     for book in books:
@@ -272,13 +288,36 @@ def build_books():
             authors.setdefault(author, []).append(book)
     build_html("library/authors/index.html", authors=authors)
     for author, author_books in authors.items():
-        build_html(f"library/authors/{author}.html",
+        build_html(os.path.join("library/authors", author, "index.html"),
                    template="library/authors/author.html",
                    author=author,
                    books=author_books)
-    # All ratings.
+    # Subject index and pages.
+    subjects = dict()
+    for book in books:
+        for subject in book["subjects"]:
+            if not subject.strip():
+                print(">>> no categories for", book["isbn"], book["title"])
+                continue
+            subjects.setdefault(subject, []).append(book)
+    subjects = list(subjects.items())
+    build_html("library/subjects/index.html", subjects=subjects)
+    for subject, subject_books in subjects:
+        # Primary sort by published date, secondary sort by authors.
+        # Since Python 'sort' is stable, this works.
+        subject_books.sort(key=lambda b: b["authors"])
+        subject_books.sort(key=lambda b: b["published"], reverse=True)
+        build_html(os.path.join("library/subjects", subject, "index.html"),
+                   template="library/subjects/subject.html",
+                   subject=" ".join([p.capitalize() for p in subject.split("-")]),
+                   books=subject_books)
+    # All ratings pages.
     for rating in range(5, 0, -1):
         rated = [b for b in books if b.get("rating") == rating]
+        # Primary sort by published date, secondary sort by authors.
+        # Since Python 'sort' is stable, this works.
+        rated.sort(key=lambda b: b["authors"])
+        rated.sort(key=lambda b: b["published"], reverse=True)
         build_html(f"library/rating{rating}.html",
                    template="library/rating.html",
                    rating=rating,

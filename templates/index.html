@@ -9,11 +9,11 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 {% endblock%}
 
 {% block body_title %}
-<img src="/files/civilisation-icon.png" 
-     title="Sõrve Lighthouse, Saare, Estonia"
-     class="rounded float-start me-4">
-<h1 title="About politics, science and culture. By Per Kraulis">Civilisation</h1>
-<h3 class="text-muted">Om politik, vetenskap och kultur. Av Per Kraulis</h3>
+<img src="/files/valen.png" title="Kalvsund, Öckerö, Sweden"
+     class="rounded float-start img-fluid me-4">
+<h1 class="mt-4">Civilisation</h1>
+<h3 class="text-muted" title="Society, science, culture">Samhälle, vetenskap, kultur</h3>
+<h3 class="text-muted">Per Kraulis</h3>
 {% endblock%}
 
 {% block main %}
@@ -48,26 +48,24 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
       <div class="card-header bg-light">
         <h4 class="card-title">Sidor</h4>
       </div>
-      <ul class="list-group list-group-flush">
+      <div class="card-body">
         {% for page in pages %}
-        <li class="list-group-item">
-          <a href="{{ page['path'] }}">{{ page['title'] }}</a>
-        </li>
+        <a href="{{ page['path'] }}">{{ page['title'] }}</a>
+        <br>
         {% endfor %}
-      </ul>
+      </div>
     </div>
 
     <div class="card">
       <div class="card-header  bg-light">
         <h4 class="card-title">Kategorier</h4>
       </div>
-      <ul class="list-group list-group-flush">
+      <div class="card-body">
         {% for category in categories %}
-        <li class="list-group-item">
-          <a href="/category/{{ category['name'] }}/">{{ category['value'] }}</a>
-        </li>
+        {{ category_link(category) }}
+        </br>
         {% endfor %}
-      </ul>
+      </div>
     </div>
 
   </section>
