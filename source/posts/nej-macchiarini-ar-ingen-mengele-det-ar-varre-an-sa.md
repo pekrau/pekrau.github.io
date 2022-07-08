@@ -25,6 +25,7 @@ tags:
   value: "sjukv\xE5rd"
 title: "Nej, Macchiarini \xE4r ingen Mengele. Det \xE4r v\xE4rre \xE4n s\xE5"
 type: post
+popular: true
 ---
 Göran Rosenbergs krönika i [Sveriges Radio 11 februari 2016](http://sverigesradio.se/sida/artikel.aspx?programid=438&artikel=6366460) om Macchiarini-skandalen är ett exempel på hur berättigad indignation kan slå över i tankefel via orimliga jämförelser. Rosenberg gör det helt enkelt för lätt för sig. Macchiarini-skandalen kräver mer eftertanke än så.
 
@@ -40,7 +41,7 @@ Den som har sett Bosse Lindquists tre dokumentärprogram i SVT [Experimenten](ht
 
 **Men det är också tydligt att det är fullständigt befängt att påstå att Macchiarini "fick leka Mengele". För att påpeka det uppenbara: Macchiarini avsåg inte att döda sina patienter efter det att experimenten genomförts. Han ville inte att de skulle dö. Han ville ärligt hjälpa dom, om än med en förljugen metod.**
 
-Jag är bekymrad över att så många tycks imponeras av Rosenbergs orimliga påstående. Peter Wolodarski har <del datetime="2016-02-14T19:51:54+00:00">tydligen tagit intryck att döma av</del> (*) ett liknande resonemang i krönikan om Macchiarini-skandalen i [Dagens Nyheter 14 februari 2016](http://www.dn.se/nyheter/peter-wolodarski-manniskan-utnyttjad-i-hennes-svagaste-tillstand/):
+Jag är bekymrad över att så många tycks imponeras av Rosenbergs orimliga påstående. Peter Wolodarski har <del datetime="2016-02-14T19:51:54+00:00">tydligen tagit intryck att döma av</del> (*fel: se fotnot*) ett liknande resonemang i krönikan om Macchiarini-skandalen i [Dagens Nyheter 14 februari 2016](http://www.dn.se/nyheter/peter-wolodarski-manniskan-utnyttjad-i-hennes-svagaste-tillstand/):
 
 > Tankarna förs till de mest smärtsamma delarna av vår egen historia, då experiment utfördes på såväl levande som döda människor – av vissa sedda som lägst stående i samhällshierarkin. Ett högre mål legitimerade medlen.
 
@@ -66,15 +67,15 @@ En liten episod i [det första avsnittet av Experimenten](http://www.svtplay.se/
 
 > Macchiarini säger: "Bra. Tack återigen för ert enastående arbete."
 
-Macchiarini (inklippt speakerröst): *"Men man lär sig bara genom att försöka."*
+> Macchiarini (inklippt speakerröst): *"Men man lär sig bara genom att försöka."*
 
-Ung forskare: "Det blir mycket svårt [quite difficult] att skilja mellan de två mätningarna."
+> Ung forskare: "Det blir mycket svårt [quite difficult] att skilja mellan de två mätningarna."
 
-Macchiarini: "Svårt, men inte omöjligt. Eller hur?"
+> Macchiarini: "Svårt, men inte omöjligt. Eller hur?"
 
-Macchiarini ler vänligt.
+> Macchiarini ler vänligt.
 
-Macchiarini: "Han bör göra det, han måste göra det. Det finns inget alternativ."
+> Macchiarini: "Han bör göra det, han måste göra det. Det finns inget alternativ."
 
 Jag har forskat, om än inte i medicin, och har [någon erfarenhet](/2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/) av märkliga förhållanden. Jag tror jag förstår vad som pågår här. Det är med skräck jag ser denna korta episoden.
 
@@ -84,9 +85,7 @@ Den springande punkten är Macchiarinis respons. Han vill inte höra detta. Oper
 
 Enligt Göran Rosenbergs diagnos är det prestige och pengar som är orsaken till Macchiarini-skandalen. Alltså Hollywoodscenariot. Visserligen är det oklart på vilket sätt pengar och prestige har med Mengele-jämförelsen att göra, men jag lämnar det stickspåret därhän. Det är tänkbart att dessa faktorer delvis förklarar bland annat det Harvard-baserade företagets aktiviteter. Och det ligger nog mycket i Torbjörn Tännsjös analys [8 februari 2016](http://www.dn.se/nyheter/vetenskap/ki-rektor-radfragade-inte-etiska-radet/) att Nobelprisets prestige indirekt orsakar problem för KI.
 
-**Men jag hävdar att Hollywoodscenariot är missvisande i Macchiarini-skandalen. Det är inte ondskan som är problemet. Det vi ser är snarare en etisk kollaps som beror på för mycket godhet, för stor vilja att nå fantastiska framsteg alltför snabbt. Så illa är det. Förloppet har mer med antikt grekiskt drama att göra.
-
-**
+**Men jag hävdar att Hollywoodscenariot är missvisande i Macchiarini-skandalen. Det är inte ondskan som är problemet. Det vi ser är snarare en etisk kollaps som beror på för mycket godhet, för stor vilja att nå fantastiska framsteg alltför snabbt. Så illa är det. Förloppet har mer med antikt grekiskt drama att göra.**
 
 Om Rosenberg har rätt så bör man fokusera på att eliminera prestige och pengar ur medicinforskningen. Det är tänkbart. Men det är en för ytlig analys, enligt min mening. Man riskerar att ignorera de verkligt besvärliga lärdomarna av Macchiarini-skandalen.
 
@@ -94,5 +93,5 @@ Mitt resonemang vetter snarare mot att forskning och sjukvård måste fokusera p
 
 En sista observation: Det är obegripligt hur exempelvis Anders Hamsten på fullt allvar kan påstå att etiska överväganden inte behövde göras inför de första av Macchiarinis operationer. Anledningen sägs vara att de handlade om sjukvård, inte forskning. Det, om något, gör mig rädd för sjukvården vid Karolinska sjukhuset.
 
-*(*) Rättelse: Peter Wolodarski meddelar att han inte hade hört Göran Rosenbergs krönika när han skrev sin text.*
+*Rättelse: Peter Wolodarski meddelar att han inte hade hört Göran Rosenbergs krönika när han skrev sin text.*
 

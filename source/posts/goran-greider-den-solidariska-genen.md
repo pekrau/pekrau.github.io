@@ -33,14 +33,19 @@ tags:
   value: Thomas Hobbes
 title: "G\xF6ran Greider: Den solidariska genen"
 type: post
+references:
+- Greider 2014
+- Dawkins 1976
+- Pinker 2010
+- Ostrom 1990
+- Hobbes 1651
+popular: true
 ---
 Göran Greider polemiserar i boken **"Den solidariska genen"** mot teorin om den själviska genen, och diskuterar forskningsrön som han hävdar stödjer idén om den solidariska genen. Att läsa hans bok är litet som att lyssna på ett vackert musikstycke där orkestern envisas med att titt som tätt spela fel och falskt.
 
 Greider har ett tydligt budskap: Människan är i grunden solidarisk, och de som påstår att vi är egoister, att evolutionen gynnar egoism, eller att samhället måste inrättas för egoister, har fel. Det uråldriga jägarsamhället var jämlikt. Hierarkier och elände kom med jordbrukarsamhället, som sedermera utvecklades till kapitalism. Ett socialistiskt samhälle är möjligt, och det vore i bättre samklang med människans inre väsen. **Ungefär så ser Greiders resonemang ut. Och ganska mycket av detta är fel.**
 
 Låt mig först be om ursäkt: Det här inlägget är ovanligt långt. Det beror på att det finns mycket i Greiders bok att kommentera.
-
-
 
 Den som tänker sig läsa Greider bör vara medveten om att man tvingas ha överseende med att han skriver "poetiskt", istället för "rätlinjigt berättande", som han själv säger. Tyvärr innebär det exempelvis att han titt som tätt levererar "sentenser" som inte är mer än platta åsiktsblaffor. Texten hade behövt en hårdare redigering. Vad värre är, Greider tar ibland argumentationsmässiga genvägar med det "poetiska" som alibi. Trist, för han kan uppenbart bättre än så. När han anstränger sig så lyckas han mycket bra i sitt uppsåt att folkbilda.
 
@@ -68,7 +73,7 @@ Det slående är den glidning Greider gör, här och på många andra ställen i
 
 **Andemeningen i boken är att solidaritet är den sanna mänskliga naturen, medan egoism, makthunger och översitteri är något främmande, något utifrån kommande.**
 
-Jag förundras över att Greider inte ser hur uppenbart ohållbar denna ståndpunkt är. **Om egoismen är en så stark kraft att den hela tiden måste bekämpas, på vilket sätt kan den då <i>inte</i> ses som en del av människans natur?** Om den solidariska genen behövs för att bekämpa översittare och alfa-hannar, skulle då inte dessas existens också ha en grund i människans natur, i generna? Varför skulle altruismen vara den sanna naturen, men inte egoismen?
+Jag förundras över att Greider inte ser hur uppenbart ohållbar denna ståndpunkt är. **Om egoismen är en så stark kraft att den hela tiden måste bekämpas, på vilket sätt kan den då *inte* ses som en del av människans natur?** Om den solidariska genen behövs för att bekämpa översittare och alfa-hannar, skulle då inte dessas existens också ha en grund i människans natur, i generna? Varför skulle altruismen vara den sanna naturen, men inte egoismen?
 
 **Greider tycks inte vilja se det uppenbara: Att människans natur är att ha en potential till både egoism och altruism, och att kontexten, omständigheterna (som kan kallas kulturen eller samhället) har stor, kanske avgörande, betydelse för vilken av dessa attityder som dominerar i olika situationer.**
 
@@ -76,7 +81,7 @@ I sin missionerande iver att propagera för solidaritet antitriangulerar sig Gre
 
 **Men två fel blir inte ett rätt. Av den korrekta iakttagelsen att egoism inte är den ultimata grunden för människans natur följer inte att altruism måste vara det.**
 
-Greiders har ett besläktat problem när han diskuterar människans äldsta historia. Han citerar de forskare (exempelvis Christopher Boehm, Joachim Bauer, Frans de Waal) som arbetar med hypotesen att urmänniskans samhälle, jägar- och samlarsamhället, var mycket jämlikt och allmänt trevligt, och termer som guldålder och paradis nämns. När människan blir jordbrukare börjar det ojämlika eländet. **Men om detta är sant, varför gjorde människorna på detta viset? Varför gick de över från en närmast paradisisk tillvaro som jämlika jägare/samlare till en hierarkisk, hemsk jordbrukskultur?**
+Greiders har ett besläktat problem när han diskuterar människans äldsta historia. Han citerar forskare (exempelvis [Christopher Boehm](/library/authors/Boehm,%20Christopher), Joachim Bauer, [Frans de Waal](/library/authors/Waal,%20Frans%20de)) som arbetar med hypotesen att urmänniskans samhälle, jägar- och samlarsamhället, var mycket jämlikt och allmänt trevligt, och termer som guldålder och paradis nämns. När människan blir jordbrukare börjar det ojämlika eländet. **Men om detta är sant, varför gjorde människorna på detta viset? Varför gick de över från en närmast paradisisk tillvaro som jämlika jägare/samlare till en hierarkisk, hemsk jordbrukskultur?**
 
 **Greider kallar detta sitt "[teodicéproblem](http://sv.wikipedia.org/wiki/Teodic%C3%A9problemet)". Varifrån kommer egoismen?** Han skriver något obegripligt om att han måste bli "marxist, det vill säga vänsterteolog" för att förklara det. Hans försök till förklaring är mycket lam: På något sätt skulle en hypotetisk period av svåra klimatmässiga förhållanden ha gjort att jordbrukssamhället vann. Men varför det jämlika samhället inte skulle vara mer robust än så, det framstår som ett mysterium. Den möjlighet han inte närmare funderar över är att det kanske inte var fullt så enkelt. Kanske innebar även jägarlivet ett stort mått av elände? Kanske var det inte alltid så kul för alla inblandade?
 
@@ -84,7 +89,7 @@ På ett ställe ironiserar han över att Dawkins resonemang (se nedan) kan härl
 
 ### Den själviska genen
 
-Greider redovisar sitt hat och djupa förakt mot idén om den själviska genen. Han anser att den idén är en aspekt av den föraktliga liberalismen. Termen myntades 1976 av Richard Dawkins, i den välkända boken **"The Selfish Gene"**.
+Greider redovisar sitt hat och djupa förakt mot idén om den själviska genen. Han anser att den idén är en aspekt av den föraktliga liberalismen. Termen myntades 1976 av [Richard Dawkins](/library/authors/Dawkins,%20Richard), i den välkända boken [**The Selfish Gene**](/library/9780199291151.html).
 
 **Man skulle ta för givet att Greider redogjorde för vad idén om den själviska genen går ut på. Men det gör han inte!** Med stigande förvåning alltefter jag läser boken, så inser jag att Greider efter de inledande invektiven mot den själviska genen faktiskt aldrig kommer längre. Han ger aldrig en begriplig beskrivning av vad Dawkins menar med begreppet. Detta är oerhört märkligt.
 
@@ -114,7 +119,7 @@ En liten, närmast fånig detalj: Greider skriver om så kallat skräp-DNA:
 
 > Vad består människans arvsmassa av? Tja, bara en dryg procent utgörs av dessa omtalade gener. Resten är vad som ofta kallats skräp-DNA och numera anser forskarna att det där skräpet är med och styr vad generna gör. Den själviska genen har förlorat i makt och majestät.
 
-Detta har Greider helt missuppfattat. Att så stor del av arvsmassan inte har en tydligt funktion kan i själva verket ses som ett starkt argument för idén om den själviska genen. Skräp-DNA kan bestå av DNA som uppför sig som en parasit eller fripassagerare som har lyckats nästla sig in och åker snålskjuts utan att ge något tillbaka. Det råder fortfarande kontrovers om skräp-DNA:s biologiska funktioner, men att dess existens skulle motbevisa idén om den själviska genen är rent nonsens.
+Detta har Greider helt missuppfattat. Att så stor del av arvsmassan inte har en tydlig funktion kan i själva verket ses som ett starkt argument för idén om den själviska genen. Skräp-DNA kan bestå av DNA som uppför sig som en parasit eller fripassagerare som har lyckats nästla sig in och åker snålskjuts utan att ge något tillbaka. Det råder fortfarande kontrovers om skräp-DNA:s biologiska funktioner, men att dess existens skulle motbevisa idén om den själviska genen är rent nonsens.
 
 ### Samhället: ur människans natur eller potential?
 
@@ -124,17 +129,10 @@ Greiders resonemang om samhället har ett starkt reduktionistiskt drag: **Samhä
 
 Men det finns ett annat perspektiv som Greider inte tycks ha funderat över. **Om man utgår från att människans natur handlar om en potential till att både vara egoist och altruist, beroende på omständigheter, då hamnar utvecklingen av samhällsinstitutionerna i fokus. Hur förändra samhället för att gynna mänsklighetens goda sidor?** Istället för att betrakta samhället som en ren produkt av människans natur, så handlar det då istället om att samhällets utformning påverkar vilka av människans olika potentialer som kan utvecklas. Då blir framsteget som idé en verklighet, ja, en nödvändighet.
 
-Greider har läst Steven Pinkers epokgörande bok **"The Better Angels of Our Nature"**, där Pinker redogör för hur våldet människor emellan har minskat över långa historiska tider. Det är en uppfattning som svär mot den gängse, att vår tid är särskilt våldsam, att utvecklingen har gått mot det sämre. Pinker visar övertygande att detta är fel.
+Greider har läst Steven Pinkers epokgörande bok [**The Better Angels of Our Nature**](/library/9781846140938.html), där Pinker redogör för hur våldet människor emellan har minskat över långa historiska tider. Det är en uppfattning som svär mot den gängse, att vår tid är särskilt våldsam, att utvecklingen har gått mot det sämre. Pinker visar övertygande att detta är fel.
 
 Man kunde tro att Greider skulle ta detta på allvar, eftersom det har stor relevans för synen på sambandet mellan människa och samhälle. Men nej. **Till min stora besvikelse flamsar Greider bort Pinkers resonemang med närmast pinsamt undermåliga kommentarer.** Man kan möjligen spåra att Greider nog ändå är litet imponerad av Pinkers argument. Han har inga vettiga motargument, utan yrar litet obestämt att i jägarsamhället hade man vapen tillhanda, men inte i jordbrukssamhället, så tillfällig ilska kunde få värre följder i det förra. Suck. Som om det inte finns alla möjliga tillhyggen i ett jordbruk... Det är helt enkelt för dåligt.
 
 Liberaler använder sig gärna av tankefiguren att det är individerna som är viktiga, samhället har inget egenvärde. Detta kritiserar självfallet Greider, och han har en poäng. **Jag tror liberalismen måste omformuleras så att den handlar om en process för progressiv frigörelse av individen inom ramen för ett förändrat samhälle.** Att tala om ett ursprungligt samhällsfördrag är ett exempel på ett resonemang som helt missar poängen. Det har självklart aldrig funnits ett samhällsfördrag, så det är egentligen mycket märkligt att basera en samhällsfilosofi på en sådan hypotetisk idé. Däremot kan vi arbeta för att successivt gå mot ett samhälle som stämmer bättre överens med ett sådant ideal. Alltså: reformism. Det synsättet tar idén om framsteget på allvar.
 
 **En sådan liberalism - ska vi kalla den progressiv liberalism? - behöver inte göra några speciella antaganden om huruvida människan är i grunden egoistisk eller altruistisk. Vad det handlar om är att fokusera på att förändra samhällsinstitutionerna så att det gynnar det goda livet för människorna, verkar för frigörelse och makt över det egna livet, och ser framsteget som politikens mål och drivkraft.**
-
-Göran Greider: **Den solidariska genen.** Ordfront Förlag, 2014, ISBN 978-91-7037-769-3
-
-Richard Dawkins: **The Selfish Gene. 30th Anniversary edition.** Oxford University Press, 2006 (ursprungligen publicerad 1976), ISBN978-0-19-929115-1
-
-Steven Pinker: **The Better Angels of Our Nature: The decline of violence in history and its causes.** Allen Lane (Penguin Books), 2011, ISBN 978-1-846-14093-8 (finns numera även i pocket 978-0-141-03464-5)
-

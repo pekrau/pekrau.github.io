@@ -217,13 +217,15 @@ def build_index():
     categories = list(CATEGORIES.values())
     categories.sort(key=lambda c: c["value"].lower())
     # Convert the two first paragraphs of the first three posts.
-    posts = POSTS[:3]
-    for post in posts:
+    recent = POSTS[:3]
+    for post in recent:
         post["short_html"] = MARKDOWN.convert("\n\n".join(post["content"].split("\n\n")[:2]))
+    popular = [p for p in POSTS if p.get("popular")]
     build_html("index.html",
                updated=time.strftime("%Y-%m-%d"),
                categories=categories,
-               posts=posts)
+               recent=recent,
+               popular=popular)
 
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."

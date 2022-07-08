@@ -25,6 +25,9 @@ tags:
   value: totalitarism
 title: "Karl Popper: Det \xF6ppna samh\xE4llet och dess fiender"
 type: post
+popular: true
+references:
+- Popper 1945a
 ---
 [Karl Popper (1902-1994)](http://en.wikipedia.org/wiki/Karl_Popper) är en av 1900-talets största liberala filosofer. Hans *magnum opus* inom den politiska filosofin, [Det öppna samhället och dess fiender](http://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies), kom ut 1945, alltså för snart 70 år sedan. Verket består av två delar, där den första behandlar [Platon](http://en.wikipedia.org/wiki/Plato), av många ansedd som den västerländska filosofins fader, och den andra delen tar sig an [GWF Hegel](http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) och [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx). Men verket är sannerligen inte bara en recension av andra filosofer. Popper utvecklar och argumenterar för sin egen liberala politiska filosofi.
 
@@ -35,8 +38,6 @@ Det råkar falla sig så att det är ungefär 35 år sedan jag läste verket fö
 **Poppers centrala tema är kontrasten och konflikten mellan det slutna och det öppna samhället. Han diskuterar vilka idéer och ideal som dessa motsvarar, och vilken sorts politik som dessa ideal hänger ihop med. Vad avser han med dessa begrepp?**
 
 > In what follows, the magical or tribal or collectivist society will also be called the *closed society*, and the society in which individuals are confronted with personal decisions, the *open society*.
-
-
 
 Popper ser det slutna samhället som en slags förhistorisk gemenskap där alla samhällsroller var självklart givna, där individen som vi uppfattar begreppet inte finns, utan människor har sin existens i på förhand givna positioner i samhällskroppen. Samhällets strukturer är på ett grundläggande sätt självklara, synbarligen av naturen givna.
 
@@ -56,15 +57,8 @@ Det antas ibland att den mest relevanta delen av det "Det öppna samhällets..."
 
 Inget kunde vara mer felaktigt. Av två skäl. Dels har de grekiska tänkarnas idéer influerat Västerlandets föreställningar om människa och politik på det mest genomgripande sätt. Och dels därför att många av de teman som Platon diskuterar på ett oroväckande sätt påminner om den identitetsvänster och den extremhöger som hemsöker den europeiska kontinenten. Idéer om ras, ren kultur, ett samhälle där alla vet sin plats, människor som styrs av inneboende egenskaper, ett styre av starka, modiga och rättänkande män, demokratins inneboende nedbrytande karaktär, moralens förfall, allt detta är tankegods som hör hemma i en antiliberal tradition som Platon var en av de tidigaste och mest inflytelserika förespråkarna för.
 
-**Så därför vill jag påstå att den som vill förstå dels de viktiga konfliktlinjerna i det politiska landskapet, dels förstå vilken ansats Karl Popper själv har inför politikens och samhällsutvecklingens problem, absolut bör läsa den första volymen av "Det öppna samhället och dess fiender", den vars underrubrik är "The Spell of Plato".
-
-**
+**Så därför vill jag påstå att den som vill förstå dels de viktiga konfliktlinjerna i det politiska landskapet, dels förstå vilken ansats Karl Popper själv har inför politikens och samhällsutvecklingens problem, absolut bör läsa den första volymen av "Det öppna samhället och dess fiender", den vars underrubrik är "The Spell of Plato".**
 
 Det är för övrigt en glädje att läsa Popper ur rent textuell synvinkel. Han bemödar sig om att uttrycka sig klart. Den sorts intellektuella snobbism som kan yttra sig i att hitta på nya termer t.ex. genom att strössla bindestreck mellan ord, den attityden har Popper rätteligen bara förakt för. Vid en första anblick kan "Det öppna samhället..." tyckas vara en avskräckande tegelsten, men då ska man veta att nästan hälften av boken består av text i fotnoter samlade i slutet. Visserligen finns mycket intressant där, men en rak genomläsning av den primära texten är att rekommendera.
 
 Jag avser att skriva mer om Poppers resonemang framöver. Det finns aspekter som är av högsta relevans för dagens politiska problem. Det finns också svaga punkter som Popper har gemensamt med dagens liberala rörelser, som jag vill diskutera.
-
-I väntan på det kan man antingen läsa Poppers verk, eller så kan man läsa några väl valda citat, t.ex. på websajten [Karl Popper Quote](http://karlpopperquote.org/) där det varje dag finns ett nytt citat.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-
