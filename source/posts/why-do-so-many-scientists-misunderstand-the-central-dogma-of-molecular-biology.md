@@ -18,14 +18,13 @@ tags:
   value: protein
 title: Why do so many scientists misunderstand the Central Dogma of Molecular Biology?
 type: post
+popular: true
 ---
 Scientists are careful people who do not make statements without knowing the facts. They try hard to get things right. So we think; hope.
 
-**But there is a very curious case where intelligent, knowledgeable scientists seem to get things wrong at an alarming frequency.** It is quite interesting, because the misunderstanding isn't that hard to avoid. It is a mystery why scientists keep flunking it. In an added twist of diabolical irony, the very article published to explicitly demolish the misunderstanding is often cited <u>in support</u> of it!
+**But there is a very curious case where intelligent, knowledgeable scientists seem to get things wrong at an alarming frequency.** It is quite interesting, because the misunderstanding isn't that hard to avoid. It is a mystery why scientists keep flunking it. In an added twist of diabolical irony, the very article published to explicitly demolish the misunderstanding is often cited _in support_ of it!
 
 I am thinking of the so-called **Central Dogma of Molecular Biology**, a statement about the information flow between DNA, RNA and protein. It was published in 1958 by [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick), co-discoverer of [the double-helical structure of DNA](http://www.nature.com/nature/dna50/watsoncrick.pdf), [Nobel Prize laureate 1962](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/) and a true giant of 20th century science.
-
-
 
 The misunderstanding of the Central Dogma can be stated in different ways. It is claimed that, e.g.:
 
@@ -36,11 +35,11 @@ The misunderstanding of the Central Dogma can be stated in different ways. It is
 
 **All these statements are wrong.** Not about the facts of the biological phenomena in themselves, but in the claim that they affect the Central Dogma.
 
-What does the Central Dogma say? Here is the full statement from Crick's 1958 paper ([Symp. Soc. Exp. Biol. 1958, vol 12, pp 138-163](http://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/SCBBZY)):
+What does the Central Dogma say? Here is the full statement from Crick's 1958 paper "On Protein Synthesis" ([Symp. Soc. Exp. Biol. 1958, vol 12, pp 138-163](https://profiles.nlm.nih.gov/spotlight/sc/catalog/nlm:nlmuid-101584582X404-doc)):
 
-> *The Central Dogma*
+> The Central Dogma
 
-This states that once 'information' has passed into protein *it cannot get out again*. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the *precise* determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein.
+> This states that once 'information' has passed into protein *it cannot get out again*. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the *precise* determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein.
 
 **It is important to note that as stated here, the Central Dogma is even today exactly correct! Nothing in this statement has been shown to be wrong.**
 
@@ -52,17 +51,17 @@ In 1970, Crick published a paper ([Nature 1970, vol 227, issue 5258, pp 561-563]
 
 And he illustrated the Central Dogma in the following way:
 
-[![central-dogma-crick-1970](/files/central-dogma-crick-1970.png)](/files/central-dogma-crick-1970.png)
+<img class="img-fluid m-3" src="/files/central-dogma-crick-1970.png">
 
 The essential message of this image is **the absence** of arrows from protein to either RNA, DNA or protein. Crick wrote:
 
 > These are the three transfers which the central dogma postulates never occur:
 
-    Protein -&gt; Protein
+>    Protein -&gt; Protein
 
-    Protein -&gt; DNA
+>    Protein -&gt; DNA
 
-    Protein -&gt; RNA
+>    Protein -&gt; RNA
 
 Or, in other words, there is no enzyme that can be called a "protein-directed reverse translatase" or "reverse ribosome", nor is there any "protein-directed protein polymerase". This holds perfectly and exactly true to this day.
 
@@ -78,9 +77,9 @@ I will here quote from a recent Ph.D. thesis which clearly shows the misundersta
 
 > The central dogma of molecular biology [...] is often stated in its popular form as "DNA is transcribed into RNA and RNA is translated into proteins in the ribosomes". The dogma in this form postulates that the information flow in a cell is essentially a one way process [...]
 
-Exceptions to this central flow are however numerous [...]
+> Exceptions to this central flow are however numerous [...]
 
-Moreover, may proteins called transcription factors [..] bind to the DNA and influence the rate of transcription of genes, thus modifying how information is read.
+> Moreover, may proteins called transcription factors [..] bind to the DNA and influence the rate of transcription of genes, thus modifying how information is read.
 
 In this example, there is even an illustration showing "a more realistic representation" than the Central Dogma. Which is incorrect, because Crick's Central Dogma is still exactly right, and there is no need of a "more realistic representation". The basis of the misunderstanding is clearly present in the last sentence of the first paragraph, where it is claimed that "the central dogma postulates that the information flow in the cell...". This is wrong. The Central Dogma does no such thing.
 
@@ -88,12 +87,10 @@ So how serious is this problem? In a rather simplistic exercise, I gathered a bu
 
 It should be noted that a possible explanation - that there is something wrong with the education leading up to the Ph.D. theses - does not seem likely. The pattern is not very consistent, so it is more likely that the young scientists have formed these views on their own. It would be interesting to figure out what the root cause is, but I have no idea how to do that.
 
-**What is the moral of this? It can be condensed into two rules:
+**What is the moral of this?** It can be condensed into two rules:
 
 1. If you cite a paper, make sure that you have read it.
 2. Before making a judgement about a hypothesis, make sure you first understand it.
-
-**
 
 If you think morals is boring, then have a look at [this wonderful film made in 1971 at Stanford](https://www.youtube.com/watch?v=WTRmvnlNVw4), which illustrates how the ribosome acts to translate mRNA into protein, one of the transfers of sequence information allowed by the Central Dogma.
 

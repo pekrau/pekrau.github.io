@@ -9,9 +9,8 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 {% endblock%}
 
 {% block body_title %}
-<img src="/files/valen.png" title="Kalvsund, Öckerö, Sweden"
-     class="rounded float-start img-fluid me-4">
-<h1 class="mt-4">Civilisation</h1>
+<img src="/files/valen.png" title="Valen, Kalvsund, Öckerö, Sweden" class="rounded float-start img-fluid me-4">
+<h1 class="pt-4">Civilisation</h1>
 <h3 class="text-muted" title="Society, science, culture">Samhälle, vetenskap, kultur</h3>
 <h3 class="text-muted">Per Kraulis</h3>
 {% endblock%}
@@ -20,7 +19,7 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 <div class="row">
 
   <section class="col-lg-8 offset-lg-1">
-    {% for post in posts %}
+    {% for post in recent %}
     <div class="card mb-3">
       <div class="card-header bg-light">
         <h5 class="card-title">{{ post['title'] }}
@@ -46,24 +45,25 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 
     <div class="card mb-4">
       <div class="card-header bg-light">
+        <h4 class="card-title" title="Popular posts">Populära inlägg</h4>
+      </div>
+      <ul class="list-group list-group-flush">
+        {% for post in popular %}
+        <li class="list-group-item">
+          {{ post_link(post) }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="card mb-4">
+      <div class="card-header bg-light">
         <h4 class="card-title">Sidor</h4>
       </div>
       <div class="card-body">
         {% for page in pages %}
         <a href="{{ page['path'] }}">{{ page['title'] }}</a>
         <br>
-        {% endfor %}
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-header  bg-light">
-        <h4 class="card-title">Kategorier</h4>
-      </div>
-      <div class="card-body">
-        {% for category in categories %}
-        {{ category_link(category) }}
-        </br>
         {% endfor %}
       </div>
     </div>

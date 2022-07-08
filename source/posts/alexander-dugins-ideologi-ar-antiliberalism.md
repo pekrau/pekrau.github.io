@@ -35,12 +35,13 @@ tags:
   value: Ryssland
 title: "Alexander Dugins ideologi \xE4r antiliberalism"
 type: post
+references:
+- Dugin 2009
+popular: true
 ---
 Alexander Dugin intervjuas i [Dagens Nyheter 4 februari 2017](http://mobil.dn.se/nyheter/varlden/med-trump-vid-makten-ar-ryssland-inte-langre-ett-offer/) av Dagens Nyheters Michael Winiarski. Dugin är en rysk ideolog, intellektuell, aktivist, rådgivare åt makthavare i Kreml och global nätverksbyggare med olika högerextrema rörelser. Han har ett projekt. Han vill utarbeta den så kallade **fjärde politiska teorin**, eller **4PT** som han förkortar den, vilket kan verka litet komiskt. Men det är det inte. **Det handlar nämligen om en ny variant av fascism.** Den skiljer sig från den gamla fascismen främst därigenom att den inte har så värst mycket av egna ideal. Det handlar inte om att den är för något, snarare är den mot. Det är liberalismen som är dess allt överskuggande fiende.
 
 Det finns flera skäl att granska Alexander Dugins tänkande. Hans ambition att påverka de ryska makthavarna är ett. Vissa tongivande ryska kretsar har haft så nära kontakt med Dugin att åtminstone en del av hans tankar har blivit allmängods. Hans strävan att bygga nätverk i Europa och annorstädes är en annan. En ytterligare anledning är den tystnad varmed den svenska kulturdebatten behandlat Dugin. Man kunde tro att en tänkare som så tydligt försöker påverka skeendet i Ryssland, Europa och världen skulle röna något intresse från exempelvis kulturskribenter, idéhistoriker eller filosofer i Sverige. Men nej, de tycks ha andra saker för sig. Det är en tröst att det ändå finns åtminstone en svensk journalist som håller koll på Dugin.
-
-
 
 Dugin vill åstadkomma en explicit antiliberal allians, med vars hjälp det, enligt hans mening, fördärvliga västerländska demokratiska systemet kan störtas. Dugin avskyr vad han kallar den atlantiska civilisationen, alltså det demokratisk-liberala systemet i bland annat USA, Storbritannien och stora delar av Europa.
 
@@ -52,7 +53,7 @@ Detta låter vackert. Men Dugin hycklar. Han tycker i själva verket inte alls a
 
 Ibland talar han om Ryssland som en nation som kommer att låta andra vara i fred bara man låter den råda på hemmaplan. Andra gånger är det tydligt att denna så kallade hemmaplan innebär en imperialistisk expansion in mot angränsande länder och vidare. Att han exempelvis anser Ukraina helt sakna existensberättigande som självständig stat är han mycket tydlig med. Så långt sträcker sig inte multipolariteten.
 
-![150px-EZM_logo](/files/150px-ezm_logo.gif)Dugin presenterar sin politiska filosofi i boken "The Fourth Political Theory" som utgivits bland annat på engelska år 2012 av bokförlaget Arktos, som för övrigt har starka svenska kopplingar. Boken pryds av en figur med åtta pilspetsar, en symbol som ofta återkommer i dessa sammanhang, och vars estetiska referens till swastikan är uppenbar. Sidhänvisningarna för citaten nedan är till den boken.
+<img class="img-fluid float-start m-3" src="/files/150px-ezm_logo.gif"> Dugin presenterar sin politiska filosofi i boken "The Fourth Political Theory" som utgivits bland annat på engelska år 2012 av bokförlaget Arktos, som för övrigt har starka svenska kopplingar. Boken pryds av en figur med åtta pilspetsar, en symbol som ofta återkommer i dessa sammanhang, och vars estetiska referens till swastikan är uppenbar. Sidhänvisningarna för citaten nedan är till den boken.
 
 [Alain Soral](http://en.wikipedia.org/wiki/Alain_Soral), fransk regissör, skådespelare och skribent, skriver i bokens förord:
 
@@ -64,17 +65,13 @@ Dugin utmålar hur liberalismen under 1900-talets sista år globalt har krossat 
 
 På motsvarande sätt säger han sig storsint låta Västeuropa behålla sin särart med exempelvis feminism och rättigheter för homosexuella, i andra stunder framgår att sådant är oerhörda perversioner som måste utplånas. Den brist på tolerans mot olikhet som han beskyller liberalism för i själva verket helt central i det egna tänkandet. Bakom det fagra talet om multipolaritet döljer sig en avgrundsdjup avsky mot liberalismen. Dugin tappar ibland besinningen och låter den pseudo-toleranta masken falla (s. 154-155):
 
-> [...] liberalism (and post-liberalism) may (and must - I believe this!) be repudiated. [...] it must be repudiated together with modernity, the Enlightenment, and European humanity altogether.
+> [...] liberalism (and post-liberalism) may (and must - I believe this!) be repudiated. [...] it must be repudiated together with modernity, the Enlightenment, and European humanity altogether. [...]
 
-[...]
+> Liberalism is an absolute evil; not only in its factual embodiment, but also in its fundamental theoretical suppositions. [...]
 
-Liberalism is an absolute evil; not only in its factual embodiment, but also in its fundamental theoretical suppositions.
+> Only tearing it out by its roots can defeat this evil, and I do not exclude that such a victory will necessitate erasing from the face of the Earth those spiritual and physical halos from which arose the global heresy, which insists that 'man is the measure of all things'. Only a global crusade against the US, the West, globalisation, and their political-ideological expression, liberalism, is capable of becoming an adequate response.
 
-[...]
-
-Only tearing it out by its roots can defeat this evil, and I do not exclude that such a victory will necessitate erasing from the face of the Earth those spiritual and physical halos from which arose the global heresy, which insists that 'man is the measure of all things'. Only a global crusade against the US, the West, globalisation, and their political-ideological expression, liberalism, is capable of becoming an adequate response.
-
-The elaboration of the ideology of this Crusader campaign, undoubtedly, is a matter for Russia not to pursue alone [...]
+> The elaboration of the ideology of this Crusader campaign, undoubtedly, is a matter for Russia not to pursue alone [...]
 
 Detta låter inte så värst mycket som en inbjudan till en multipolär värld, snarare som ett upprop för ett nytt världskrig.
 
@@ -104,19 +101,13 @@ Jag ska inte gå djupare in på det resonemanget; det är inte värt den intelle
 
 Dugin för ett intressant resonemang om rasism. Han tar i denna boken avstånd från rasism och påstår att det var nazismens rasism, och inte några andra aspekter av dess filosofi, som ledde till dess förlust i andra världskriget. Han påstår dessutom att det var Hitlers antisemitism och rasism gentemot de slaviska folken som ledde till att Tyskland anföll Sovjetunionen. Därefter skriver han att Hitlers rasism bara var en typ av rasism. Det finns andra. Här börjar hans resonemang låta som de vidlyftiga tankarna från postkoloniala tänkare om den allt genomsyrande strukturella rasismen (s. 44-45).
 
-> There are other forms of racism - cultural (asserting that there are high and low cultures), civilisational (dividing people into those civilised and those insufficiently civilised), technological [...], social [...], economic [...], and evolutionary [...]. European and American societies are fundamentally afflicted with these types of racism, unable to eradicate them from itself despite intensive efforts.
+> There are other forms of racism - cultural (asserting that there are high and low cultures), civilisational (dividing people into those civilised and those insufficiently civilised), technological [...], social [...], economic [...], and evolutionary [...]. European and American societies are fundamentally afflicted with these types of racism, unable to eradicate them from itself despite intensive efforts. [...]
 
-[...]
+> The newest types of racism are glamour, fashion, and the latest trends in information technology. [...]
 
-The newest types of racism are glamour, fashion, and the latest trends in information technology.
+> The very ideology of progress is racist in its structure. [..] The ideology of progress represents the moral genocide of past generations - in other words, <b>real</b> racism. [...]
 
-[...]
-
-The very ideology of progress is racist in its structure. [..] The ideology of progress represents the moral genocide of past generations - in other words, <b>real</b> racism.
-
-[...]
-
-Globalisation is thus nothing more than a globally deployed model of Western European, or, rather, Anglo-Saxon ethnocentrism, which is the purest manifestation of racist ideology.
+> Globalisation is thus nothing more than a globally deployed model of Western European, or, rather, Anglo-Saxon ethnocentrism, which is the purest manifestation of racist ideology.
 
 Allt Dugin betraktar som hemskt är alltså rasism. Ett retoriskt grepp som känns bekant.
 
@@ -128,15 +119,11 @@ Frihet omdefinieras alltså till att ha med allt utom individen att göra.
 
 I det avslutande kapitlet i sin bok placerar han in sin teori i ett närmast apokalyptiskt perspektiv (s. 193-194):
 
-> Spiritually, globalisation is the creation of a grand parody, the kingdom of the Antichrist.
+> Spiritually, globalisation is the creation of a grand parody, the kingdom of the Antichrist. [...]
 
-[...]
+> Therefore, all traditionalists should be against the West and globalisation, as well as against the imperial politics of the United States.
 
-Therefore, all traditionalists should be against the West and globalisation, as well as against the imperial politics of the United States.
-
-[...] all forces that struggle against the West, the United States, against liberal democracy, and against modernity and postmodernity [should be included]. The common enenemy is the necessary instance for all kinds of political alliances. This means Muslims and Christians, Russians and Chinese, both Leftists and Rightists, the Hindu and the Jews who challenge the present state of affairs, globalisation and American imperialism. [...] Let our ideals be different, but we have in common one very strong feature: hatred of the present social reality.
+> [...] all forces that struggle against the West, the United States, against liberal democracy, and against modernity and postmodernity [should be included]. The common enenemy is the necessary instance for all kinds of political alliances. This means Muslims and Christians, Russians and Chinese, both Leftists and Rightists, the Hindu and the Jews who challenge the present state of affairs, globalisation and American imperialism. [...] Let our ideals be different, but we have in common one very strong feature: hatred of the present social reality.
 
 Det är detta hat som är kärnan och drivkraften i Alexander Dugins tänkande och gärning.
-
-Alexander Dugin: The Fourth Political Theory. Arktos Media Ltd,  2012, ISBN 978-1-907166-65-5.
 

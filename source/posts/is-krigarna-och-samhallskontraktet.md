@@ -33,12 +33,11 @@ tags:
   value: utilitarism
 title: "IS-krigarna och samh\xE4llskontraktet"
 type: post
+popular: true
 ---
 [Samhällskontraktet](http://sv.wikipedia.org/wiki/Kontraktualism) är idén att medborgarna har ingått ett avtal med varandra om rättigheter och skyldigheter i samhällslivet. Staten ska garantera människorna liv och olika rättigheter, och människorna underkastar sig statens styre, betalar skatt, uppför sig vettigt mot varandra och gör som polisen säger. Exakt vilka dessa rättigheter och skyldigheter är bestäms i det demokratiska systemet. Brott mot samhällskontraktet från statens sida utgör legitim grund för protest.
 
 **Jag tror man bättre kan förstå upprördheten i många av den senaste tidens debatter, som t.ex. den om hemvändande krigare från Islamiska Staten, om man betraktar dem i ljuset av idén om samhällskontraktet. Det handlar om en svårlöst konflikt mellan samhällelig rättvisa och nytta, där bägge sidor har goda argument.**
-
-
 
 Självklart är tanken om ett ursprungligt samhällskontrakt en fiktion. Inget konkret avtal finns, har aldrig funnits. Men denna upplysningsidé, som förknippas med namn som [Thomas Hobbes](http://sv.wikipedia.org/wiki/Thomas_Hobbes), [John Locke](http://sv.wikipedia.org/wiki/John_Locke) och [Jean-Jacques Rousseau](http://sv.wikipedia.org/wiki/Jean-Jacques_Rousseau), har ändå blivit en integrerad del av vårt politiska tänkande. **Vi agerar och resonerar som om det funnes ett samhällskontrakt. Vi använder idealet om ett samhällskontrakt i argumentionen för olika rättigheter.** I den moderna debatten har idén fått nya uttryck i [John Rawls](http://sv.wikipedia.org/wiki/John_Rawls) teori om rättvisa och [Robert Nozicks](http://sv.wikipedia.org/wiki/Robert_Nozick) resonemang om den minimala staten.
 
@@ -68,9 +67,7 @@ Debatten tog sin början i att Stockholms stads socialnämnd antog en ["strategi
 
 Argumenten för stödjande åtgärder vilar på utilitaristisk grund: Vad göra för bästa samlade utfall? Hellre stöd om det kan leda till anpassning och pacificering av de forna IS-krigarna, än ett utanförskap som riskerar leda till mer hat och terrorhandlingar. Så resonerar till exempel [Daniel Swedin i Aftonbladet 21 maj 2015](http://www.aftonbladet.se/ledare/ledarkronika/danielswedin/article20826319.ab) och [Dagens Nyheters huvudledare samma dag](http://www.dn.se/ledare/huvudledare/ge-atervandarna-en-chans/).
 
-**Bägge sidor anser sig ha moralen på sin sida. Vilket är sant! Båda har starkt moraliska grunder för sina ställningstaganden.
-
-**
+**Bägge sidor anser sig ha moralen på sin sida. Vilket är sant! Båda har starkt moraliska grunder för sina ställningstaganden.**
 
 Min egen ståndpunkt om IS-krigarna? Jag tror det är nödvändigt med tydliga konsekvenser för de som återvänder. Att säga sig vilja lagföra brott räcker inte, eftersom bevisläget kommer att bli oerhört svårt. Se bara hur besvärligt det är att lagföra enstaka övergrepp i forna Jugoslavien, eller för den delen under andra världskriget. Det innebär att även hemvändare som rent faktiskt har begått brott ändå kommer att kunna använda sig av de förmåner som strategin förespeglar.
 
