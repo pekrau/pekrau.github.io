@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /files/
-Disallow: /source/
-
+Sitemap: https://pekrau.github.io/sitemap.txt

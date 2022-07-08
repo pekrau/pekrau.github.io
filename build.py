@@ -26,6 +26,7 @@ CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
 BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
+SITEMAP_FILES = []
 
 
 # Setup the Jinja2 template processing environment.
@@ -222,6 +223,7 @@ def build_index():
         post["short_html"] = MARKDOWN.convert("\n\n".join(post["content"].split("\n\n")[:2]))
     popular = [p for p in POSTS if p.get("popular")]
     build_html("index.html",
+               sitemap=True,
                updated=time.strftime("%Y-%m-%d"),
                categories=categories,
                recent=recent,
@@ -238,12 +240,13 @@ def build_blog():
     for post in POSTS:
         build_html(os.path.join(post["path"].strip("/"), "index.html"),
                    template="blog/post.html", 
+                   sitemap=True,
                    post=post,
                    language=post.get("language", "sv"),
                    references=[BOOKS[ref] for ref in post.get("references", [])])
     # Index of all tags.
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
-    build_html("blog/tags/index.html", tags=tags)
+    build_html("blog/tags/index.html", sitemap=True, tags=tags)
     for tag in tags:
         build_html(os.path.join("blog/tags", tag["name"], "index.html"),
                    template="blog/tags/tag.html",
@@ -266,6 +269,7 @@ def build_pages():
         if page.get("external"): continue
         build_html(os.path.join(page["path"].strip("/"), "index.html"),
                    template="page.html", 
+                   sitemap=True,
                    page=page,
                    language=page.get("language", "sv"))
 
@@ -274,13 +278,14 @@ def build_books():
     books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
     # Index of all books and their pages.
-    build_html("library/index.html", books=books)
+    build_html("library/index.html", sitemap=True, books=books)
     for post in POSTS:
         for reference in post.get("references", []):
             BOOKS[reference].setdefault("posts", []).append(post)
     for book in books:
         build_html(f"library/{book['isbn']}.html",
                    template="library/book.html",
+                   sitemap=True,
                    book=book,
                    language=book.get("language") or "sv")
     # Authors index and pages.
@@ -288,10 +293,11 @@ def build_books():
     for book in books:
         for author in book["authors"]:
             authors.setdefault(author, []).append(book)
-    build_html("library/authors/index.html", authors=authors)
+    build_html("library/authors/index.html", sitemap=True, authors=authors)
     for author, author_books in authors.items():
         build_html(os.path.join("library/authors", author, "index.html"),
                    template="library/authors/author.html",
+                   sitemap=True,
                    author=author,
                    books=author_books)
     # Subject index and pages.
@@ -303,7 +309,7 @@ def build_books():
                 continue
             subjects.setdefault(subject, []).append(book)
     subjects = list(subjects.items())
-    build_html("library/subjects/index.html", subjects=subjects)
+    build_html("library/subjects/index.html", sitemap=True, subjects=subjects)
     for subject, subject_books in subjects:
         # Primary sort by published date, secondary sort by authors.
         # Since Python 'sort' is stable, this works.
@@ -324,8 +330,13 @@ def build_books():
                    template="library/rating.html",
                    rating=rating,
                    books=rated)
+    # Finally, sitemap file.
+    with open("docs/sitemap.txt", "w") as outfile:
+        for filepath in SITEMAP_FILES:
+            outfile.write(filepath)
+            outfile.write("\n")
 
-def build_html(filepath, template=None, pages=None, **kwargs):
+def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
     "Build a single HTML page from the data for an item."
     if template is None:
         template = filepath
@@ -339,6 +350,8 @@ def build_html(filepath, template=None, pages=None, **kwargs):
     with open(filepath, "w") as outfile:
         outfile.write(template.render(pages=pages, **kwargs))
     HTML_FILES.add(filepath)
+    if sitemap:
+        SITEMAP_FILES.append("https://pekrau.github.io/" + filepath[5:])
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
