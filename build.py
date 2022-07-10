@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.7.0"
+__version__ = "0.8.0"
 
 import csv
 import json
@@ -48,9 +48,7 @@ def book_link(book, full=False):
                                            book_link(book),
                                            f"({book['published']})"]))
     else:
-        href = f"/library/{book['isbn']}.html"
-        reviewed = book.get("html") and ' <i class="bi bi-pencil-square"></i>' or ""
-        return markupsafe.Markup(f"""<a href={href}>{book['title']}{reviewed}</a>""")
+        return markupsafe.Markup(f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>""")
 
 def category_link(category):
     return markupsafe.Markup(f"""<a href="/blog/categories/{category['name']}" class="text-nowrap">{category['value']}</a>""")
@@ -275,6 +273,7 @@ def build_pages():
 
 def build_books():
     "Build book files."
+    # Only books having ISBN (possibly a dummy value) are considered.
     books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
     # Index of all books and their pages.
@@ -319,7 +318,10 @@ def build_books():
                    template="library/subjects/subject.html",
                    subject=" ".join([p.capitalize() for p in subject.split("-")]),
                    books=subject_books)
-    # All ratings pages.
+    # Reviewed books.
+    build_html("library/reviewed.html",
+               books=[b for b in books if b.get("html")])
+    # Ratings pages.
     for rating in range(5, 0, -1):
         rated = [b for b in books if b.get("rating") == rating]
         # Primary sort by published date, secondary sort by authors.
@@ -330,11 +332,6 @@ def build_books():
                    template="library/rating.html",
                    rating=rating,
                    books=rated)
-    # Finally, sitemap file.
-    with open("docs/sitemap.txt", "w") as outfile:
-        for filepath in SITEMAP_FILES:
-            outfile.write(filepath)
-            outfile.write("\n")
 
 def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
     "Build a single HTML page from the data for an item."
@@ -375,6 +372,13 @@ def read_md(filepath):
     result.get("categories", []).sort(key=lambda c: c["value"].lower())
     return result
 
+def write_sitemap():
+    "Output the sitemap file."
+    with open("docs/sitemap.txt", "w") as outfile:
+        for filepath in SITEMAP_FILES:
+            outfile.write(filepath)
+            outfile.write("\n")
+
 def cleanup_html_files():
     "Remove any HTML files not created during this run."
     CURRENT_FILES = set()
@@ -406,4 +410,5 @@ if __name__ == "__main__":
     build_blog()
     build_pages()
     build_books()
+    write_sitemap()
     cleanup_html_files()

@@ -30,7 +30,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown me-2">
               <a class="nav-link dropdown-toggle" href="#" id="blog" title="Blog" role="button" data-bs-toggle="dropdown" aria-expanded="false">Blogg</a>
               <ul class="dropdown-menu" aria-labelledby="blog">
                 <li>
@@ -47,7 +47,7 @@
                 </li>
               </ul>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown me-2">
               <a class="nav-link dropdown-toggle" href="#" id="sidor" title="Pages" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sidor</a>
               <ul class="dropdown-menu" aria-labelledby="sidor">
                 {% for page in pages %}
@@ -57,7 +57,7 @@
                 {% endfor %}
               </ul>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown me-2">
               <a class="nav-link dropdown-toggle" href="#" id="library" role="button" data-bs-toggle="dropdown" aria-expanded="false">Bibliotek</a>
               <ul class="dropdown-menu" aria-labelledby="library">
                 <li>
@@ -69,6 +69,9 @@
                 <li>
                   <a class="dropdown-item" href="/library/subjects/">Alla ämnen</a>
                 </li>
+                <li>
+                  <a class="dropdown-item" href="/library/reviewed.html">Recenserade böcker</a>
+                </li>
                 {% for rating in range(5, 0, -1) %}
                 <li>
                   <a class="dropdown-item" href="/library/rating{{ rating }}.html">Böcker med betyg {{ rating }}</a>
@@ -78,7 +81,7 @@
             </li>
             {% for page in pages %}
             {% if page.get('menu') %}
-            <li class="nav-item">
+            <li class="nav-item me-2">
               <a class="nav-link" href="{{ page['path'] }}">{{ page['title'] }}</a>
             </li>
             {% endif %}
