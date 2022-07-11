@@ -16,8 +16,7 @@ type: post
 ---
 I [del 1](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-1/) av denna artikeln visade jag en tabell av siffror och utmanade därmed den filosofiska reduktionismen att gissa vad det handlade om. Jag avslöjade att tabellen var ett 9x9 pixlar stort utsnitt ur en större bild. I [del 2](/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/) visade jag den lilla bilden. Så är det dags att avslöja vad hela bilden föreställer:
 
-![Johannes Vermeer - Girl with a Pearl Earring](/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg)
-Johannes Vermeer - Girl with a Pearl Earring
+<img class="float-start m-3" src="/files/johannes_vermeer_-_girl_with_a_pearl_earring_1660s_after_restoration_802_c397_923.jpg" title="Johannes Vermeer - Girl with a Pearl Earring">
 
 Detta är [Johannes Vermeers](https://en.wikipedia.org/wiki/Johannes_Vermeer) berömda målning "[Flicka med pärlörhänge](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)". Jag behöver inte orda om hur fantastisk den är.
 

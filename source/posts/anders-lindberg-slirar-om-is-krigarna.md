@@ -24,17 +24,15 @@ Anders Lindberg hävdar i Aftonbladet 23 maj 2015 att det självklart endast han
 
 > Stockholm kunde självklart ha varit tydligare. Men frågan är om det hade hjälpt mot folk som medvetet vill missförstå.
 
-
-
 Vad säger källorna? I dokumentet "Stockholms stads strategi mot våldsbejakande extremism" inför socialnämndens möte 2015-05-19 (länk till insynsverige.se [här](http://insynsverige.se/insynEx.aspx?nodeid=3534322), min egen kopia [här](/files/stockholms-stads-strategi-mot-valdsbejakande-extremism-14-bilaga.pdf)) består avsnittet **Stockholms stads ansvar - fyra perspektiv**, sektion "d" (det fjärde perspektivet), i sin helhet av följande text:
 
 > Efterperspektiv: när en person vill lämna en våldsbejakande extremistisk gruppering eller kommer hem från strider utomlands är det avgörande med anpassade inkluderande insatser. Även då är det viktigt med ett lokalt samarbete emellan olika aktörer. Frivillig-organisationer kan erbjuda målgruppen stödinsatser och råd. Även trossamfund arbetar med rådgivning, men också psykosocialt stöd.
 
-När det gäller personer som deltagit i strid är hälsoinsatser med största sannolikhet ett stort behov. Därför är det viktigt med samverkan mellan socialtjänstens socialpsykiatri och missbruksenheter, samt vårdcentraler och psykiatrin (PTSD, trauma etc.).
+> När det gäller personer som deltagit i strid är hälsoinsatser med största sannolikhet ett stort behov. Därför är det viktigt med samverkan mellan socialtjänstens socialpsykiatri och missbruksenheter, samt vårdcentraler och psykiatrin (PTSD, trauma etc.).
 
-När det gäller försörjning är det viktigt med samarbete mellan socialtjänstens försörjningsstöd, Jobbtorg och andra insatser vid arbetsmarknadsförvaltningen, samt länk till Arbetsförmedling.
+> När det gäller försörjning är det viktigt med samarbete mellan socialtjänstens försörjningsstöd, Jobbtorg och andra insatser vid arbetsmarknadsförvaltningen, samt länk till Arbetsförmedling.
 
-Slutligen, är boendefrågan en förutsättning som behöver fungera och därför bör även bostadsbolagen ingå i en samverkan under efterperspektivet.
+> Slutligen, är boendefrågan en förutsättning som behöver fungera och därför bör även bostadsbolagen ingå i en samverkan under efterperspektivet.
 
 **"Efterperspektivet" handlar helt uppenbart om vad som skall göras med hemvändande IS-krigare.** Alltså inte potentiella framtida rekryter till IS, eller några andra. Kritiken (t.ex. [Lotta Edholm 20 maj 2015](http://www.aftonbladet.se/debatt/article20822939.ab)) har gällt texten ovan, som handlar om de som återvänder efter att ha deltagit i strider på IS sida. Så när Lindberg vill påskina att kritiken gäller det förebyggande arbetet, så är det helt enkelt inte sant.
 
@@ -50,7 +48,7 @@ Lindberg avslutar:
 
 > Att inte förebygga, att inte fånga upp folk i riskzonen i tid, leder till att risken för terrordåd i Sverige ökar.
 
-Det är en oerhört naiv och farlig­ politik.
+> Det är en oerhört naiv och farlig politik.
 
 Återigen, kritiken gäller inte om det förebyggande arbetet. Så där skjuter Lindberg bredvid målet. Vad gäller naivitet, tror inte Lindberg att andra ungdomar tar intryck av, och drar slutsatser av, att de som lierat sig med Islamiska Staten får ta del av "anpassade inkluderande åtgärder"? Det är talande att Lindberg inte berör reaktionerna från de som kämpat mot IS, till exempel [Daniel Ashuraya](http://www.svt.se/nyheter/regionalt/stockholm/daniel-stred-mot-is-fick-inget-stod).
 

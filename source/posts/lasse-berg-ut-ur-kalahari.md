@@ -17,12 +17,12 @@ tags:
   value: utveckling
 title: 'Lasse Berg: Ut ur Kalahari'
 type: post
+references:
+- Berg 2014
 ---
 Journalisten Lasse Berg har utkommit med den tredje boken i sin Kalahari-serie. Den tar delvis formen av en självbiografi, men tyngdpunkten ligger på beskrivningen av utvecklingen i den numera inte fullt så fattiga världen. Den resonerar också om människans natur, det goda livet och civilisations villkor. Den tar stöd i fakta och statistik, men också mer filosofiska resonemang. **Den är underbart lättläst och tar läsaren på allvar på ett mycket uppfriskande sätt.**
 
 Berg redovisar tydligt vad han, och andra, förr ansåg om den fattiga världens möjligheter: **Nämligen att för 40-50 år sedan inget talade för att några framsteg skulle kunna ske. Men utvecklingen har visat att det var grundfel. Förbluffande mycket har blivit mycket bättre.** Berg ger många konkreta exempel på förhållanden som har förbättrats radikalt, som till exempel barnadödligheten. Självklart utan att samtidigt förneka de oerhört stora problem som kvarstår, eller som har vuxit fram som en följd av utvecklingen. Resonemangen är prestigefria och sanningssökande.
-
-
 
 Berg har med start på 1960-talet rest runt i stora delar av Asien och Afrika, och rapporterade därifrån om fattigdom och elände. Han har i perioder bott i flera av länderna. Han har sökt kontakt med "vanligt folk", alltså människor i städer och byar, blivit vänner med dom, och sedan återbesökt dom i olika sammanhang under det gångna halvseklet. Han har därför många konkreta exempel på vad utvecklingen har inneburit för människor.
 
@@ -35,6 +35,3 @@ När det gäller den återkommande frågan om den bästa utvecklingsstrategin f�
 Berg skriver om vitt skilda saker, från bakgrunden till folkmordet i Rwanda och dess efterspel, till de senaste rönen om människans biologiska ursprung och sociala utveckling. **Trots det känns inte boken splittrad, det finns en röd tråd som löper mellan avsnitten. Det handlar om människans förmåga till samarbete.** Även om hans betoning av människans positiva sociala egenskaper är litet väl rosenskimrande - lögner, översitteri, bedrägeri och annat oskick är ju knappast helt moderna påhitt - så har han en stark poäng. Det sociala sammanhanget kan inte tänkas bort. En normativ individualism, där människovärdet är individens, måste bygga på det sociala.
 
 **Jag kan helt och fullt rekommendera Bergs bok. Den är ovanligt passande som läsning i hängmattan under sommarens semester.** En av de finaste berättelserna i boken handlar om de fynd som gjorts i [Blombosgrottan](http://en.wikipedia.org/wiki/Blombos_Cave) nära Afrikas sydspets. Där har man funnit stenar med mönster ingraverade, halsband av snäckskal, och verktyg av sten och ben. Fynden är mellan 70.000 och 100.000 år gamla. De som tillverkade dessa ting var våra förfäder.
-
-Lasse Berg: **Ut ur Kalahari. Drömmen om det goda livet.** Ordfront, 2014, ISBN 978-91-7037-776-1.
-

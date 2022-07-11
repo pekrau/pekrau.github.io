@@ -19,10 +19,13 @@ tags:
   value: Karl Popper
 title: "Ian Morris: M\xF6nstren i historiens utveckling"
 type: post
+references:
+- Morris 2010
+- Popper 1945a
+- Popper 1945b
+- Popper 1957
 ---
 Ian Morris, arkeolog och professor i historia vid Stanford University, har sammanfattat mänsklighetens historia i boken **Why the West Rules - For Now**. Det är en ca 650 sidor lång syntes av den senaste tidens forskning inom arkeologi och historia. Boken hålls samman av den tes Morris driver, som utgår från följande fråga: **Varför är västvärlden idag den dominerande global aktören?** Men inte nog med att Morris vill förklara historiens gång, han vill också förutsäga vad som komma skall.
-
-
 
 Bokens grundläggande fråga kan också formuleras så här: **Varför dominerar inte Kina? Och kommer de att göra det?** Det är nämligen mellan Väst och Kina som kampen står, i Morris' skildring. I det långa svep över mänsklighetens historia som Morris gör är det i stort sett bara indianrikena i Syd- och Mellanamerika som alls diskuteras som möjliga konkurrenter, medan övriga forna riken, till exempel i Indien och Afrika, knappast nämns.
 
@@ -63,12 +66,3 @@ Men så kan det inte vara: Man kan visserligen erkänna att samtidens problem ut
 Så det är inte så förvånande att Morris slutkapitel, där han vill förutsäga var utvecklingen kommer att ta vägen, är bokens svagaste. Visst finns där intressanta iakttagelser, men också alltför många vaga resonemang.
 
 Men för den som inte tror på projektet att förutsäga historien, så spelar det inte så stor roll. **Resten av Morris bok är en magnifik sammanfattning av världshistorien.**
-
-Ian Morris: **Why the West Rules - For Now. The patterns of history and what they reveal about the future.** Profile Books, 2011, ISBN 978-1-84668-208-7.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 2 The High Tide of Prophecy: Hegel and Marx, and the Aftermath.** Routledge &amp; Kegan Paul, 1945, 1977, ISBN 0-7100-4626-X.
-
-Karl Popper: **The Poverty of Historicism.** Routledge &amp; Kegan Paul, 1957, 1976, ISBN 0-7100-4616-2.
-

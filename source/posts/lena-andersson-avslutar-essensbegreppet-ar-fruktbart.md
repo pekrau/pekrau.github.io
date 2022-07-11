@@ -30,8 +30,6 @@ Olikheterna mellan Popper och postmodernisterna är tveklöst stora men också v
 
 Egentligen är den fråga som intresserar mig mest här poststrukturalisternas outtalade men mycket ofullgångna liberalism, som de aldrig verkar kännas vid eller själva se eller påtala. Det var grunden för det hela.
 
-
-
 Essensbegreppet är för mig fruktbart och jag tror definitivt att det finns med i bakgrunden i debatten i dag om identitet. Att det rent av är centralt. Det bör användas varsamt och på rätt sätt. Jag tror exempelvis inte att kvinnan har en essens eller mannen, annat än kroppsligt, men däremot har definitivt könsrollerna essens, det är hela deras syfte och utgör deras avsevärda påverkan på beteenden och föreställningar om hur man bör vara som det ena och det andra.
 
 Eventuellt skulle jag kunna använda ett annat ord, såsom kännetecken men har valt att använda ordet essens eftersom det är vanligt i det idéhistoriska sammanhanget. Essenser i den mening jag menar är föreställningar i våra huvuden som korresponderar eller inte mot fysiska fakta.
@@ -48,25 +46,12 @@ Vänliga hälsningar,
 
 **Lena Andersson**
 
-*
 
 Inlägg i denna diskussionen:
 
-<ol start="0">
-
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
-
-  <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
-
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
-
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/)</li>
-
-  <li>Per Kraulis: [Ytliga likheter](/)</li>
-
-  <li>Lena Andersson: Essensbegreppet är fruktbart (inlägget ovan)</li>
-
-</ol>
-
-*
-
+1. Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)
+2. Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)
+3. Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)
+4. Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)
+5. Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)
+6. Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)

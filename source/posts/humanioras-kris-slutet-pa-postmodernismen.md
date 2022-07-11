@@ -28,11 +28,9 @@ tags:
 title: "Humanioras kris: Slutet p\xE5 postmodernismen?"
 type: post
 ---
-Boken [Till vilken nytta?](http://www.daidalos.se/sok?11_bookView=1&11_subject=612) är en antologi där ett 30-tal svenska humanister diskuterar humanioras ställning och framtid. Den är redigerad av Tomas Forser (professor litteraturvetenskap, Göteborgs universitet) och Thomas Karlsohn (docent idé- och lärdomshistoria, Göteborgs universitet). Artiklarna är många och korta, vilket ger en mångfald av infallsvinklar, ofta med bra fokus. Man använder ordet "möjlighet" i underrubriken, men de flesta författarna skriver i själva verket ordet "kris".
+Boken **Till vilken nytta?** (red. Tomas Forser och Thomas Karlsohn, [Daidalos](https://www.daidalos.se/), 2013, ISBN 978-91-7173-403-7) är en antologi där ett 30-tal svenska humanister diskuterar humanioras ställning och framtid. Den är redigerad av Tomas Forser (professor litteraturvetenskap, Göteborgs universitet) och Thomas Karlsohn (docent idé- och lärdomshistoria, Göteborgs universitet). Artiklarna är många och korta, vilket ger en mångfald av infallsvinklar, ofta med bra fokus. Man använder ordet "möjlighet" i underrubriken, men de flesta författarna skriver i själva verket ordet "kris".
 
 Det samlade intrycket är märkligt schizofrent: **Samtidigt som man är övertygade om humanioras primat vad gäller kunskap om människan, så betraktar man humaniora som dödligt hotat.** Humaniora sägs ha svaren på många av de stora samtida frågorna genom sina studier av människans villkor. Det är tydligt att man betraktar humaniora som människans krona. Därför betraktar man hotet mot humaniora som ett hot mot människan som sådan. Och man är oerhört bedrövad, för att inte säga helt oförstående, inför att så få ser detta hot.
-
-
 
 Artiklarna i boken är, med några undantag, mycket defensivt hållna. Man värnar ämnet och varandra på ett mycket kollegialt sätt. De motsättningar som finns mellan olika tankeriktningar diskuteras explicit i endast ett fåtal av artiklarna, och då oftast på ett räddhågset, förstulet sätt. Man samlas till försvar mot den yttre fienden, och då vill ingen lufta "intern" kritik.
 
@@ -95,6 +93,3 @@ Om man ska ta humanioras anspråk på relevans för samhället på allvar, så k
 Som kemist råkar jag veta att det man ägnar sig åt i laboratoriet i vissa fall kan vara ganska farligt, och att det krävs speciella säkerhetsåtgärder för att skydda omgivningen. **Jag undrar om Ruin har funderat på om det finns ett likartat problem när det gäller produktionen av toxiska idéer?**
 
 Som anhängare av upplysning och vetenskap, så har jag inget emot en humaniora som tar sitt kritiska uppdrag på allvar. Tvärtom! En sådan humaniora är en helt oundgänglig del av den västerländska traditionen. **Men en humaniora som plaskar vidare i det postmoderna träsket gör sig självt i bästa fall irrelevant, och i sämsta fall till en anti-civilisatorisk fara.**
-
-Tomas Forser och Thomas Karlsohn (red): **Till vilken nytta? En bok om humanioras möjligheter.** Daidalos, 2013, ISBN 978-91-7173-403-7.
-

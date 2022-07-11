@@ -26,15 +26,11 @@ Tanken är att sjukvårdspersonal, i praktiken barnmorskor, ska kunna vägra utf
 
 Det handlar helt enkelt om ett försök att ompaketera ett religiöst grundat motstånd mot bland annat abort genom att svepa in det i vackra ord som "samvetsfrihet". Det är frågan om att påtvinga andra sina egna ställningstaganden under kamouflage av prat om "samvete" och "rättigheter".
 
-
-
 Ett gott exempel på hur den lömska retoriken kan låta tillhandahåller Eli Göndör i [Expressen 30 dec 2014](http://www.expressen.se/debatt/samvetsfrihet-borde-vara-liberal-hjartefraga/), ett anmärkningsvärt inlägg där argumentationen formligen vältrar sig i förljugenhet:
 
 > För den som anser att staten borde vara till för att individen i så stor utsträckning som möjligt ska kunna förverkliga sig själv och samtidigt värna sin integritet borde samvetsfrågan vara en liberal fråga. Regelverk är viktiga. Men om system och regelverk ska gå före individens rättigheter närmar vi oss politiska idéer som de flesta av oss vill slippa.
 
-**Den första frågan man måste ställa sig är: Vad är vårdens uppgift? Är dess syfte att ta hand om den som söker demokratiskt beslutad laglig vård, eller är den till för att ge sjukvårdspersonal ett arbete där de kan göra som de känner för?
-
-**
+**Den första frågan man måste ställa sig är: Vad är vårdens uppgift? Är dess syfte att ta hand om den som söker demokratiskt beslutad laglig vård, eller är den till för att ge sjukvårdspersonal ett arbete där de kan göra som de känner för?**
 
 Detta är det rimliga perspektivet för att diskutera den s k samvetsklausulen. Är det vårdens uppgift att ge den kvinna som vill utföra en legal abort den möjligheten med minsta möjliga strul och utan allehanda moraliserande? Eller är vården till för att låta sjukvårdspersonalen leva ut sin egen tro genom att demonstrativt vägra utföra patientens legala önskemål?
 
@@ -48,13 +44,13 @@ Men ändå tycker hon att själva idén om samvetsklausuler i allmänhet är rä
 
 > Föreställ dig till exempel att aktiv dödshjälp införs i Sverige i dag.
 
-[...]
+> [...]
 
-Den stora skillnaden är att vårdpersonalen i ena fallet skulle få nya arbetsuppgifter från en dag till en annan.
+> Den stora skillnaden är att vårdpersonalen i ena fallet skulle få nya arbetsuppgifter från en dag till en annan.
 
-[...]
+> [...]
 
-Premisserna för att fatta beslut om sin egen inblandning blir därför helt andra. Det gör att en samvetsklausul skulle vara rimlig för dödshjälp, men inte aborter.
+> Premisserna för att fatta beslut om sin egen inblandning blir därför helt andra. Det gör att en samvetsklausul skulle vara rimlig för dödshjälp, men inte aborter.
 
 **Notera att detta resonemang undviker mycket noga att belysa frågan ur patientens synvinkel.** Om nu aktiv dödshjälp skulle tillåtas (en helt separat diskussion som jag förbigår här) så handlar det om patienter som verkligen önskar få ett slut på sitt liv, och som inte kan eller vill göra det på egen hand. Om nu detta skulle legaliseras, exakt varför skulle sjukvårdspersonal kunna ge sig rätten att vägra? Står patienten i centrum eller inte?
 

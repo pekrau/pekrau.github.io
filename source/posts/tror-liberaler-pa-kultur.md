@@ -28,9 +28,9 @@ Som bevis för att även liberaler kan, och ska, använda begreppet kultur anfö
 
 > Sverigedemokraterna är inte ett parti som alla andra, det kan man lugnt konstatera. Det är inte bara det senaste avslöjandet om en partikultur där brottslingar och förövare hålls om ryggen medan offer fryses ut. Det är partiets hela väsen.
 
-...
+> [...]
 
-Om man betänker partikulturen så är det faktiskt lika sannolikt att dessa personer helt enkelt får bli kvar eftersom de är en del av gänget. Man vill ju inte knuffa bort en polare från den veritabla syltburk som är skattebetalarnas arvoden till förtroendevalda.
+> Om man betänker partikulturen så är det faktiskt lika sannolikt att dessa personer helt enkelt får bli kvar eftersom de är en del av gänget. Man vill ju inte knuffa bort en polare från den veritabla syltburk som är skattebetalarnas arvoden till förtroendevalda.
 
 Vi förstår alla vad Magnusson menar. Det finns inget konstigt i resonemanget om att ett parti kan ha en viss kultur. Kanske SD-anhängare är oense med Magnusson om exakt vad denna SD-kultur består i, men att den finns är helt okontroversiellt.
 

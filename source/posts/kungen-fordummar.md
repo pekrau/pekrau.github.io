@@ -28,8 +28,6 @@ type: post
 ---
 Frågan om monarki eller republik är en ickefråga. Med den ordning vi sedan länge har haft i Sverige så spelar det ingen roll. Så tycker många, tidigare även jag. Det gör jag inte längre. Anledningen är inte främst att kungen nyligen flagrant bröt mot [Torekovskompromissen](https://sv.wikipedia.org/wiki/Torekovskompromissen) när han pladdrade om det planerade [Nobel Center](http://www.nobelcenter.se/). Nej, det finns ett värre problem. Det är att kungen tycks kunna få annars vettiga människor att använda riktigt usla argument. Han verkar fördummande.
 
-
-
 Det hela började med att Maria Schottenius krävde, inte bara en gång, utan två, att kungen skulle blanda sig i en politisk strid i Stockholms stad genom utpressningsmetoder. Jag har [tidigare kommenterat](/2016/03/15/maria-schottenius-hahahaha/) detta befängda initiativ från en erfaren journalist på Dagens Nyheters Kulturredaktion.
 
 Därefter lyckades Schottenius kuppa till sig [en intervju](http://www.dn.se/kultur-noje/kungen-det-gar-ju-att-flytta-pa-nobel-center/) med kungen och drottningen, förmodligen utan att hovets presschef var i närheten. Där tycker kungaparet en massa om det planerade bygget, och bland annat föreslår drottningen ett "referendum", med vilket hon förmodligen menar en folkomröstning. Vi gläds alla åt hennes demokratiska sinnelag.
@@ -56,7 +54,7 @@ I Dagens Nyheter Kultur [skrev Ola Andersson](http://www.dn.se/kultur-noje/ola-a
 
 > Problemet för Nobelstiftelsen är att prisutdelaren i egen hög person tagit sin hand från den byggnad där det är tänkt att han eventuellt skall dela ut deras pris.
 
-Att Nobelstiftelsen med sitt projekt lyckats sänka sitt rykte så grundligt är ett svårslaget rekord i varumärkesförstörelse.
+> Att Nobelstiftelsen med sitt projekt lyckats sänka sitt rykte så grundligt är ett svårslaget rekord i varumärkesförstörelse.
 
 Andersson tycks inte ha tänkt tanken att det är kungen som får det litet besvärligt när han ska dela ut priset så småningom i denna byggnaden. Han kommer ofelbart att få frågan vad han tycker om det. Är det Nobelstiftelsens fel att han satt sig i den sitsen? Och detta med att Nobelstiftelsen har sänkt sitt rykte: Skulle ryktet ha mått så mycket bättre om man underdånigt inväntat vederbörlig välsignelse av kungen?
 

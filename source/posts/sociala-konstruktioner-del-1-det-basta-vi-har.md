@@ -15,6 +15,8 @@ tags:
   value: sociala konstruktioner
 title: "Sociala konstruktioner, del 1: Det b\xE4sta vi har"
 type: post
+references:
+- Searle 2009
 ---
 Ett återkommande inslag i nutida debatt är fnysningen om sociala konstruktioner. Exempelvis: "Äsch, gränser mellan länder är bara sociala konstruktioner." Eller: "Familjen är bara en social konstruktion." Eller som Assar Lindbeck, en av Sveriges mest seniora debattörer, säger i en intervju i tidningen [Universitetsnytt 2017-5](http://www.su.se/polopoly_fs/1.353421.1508855863!/menu/standard/file/Universitetsnytt%20nr%205%202017.pdf): "Jag har aldrig förstått det där med pension. Det är en social konstruktion."
 
@@ -25,8 +27,6 @@ Sant, konstruktioner är påhitt. De är inte naturliga på så sätt att de fö
 > We make statements about social facts that are completely objective - for example, Barack Obama [was] president of the United States, the piece of paper in my hand is a twenty-dollar bill, I got married in London, England, and so on. And yet, though these are objective statements, the facts corresponding to them are all created by human subjective attitudes.
 
 Man ska inte låta sig missledas av att sociala fakta är konstruktioner. De är våra påhitt, ja. Men de är objektiva fakta. Och de är samtidigt bland det bästa vi har. Varje kulturyttring, varje skydd mot väder och vind, mot ofärd och olycka, varje norm om hur vi uppträder som människor mot varandra - allt detta är konstruktioner. Vi människor är konstruktörer i kraft av vår förmåga att skapa kultur i bred mening. *Homo faber*, människan som skapare, konstruktör, verktygsmakare, är en fundamental aspekt av vad det innebär att vara människa. Därför bör vi vara litet försiktiga med den där fnysningen gentemot den sociala konstruktionen. Den kan innebära ett förakt mot det vi värderar högst.
-
-
 
 Beteckningen "sociala konstruktioner" har på sistone använts i kritiskt syfte för att beskriva sådant som exempelvis könsroller. Syftet är att blottlägga icke uttalade föreställningar och utmana synen på vad som är naturligt. Det finns det god anledning att göra. Samhällsförhållanden och antaganden om vad som är rätt och riktigt kan och måste granskas kritiskt.
 
@@ -39,6 +39,3 @@ Det ursprungliga tillståndets salighet är således en chimär. Något sådant 
 Människors samhällen ser mycket olika ut, men så fort en grupp människor kommer samman så bildas ett socialt sammanhang, ett samhälle. Genom envetet arbete där alla kan bidra är det möjligt att förbättra dessa sociala sammanhang. Samhället kan utvecklas. Dess uppbyggnad utsätts hela tiden för destruktiva krafter i form av lathet, girighet, parasitism, egoism och liknande. Det är endast genom ständigt upprätthållande aktivitet som ett gott samhälle kan upprätthållas och utvecklas. Värnandet av samhället och kritiken av det är två lika nödvändiga aktiviteter.
 
 Nästa gång någon fnyser till om sociala konstruktioner, så bör man se sig omkring och fråga sig: Hur mycket av det vi har runt om oss, materiella såväl som ickemateriella strukturer, är inte konstruktioner? Och hur mycket vill du egentligen vara utan?
-
-John R. Searle: **Making the Social World. The Structure of Human Civilization** Oxford University Press, 2010, ISBN 978-0-19-957691-3
-

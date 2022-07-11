@@ -24,21 +24,15 @@ Karin Pettersson, chef för ledarredaktion på Aftonbladet, försöker både ha 
 
 Pettersson hävdar att det råder slagsida vad gäller skyldigheter gentemot rättigheter. Idag handlar debatten för mycket om krav, anser hon.
 
-> Just nu har vi en politisk diskussion som i stor ­utsträckning går ut på att människor högt upp på samhällsstegen kräver av andra längre ner att de ska skärpa sig.
-
-[...]
-
-Att ställa krav kan vara att bry sig. Men bara om kraven kommer med rättigheter och gäller åt båda håll.
+> Just nu har vi en politisk diskussion som i stor ­utsträckning går ut på att människor högt upp på samhällsstegen kräver av andra längre ner att de ska skärpa sig.  
+> [...]  
+> Att ställa krav kan vara att bry sig. Men bara om kraven kommer med rättigheter och gäller åt båda håll.  
 
 Jag tror inte Pettersson är så korkad att hon tror att exempelvis Birgitta Ohlsson enbart vill se mer skyldigheter och krav på medborgarna. Det handlar snarare om retorik i syfte att styra upp en debatt som riskerar att gå väldigt fel för Socialdemokraterna.
 
-
-
 Det finns nämligen en viss sorts vänsterattityd som i varje diskussion av krav och skyldigheter omedelbart ser ett uttryck för det kapitalistiska, västerländska, vita, heterosexuella, cis-manliga, normerande (har jag glömt något invektiv?) samhället. Varje krav ses som en manifestation av samhällets maskineri för förtryck av de fattiga och diskriminerade. Att ens nämna ordet "plikt" eller "skyldighet" blir i detta sammanhang en signal om människofientliga vidrigheter.
 
-**Detta är en diskussion som Socialdemokraterna har mycket svårt att hantera. Å ena sidan vill de gärna hänga med i vänsterns marknads- och diskrimineringskritik. Å andra sidan finns insikten som bland annat Stefan Löfven (se [min tidigare kommentar](/2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/)) och nu också Karin Pettersson ger uttryck för. Att skyldigheter hänger ihop med rättigheter.
-
-**
+**Detta är en diskussion som Socialdemokraterna har mycket svårt att hantera. Å ena sidan vill de gärna hänga med i vänsterns marknads- och diskrimineringskritik. Å andra sidan finns insikten som bland annat Stefan Löfven (se [min tidigare kommentar](/2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/)) och nu också Karin Pettersson ger uttryck för. Att skyldigheter hänger ihop med rättigheter.**
 
 Intressant är att när Pettersson kritiserar Ohlsson så nämner hon inte Svala Firus inlägg, som utgjorde startpunkten för den här omgången av debatten ([se min tidigare kommentar](/2015/06/02/samhallskontraktet-som-vinnande-politisk-strategi/)). Anledningen är sannolikt att Pettersson inser hur det skulle ta udden av kritiken mot Ohlsson. Pettersson chansar på att läsaren inte känner till bakgrunden till debatten. Så värst intellektuellt hederligt är det inte.
 

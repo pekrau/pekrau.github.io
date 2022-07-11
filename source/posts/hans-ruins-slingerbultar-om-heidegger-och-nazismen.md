@@ -25,6 +25,10 @@ tags:
   value: William Shirer
 title: Hans Ruins slingerbultar om Heidegger och nazismen
 type: post
+references:
+- Ruin 2013
+- Heidegger 1927
+- Shirer 1960
 ---
 **Hans Ruin visar i sin artikel om Martin Heidegger i Dagens Nyheter 11 november 2013 (ej länkbar) att han är slingerbultarnas mästare.** Han skriver med anledning av att Heideggers mest kända verk **"Vara och tid"** har utkommit i ny svensk översättning.
 
@@ -33,8 +37,6 @@ Som jag har diskuterat tidigare ([här](/2013/10/23/filosofen-wagner-och-nazisme
 > Den politiska utvecklingen i Tyskland och Heideggers inledande ställningstagande för Nationalsocialisterna 1933 påverkade tveklöst bokens fortsatta mottagande, inte minst i Tyskland där han alltjämt är omstridd.
 
 Det är allt.
-
-
 
 Därmed fullföljer Ruin sin linje från boken **"Frihet, ändlighet, historicitet"**: Att med alla till buds stående medel förminska det besvärande faktum att Heidegger var nazist. **Han gör det skickligt, så att inga direkta lögner uttalas. Men hans text slingrar sig värre än en nyinfångad ål.** Han skriver "inledande ställningstagande", men det varade alltså åtminstone hela vägen till krigsslutet.
 
@@ -62,15 +64,8 @@ Man kan notera att Heideggers utgångspunkt var [Edmund Husserls](http://en.wiki
 
 PS.
 
-I min bokhylla har jag ett sönderfallande exemplar av **"The Rise and Fall of the Third Reich"**, en historia över Tredje Riket från 1959 skriven den amerikanske journalisten William L. Shirer som levde och verkade i Tredje Riket under första hälften av dess existens. Jag kollade om det stod något om Martin Heidegger. Jag fann följande:
+I min bokhylla har jag ett sönderfallande exemplar av **"The Rise and Fall of the Third Reich"**, en historia över Tredje Riket skriven av den amerikanske journalisten William L. Shirer som levde och verkade i Tredje Riket under första hälften av dess existens. Jag kollade om det stod något om Martin Heidegger. Jag fann följande:
 
 > A large majority of professors, however, remained at their posts, and as early as the autumn of 1933 some 960 of them, led by such luminaries as Professor Sauerbruch, the surgeon, Heidegger, the existentialist philosopher, and Pinder, the art historian, took a public vow to support Hitler and the National Socialist regime.
 
 "It was a scene of prostitution," Professor Roepke later wrote, "that has stained the honorable history of German learning."
-
-**Vara och tid.** Martin Heidegger. Översättning Jim Jakobsson. Daidalos, 2013, ISBN 978-91-7173-400-6.
-
-**Frihet, ändlighet, historicitet. Essäer om Heideggers filosofi.** Hans Ruin. Ersatz, 2013, ISBN 978-91-87219-40-5.
-
-**The Rise and Fall of the Third Reich.** William L. Shirer. Crest Books. 1962.
-

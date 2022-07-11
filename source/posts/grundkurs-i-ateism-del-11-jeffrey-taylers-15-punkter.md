@@ -18,13 +18,11 @@ Ett par exempel:
 
 > **2.  “Religion is a personal matter. It’s not polite to bring it up.”**
 
-No, religion is fundamentally collective, and since time immemorial has served societies in fostering union, but also in inciting xenophobia and violence [...]
+> No, religion is fundamentally collective, and since time immemorial has served societies in fostering union, but also in inciting xenophobia and violence [...]
 
 > **11.  “You have no right to criticize my religious beliefs.”**
 
-Wrong. Such a declaration aims to suppress free speech and dialogue about a matter influential in almost every aspect of our societies. [...]
+> Wrong. Such a declaration aims to suppress free speech and dialogue about a matter influential in almost every aspect of our societies. [...]
 
-**En mycket instruktiv artikel som måste läsas.
-
-**
+**En mycket instruktiv artikel som måste läsas.**
 

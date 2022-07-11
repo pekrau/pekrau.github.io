@@ -25,10 +25,10 @@ tags:
   value: Stefan Arvidsson
 title: "Fiasko f\xF6r ett f\xF6rsvarstal f\xF6r humaniora"
 type: post
+#reference:
+#- Forser 2013
 ---
 Försvarstal och festtal är två genrer som det är vanskligt att blanda samman. Stefan Arvidsson ([Dagens Nyheter 26 juni 2015](http://www.dn.se/kultur-noje/kulturdebatt/stefan-arvidsson-humaniora-hjalper-oss-att-forsta-det-frammande/)) ger några bra argument för varför humaniora är nödvändigt i en god civilisation. Ett sådant är hans observation att i stort sett varje människa är en amatörhumanist, som använder och efterfrågar humaniora i sina dagliga liv. Men till detta lägger han två argument som är lika vanliga som dåliga. Det handlar om vackra ord hämtade från festtalen. De skorrar illa när de används i ett försvarstal.
-
-
 
 **Arvidssons första argument är att humaniora har som huvuduppgift “att ta reda på vad det egentligen är som förhindrar människorna att gå genom livet lyckliga”. Men är det verkligen sant? Är det inte kunskap som sådan som är meningen och målet med humaniora?** När jag själv en gång valde mellan den akademiska filosofiska banan och att bli kemist, så avgjordes inte valet av tanken på vad som skulle göra människor lyckliga. Det handlade om mina egna intressen och utsikten att få ett jobb. Som kemist och bioinformatiker är min uppgift att bidra till förståelsen av hur biologiska processer och strukturer fungerar, vilket förvisso har stor relevans mänskligt och ekonomiskt. Men det som driver många naturvetare är främst intresset för själva de intellektuella frågorna. Jag har svårt att tro att det är annorlunda inom humaniora.
 
@@ -48,9 +48,5 @@ Istället för att betrakta Arvidssons glättiga bild av en rosenskimrande veten
 
 **Låt mig, något förmätet, komma med ett råd om hur humaniora bäst argumenterar för sin existens. Lägg ner skönmålningen, den håller helt enkelt inte, vilket politiker och allmänhet instinktivt känner. Påpeka istället att humanioras resultat kan vara kraftfulla, ibland rent av potentiellt livsfarliga. Tydliggör att bara om man forskar så kan man veta vad och hur man handskas med det. Och att om vi inte gör det, så gör någon annan det.**
 
-Tomas Forser och Thomas Karlsohn (red): **Till vilken nytta? En bok om humanioras möjligheter.** Daidalos, 2013, ISBN 978-91-7173-403-7.
-
-*Fotnot: Denna artikel skickades in som en replik på Stefan Arvidsson artikel, men DN Kultur visade inget intresse för den, så jag publicerar den här istället.
-
-*
+*Fotnot: Denna artikel skickades in som en replik på Stefan Arvidsson artikel, men DN Kultur visade inget intresse för den, så jag publicerar den här istället.*
 

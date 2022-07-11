@@ -67,25 +67,11 @@ Vänliga hälsningar,
 
 **Per Kraulis**
 
-*
-
 Inlägg i denna diskussionen:
 
-<ol start="0">
-
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
-
-  <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
-
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
-
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
-
-  <li>Per Kraulis: Ytliga likheter (inlägget ovan)</li>
-
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
-
-</ol>
-
-*
-
+1. Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)
+2. Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)
+3. Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)
+4. Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)
+5. Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)
+6. Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)

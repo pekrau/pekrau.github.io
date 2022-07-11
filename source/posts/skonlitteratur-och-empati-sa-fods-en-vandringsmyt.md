@@ -23,6 +23,8 @@ tags:
   value: Steven Pinker
 title: "Sk\xF6nlitteratur och empati: S\xE5 f\xF6ds en vandringsmyt"
 type: post
+references:
+- Pinker 2010
 ---
 I Björn Wimans krönika i [Dagens Nyheter 13 okt 2013](http://www.dn.se/kultur-noje/kronikor/bjorn-wiman-vad-hade-hant-om-nobelpristagaren-skrivit-datorspel/) ser vi i realtid hur en vandringsmyt föds:
 
@@ -41,6 +43,3 @@ Men notera följande:
 Jag förutspår att Wimans text nu kommer att fastna i det allmänna medvetandet så här: "Vetenskapen har visat att skönlitteratur gör oss till bättre människor." Vilket alltså, än så länge, inte har visats. **Så föds en vandringsmyt. Via förenklingar och extrapolation formas en "sanning" som går långt utöver vad forskningen faktiskt visade.** Det är väl inte Wimans syfte, men det är så det blir.
 
 Man kan notera att Steven Pinker, som i boken "The Better Angels of Our Nature" nämner skönlitteraturens framväxt under 1700- och 1800-talen som en faktor bakom vår ökade grad av civilisation, twittrade sin avvaktande hållning till Kidd och Castanos resultat. Han skulle ha kunnat jubla han också, men han var snarare svalt kritisk. En attityd att rekommendera.
-
-**The Better Angels of Our Nature: The decline of violence in history and its causes.**, Steven Pinker. Allen Lane (Penguin Books), 2011, ISBN 978-1-846-14093-8 (finns numera även i pocket 978-0-141-03464-5)
-

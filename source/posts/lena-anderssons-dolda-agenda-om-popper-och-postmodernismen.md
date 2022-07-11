@@ -43,6 +43,10 @@ tags:
   value: progressiv
 title: Lena Anderssons dolda agenda om Popper och postmodernismen
 type: post
+references:
+- Popper 1945a
+- Popper 1945b
+- Popper 1974
 ---
 Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
 
@@ -90,31 +94,12 @@ Det här är en mer eller mindre direkt kopia av det som filosofer kallar [logis
 
 Så låt mig därför framföra följande hypotes: Lena Anderssons tänkande är i mycket inspirerat av Ayn Rand. Hennes försvar av essentialism är ett av flera tecken på det. Därför kritiserar hon Popper på de punkter där hans filosofiska resonemang skär sig gentemot Rands objektivism. Rationalister av olika sorter, kritiska rationalister i Poppers anda (som jag), eller randianer (som Andersson), tycker alla mycket illa om de postmoderna tankarna. **Andersson försöker slå två flugor i en filosofisk smäll. Gnom att bunta samman Popper och postmodernismen förstärker hon sina implicita argument för Ayn Rands filosofi. Så ser Anderssons dolda agenda ut. Det finns ingen anledning att godta det retoriska knepet.**
 
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 2. The High Tide of Prophecy: Hegel and Marx, and the Aftermath.** Routledge &amp; Kegan Paul, 1945, 1977, ISBN 0-7100-4626-X.
-
-Karl Popper: **En intellektuell självbiografi.** Doxa, 1976, 1988, ISBN 91-578-0243-2.
-
-*
 
 Inlägg i denna diskussionen:
 
-<ol start="0">
-
-  <li>Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)</li>
-
-  <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
-
-  <li>Per Kraulis: Lena Anderssons dolda agenda om Popper och postmodernismen (inlägget ovan)</li>
-
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
-
-  <li>Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)</li>
-
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
-
-</ol>
-
-*
-
+1. Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)
+2. Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)
+3. Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)
+4. Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)
+5. Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)
+6. Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)

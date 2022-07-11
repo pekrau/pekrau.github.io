@@ -32,17 +32,13 @@ Den springande punkten uttrycks sålunda:
 
 > We do not believe in censoring expression. An expression of views, however disagreeable, is certainly not to be answered by violence or murder.
 
- 
+> However, there is a critical difference between staunchly supporting expression that violates the acceptable, and enthusiastically rewarding such expression.
 
-However, there is a critical difference between staunchly supporting expression that violates the acceptable, and enthusiastically rewarding such expression.
+> [...]
 
-[...]
-
-Our concern is that [...]  PEN is not simply conveying support for freedom of expression, but also valorizing selectively offensive material: material that intensifies the anti-Islamic, anti-Maghreb, anti-Arab sentiments already prevalent in the Western world.
+> Our concern is that [...]  PEN is not simply conveying support for freedom of expression, but also valorizing selectively offensive material: material that intensifies the anti-Islamic, anti-Maghreb, anti-Arab sentiments already prevalent in the Western world.
 
 Vi har sett argumentet förut: "Vi är för yttrandefrihet, <i>men</i>..." Och ankan om att Charlie Hebdo hatar muslimska personer kvackar vidare, helt utan verklighetskontakt.
-
-
 
 **Salman Rushdie** attackerade tämligen omedelbart kritikerna av PEN-priset (se t.ex. [Guardians reportage 27 april 2015](http://www.theguardian.com/books/2015/apr/27/salman-rushdie-pen-charlie-hebdo-peter-carey)):
 

@@ -19,6 +19,8 @@ tags:
   value: nazism
 title: Porta nazisterna!
 type: post
+references:
+- Popper 1945a
 ---
 Det pratas just nu mycket om nazism och tolerans. Det hela startade med att Bokmässan upplät en monter åt Nya Tider, ett bokförlag med högerextremistisk agenda och glasklara kopplingar till nazistiska organisationer och propagandister. En förvirrad fars utbröt därefter, vars historia jag inte tänker återberätta här.
 
@@ -51,6 +53,3 @@ Nazisterna och deras vapendragare använder sig systematiskt av samma taktik som
 Därför finns ingen som helst anledning att släppa in dom "för att ta debatten". Man debatterar inte med nazister, man debatterar på sin höjd mot dom.
 
 Därför bör man stödja [uppropet för att porta nazisterna från nästa Bokmässa](http://upprop.nu/NVUT).
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1,
-

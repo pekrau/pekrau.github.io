@@ -19,12 +19,13 @@ tags:
   value: genteknik
 title: 'Craig Venter: Life at the Speed of Light'
 type: post
+references:
+- Venter 2013
+- Schrödinger 1944
 ---
 Craig Venter, en av de främsta bakom kartläggningen av människans hela arvsmassa ("genom"), har skrivit boken "Life at the Speed of Light". **Den handlar om Venters senaste projekt, att frambringa en syntetisk livsform.**
 
 Bokens titel syftar på idén att DNA-koden för nytt liv i framtiden skulle kunna skickas med radiovågor (alltså ljusets hastighet) till maskiner på månen eller Mars, som med den informationen skulle kunna tillverka levande organismer på beställning från jorden. **Ett fantasieggande scenario förvisso, men kanske inte helt förankrat i vare sig verklighet eller behov.**
-
-
 
 Vad Venter och hans medarbetare har gjort är att på syntetisk väg tillverka hela genomet (alltså hela arvsmassan) för en mikroorganism, för att sedan stoppa in det i en cell, varvid en ny livsform har sett dagens ljus. **Detta är en teknisk bedrift av stora mått.** Det är ett språng framåt för genteknologin. Men att betrakta denna livsform som helt syntetisk är att ta i för hårt, anser jag, av två olika anledningar.
 
@@ -52,13 +53,6 @@ Venter har rätt i att den för tillfället mycket populära idéen om att [epig
 
 Slutligen skriver Venter om de tekniska möjligheter som syntetiskt liv (alltså: liv med syntetiskt DNA) öppnar för. Här finns onekligen en hel del potential, men såsom civilingenjör känner jag att det är litet för mycket hyllning av nya skinande teknologier. **Vi kan redan göra mycket med traditionell genteknik som utgår från existerande organismer, och det vi idag har svårt att göra blir inte nämnvärt enklare med syntetiskt DNA.** Men vem vet, jag kanske får ångra dessa skeptiska ord endera dagen...
 
- 
-
 Venter skriver med schvung och, tror jag, tillgängligt för en vetenskapligt intresserad allmänhet. Dock skulle boken ha vunnit på litet hårdare redigering. Men innehållet håller hög klass. Venter beskriver de framsteg och bakslag som varje ambitiöst projekt råkar ut för, och förklarar varför olika strategiska vägval gjordes, några felaktiga, som det senare skulle visa sig.
 
 [Uppdaterat 2014-04-11] En översättning av boken till svenska har utkommit, se nedan. Och Craig Venter själv är ganska flitig besökare i Sverige, nu närmast till ett symposium arrangerat av min arbetsgivare [Science for Life Laboratory](http://www.scilifelab.se/): [SciLifeLab day 10 april](http://www.scilifelab.se/events/scilifelab-day-2014-stockholm/).
-
-J. Craig Venter: **Life at the Speed of Light.** Little, Brown, 2013, ISBN 978-1-4087-0524-7. På svenska: **Liv i ljusets hastighet.**, Fri Tanke Förlag, 2014, ISBN 9789187513053.
-
-Erwin Schrödinger: **What is Life?** Cambridge University Press, 1967. ISBN 0-521-09397-X. Modern utgåva: Cambridge University Press, 2012. ISBN 978-11-07604-66-7.
-

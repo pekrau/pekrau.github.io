@@ -19,14 +19,14 @@ tags:
   value: "Katrine Mar\xE7al"
 title: "Katrine Kielos: Hoppl\xF6sheten \xE4r en man"
 type: post
+references:
+- Kielos 2012
 ---
 Katrine Kielos är en framträdande ung intellektuell i den svenska debatten. Tyvärr säger hennes argumentation en del om dagens debattklimat.
 
 Kielos har varit ledarskribent på Aftonbladet, och är numera krönikör där. [Hon fick nyligen](http://www.dn.se/kultur-noje/katrine-kielos-far-lagercrantzen) Dagens Nyheters pris ["Lagercrantzen"](http://sv.wikipedia.org/wiki/Lagercrantzen) (som skall belöna "en kritiker med intellektuell bredd och stilistisk spets"), främst för **sin bok "Det enda könet"**.
 
 **Den boken, som jag just har läst, är bland annat en kritik av den ekonomiska vetenskapens människosyn**, den som på engelska brukar kallas ["economic man"](http://en.wikipedia.org/wiki/Homo_economicus). Begreppet har sin födelse i den kritik som riktades på 1800-talet mot de nationalekonomiska teorier som bland annat John Stuart Mill formulerade:
-
-
 
 > [Political economy] does not treat the whole of man’s nature as modified by the social state, nor of the whole conduct of man in society. It is concerned with him solely as a being who desires to possess wealth, and who is capable of judging the comparative efficacy of means for obtaining that end.
 
@@ -49,6 +49,3 @@ Det är trist att Kielos vränger till diskussionen på detta viset, när spelte
 Min slutsats är att ifall man vill se ett representativt exempel på hur den i vid mening antikapitalistiska intellektuella vänstern resonerar, så finns det anledning att läsa Kielos bok. Om man snarare är intresserad av resonemang om hur vi ska analysera samhället och dess problem, i syfte att formulera en progressiv politik, då är boken slöseri med tid.
 
 Och det är till slut det som gör mig bedrövad. **Det helt dominerande intrycket av Kielos bok, liksom av artikeln om klimatförändringen, är ju att allt är hopplöst. Vi sitter ohjälpligt fast i det manliga tänkandet.** Den ekonomiska mannen sägs helt ha ockuperat samhällsdebatten. Finns det någon väg ut? Om Kielos tror det, så har hon synbarligen sparat de tankarna till en annan bok. Tills dess får vi väl leva i den manliga hopplösheten...
-
-Katrine Kielos: **Det enda könet.** Albert Bonniers förlag 2012, ISBN 978-91-7503-172-9
-

@@ -14,15 +14,10 @@ type: post
 ---
 Det finns debattinlägg som argumenterar på ett sådant sätt att det blir smärtsamt tydligt att debattören har i grunden fel. Ett slags anti-inlägg. Ett exempel fick vi i Dagens Nyheter 9 mars 2013 när [Thorbjörn Andersson skriver om Stockholm utveckling](http://www.dn.se/debatt/stockholmsdebatt/det-finns-en-smartgrans-for-tillvaxten-i-stockholm). Eller snarare, det stopp för utvecklingen som han vill se:
 
-> Det finns en tabufråga som ingen Stockholmspolitiker vill eller vågar ställa. Den är: Finns det en bortre gräns för stadens tillväxt?
-
-[...]
-
-Det finns en affisch [...] från 1946. En man i överrock sitter på sin resväska i snögloppet på en trottoar. Texten lyder: Sök Er ej till Stockholm. 21.000 söker förgäves bostad.
-
-Det var ett välment råd då, strax efter kriget; kanske ett råd även i dag [...]
-
-
+> Det finns en tabufråga som ingen Stockholmspolitiker vill eller vågar ställa. Den är: Finns det en bortre gräns för stadens tillväxt?  
+> [...]  
+> Det finns en affisch [...] från 1946. En man i överrock sitter på sin resväska i snögloppet på en trottoar. Texten lyder: Sök Er ej till Stockholm. 21.000 söker förgäves bostad.  
+> Det var ett välment råd då, strax efter kriget; kanske ett råd även i dag [...]
 
 Andersson noterar att till exempel tunnelbanan börjar nå sitt kapacitetstak, och han gillar inte den förtätning som äger rum i staden. Han anser att begreppet "sustainability", eller hållbarhet på svenska, innebär att staden har en gräns över vilken den inte kan växa utan att dess kvaliteter hotas.
 

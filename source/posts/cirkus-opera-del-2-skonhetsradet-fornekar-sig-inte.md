@@ -18,11 +18,9 @@ type: post
 ---
 Det dröjde inte många timmar innan [min profetia](/2013/09/11/cirkus-opera-del-1/) slog in: **Den konservativa klagolåten har dragit igång. Inte kan man bygga om Kungliga Operan  inte!** Och det är, inte helt oväntat, det så kallade Skönhetsrådet som stämmer upp till sång enligt [Dagens Nyheter 12 september 2013](http://www.dn.se/kultur-noje/scen/svart-bygga-om-skyddad-opera/):
 
-> – Jag tror att det tyvärr finns stora svårigheter. Jag tror inte det är möjligt att göra det man skulle önska. De tillkommande utrymmena är väldigt svåra att tillskapa inom den befintliga byggnaden. Mycket av den volymen upptas i dag av salonger, foajéer och annat, och de är ingenting man låter riva ut. Att huset är byggnadsminnesförklarat innebär begränsningar i vad man kan göra åtminstone i dessa publika delar – och man flyttar inte ostraffat på Operakällaren heller, understryker rådets sekreterare Martin Rörby.
-
-[...]
-
-– Inom Skönrådet tror vi på ny och framåtsiktande arkitektur. Ett nytt operahus hade kunnat bidra till en sådan, men att i stället så här klä på sig den gamla ytterrocken är på ett sätt synd, säger Martin Rörby.
+> – Jag tror att det tyvärr finns stora svårigheter. Jag tror inte det är möjligt att göra det man skulle önska. De tillkommande utrymmena är väldigt svåra att tillskapa inom den befintliga byggnaden. Mycket av den volymen upptas i dag av salonger, foajéer och annat, och de är ingenting man låter riva ut. Att huset är byggnadsminnesförklarat innebär begränsningar i vad man kan göra åtminstone i dessa publika delar – och man flyttar inte ostraffat på Operakällaren heller, understryker rådets sekreterare Martin Rörby.  
+> [...]  
+> Inom Skönrådet tror vi på ny och framåtsiktande arkitektur. Ett nytt operahus hade kunnat bidra till en sådan, men att i stället så här klä på sig den gamla ytterrocken är på ett sätt synd, säger Martin Rörby.
 
 Man flyttar inte Operakällaren ostraffat?! Där ser man. Undrar just vad det handlar om för straff, och vem som ska utdela det...
 

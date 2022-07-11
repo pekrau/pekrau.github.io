@@ -30,12 +30,12 @@ tags:
 title: "Per Svensson: D\xE4rf\xF6r hatar alla liberaler. Och d\xE4rf\xF6r har alla\
   \ fel."
 type: post
+references:
+- Svensson 2014
 ---
 [Per Svensson](http://sv.wikipedia.org/wiki/Per_Svensson_(journalist)), journalist och tidigare kulturchef på Expressen, har författat en hybrid mellan en stridsskrift och en idéhistorisk betraktelse. **Han granskar och bemöter liberalismens kritiker, samtidigt som han vill formulera liberalismens uppgift.** Boken publicerades nyligen av [Liberal Debatt](http://www.liberaldebatt.se/). Den är intressant och läsvärd, men den blottlägger också, enligt min mening, en svaghet hos dagens liberalism.
 
 Svensson skrift har redan kommenterats två gånger (!) på Dagens Nyheters ledarsida: [Johannes Åman (20 feb 2014)](http://www.dn.se/ledare/signerat/politik-ar-att-satta-granser/)  och [Susanna Birgersson (16 mars 2014)](http://www.dn.se/ledare/signerat/liberalism-frals-oss-fran-politisk-religion/) diskuterar främst Svenssons granskning av antiliberalismen. **Låt mig därför här fokusera på det andra av Svenssons teman: Vad är liberalism, och vad har den för uppgift?**
-
-
 
 Låt mig börja bakifrån: Vilka politiska frågor kommer Svensson fram till att liberaler idag borde driva? En möjlig linje, att agera intresseparti för en viss grupp i samhället, klientelism, avfärdar Svensson med kraft. Han anser att den linjen var orsaken till tyska liberala partiet FDP:s fiasko i senaste förbundsdagsvalet 2013.
 
@@ -80,6 +80,3 @@ En bok som varje liberal borde läsa är Steven Pinkers "The Better Angels of Ou
 Pinkers poäng är att framsteg har skett, och att vi borde fundera på vad som ligger till grund för det. Vi har gjort något rätt. Men vad? Och hur kan vi försvara denna utvecklingen, och kanske snabba på den?
 
 Se där det stora civilisatoriska uppdraget. **Om liberalismen kan börja ta frågor om utveckling på allvar, så tror jag den kan bidra med mer än om den bara fokuserar på den negativa friheten.**
-
-Per Svensson: **Därför hatar alla liberaler. Och därför har alla fel.** Liberal Debatt Idé, 2014. ISBN 978-91-981660-0-2
-

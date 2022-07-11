@@ -22,12 +22,12 @@ tags:
   value: Peter Godfrey-Smith
 title: Is there a philosophy of biology?
 type: post
+references:
+- Godfrey-Smith 2013
 ---
 Having just read the book "Philosophy of Biology" by Peter Godfrey-Smith (who is Distinguished Professor of Philosophy at the City University of New York Graduate Center), I am left wondering if there is such a thing as a philosophy of biology. The book is well-written, and it discusses a number of fundamental phenomena in biology quite well. I did learn some new things, and the discussion does explain some issues very well. I cannot find any errors or misunderstandings of significance, except for one statement, discussed later.
 
 Yet, I cannot say that I would know how to respond if anyone now asked me what philosophy of biology is actually being proposed in the book.
-
-
 
 The book is a collection of explanations and analyses of various concepts and fundamental theories related to biology. This is fine, as far as it goes. However, the thematic chapters do not really gel to form a whole. No central thesis or argument is pursued. I guess that the reason for this is that the book simply does not address any pressing problem. Rather, it ticks off a number of different biological themes and their overall issues. It reads like a pretty good entry in a dictionary of philosophy.
 
@@ -44,6 +44,3 @@ Well, the concept of the gene certainly is controversial, and there is no genera
 I conclude that Karl Popper was right in his statement, made in several of his texts, that it is a mistake to view the task of philosophy as providing accurate and exact definitions of terms. Definitions are not solutions to philosophical problems, but merely syntactic tools. Far too much of Godfrey-Smith's discussion is spent on questions of definition and concept-splitting.
 
 This is not to say that the book is useless. I have been inspired in many ways by reading it, since it does discuss some important issues. I may write later about some of the ideas that I have thought about while reading Godfrey-Smith's book. But I do feel it could have been much better.
-
-Peter Godfrey-Smith: **Philosophy of Biology.** Princeton University Press, 2014, ISBN 978-0-691-14001-8.
-

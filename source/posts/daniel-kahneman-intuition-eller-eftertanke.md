@@ -21,14 +21,14 @@ tags:
   value: moral
 title: 'Daniel Kahneman: Intuition eller eftertanke'
 type: post
+references:
+- Kahneman 2011
 ---
 [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman), Nobelpristagare i ekonomi år 2002, sammanfattar i boken **Tänka, snabbt och långsamt** resultaten av sin forskning om hur människor faktiskt tänker, bedömer, värderar och väljer. **Det handlar om att ifrågasätta den utgångspunkt som är gängse inom till exempel klassisk ekonomisk teori, nämligen att människan alltid resonerar rationellt för att välja det bästa alternativet i varje given valsituation.**
 
 Han önskar sig att bokens budskap "ska berika det ordförråd vi använder när vi talar om andras bedömningar", till exempel när "vi skvallrar på fikarasten". Och kanske också att vi ska  kunna resonera om våra egna bedömningar på ett mer upplyst sätt.
 
 **Kahnemans och andras rön inom beteendevetenskap har implikationer för långt mer än bara ekonomi.** Diskussionen sträcker sig från neurologiskt baserade fenomen som enkla synvillor, hela vägen till etiska och politiska diskussioner om människan och samhället. Kahneman håller sig i boken ganska nära till de empiriska resultaten, och den enda gång han egentligen rör sig in på djupare vatten handlar det om ekonomisk politik, där han gillande refererar till Richard Thalers och Cass Sunsteins bok **Nudge** (2009) som förespråkar en så kallad paternalistisk libertarianism. Men jag tror beteendevetenskapens rön har vidare filosofisk relevans än så.
-
-
 
 Kahneman använder en modell om två olika system i människans sinne för att beskriva de rön som han och Amos Tversky (som avled innan Nobelpriset tilldelades Kahneman) har kommit fram till. Han använder de neutrala termerna "System 1" och "System 2". **System 1 är det snabba, intuitiva tänkandet**, som bygger på automatiska processer. **System 2 är det reflekterande tänkandet**, som utför de resonerande, eftertänksamma övervägandena. Det är ett slags kontrollsystem. Kahneman diskuterar inte den underliggande fysiologin bakom dessa system, men man kan reflektera över den svenska termen "ryggmärgsreaktion", som förmodligen fångar en del av vad System 1 handlar om. System 2 kräver ansträngning, och är därför i viss mening lättjefullt, medan System 1 fungerar snabbt och synbarligen utan någon speciell insats.
 
@@ -57,6 +57,3 @@ Man kan gå längre utmed den linjen. **Resonemang om människans moral berikas 
 En ytterligare slutsats är att moralisk intuition på sin höjd kan vara en utgångspunkt för moralfilosofi. Om människans oreflekterade intuitioner kan vara behäftade med så allvarliga felslut som Kahneman redogör för, då kan inte moralisk intuitionism vara sann. **En utvecklad och hållbar moralisk hållning måste bygga på eftertanke och reflektion.**
 
 **Det finns de som drar slutsatsen av Kahnemans och beteendevetenskapens rön att människan är hopplöst irrationell, och att den klassiska frihetsideologi som på avgörande sätt bygger på idén om en rationell människa därmed har visats ohållbar.** Men då är det dags att påminna om System 2: Det reflekterande, eftertänksamma, korrigerande tänkandet. Även om beteendevetenskapen fokuserat på hur System 1 fungerar, så bygger hela tankemodellen på existensen av båda systemen. Om en människa blir medvetandegjord om hur System 1 väljer fel i vissa lägen, så ökar möjligheterna för System 2 att korrigera reaktionerna. **Rationalitet är alltså något som kan övas upp. Där finns en potential till utveckling.**
-
-Daniel Kahneman: **Tänka, snabbt och långsamt**, Månpocket fakta (bokförlaget Volante), 2011, ISBN 978-91-7503-249-8.
-

@@ -19,12 +19,12 @@ tags:
   value: Steven Pinker
 title: "SVT Vetenskapens v\xE4rld: M\xE4nniskans f\xF6rsta krig"
 type: post
+references:
+- Pinker 2010
 ---
 SVT Vetenskapens värld visade ett mycket intressant program 8 juli 2013: Människans första krig, av Martin Widman. [Det kan ses på SVT Play](http://www.svtplay.se/video/1315147/del-5-av-8-manniskans-forsta-krig) till 5 augusti 2013. Gör det!
 
 Programmet ställer frågan: **Är kriget en del av människans natur, något som har varit en del av vår existens sedan arten *Homo sapiens* utvecklades, och kanske längre tillbaka än så? Eller är kriget ett resultat av specifika kulturella krafter som är av ett mycket senare datum, oftast identifierade med uppfinningen av jordbruket?** Den första hypotesen framförs av forskare som i programmet kallas "hökar", medan forskarna som tror mer på det senare synsättet kallas "duvor".
-
-
 
 Dessa två synsätt är ju oerhört filosofiskt och ideologiskt laddade. Det handlar om en av de debatter som är centrala för den västerländska politiska filosofin. Är kriget en urkraft, en människans ständige följeslagare, kanske till och med människans yttersta uttrycksmedel? Eller är det ett utflöde av det korrumperande inflytandet från de specifikt mänskliga påhitten kultur och ekonomi? Kan människan mogna och göra sig fritt kriget?
 
@@ -35,6 +35,3 @@ Jag skulle vilja tillägga en viktig observation som visserligen faller utanför
 **Det är en epokgörande bok! Måste helt enkelt läsas av varje samhälleligt intresserad människa.** Jag har kommenterar Steven Pinkers bok [tidigare](/2013/02/16/grundkurs-i-ateism-del-5-autism/). Jag vet inte om den är på gång i svensk översättning, men det borde den vara.
 
 När rapporter om våld och övergrepp tycks dominera nyhetsrapporteringen, så ger Pinkers analys en nödvändig "reality check", så att man kanske kan se de hoppfulla tecken som ändå finns. Misströstan och förtvivlan har aldrig varit framstegets vän. **Läs Pinker, och odla istället en aktiverande ilska över att mänskligheten inte snabbare kan tämja våldets krafter!**
-
-**The Better Angels of Our Nature: The decline of violence in history and its causes.**, Steven Pinker. Allen Lane (Penguin Books), 2011, ISBN 978-1-846-14093-8 (finns numera även i pocket 978-0-141-03464-5)
-

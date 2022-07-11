@@ -17,12 +17,13 @@ tags:
   value: Steven Pinker
 title: 'Grundkurs i ateism, del 5: Autism?'
 type: post
+references:
+- Pinker 2002
+- Pinker 2010
 ---
 Knappt har jag skrivit [det förra avsnittet i denna serie (del 4: Påven)](/2013/02/16/grundkurs-i-ateism-del-4/), förrän jag råkar få syn på en fascinerande artikel på Newsmill med rubriken ["Finns det ett samband mellan ateism och autism?"](http://www.newsmill.se/artikel/2013/02/14/finns-det-ett-samband-mellan-ateism-och-autism) skriven 15 feb 2013 av Lotta Knutsson Bråkenhielm, doktorand i religionsfilosofi vid Uppsala Universitet.
 
 Hon utgår från den kognitionsvetenskapliga forskningens resultat att människan inte föds som ett oskrivet blad ([tabula rasa](http://sv.wikipedia.org/wiki/Tabula_rasa)), utan att det finns mänskliga egenskaper som är medfödda, alltså genetiskt betingade. Jag råkar just ha läst *The Blank Slate* av Steven Pinker, och kan därmed intyga att det är en korrekt beskrivning av vetenskapens nuvarande ståndpunkt. **Kan det vara så att människans religiositet har en genetisk bas?**
-
-
 
 Knutsson Bråkenhielm berättar om en episod där hon hör ett brak i ett angränsande rum, och snabbt gissar att någon antingen brutit sig in, eller kastat en sten genom rutan. Det visar sig att en tavelkrok givit med sig. Detta illustrerar människans tendens att detektera en personlig aktör bakom skeenden, hellre än att automatiskt gissa på opersonliga krafters spel:
 
@@ -56,8 +57,3 @@ Men som samme Steven Pinker beskriver i sin bok *The Better Angels of Our Nature
 Man skulle kunna dra en parallell mellan våldstendenser och religiositet. Det som fungerade evolutionärt bra i ett tillstånd av icke-civilisation, kan visa sig vara inkorrekt och fel, och dessutom onödigt eller direkt skadligt om vi vill leva i ett civiliserat samhälle.
 
 **Kanske ska vi se på vår religiositet som på våra våldstendenser: Som något som civilisationen sakta men säkert bör nöta ner, för att i tidernas fullbordan helst avskaffa?**
-
-Steven Pinker: **The Blank Slate: The modern denial of human nature.** Penguin Books, 2002, ISBN 978-0-140-27605-3
-
-Steven Pinker: **The Better Angels of Our Nature: The decline of violence in history and its causes.** Allen Lane (Penguin Books), 2011, ISBN 978-1-846-14093-8
-

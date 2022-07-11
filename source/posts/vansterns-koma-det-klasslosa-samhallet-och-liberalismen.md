@@ -20,8 +20,6 @@ type: post
 ---
 Förra våren rådde Thomas Piketty-feber hos vänstern, med anledning av dennes bok [Kapitalet i det tjugoförsta århundradet](https://sv.wikipedia.org/wiki/Kapitalet_i_det_tjugof%C3%B6rsta_%C3%A5rhundradet), som blev en så kallad snackis när den engelska översättningen kom ut under 2014. Piketty talade i Almedalen 2014, där de [besvikna åhörarna](http://www.dagensarena.se/redaktionen/almedalen-2014-i-sammanfattning/) fick sig en torr akademisk föreläsning snarare än en himlastormande revolutionsappell. Sedan dess har det inte hörts så värst mycket om Piketty i den svenska debatten. Vilket säger en del om vänsterns intellektuella koma. Tystnaden representerar också en outnyttjad chans för liberalismen.
 
-
-
 Det finns ett stort behov av analys av den ökade ojämlikheten i västvärlden, och av förslag om hur den kan motarbetas. Det finns nämligen många tecken på att ojämlikheten till en inte så liten grad beror på socialt arv och klasskillnader. Om ojämlikheten vore meritokratiskt betingad, alltså berodde enbart på personers egna val av utbildning, yrke, arbetsinsats, etc, skulle den vara mycket mindre problematisk.
 
 Piketty fokuserade på analysen, och även om den har kritiserats ur olika aspekter, så kan den sägas ha koncentrerat det politiska tänkandet till viss grad. Han hade dock inte speciellt många konkreta förslag till politiska åtgärder, och de han hade vann inte många anhängare, vare sig hos vänstern eller några andra.
@@ -36,7 +34,7 @@ Som liberal finns det anledning att diskutera de här tankarna. Om ojämlikheter
 
 Det har rasat en debatt om klassresor efter Alice Teodorescus [Sommar i P1-program 27 juli 2015](http://sverigesradio.se/sida/avsnitt/582925?programid=2071) (se exempelvis Elsa Kugelbergs kommentar i [Dagens Nyheter 29 juli 2015](http://www.dn.se/ledare/signerat/elsa-kugelberg-backa-bade-zara-och-alice/)). Liberaler har traditionellt haft en positiv syn på klassresan som ideal. Vissa socialistiska rörelser, som de svenska socialdemokraterna, har också i princip varit positiva, medan andra, som kommunister och den brittiska arbetarrörelsen, haft större problem med konceptet, bland annat därför att idéen om klassresor sägs underminera klasskampen.
 
-**Jag vill påminna om att klassresan inte räcker för liberaler heller. Ett klassamhälle där skillnader mellan personer till betydande grad beror på annat än egna val och meriter, är ett problem. Även för en liberal. **
+**Jag vill påminna om att klassresan inte räcker för liberaler heller. Ett klassamhälle där skillnader mellan personer till betydande grad beror på annat än egna val och meriter, är ett problem. Även för en liberal.**
 
 Därför finns det en öppning i den politiska terrängen. Den politiska vänstern befinner sig i ett tillstånd där identitetspolitik tycks ersätta allt vad praktisk politik heter. I det läget finns det en möjlighet att arbeta fram förslag som syftar till att hjälpa de som idag befinner sig i underklassen att arbeta sig upp till medelklassen. Det klasslösa samhället stavas nämligen medelklassamhället. Sådan förslag kommer mer eller mindre automatiskt att leda till en förstärkning av medelklassen, om man samtidigt ser till att hålla ideal som meritokrati och valfrihet högt.
 

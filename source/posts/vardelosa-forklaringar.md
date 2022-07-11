@@ -27,6 +27,8 @@ tags:
   value: terror
 title: "V\xE4rdel\xF6sa f\xF6rklaringar"
 type: post
+references:
+- Krauss 2012
 ---
 Varför skriver jag denna blogg? Tänk dig att jag svarade: "Förklaringen är att jag sitter framför datorn och skriver på tangentbordet." Skulle du tycka att det var en bra förklaring?
 
@@ -67,6 +69,3 @@ Gud utgör alltså en värdelös förklaring eller ursäkt för en viss moral. F
 Slutligen: Jag påstår inte det är lätt att se när en förklaring är värdelös eller inte. Det vi kan göra är att med ett öppet kritiskt sinnelag ställa några frågor: Om denna förklaringen är sann, vad innebär den? Förstår vi världen bättre? Kan vi förutsäga något vi inte kunde förut? Är förklaringen alltför bra? Skjuter den problemet bara ett steg bort?
 
 *PS. Vad är svaret på frågan jag ställde i första stycket? Tja, kanske för att formulera ståndpunkter för mig själv. Kanske för att påverka andra genom att föra vidare argument som jag tycker är viktiga eller intressanta. Är det bra eller dåliga förklaringar? DS*
-
-Lawrence M. Krauss: **Ett universum ur ingenting** Fri Tanke förlag, 2012, ISBN 978-91-86061-54-8.
-

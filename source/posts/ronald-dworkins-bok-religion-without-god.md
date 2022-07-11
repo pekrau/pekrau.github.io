@@ -23,6 +23,8 @@ tags:
   value: Ronald Dworkin
 title: Ronald Dworkins bok "Religion without God"
 type: post
+references:
+- Dworkin 2013
 ---
 [Ronald Dworkin](http://en.wikipedia.org/wiki/Ronald_Dworkin), liberal rättsfilosof och skribent, avled år 2013. Hans sista bok heter **Religion without God**, och den bygger på hans Einstein-föreläsning vid Berns universitet 2011. Tanken var att boken skulle utveckla föreläsningens text, men sjukdom förhindrade detta. Boken är därför en liten volym på endast ca 160 sidor.
 
@@ -33,8 +35,6 @@ Jag har [tidigare skrivit](/2013/03/25/ronald-dworkin-religion-utan-gud/) om ett
 Dworkin argumenterar för en religiös attityd till universum och varat, som innebär  en religion utan en gud. Han talar om en religiös ateism, vilket kan låta som en direkt självmotsägelse. Men Dworkin hävdar att "ateism" inte betyder att avvisa all religion, utan endast den som innebär en tro på en gud. Han anser att det är fullt möjligt att vara religiös utan att tro på en gud. För den som är uppvuxen i den kristna kultursfären kan detta tyckas alldeles orimligt, men det är kanske inte fullt så galet ur ett, låt oss säga, buddhistiskt perspektiv.
 
 **Dworkin menar att den religiösa attityden accepterar att moraliska värden existerar helt och fullt, i någon mening oberoende av människan eller något annat. Han hävdar att den innebär två fundamentala värderingar:**
-
-
 
 > The first holds that human life has objective meaning or importance. Each person has an innate and inescapable responsibility to try to make his life a successful one: that means living well, accepting ethical responsibilities to oneself as well as moral responsibilities to others [...] The second holds that what we call "nature" - the universe as a whole and in all its parts - is not just a matter of fact but is itself sublime: something of intrinsic value and wonder.
 
@@ -55,6 +55,3 @@ Betrakta bilden nedan. Det är [Hubble Ultra-Deep Field](http://en.wikipedia.org
 [![Hubble_ultra_deep_field_400x400](/files/hubble_ultra_deep_field_400x400.png)](/files/hubble_ultra_deep_field_400x400.png)
 
 **Men har det universum som bilden visar ett moraliskt värde? Jag ställer mig skeptisk till det. Möjligen om man tror att där ute finns planeter bebodda av andra medvetna varelser. Annars inte.** Moral och skönhet är inte samma sak, och man kan känna förundran inför det komplexa och vidunderliga universum vi lever i utan att för den skull vara tvungen att också tillordna det ett inneboende moraliskt värde.
-
-Ronald Dworkin: **Religion without God.** Harvard University Press, 2013, ISBN 978-0-674-72682-6.
-

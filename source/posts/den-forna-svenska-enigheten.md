@@ -15,6 +15,8 @@ tags:
   value: "v\xE4lf\xE4rd"
 title: Den forna svenska enigheten
 type: post
+references:
+- Hägg 2006
 ---
 Det sägs allt som oftast att Sveriges folk fordom var enat och att frid rådde. Ursäkta denna min sarkastiska formulering, men det påståendet har jag alltid funnit osannolikt naivt. I en artikel om "Sverige och det svenska" skriver Mauricio Rojas i [Svenska Dagbladet 24 januari 2016](http://www.svd.se/vem-ger-folkhemsnostalgin-konkurrens):
 
@@ -31,6 +33,3 @@ Speciellt ett stycke i boken fäste sig i mitt minne och gör sig påmint varje 
 > Utlänningar som de här åren [1950-59] fascinerades av svensk samförståndsanda och social ingenjörskonst tycks inte ha förstått den avgrund som under ytan skilde landets höger och vänster ute bland vanligt folk. Möjligen måste man vara infödd för att förstå de diskreta signaler som markerade sådana motsättningar i de små gesternas nordliga kulturer. Även för yngre eller invandrade svenskar är det i dag antagligen omöjligt att förstå det totala främlingskap som i min barndom rådde mellan socialdemokrater och borgerliga väljare. Man kunde umgås privat eller i släktsammanhang bara genom att aldrig hänsyfta på politik - vilket för utomstående kunde tolkas som ointresse eller extrem försonlighet, fastän det i själva verket var precis motsatsen. Klyftan mellan människor som handlade i Konsum respektive den privata affären var total och oöverstiglig. Det var inte alltid bara en klassklyfta, det var en kulturgräns som mellan protestanter och katoliker på Irland.
 
 Det vore bra för diskussionen ifall de nostalgiska självklarheterna om den forna svenska enigheten kunde ifrågasättas åtminstone någon gång.
-
-Göran Hägg: **Välfärdsåren. Svensk historia 1945-1986.** Månpocket, Wahlström &amp; Widstrand, 2005, ISBN 91-7232-041-9.
-

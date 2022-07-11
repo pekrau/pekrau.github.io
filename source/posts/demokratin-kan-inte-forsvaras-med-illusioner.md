@@ -21,6 +21,8 @@ tags:
   value: Sverigedemokraterna
 title: "Demokratin kan inte f\xF6rsvaras med illusioner"
 type: post
+references:
+- Popper 1945a
 ---
 Det talas mycket om hoten mot demokratin. Ett exempel är artikeln [”Orimligt lätt att rösta bort den svenska demokratin”](https://www.dn.se/debatt/orimligt-latt-att-rosta-bort-den-svenska-demokratin/) på DN Debatt 25 mars 2018. Även om den har vissa poänger, så illustrerar den framförallt den blinda fläck som många debattörer tyvärr har i denna frågan. Den som tror att demokratins försvar främst består av konstitutionens regler har inte förstått problemets fulla allvar.
 
@@ -53,6 +55,3 @@ Låt mig till slut nämna elefanten i rummet: Sverigedemokraterna. Vad dessa dis
 Vad diskussionen borde handla om är snarare hur man ska se till att locka över väljare från SD och andra potentiellt antidemokratiska krafter till den egna rörelsen. Det finns tecken som tyder på att Socialdemokraterna och Moderaterna har förstått detta.
 
 En demokrati som förlorar folkets stöd har gjort fiasko. Den dagen SD har majoritet är det för sent. Det gäller att ha fokus på rätt sak.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1
-

@@ -24,7 +24,7 @@ tags:
 title: 'Po Tidholm: Norrland'
 type: post
 ---
-Po Tidholms bok **Norrland** är en klagosång över landsbygdens långsamma död, blandat med reflektioner om konflikten mellan stad, landsbygd och modernitet. Den är en samling essäer och reportage skrivna av Tidholm under de senaste 15 åren. Författaren är journalist, uppvuxen i Hälsingland, verkade några år i Stockholm, och flyttade sedan tillbaka.
+Po Tidholms bok **Norrland** (Teg Publishing, 2012, ISBN 978-91-979115-3-5) är en klagosång över landsbygdens långsamma död, blandat med reflektioner om konflikten mellan stad, landsbygd och modernitet. Den är en samling essäer och reportage skrivna av Tidholm under de senaste 15 åren. Författaren är journalist, uppvuxen i Hälsingland, verkade några år i Stockholm, och flyttade sedan tillbaka.
 
 **Man kan kalla boken mångfacetterad. Eller splittrad.** Den tänjer sig mellan bilderna av 1800-talets småbruk, via framtidstrons och industrialismens 50- och 60-tal, till den avfolkning som fortgår idag. Hans vassaste artikel är ett lustmord på Kay Pollaks film "Så som i himmelen", bland annat för dess ohämmade schabloner om landsbygdens folk.
 
@@ -41,6 +41,3 @@ Men ibland glimrar det till. **Tidholm har exempelvis en insiktsfull analys av S
 > Sverigedemokraterna har varit duktiga på att spela på känslan av att det gamla gått förlorat och att folkhemmet är hotat. Och det stämmer ju. På det hela taget är det ju kört för Söderhamns kommun och dess gamla bruksorter.
 
 **Ett av Tidholms hatobjekt är satsningen på turism.** Han ser det som tecken på den slutgiltiga desperationen. Det ligger mycket i det. Jag kommer att tänka på de som vill bevara Stockholm exakt som det är just för turismens skull. Jag får rysningar. Kanske ligger Stockholm inte så långt från Norrland, trots allt?
-
-Po Tidholm: **Norrland. Essäer och reportage.** Teg Publishing, 2012, ISBN 978-91-979115-3-5
-

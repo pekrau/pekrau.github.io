@@ -53,6 +53,9 @@ tags:
   value: Upplysningen
 title: "M\xE5ste l\xE4sas: Kenan Maliks bok om moralfilosofins historia"
 type: post
+references:
+- Malik 2014
+- Popper 1945a
 ---
 *This blog post is also available [in English](/2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/).*
 

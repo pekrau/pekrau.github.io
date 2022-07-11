@@ -18,6 +18,10 @@ tags:
   value: Rebecca Newberger Goldstein
 title: 'Plato at the Googleplex: Philosophical solutions and their problems'
 type: post
+references:
+- Goldstein 2014
+- Popper 1972
+- Popper 1945a
 ---
 Can a 2,400 year old thinker possibly have anything of interest to say to us in the modern world? Yes, says Rebecca Newberger Goldstein, philosopher at Columbia, Harvard and other institutions. Not only does the thinker in question, [Plato](https://en.wikipedia.org/wiki/Plato), provide arguments and views on issues still troubling us today. His entire project, philosophy, is alive and kicking. Goldstein argues convincingly that modern science has not and cannot supplant philosophical reasoning as such. She shows why there are some philosophical problems which science alone cannot answer. Personally, I don't need to be convinced about this, but there are clearly many scientists who believe philosophy in general is a waste of time.
 
@@ -64,10 +68,3 @@ This way of telling the story infuses much more life into the figure of Plato, i
 This also throws a light on why Goldstein seems to downplay Plato's reactionary politics. If context is left out of the picture, then his views can be presented in more neutral language, as pure ethics, and the discussion can become more academic. The focus on the context of justification defuses the politics of Plato.
 
 My point is not that Plato was a reactionary from our perspective, but rather that he was a reactionary also from the perspective of his own time. This in itself does not invalidate the arguments he makes, but it does raise the issue of whether the problems he wanted to solve really were general to, and commonly accepted in, Athenian society. Or, for that matter, in our society. Furthermore, we cannot take for granted that his stance necessarily was representative of his time. There were other thinkers in Greek philosophy and politics before and during his time, and some of his arguments are clearly aimed at their views. To downplay those conflicts renders Plato's philosophy a disservice by making it less understandable.
-
-Rebecca Newberger Goldstein: **Plato at the Googleplex. Why Philosophy won't go away.** Atlantic Books, 2014, ISBN 978-1-178239-557-7.
-
-Karl R. Popper: **Objective Knowledge. An Evolutionary Approach.** Oxford University Press, 1972, 1979, ISBN 978-0198750246.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-

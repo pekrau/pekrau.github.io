@@ -23,12 +23,13 @@ tags:
   value: samarbete
 title: "Samarbetets bistra f\xF6ruts\xE4ttningar"
 type: post
+references:
+- Ostrom 1990
+- Tomasello 2009
 ---
 Fenomenet mänskligt samarbete betraktas nästan alltid som något odelat positivt. Samarbete sägs visa att vi är goda och att vi inte är fundamentala egoister. Människor vill samarbeta. Gör vissa människor inte det så är något fel, kanske på dom, eller förmodligen på samhället.
 
 Denna syn på samarbete är förhärskande i debatten. Begreppet samarbete har en skimrande gloria av allmänt positiva associationer. Den glorian är ett problem, eftersom den skymmer det faktum att samarbete bygger på vissa förutsättningar som är ganska bistra.
-
-
 
 Frilansskribenten Eva-Lotta Hultén publicerade en artikel som diskuterar samarbete i [DN Kultur 11 januari 2018](https://www.dn.se/arkiv/kultur/sa-kan-vi-utrota-den-epidemi-av-ensamhet-som-sveper-over-varlden/). Den är ett exempel på det okritiskt positiva synsättet på samarbete. Hon skriver om en bok av George Monbiot, som jag inte har läst och därför inte kan kommentera. Däremot refererar hon till ett par andra författare som jag känner till mer om. Det är där som bristen i hennes resonemang blir tydlig.
 
@@ -57,8 +58,3 @@ Men det är inte konstigt om man ser det som ett exempel på att människans sam
 Det finns många intressanta spår att följa som utgår från denna insikt om samarbetets förutsättningar. En av dem är frågan om hur samarbeten kan fungera i större sociala sammanhang där människor interagerar med så många människor att de inte längre känner varandra personligen, och där parasitism kan frodas bakom anonymitetens skydd. Som exempelvis i en stad. Hur upprätthålls normerna om samarbete där?
 
 Förmågan till samarbete är en av människans främsta kännetecken. Det duger inte att bara betrakta dess trevliga aspekter. Ska vi förstå hur människan och samhället fungerar så måste vi klara av att se hur de positiva aspekterna förhåller sig till företeelser som vi vanligen inte tycker är så trevliga. Som till exempel hur vi bestraffar parasitism och fripassagerare, och upprätthåller normer om ömsesidighet.
-
-Elinor Ostrom: **Allmänningen som samhällsinstitution**, Arkiv förlag, 2009 (ursprungligen publicerad 1990), ISBN 978-91-7924-220-6
-
-Michael Tomasello, Carol Dweck, Joan Silk, Brian Skyrms, Elizabeth Spelke: **Why We Cooperate**, Boston Review Book, The MIT Press, 2009, ISBN 978-0-262-01359-8
-

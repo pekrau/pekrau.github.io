@@ -24,11 +24,9 @@ Dagens Nyheters huvudledare 17 mars 2013 för ett så märkligt resonemang att m
 
 DN skriver om de papperslösa, alltså de personer som åberopat flyktingskäl för att få uppehållstillstånd i Sverige, men som har fått avslag:
 
-> Man behöver inte förespråka fri invandring för att förnimma hur den demokratiska rättsstatens ideal skorrar mot den situation papperslösa invandrare befinner sig i. Skälet är att det finns en inbyggd spänning mellan å ena sidan den demokratiska staten, å andra sidan reglerad invandring.
-
-[...]
-
-Flyktingamnesti, föreslår en del. I vissa givna situationer kan det vara det enda rimliga och humana. Men det är ett slags sista utväg, en städfunktion i ett trasigt system.
+> Man behöver inte förespråka fri invandring för att förnimma hur den demokratiska rättsstatens ideal skorrar mot den situation papperslösa invandrare befinner sig i. Skälet är att det finns en inbyggd spänning mellan å ena sidan den demokratiska staten, å andra sidan reglerad invandring.  
+> [...]  
+> Flyktingamnesti, föreslår en del. I vissa givna situationer kan det vara det enda rimliga och humana. Men det är ett slags sista utväg, en städfunktion i ett trasigt system.
 
 Därefter redogör DN för en idé som statsvetaren Ludvig Beckman har:
 
@@ -38,8 +36,6 @@ Den senaste tidens debatt om de papperslösa (eller illegala invandrare, om man 
 
 1. Är vissa av polisens metoder för att hitta papperslösa personer olämpliga?
 2. Skall polisen sluta att avvisa papperslösa?
-
-
 
 Dessvärre har många debattörer antytt att ett "ja" på den första frågan automatiskt leder till ett "ja" på den andra, dock påfallande ofta utan att vara tydliga med den slutledningen. Det finns en ganska uppenbar anledning till att man slirar med sitt svar på den andra frågan: **Om man svarar "ja" på den, så betyder det rent logiskt att man vill ha fri invandring. Och det ryggar de flesta debattörer för.**
 

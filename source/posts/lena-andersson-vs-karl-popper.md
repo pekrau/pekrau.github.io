@@ -25,6 +25,9 @@ tags:
   value: liberalism
 title: Lena Andersson vs. Karl Popper
 type: post
+references:
+- Popper 1945a
+- Popper 1945b
 ---
 Ohlininstitutet arrangerade [4 dec 2014](http://www.ohlininstitutet.se/2014/11/04/det-oppna-samhallet-och-dess-fiender-2015/) en diskussion om Karl Popper, den liberale filosofen vars centrala politiska verk är "**Det öppna samhället och dess fiender**" ([som jag skrev om nyligen](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)). **Lennart Nordfors**, fil. dr. i statsvetenskap och vice vd för Gullers grupp, talade om Poppers betydelse då och nu. Det talet kommer att ges ut som en skrift av Ohlininstitutet så småningom, och jag ämnar kommentera det då.
 
@@ -35,8 +38,6 @@ På plats var även **Lena Andersson**, författare, och **Håkan Holmberg**, po
 Hon kritiserade Popper för att han "svajar mellan idéerna om absoluta värden och relativism". Andersson hävdar att man antingen måste tro på att det finns absoluta värden, eller så är man relativist. Som Andersson framställde det, är en sådan relativism ett sluttande plan ner mot nihilism. Antingen tror man på absoluta värden, eller så kan man inte tro på något. Något annat alternativ gives icke.
 
 Hon sade vidare att Popper inte tycks vara särskilt intresserad av mänskliga rättigheter. Hon ansåg också att Poppers kritik mot [Aristoteles](http://en.wikipedia.org/wiki/Aristotle) essentialism var ohållbar.
-
-
 
 **Om den första kritiken kan man säga att det är en läsning av Popper som missar det väsentliga. Popper sätter möjligheten till framsteg genom kritik i första rummet. Det är det som är grundbulten i hans kunskapsfilosofi, och som också tar sig uttryck i hans resonemang om det öppna samhället. Förbättring genom kritik och innovation är möjliga, och har skett, såväl inom vetenskap som i samhället, det är Poppers övertygelse.**
 
@@ -78,29 +79,12 @@ Slutligen måste jag protestera mot något som sades på slutet. Lena Andersson 
 
 Dessutom måste påpekas att själva huvudtexten i verket inte alls är anmärkningsvärt omfattande. Första volymen (om Platon) är endast 200 sidor, och den andra volymen (om Hegel och Marx) är ca 280 sidor. Jämför med t.ex. John Rawls "A Theory of Justice" (587 sidor), Robert Nozicks "Anarchy, State and Utopia" (334 sidor) eller F.A. Hayeks "The Constitution of Liberty" (411 sidor). Alltså samma storleksordning. Det som gör att Poppers verk ser så tungt ut är de många och långa fotnoterna, som man utan problem kan skippa (även om där finns många fascinerande resonemang).
 
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 2 The High Tide of Prophecy: Hegel and Marx, and the Aftermath.** Routledge &amp; Kegan Paul, 1945, 1977, ISBN 0-7100-4626-X.
-
-*
 
 Inlägg i denna diskussionen:
 
-<ol start="0">
-
-  <li>Per Kraulis: Lena Andersson vs. Karl Popper (inlägget ovan)</li>
-
-  <li>Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)</li>
-
-  <li>Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)</li>
-
-  <li>Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)</li>
-
-  <li>Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)</li>
-
-  <li>Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)</li>
-
-</ol>
-
-*
-
+1. Per Kraulis: [Lena Andersson vs. Karl Popper](/2014/12/05/lena-andersson-vs-karl-popper/) (referat och kommentarer till ett seminarium 4 dec 2014, Ohlinstiftelsen)
+2. Lena Andersson: [Popper som postmodernist](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) (kolumn i Dagens Nyheter)
+3. Per Kraulis: [Lena Anderssons dolda agenda om Popper och postmodernismen](/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/)
+4. Lena Andersson: [Följ Poppers tankestrukturer](/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/)
+5. Per Kraulis: [Ytliga likheter](/2015/01/08/svar-till-lena-andersson-ytliga-likheter/)
+6. Lena Andersson: [Essensbegreppet är fruktbart](/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/)

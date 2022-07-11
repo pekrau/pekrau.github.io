@@ -27,12 +27,12 @@ tags:
   value: Sverigedemokraterna
 title: "Nationalstaten som allm\xE4nning: En extremistisk invandringspolitik."
 type: post
+references:
+- Ostrom 1990
 ---
 I skuggan av det pågående dramat med Syriens flyktingkatastrof händer märkliga saker i den svenska debatten. Vissa ståndpunkter som förut ansetts självklara blir plötsligt suspekta, medan andra går från tokstollevarning till hög moral. Så vad gäller? Vilken ståndpunkt är moralisk?
 
 **Jag tänker här argumentera för vad som tycks ha blivit en extremistisk ståndpunkt, nämligen en reglerad, om än generös, invandringspolitik. Mitt argument är att den moderna välfärdsstaten är att likna vid en allmänning som måste skyddas för att vara hållbar.**
-
-
 
 För inte så länge sedan ansågs reglerad invandring vara en självklar ståndpunkt. När en grupp i Centerpartiet 2012 lade fram ett programförslag som innehöll bland annat krav på fri invandring så uppstod skrattfest på Twitter. Idag kan en seriös debattör som Robert Östling på bloggen Ekonomistas skriva ([11 sept 2015](http://ekonomistas.se/2015/09/11/ineffektiv-generos-flyktingpolitik/)):
 
@@ -95,6 +95,3 @@ Ej heller talar resonemanget om identitet. Medborgarna i nationalstaten behöver
 Som pendang till detta vill jag nämna filosofen Karim Jebaris intressanta artikel från 12 dec 2014 om [Fristaden](http://politiskfilosofi.com/2014/12/12/en-utopisk-pragmatisk-losning-pa-flyktingproblemet/), i vilken han för fram tanken att en sorts ekonomiska frizoner bör inrättas, där den svenska välfärdsstatens vanliga regler upphävs och fri invandring tillåts. Syftet är att ge en fristad åt de som nu försmäktar i hopplöshetens flyktingläger utanför Syrien, eller ger sig ut på riskfyllda resor över Medelhavet. Jag tror ovanstående diskussion tydliggör vad förslaget innebär: Att en helt separat allmänning inrättas. Syftet är att den svenska nationalstatens allmänning skall påverkas så litet som möjligt.
 
 Men påverkas kommer den att göra: Modellen bygger på att fristaden fortfarande är svenskt territorium, alltså inte en egen separat stat. Därmed skapas ett system som inte så litet påminner om [bantustans](https://sv.wikipedia.org/wiki/Bantustan) i apartheidtidens Sydafrika. Demokrati kommer inte att råda. Administrationen skulle vara svensk, men invånarna i fristaden är inte svenska medborgare. Den svenska nationalstatens karaktär skulle därigenom ändras drastiskt. Inom sig skulle den härbärgera en befolkning legalt avskilda från resten av samhället. Ironiskt nog skulle detta sätt att försöka undvika påverkan på den svenska allmänningen förändra den mer drastiskt än de flesta andra förslag.
-
-Elinor Ostrom: **Allmänningen som samhällsinstitution.** Arkiv förlag, 2009 (ursprungligen publicerad 1990), ISBN 978-91-7924-220-6.
-
