@@ -26,23 +26,17 @@ Men hans argument är litet roligt. **Det utgår nämligen från idén att man k
 
 Birro skriver:
 
-
-
 > Alla vägar bär inte till Gud. Vi som kristna kan inte gärna tro att Buddha eller Mohammed är lika mycket Gud som Jesus. Vi har byggt vår västerländska demokrati på kristna värderingar. Kristendomen kommer med väldigt solidariska och grundläggande värderingar om allas lika värde. Det har också alltid hos kristna funnits en vilja att praktiskt hjälpa de fattiga och utsatta. Detta tror jag även agnostiker och ateister kan vara överens om.
 
 Man skulle kunna vara ofin och påpeka att det har funnits ganska många kristna som tyckt att slaveri, apartheid och annat sådant har varit fullt förenligt med den kristna läran, ja, till och med påbjudet. Men låt det passera.
 
 Han skriver vidare:
 
-> Med blivande ärkebiskopens logik är [hinduismen] en religion och tro som är jämvärdig med kristendomen. I Nepal lever massor av människor sämre än råttor. Nepal är uppbyggt med olika kaster.
-
-[...]
-
-Hur kan denna vidriga människosyn vara lika värd som Jesus Kristus lära om allas lika värde? [...] Men vi kan inte blunda för att vår civilisation, själva grundbulten i vårt demokratiska samhälle, skruvats dit med hjälp av den kristna tron.
-
-[...]
-
-Vägen till Gud går endast genom Jesus Kristus. Den kristna tron här i Sverige är faktiskt grundläggande mycket bättre än till exempel den tro som praktiseras i Nepal.
+> Med blivande ärkebiskopens logik är [hinduismen] en religion och tro som är jämvärdig med kristendomen. I Nepal lever massor av människor sämre än råttor. Nepal är uppbyggt med olika kaster.  
+> [...]  
+> Hur kan denna vidriga människosyn vara lika värd som Jesus Kristus lära om allas lika värde? [...] Men vi kan inte blunda för att vår civilisation, själva grundbulten i vårt demokratiska samhälle, skruvats dit med hjälp av den kristna tron.  
+> [...]  
+> Vägen till Gud går endast genom Jesus Kristus. Den kristna tron här i Sverige är faktiskt grundläggande mycket bättre än till exempel den tro som praktiseras i Nepal.  
 
 Låt mig ignorera skallet på den nyvalda ärkebiskopen (det är inte mitt problem). Fokusera istället på vad Birro säger: **Kristendomen är bättre än hinduism därför att den är för jämlikhet och annat gott.** Birro tycks förespegla att detta är skälet till att han är kristen.
 
@@ -55,4 +49,3 @@ Den som tror på hinduismen skulle kunna svara Birro med att påpeka att efterso
 **Så Birros resonemang förutsätter idén att moralen, föreställningen om det goda, finns oberoende av Gud, och i någon mening före honom (eller henne).** Det i sin tur betyder att vi människor faktiskt kan ha synpunkter på om Guds handlande, såsom det beskrivs i Bibeln, eller som vi i dessa dagar ser efter tyfonen Haiyan, är moraliskt eller inte. Och det kan också leda till att vi drar slutsatsen att han är en skitstövel, som har ordnat universum på det sätt han gjort. **Och då är inte steget långt till insikten att själva idén om Gud helt enkelt är befängd.**
 
 Det sistnämnda tror jag inte Birro håller med om. Så, tyvärr, Marcus Birro. Ditt argument om varför kristendomen är så fantastisk faller platt.
-

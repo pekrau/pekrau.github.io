@@ -50,5 +50,4 @@ We need to think about how to realize the law-enforced requirement to store data
 
 Of course, this leads, in the best scenario, to many different fragmented solutions. In practice, many groups will be hard pressed to dig out data sets 10 years old. Computers do not last 10 years, and what's on old hard drives tends not to be brought along to the new computers, especially since the graduate students and postdocs who generated the data are no longer around.
 
-**Let's focus on the main problem here: The researcher's problem. And let the bureaucracy find solutions that are appropriate to solve that problem. Do not let the bureaucracy concentrate on finding solutions that are convenient for it. Only by pure luck would such a solution be the most optimal for the scientists. **
-
+**Let's focus on the main problem here: The researcher's problem. And let the bureaucracy find solutions that are appropriate to solve that problem. Do not let the bureaucracy concentrate on finding solutions that are convenient for it. Only by pure luck would such a solution be the most optimal for the scientists.**

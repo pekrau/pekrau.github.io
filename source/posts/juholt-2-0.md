@@ -24,9 +24,9 @@ Jag ska inte gå in på alla de fadäser som under den senaste tiden visat hur i
 
 Men nu tycks vi få den slutgiltiga bekräftelsen på eländet. I kvällens Skavlan (SVT1 21:00) kommer Löfven, enligt [Svenska Dagbladet 5 dec 2014](http://www.svd.se/nyheter/inrikes/lofven-i-skavlan-jag-ar-motarbetad_4164377.svd) att säga följande:
 
-> - Jag hade grund att vänta att Sverige kan regeras och samarbete är enda sättet att undvika att SD får inflytande.
+> Jag hade grund att vänta att Sverige kan regeras och samarbete är enda sättet att undvika att SD får inflytande.
 
-- Men jag har blivit motarbetad hela tiden. I tisdags sade alla fyra (i Alliansen) nej.
+> Men jag har blivit motarbetad hela tiden. I tisdags sade alla fyra (i Alliansen) nej.
 
 **Motarbetad? I politiken? Men ojdå! Vilken planet befinner sig mannen på? Politik handlar faktiskt om såväl strid som samarbete. Landet har en statsminister, och socialdemokraterna en partiledare, som inte begriper att alla inte vill samarbeta i alla lägen till varje pris.**
 

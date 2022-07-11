@@ -18,37 +18,25 @@ type: post
 ---
 SVT [rapporterade 26 jan 2014](http://www.svt.se/nyheter/val2014/bara-2-av-100-trygga-med-att-aldras) att "Bara 2 av 100 helt trygga med att åldras". SVT har alltså låtit Sifo ställa några frågor till "svenska folket" (ca 1000 personer) om åldringsvård. **Detta är ett klockrent exempel på vad jag kallar tyckokrati. Fokus läggs på vad folk tycker, inte på hur verkligheten ser ut.**
 
-
-
 Undersökningens resultat tolkas, som vanligt, på ett djupt tendentiösa sätt. SVT väljer att toppa nyheten med resultatet på följande fråga:
 
-> Jag känner mig trygg med att åldras i Sverige
-
-Stämmer helt: 2 procent
-
-Stämmer ganska bra: 22 procent
-
-Stämmer ganska dåligt: 33 procent
-
-Stämmer inte alls: 34 procent
-
-Vet ej: 8 procent
+> Jag känner mig trygg med att åldras i Sverige  
+> Stämmer helt: 2 procent  
+> Stämmer ganska bra: 22 procent  
+> Stämmer ganska dåligt: 33 procent  
+> Stämmer inte alls: 34 procent  
+> Vet ej: 8 procent
 
 Jag misstänker att många av de tillfrågade tolkar frågans påstående på ett annat sätt än SVT gör, nämligen att man inte tänker på åldringsvården specifikt i Sverige. **Snarare tänker man på hur det är att åldras i största allmänhet.** Och då förvånar inte svaret alls. Hur många har inte farhågor inför åldrandet som sådant? Frågan är tvetydigt ställd. Var det meningen, eller var man bara klantig när man formulerade den?
 
 **Notera också vilka frågor SVT väljer att <u>inte</u> toppa nyheterna med, som till exempel:**
 
-> Det är bra att äldreomsorgen även drivs av privata företag.
-
-Stämmer helt: 10 procent
-
-Stämmer ganska bra: 26 procent
-
-Stämmer ganska dåligt: 25 procent
-
-Stämmer inte alls: 26 procent
-
-Vet ej: 13 procent
+> Det är bra att äldreomsorgen även drivs av privata företag.  
+> Stämmer helt: 10 procent  
+> Stämmer ganska bra: 26 procent  
+> Stämmer ganska dåligt: 25 procent  
+> Stämmer inte alls: 26 procent  
+> Vet ej: 13 procent  
 
 **Här fick SVT inte ett svar som man tyckte var intressant.** Alltför många personer tyckte tydligen att privata företag var bra i äldreomsorgen för att SVT ens skulle nämna det i sin text.
 

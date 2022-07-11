@@ -20,15 +20,11 @@ tags:
 title: "D\xE4rf\xF6r \xE4r k\xF6er oundvikliga"
 type: post
 ---
-*This blog post is also available [in English](/2015/01/31/why-queues-are-inevitable/).
-
-*
+*This blog post is also available [in English](/2015/01/31/why-queues-are-inevitable/).*
 
 Vi klagar gärna på köer. Varför ska vi behöva vänta? Visar inte t.ex. vårdköerna att för snåla resurser läggs på sjukvården? Jag har tittat litet närmare på detta problem.
 
 **Min slutsats: Nej, vi är nog inte beredda att betala vad det kostar att avskaffa köerna.** Mitt resultat bygger på några enkla förutsättningar, och är tillämpligt på många olika typer av verksamheter. Jag har använt datorsimuleringar för att räkna på problemet. Siffrorna talar sitt tydliga språk: **Det köfria samhället är en orimlig utopi.**
-
-
 
 Jag jobbar i en serviceverksamhet ([National Genomics Infrastructure in Sweden](https://portal.scilifelab.se/genomics/) som befinner sig inom [SciLifeLab](http://www.scilifelab.se/)), där vi processar prover inskickade av forskare i hela Sverige och levererar data (DNA-sekvenserna) tillbaka till dem. **Det vanligaste klagomålet på oss är att vi har för långa köer. Det glunkas om att [Karolinska Institutet](http://ki.se/), där många av våra användare finns, funderar på att öppna en egen service, för att, som en KI-representant sa till mig, "forskarna ska kunna komma ner och få sina prover körda direkt utan någon kö."** Jag började fundera på det. Är den målsättningen rimlig?
 
@@ -38,7 +34,7 @@ Det finns en mycket väl utvecklad teori om detta, främst inom det fält som he
 
 Så vad händer om vi simulerar en serviceverksamhet dit det kommer ett antal uppdrag litet när som helst? Här är en visuell representation:
 
-id="attachment_3869" align="alignleft" width="450"][![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/files/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
+[![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/files/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
 
 I denna figur löper tiden horisontellt. Varje uppdrag visas i sin egen rad. Följande färger används:
 
@@ -52,13 +48,12 @@ I denna simuleringen har jag valt ett så stort inflöde av uppdrag så att **un
 
 Om vi är ekonomer och administratörer, eller den som faktiskt betalar kalaset, så kanske vi vill ha en mer effektiv verksamhet, så att **den arbetar, låt oss säga, 90% av sin kapacitet**, och står sysslolös endast 10% av tiden. Det kan ju verka rimligt? Följande händer då:
 
-id="attachment_3870" align="alignleft" width="450"][![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/files/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
+[![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/files/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
 
 Usch då! En himla massa rött, vilket betyder lång väntan för många uppdrag.
 
 - Den stora majoriteten av uppdrag råkar ut för kö. I det här fallet 87 av 100.
-
-<li> De som råkar ut för kö ligger i den länge: i genomsnitt 19.1 dagar (jämfört med de 5 dagar som ett uppdrag tar att utföra; den tiden satte jag godtyckligt i denna simuleringen).
+- De som råkar ut för kö ligger i den länge: i genomsnitt 19.1 dagar (jämfört med de 5 dagar som ett uppdrag tar att utföra; den tiden satte jag godtyckligt i denna simuleringen).
 - Notera de långa diagonalerna av svarta block: Det visar att verksamheten arbetar utan uppehåll under långa perioder.
 
 Om detta skulle handla om en akutmottagning, så skulle nog massmedia publicera katastrofreportage om de förfärliga köerna, och personalen skulle riskera utbrändhet. Och då finns det trots allt 10% glapp i systemet!
@@ -67,7 +62,7 @@ Om detta skulle handla om en akutmottagning, så skulle nog massmedia publicera 
 
 Om vi istället tittar på det som ovannämnde KI-representanten eftersträvar: En verksamhet som är i det närmaste utan köer. Hur uppnår vi det? Låt oss lägga **utnyttjandegraden på ett extremt lågt värde: 20%**. Så här ser det ut:
 
-id="attachment_3868" align="alignleft" width="450"][![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/files/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
+[![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/files/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
 
 Här blir det nästan köfritt; mycket litet rött syns. Men ändå litet grann! Och vi ser också långa sträckor där mycket litet händer: Verksamheten rullar tummarna. Den som betalar för verksamheten blir nog litet fundersam. **Lyxen att bli av med köerna är nämligen just det: en lyx. Verksamheten är 5 gånger större än den principiellt behöver vara, det är det som 20% utnyttjandegrad innebär.**
 

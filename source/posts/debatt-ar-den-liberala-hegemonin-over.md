@@ -16,9 +16,7 @@ tags:
 title: "Debatt: \xC4r den liberala hegemonin \xF6ver?"
 type: post
 ---
-[Bertil Ohlininstitutet](http://www.ohlininstitutet.se/) publicerade just [boken **En bit på väg**](http://www.ohlininstitutet.se/2013/05/13/en-bit-pa-vag/), en antologi med artiklar om liberalismens ställning och framtid, och [anordnade en debatt 14 maj 2013](http://www.ohlininstitutet.se/2013/05/02/ar-den-liberala-hegemonin-over/) för att lansera den. **Här följer några spridda intryck från den diskussionen**, där de flesta paneldeltagarna också hade bidragit till boken. Till boken återkommer jag när jag har läst den.
-
-
+[Bertil Ohlininstitutet](http://www.ohlininstitutet.se/) publicerade just boken **En bit på väg** (red. Andreas Bergh och Gabriel Ehrling, Bertil Ohlins Förlag, 2013, ISBN 978-91-980453-4-5), en antologi med artiklar om liberalismens ställning och framtid, och [anordnade en debatt 14 maj 2013](http://www.ohlininstitutet.se/2013/05/02/ar-den-liberala-hegemonin-over/) för att lansera den. **Här följer några spridda intryck från den diskussionen**, där de flesta paneldeltagarna också hade bidragit till boken. Till boken återkommer jag när jag har läst den.
 
 **Bengt Westerberg** (fd partiledare Folkpartiet) inledde med att beskriva upprinnelsen till eran av liberala reformer på 90- och 00-talen. Utgångspunkten var de problem som blommade upp i det socialdemokratiska välfärdsbygget under 1970-talet. Westerberg och ett antal andra liberalt sinnade ekonomer bildade Liberala ekonomklubben i syfte att diskutera de stora ekonomiska problem som tornade upp sig, vilka till stor del hade sin grund i den långtgående statliga styrningen av ekonomin. Ett par exempel på direkt politisk påverkan nämnde Westerberg, viktigast kanske det förberedande tänkandet som underlättade den stora skattereformen 1990. Man skapade inte reformen, men man hade tänkt och diskuterat kring problemen och möjliga lösningar, vilket gjorde det lättare att sedan bidra till ett vinnande förslag.
 
@@ -39,6 +37,4 @@ Jag kommer i detta sammanhang ihåg ett möte hösten 2012 arrangerat av Liberal
 Frågan om monarkin var mycket viktig en gång i tiden. Det är den inte längre. Riktigt så långt har det inte gått med frågan om olika statliga regleringar. Men om vi fokuserar på de faktiska samhällsproblemen, så kanske frågan om avreglering eller inte kan placeras i sitt rätta kontext.
 
 **Vi kanske ska återknyta till Karl Poppers begrepp "piecemeal social engineering"** (stegvis social ingenjörskonst). Alltså: identifiera problemet, finn och implementera en lösning, var vaksam på negativa eller oväntade följder, och repetera. Detta är ett ämne som jag gärna vill återkomma till.
-
-Andreas Bergh och Gabriel Ehrling (red): **En bit på väg. Triumfer för liberalismen och hot mot det liberala samhället.** Bertil Ohlins Förlag, 2013, ISBN 978-91-980453-4-5
 

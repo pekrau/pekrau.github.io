@@ -18,19 +18,17 @@ Jag har deltagit i konferensen [Human Genomics and Personalized Medicine](/2013/
 
 Det började med AIDS-aktivisterna på 80-talet. Sedan dess har allt fler patientgrupper aktiverat sig, och vill påverka hur forskningen bedrivs, och hur resultaten kommer till användning. **Patientmakt har blivit ett begrepp.**
 
-
-
 Frågan om hur människor, alltså inte bara patienter utan folk i allmänhet, ska fås att delta i forskningsprojekt som försökspersoner, och ge sitt informerade medgivande, blir alltmer central. Man kan inte längre använda den auktoritära metoden, där läkaren vet bäst. Dessutom vill folk veta mer om vad som händer i just den undersökningen dom är del av. Hur ser resultaten ut? Vad blir nyttan?
 
 Här finns många viktiga frågor som det finns anledning att komma tillbaka till. **Men just idag fick jag ett brev från min läkare på vårdcentralen som är ganska skojigt i sammanhanget.** Jag lämnade ett blodprov när jag var på besök för en vecka sedan, för läkaren ville kolla en sak. I brevet fick jag beskedet:
 
 > Hej,
 
-Proverna som du lämnade var helt normala.
+> Proverna som du lämnade var helt normala.
 
-Med vänlig hälsning,
+> Med vänlig hälsning,
 
-[Läkarens underskrift]
+> [Läkarens underskrift]
 
 Med tanke på trenden mot mer patientmakt och patientengagemang var detta onekligen litet komiskt. Exakt vilka prover? Exakt vilka värden?
 

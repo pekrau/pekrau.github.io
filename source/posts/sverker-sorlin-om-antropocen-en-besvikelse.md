@@ -15,12 +15,12 @@ tags:
   value: "milj\xF6politik"
 title: "Sverker S\xF6rlin om antropocen: en besvikelse"
 type: post
+references:
+- Sörlin 2017
 ---
 Sverker Sörlin, professor i miljöhistoria vid KTH, har skrivit boken "Antropocen. En essä om människans tidsålder". Den är en besvikelse. Titeln är vilseledande. Boken har inte fokus på [antropocen](https://sv.wikipedia.org/wiki/Antropocen) som fenomen, utan snarare på idéhistorien för begreppet antropocen, vilket är något annat. Idéhistoria kan förvisso vara mycket intressant, men det är inte vad som förutskickas i de marknadsförande texterna på bokens omslag.
 
 Antropocen betecknar hur människan har blivit en global geologisk kraft genom sin påverkan på miljö, klimat och ekologi. Påverkan har blivit så stor att det är tveksamt ifall det egentligen finns någon natur kvar. Sörlin diskuterar dessa begrepp med utgångspunkt från olika tänkare genom tiderna. Det är begreppsanalysen och historien om tänkandet som Sörlin tycks vara mest intresserad av. Själva de fenomen som utgör grunden antropocen diskuteras visserligen också ibland, men då främst som bakgrund till begreppshistorien.
-
-
 
 Ibland är det intressant, som redogörelsen för [Georges-Louis Leclerc, Comte de Buffon](https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon) (oftast kallad Buffon, kort och gott), fransk 1700-talstänkare, ofta omnämnd som naturfilosof. Dennes tänkande kring naturens historia var banbrytande på sin tid och har via andra tänkare och forskare påverkat vår syn idag. Även andra tänkare diskuteras så att man blir nyfiken på deras tankevärld.
 
@@ -39,6 +39,3 @@ På nästa sida skriver han:
 Sörlin uppvisar här en blind fläck som han delar med många andra intellektuella idag. De framsteg han hyllar bygger nämligen på just det entreprenörskap, kreativitet och "lösningar" (notera de föraktfulla citattecknen!) som han fnyser åt. Denna oförmåga att se kopplingen mellan det goda och förutsättningarna för det goda är en utbredd sjuka i dagens debatt. Det finns i politik och samhällsdebatt en tendens att betrakta de goda tingen som något som man bara kan besluta om. Så, nu är vi för allt för alla, saken är klar! Men det hårda arbete som krävs för att få saker att fungera, att förändra system och uppfinna nya, fungerande lösningar, det betraktas som smått vulgära teknikaliteter.
 
 Den främsta förlåtande aspekten av Sörlins bok är redogörelsen för en rad olika tänkare, som kan ge läsaren tips om var hen kan finna bättre diskussioner om vad antropocen innebär och vad som kan och bör göras. Texten är som helhet ofokuserad och som läsare ställer man sig frågan litet för ofta: Vad handlar egentligen detta resonemanget om?
-
-Sverker Sörlin: **Antropocen. En essä om människans tidsålder** Svante Weyler Bokförlag AB, 2017. ISBN 978-91-7681-064-4
-

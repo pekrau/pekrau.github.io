@@ -42,8 +42,6 @@ Författaren [Torbjörn Elensky](http://sv.wikipedia.org/wiki/Torbj%C3%B6rn_Elen
 
 Han beskriver hur den konservativa motupplysningen med namn som [Joseph de Maistre](http://en.wikipedia.org/wiki/Joseph_de_Maistre), [Johann Georg Hamann](http://en.wikipedia.org/wiki/Johann_Georg_Hamann) och [Johann Gottfried Herder](http://en.wikipedia.org/wiki/Johann_Gottfried_Herder) hävdade att människan alltid har en identitet förankrad i det kollektiva, i det egna folket. Kulturerna är en sorts självständiga väsen, som inte kan blandas eller bytas, utan måste utvecklas på egna villkor.
 
-
-
 Elensky skriver vidare:
 
 > Det mystiska som hänt i dag är att de ideologiska polerna kastats om. Det är inte längre högern som tror på folks inneboende olikheter (utom en extremt nationalistisk och rasistisk höger, som knappast tillhör mainstream i dagens Sverige), utan det är en betydande del av vänstern som förfäktar dessa teser.
@@ -64,11 +62,8 @@ Om vi spårar bakåt från Michel Foucault, en av de centrala postmoderna tänka
 
 Om Martin Heidegger vet vi att han var nazist från 1933 till 1945, och innan dess tillhörde han de radikal-konservativa cirklar i Weimar-Tyskland som hatade demokrati, USA och liberalism. Jag har diskuterat [Heidegger tidigare i inlägg på denna blogg](/tag/martin-heidegger/). Vi vet också att Michel Foucault var en beundrare av Ayatollah Khomeinis Iran. I vår egen tid ser vi hur Heidegger har inspirerat sådana högerextrema aktivister som ryssen [Alexander Dugin](/tag/alexander-dugin/), och i Frankrike är den så kallade identitära rörelsen en viktig del av Front National, och använder argument och ståndpunkter som är snarlika de identitetspolitiska. I [detta inlägg](/2014/05/28/sa-ser-den-moderna-nazismen-ut/) visar jag hur Sverigedemokratisk Ungdom inspireras av den franska identitära rörelsen, och befinner sig på samma, av nazistiska symboler mättade, våglängd.
 
-Så jag vill därför foga ett korrektiv till Elenskys slutsats om att postmodernismen är upplysningens yttersta konsekvens. **När identitärer och identitetspolitiker använder sig av kvasi-demokratiska argument om olika kulturers lika värde, så är det inte upplysningsideal de lutar sig mot. De använder upplysningsargument eftersom dessa är retoriskt effektiva i dagens situation, inte därför att de egentligen tror på argumenten. När de hyllar oberoende och självbestämmande, så är det inte individer de avser, utan folk. En klassisk antiliberal tankefigur.
-
-**
+Så jag vill därför foga ett korrektiv till Elenskys slutsats om att postmodernismen är upplysningens yttersta konsekvens. **När identitärer och identitetspolitiker använder sig av kvasi-demokratiska argument om olika kulturers lika värde, så är det inte upplysningsideal de lutar sig mot. De använder upplysningsargument eftersom dessa är retoriskt effektiva i dagens situation, inte därför att de egentligen tror på argumenten. När de hyllar oberoende och självbestämmande, så är det inte individer de avser, utan folk. En klassisk antiliberal tankefigur.**
 
 Sambandet mellan vänster- och högerkritiken mot dagens liberala samhälle är alltså bra mycket starkare än många inser. **Jag tror liberaler måste förbereda sig på att även om vänster- och högerextrema rörelserna bekämpar varandra frenetiskt just nu, så finns det en stor fara att de plötsligt inser att liberalismen är den gemensamma fienden. För så är det nämligen.** Vi har sett antydningar till detta när olika vänster- och högerkrafter i Europa båda visar förståelse för Vladimir Putins välde.
 
 Den dagen kan ligga närmare än vi tror när Europas vänster- och högerkrafter skapar en modern ideologisk variant av [Molotov-Ribbentrop-pakten](http://sv.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop-pakten). Då, om inte förr, kommer det att visa sig vilka som är demokrater, och vilka som inte är det.
-

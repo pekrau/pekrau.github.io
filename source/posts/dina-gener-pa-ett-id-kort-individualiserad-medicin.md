@@ -16,11 +16,9 @@ tags:
 title: "Dina gener p\xE5 ett id-kort: Individualiserad medicin?"
 type: post
 ---
-Jag deltar i konferensen [Human Genomics and Personalized Medicine](Human Genomics and Personalized Medicine) som pågår i Stockholm 17-20 juni 2013. Det handlar om de framsteg som görs inom [genomiken](http://en.wikipedia.org/wiki/Genomics), alltså vetenskapen om hur man analyserar hela arvsmassan hos en organism, som till exempel människan. **Att dessa framsteg kommer att påverka sjukvården är uppenbart. Frågan är: Hur?**
+Jag deltar i konferensen Human Genomics and Personalized Medicine som pågår i Stockholm 17-20 juni 2013. Det handlar om de framsteg som görs inom [genomiken](http://en.wikipedia.org/wiki/Genomics), alltså vetenskapen om hur man analyserar hela arvsmassan hos en organism, som till exempel människan. **Att dessa framsteg kommer att påverka sjukvården är uppenbart. Frågan är: Hur?**
 
 Människans hela arvsmassa (eller "[genom](http://en.wikipedia.org/wiki/Human_genome)", alltså "alla gener") bestämdes år 2000 genom the [Human Genome Project](http://en.wikipedia.org/wiki/Human_Genome_Project). Det tog mer än 10 år, och kostade kanske 3 miljarder dollar. **Den tekniska utvecklingen på området har varit helt enastående. Numera, bara 10 år senare, är det möjligt att bestämma hela ditt genom på kanske en månad och till en kostnad av några tusen dollar eller mindre.** Det kommer bara att gå snabbare och billigare. Om några år kommer det att bli vanligt att folk låter bestämma hela sitt genom, sin arvsmassa, så att alla genvarianter kan upptäckas. Kanske får man resultatet i form av ett minneskort med all information, ett slags id-kort.
-
-
 
 Konferensen handlar till exempel om hur det blir möjligt att skräddarsy en läkemedelsbehandling på ett helt annat sätt än idag. Med kunskap om vilka specifika gen-varianter just du bär på kanske man kan förutsäga att en viss standardmedicin inte är lämplig för just dig, därför att din kropp inte har rätt gen för att handskas med det läkemedlet. Istället för att upptäcka detta den hårda vägen, skulle läkaren direkt kunna ordinera en annan medicin. **Det är bland annat det som individualiserad medicin handlar om: Att utifrån kunskap om den specifika individen skräddarsy behandlingen.** Så du kanske kommer att ta med dig det där id-kortet till vårdcentralen, så att läkaren kan kolla ifall den medicin han tänker skriva ut verkligen kommer att fungera för dig.
 

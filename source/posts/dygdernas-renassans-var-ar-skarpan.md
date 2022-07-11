@@ -22,7 +22,11 @@ tags:
 title: "Dygdernas ren\xE4ssans: Var \xE4r sk\xE4rpan?"
 type: post
 ---
-Boken **Dygdernas renässans** är en samling essäer om dygderna i det förflutna och idag. Författare är ett antal svenska humanister, i betydelsen utövare av humaniora. De använder följande definition:> En dygd betecknar en karaktärsinriktning hos en individ som är moraliskt eftersträvansvärd.Bokens redaktörer hävdar i förordet att begreppet dygd inom etiken har fått "förnyad aktualitet under de senare decennierna", och nämner filosofer som [Alasdair MacIntyre](http://en.wikipedia.org/wiki/Alasdair_MacIntyre) och [Martha Nussbaum](http://en.wikipedia.org/wiki/Martha_Nussbaum).
+Boken **Dygdernas renässans** (red. Eva Österberg, Marie Lindstedt Cronberg, Catharina Stenqvist, Atlantis förlag, ISBN 978-91-7353-596-0) är en samling essäer om dygderna i det förflutna och idag. Författare är ett antal svenska humanister, i betydelsen utövare av humaniora. De använder följande definition:
+
+> En dygd betecknar en karaktärsinriktning hos en individ som är moraliskt eftersträvansvärd.
+
+Bokens redaktörer hävdar i förordet att begreppet dygd inom etiken har fått "förnyad aktualitet under de senare decennierna", och nämner filosofer som [Alasdair MacIntyre](http://en.wikipedia.org/wiki/Alasdair_MacIntyre) och [Martha Nussbaum](http://en.wikipedia.org/wiki/Martha_Nussbaum).
 
 Det handlar om mod, rättrådighet, vishet, måttfullhet. Under kristendom tillkommer tro, hopp och kärlek. Andra teologiskt grundade dygder är fattigdom, kyskhet, lydnad och ödmjukhet. Varje författare skriver om en dygd i var sitt kapitel. Boken är präglad av en starkt religiös kontext, vilket inte är till dess fördel. **I svensk tradition innebär det gärna en dragning till det välvilligt luddiga, och så blir fallet även i denna bok.**<br /> <br /> I litet vaga termer förespeglas att dygdetik skulle kunna utgöra ett alternativ till pliktetik, där fasta moralregler, förankrade i människans existens, utgör grunden. [Immanuel Kant](http://sv.wikipedia.org/wiki/Immanuel_Kant) är den mest framstående förespråkaren av pliktetik. Det andra huvudalternativet är konsekvenssetik, där utilitarismen utgör det vanliga exemplet, med bland annat [John Stuart Mill](http://sv.wikipedia.org/wiki/John_Stuart_Mill) som representant. Här är det en handlings konsekvenser som avgör dess etiska värde. Bägge dessa senare etikteorier är starkt förknippade med upplysningens idéer om mänskliga rättigheter, som sedan ledde vidare till det moderna välfärdstänkandet.
 
@@ -53,6 +57,4 @@ Det handlar om mod, rättrådighet, vishet, måttfullhet. Under kristendom tillk
 **Slutligen skriver Kenneth Johansson om tålamodet.** Behållningen här är ett resonemang om Adam Smiths moralteori, något så ovanligt i svenska sammanhang som en seriös diskussion av dennes tankar.
 
 Jag har [tidigare kommenterat](/2012/10/29/moralfilosofi-dygd-istallet-for-politik/) Ann Heberleins recension av boken i Dagens Nyheter 26 okt 2012. När jag nu läst boken kan jag konstatera att Heberlein drar högre växlar på den än den är värd. Heberleins kritik av liberalismens individualism motsvaras inte av något mer utförligt resonemang i boken.
-
-Eva Österberg, Marie Lindstedt Cronberg, Catharina Stenqvist (red): **Dygdernas renässans**, [Atlantis förlag](http://www.atlantisbok.se/layout/detail.php?id=7748), 2012, ISBN 978-91-7353-596-0.
 

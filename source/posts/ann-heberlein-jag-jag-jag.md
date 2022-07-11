@@ -19,6 +19,8 @@ tags:
   value: "S\xF8ren Kierkegaard"
 title: 'Ann Heberlein: Jag, jag, jag'
 type: post
+references:
+- Heberlein 2015
 ---
 Ann Heberlein senaste bok **Gud, om vi ska talas vid du och jag måste jag vara helt ärlig** består av två monologer: I den första talar Heberlein till Gud, och i den andra talar Heberleins tänkta Gud (som jag nedan betecknar "Gud") till henne. Om detta låter privat och inkrökt, så beror det på att det är det. Den som vill ha en diskussion om Gud, religion och etik med någon rimlig intellektuell nivå kan låta denna boken passera.
 
@@ -29,8 +31,6 @@ Heberlein förklarar att hon vet att Gud existerar. Hon upprepar detta litet fö
 > Hitchens bevisar ingenting. Han förhåller sig till dig, vilket snarast är att betrakta som ett bevis för din existens - man kan väl inte på allvar förhålla sig till något som inte finns? [sid 8]
 
 Detta står att läsa på bokens andra textsida. Den som är ute efter seriösa argument kan alltså lägga ifrån sig boken redan här. För detta är ju rent ut sagt löjeväckande. Inte kan väl Heberlein själv tro på detta skämt till argument?
-
-
 
 Så varför läste jag då vidare? Som det står i den devota intervjun i [Dagens Nyheter 4 april 2015](http://www.dn.se/dnbok/gud-ar-annu-en-dysfunktionell-relation-i-mitt-liv/): Hon har blivit "svenska folkets favoritdoktor i etik". Om Heberlein är den svenska etikdebattens mest kända namn, så finns det anledning att granska vad hon skriver, även om det egentligen är uselt. Kanske speciellt just då.
 
@@ -71,10 +71,6 @@ Svaret är tydligen: **Heberlein tror att Gud bestämmer moralen. Därmed är al
 Om den som förnekar Guds existens kallas ateist (a-teist), alltså icke-gudstroende, så kan man beteckna denna Heberleins hållning som a-rationalist, alltså icke troende på den rationella argumentationen. (Inte antirationalist, det betyder att man är mot rationalitet, vilket är något annat.)
 
 **Det är märkligt att Heberlein, som alltså inte rimligen kan tro på det rationella argumentet vad gäller etik, ändå undervisar och skriver om etik. Jag menar, vad är vitsen? Alla hennes resonemang om hur etiska argument hänger ihop måste vara meningslösa om det är som Heberlein tror. Inte undra på att hon känner ångest. Och det är denna person som är "svenska folkets favoritdoktor i etik"? Så kan det gå.**
-
-Ann Heberlein: **Gud, om vi ska talas vid du och jag måste jag vara helt ärlig.** Albert Bonniers förlag, 2015, ISBN 978-91-0-013867-7.
-
-Christopher Hitchens: **Du store Gud? Hur religionen förgiftar allt.** Fri Tanke förlag, 2014, ISBN 978-91-87513-07-7.
 
 PS. Dagens Nyheter publicerade för två år sedan en essä av Heberlein med titeln "Gud, vem är du". Det är numera uppenbart att den essän var ett förarbete till ovanstående bok. Se [den kommentar](/2013/01/05/grundkurs-i-ateism-del-2/) jag skrev då.
 

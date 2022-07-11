@@ -25,18 +25,16 @@ tags:
   value: Stockholm
 title: "Varf\xF6r lider Stockholms liberaler av almsjukan?"
 type: post
+references:
+- Glaeser 2011
 ---
 Det brukar sägas att liberaler har en i grunden positiv inställning till utveckling. Att vi har en tro på att samhället kan och ska förändras, och att det kan ske i en riktning som innebär förbättringar för människorna. Att ordet "liberal" hör naturligare ihop med ordet "progressiv" än med "konservativ".
 
-**Hur kommer det sig då att många liberaler i storstaden Stockholm, främst i Folkpartiet, har en sådan tydligt konservativ, för att inte säga reaktionär, hållning till stadsbyggnadsfrågor? En inställning som jag skulle vilja benämna den politiska almsjukan. **
-
-
+**Hur kommer det sig då att många liberaler i storstaden Stockholm, främst i Folkpartiet, har en sådan tydligt konservativ, för att inte säga reaktionär, hållning till stadsbyggnadsfrågor? En inställning som jag skulle vilja benämna den politiska almsjukan.**
 
 Mot varje förslag till nybygge eller omgörning av staden kommer alltid helt förutsägbara protester som rutinmässigt använder den uttjatade klichén "Detta blir den nya almstriden!" Man vill därmed åkalla det gamla, mytologiskt heroiska minnet av den så kallade [almstriden i Stockholm 1971](http://sv.wikipedia.org/wiki/Almstriden). Förmodligen hoppas man frammana bilden av folket mot eliten, de vanliga människorna mot de hemska exploatörerna. De onda som vill förändra och förstöra det fina vi har. Förändring kan bara bli försämring. Så går snacket.
 
-**Den politiska almsjukan består i att alltid vilja göra denna bevarandemaffia nöjd. Påtagligt ofta hörs liberaler i denna kör av nejsägande. Alltför ofta.
-
-**
+**Den politiska almsjukan består i att alltid vilja göra denna bevarandemaffia nöjd. Påtagligt ofta hörs liberaler i denna kör av nejsägande. Alltför ofta.**
 
 Varför har en i grunden framstegsvänlig rörelse förvandlats till bromskloss i just stadsbyggnadsfrågor? Det är med viss förtvivlan jag ställer frågan. En liberal rörelse som rimligen vill verka för en positiv samhällsutveckling har på något mystiskt sätt hamnat i en nejsägarposition där alla klassiskt konservativa argument används.
 
@@ -75,6 +73,3 @@ Hushöjder blir en nödvändig del av ekvationen. Tät stad kräver höga hus. E
 I The Economist 4 april 2015 ([ledaren](http://www.economist.com/news/leaders/21647614-poor-land-use-worlds-greatest-cities-carries-huge-cost-space-and-city) och [en artikel](http://www.economist.com/news/briefing/21647622-land-centre-pre-industrial-economy-has-returned-constraint-growth)) beskrivs hur allehanda politiska begränsningar av byggandet medför stor ekonomisk skada. Begränsningar på bygghöjd och användningsområden innebär att den som äger mark eller en existerande fastighet kan tillgodoräkna sig oerhört stora värdeökningar utan att göra ett dyft. Det är ingen slump att bostadsrättspriserna i Stockholm fortsätter att öka på ett närmast hysteriskt vis. De av oss  som har haft turen att surfa på vågen har tjänat storkovan. Enligt en del uppgifter står denna effekt för merparten av ökningen i den ojämlika fördelningen av förmögenheter som ekonomen [Thomas Piketty](http://en.wikipedia.org/wiki/Thomas_Piketty) beskriver.
 
 **Att de av oss som vunnit i bostadslotteriet då ska agera mot byggande av nya bostäder är helt enkelt otillständigt. Folkpartiet bör fundera på vems politik man vill föra: En politik för de som sitter i lägenheter på Söders höjder med utsikt över Gamla stan, som ojar sig väldeliga när något enstaka nytt hus byggs och förändrar vyn. Eller ska Folkpartiet satsa på alla de ungdomar och nyinflyttade som vill bo nära stadens dynamik och kultur. De människor som kan bidra till stadens utveckling som ekonomisk motor och utvecklingsmetropol, snarare än en sakta tynande tillvaro som museum för hus från åren kring 1900.**
-
-Edward Glaeser: **Triumph of the City.** Macmillan, 2011, ISBN 978-0-230-70938-6.
-

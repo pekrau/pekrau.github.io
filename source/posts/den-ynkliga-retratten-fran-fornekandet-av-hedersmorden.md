@@ -24,9 +24,7 @@ Det är inte ofta en åsiktsmässig reträtt får en sådan skarp blixtbelysning
 
 Gudrun Schyman gör ett skamlöst försök att påskina att hon och Feministiskt Initiativ[ alls inte svikit kvinnorna](https://www.dn.se/insidan/stammer-inte-att-vi-svikit-kvinnorna-som-utsatts-for-hedersvald/) som utsätts för hedersvåld. Sakine Madon gör slarvsylta av det försöket [i VLT 16 jan 2018](http://www.vlt.se/opinion/ledare/sakine-madon-skamtar-du-med-oss-gudrun-schyman).
 
-Men det ynkligaste exemplet står den tidigare riksdagskandidaten för F! Nelli Motavvas för. Hon får frågan om varför hon deltog i den hårt uppskruvade kampanjen mot Hanna Gadban och den nominering hon fick till en utmärkelse av Södertörns högskola. Hanna Gadban utkom 2015 med boken "Min Jihad" om islamism och hedersförtryck. Nelli Motavas (som då använde sitt iranska förnamn Mehrtab):
-
-
+Men det ynkligaste exemplet står den tidigare riksdagskandidaten för F! Nelli Motavas för. Hon får frågan om varför hon deltog i den hårt uppskruvade kampanjen mot Hanna Gadban och den nominering hon fick till en utmärkelse av Södertörns högskola. Hanna Gadban utkom 2015 med boken "Min Jihad" om islamism och hedersförtryck. Nelli Motavas (som då använde sitt iranska förnamn Mehrtab):
 
 > – Jag kommer inte riktigt ihåg varför vi var så upprörda.
 
@@ -36,7 +34,7 @@ Motavas fortsätter:
 
 > Hon håller med om att tonläget om hedersförtrycket stundtals varit mycket högt. Själv tror hon att det beror på att olika grupper inom feminismen söker förklaringar på olika sätt.
 
-– Jag tyckte att debatten blev olycklig. Kulturalisterna pratade om traditioner och religion, radikalfeministena bara om könsmakt. Därför blev jag intersektionalist. Vi ser att det finns flera olika maktordningar som kön, klass, etnicitet. Men fortfarande anser jag att "kultur" aldrig är en orsak till hedersförtryck, bara en ursäkt, säger hon.
+> – Jag tyckte att debatten blev olycklig. Kulturalisterna pratade om traditioner och religion, radikalfeministena bara om könsmakt. Därför blev jag intersektionalist. Vi ser att det finns flera olika maktordningar som kön, klass, etnicitet. Men fortfarande anser jag att "kultur" aldrig är en orsak till hedersförtryck, bara en ursäkt, säger hon.
 
 Först beklagar hon hur det blev. Sedan vidhåller hon den fundamentala felsyn som innebär att "kultur" (hennes citat-tecken) aldrig kan vara orsak till något. Så kan ideologiserat önsketänkande se ut.
 

@@ -21,12 +21,12 @@ tags:
   value: Upplysningen
 title: 'Grundkurs i ateism, del 8: Abraham, Kierkegaard och DN:s Birgersson'
 type: post
+references:
+- Berlin 1979
 ---
 Susanna Birgersson, ledarskribent på Dagens Nyheter, skriver [om Søren Kierkegaard 8 maj 2013](http://www.dn.se/ledare/signerat/abraham-kierkegaard-och-samtiden), apropå dennes 200-årsdag nyligen.
 
 [Kierkegaard](http://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) är en av de filosofer som tycks vara resolut apolitiska, alltså helt ointresserade av, och för, samhällelig praktik. Mig veterligen har ingen politiker använt Kierkegaard som argument för något. **Ej heller har hans tankar använts som ursäkt av någon diktator. Sympatiskt, kan man tycka. Men riktigt så enkelt är det inte.**
-
-
 
 Den berömde liberale idéhistorikern [Isaiah Berlin](http://en.wikipedia.org/wiki/Isaiah_Berlin) hävdar i essän "The Counter-Enlightenment" (tillgänglig i boken "Against the Current") att** Kierkegaard var den mest briljante och djupsinnige lärjungen till den radikalt upplysnings-kritiske [Johann Georg Hamann](http://en.wikipedia.org/wiki/Georg_Johann_Hamann)**. Berlin beskriver Hamann som en fanatisk motståndare till rationalism och vetenskap, och som en viktig, om än idag bortglömd, inspiratör till det som blev, och fortfarande är, en lång tradition av reaktion mot Upplysningen.
 
@@ -61,6 +61,3 @@ Tro som väsensskilt från "rim och reson" och "moral". Ja, det är väl just de
 Notera även detta: Tron "utövas". Där blottades något! Hade det handlat om en handling som bara berör en person, Abraham, så hade man kanske till nöds kunnat fördra det hela. Men det finns en person till i denna berättelse: Isak. **I Kierkegaards existentiella resonemang är Isak en del av rekvisitan.** Han är inget moraliskt subjekt. Han är ingen person.
 
 Jag överlåter som en övning till läsaren att fundera över vad sådant tänkande kan leda till.
-
-Isaiah Berlin: **Against the Current. Essays in the History of Ideas.** Henry Hardy (ed), Pimlico, 1979, ISBN 978-0-712-66690-9.
-

@@ -18,13 +18,11 @@ type: post
 
 > Till sist vill jag rekommendera boken "Världens ljus". Det är en intervjubok med påven. När ni läser den framträder en helt annan människa än den elaka despot som tröskelverket svensk media med perverterad iver i alla dessa år skyfflat fram.
 
-Orkar ni förändra er syn på den katolska kyrkan? Orkar ni utmana er själva? Läs i så fall den boken. Skapa er en egen bild.
+> Orkar ni förändra er syn på den katolska kyrkan? Orkar ni utmana er själva? Läs i så fall den boken. Skapa er en egen bild.
 
-DET, om något, vore upplyst, modigt och progressivt.
+> DET, om något, vore upplyst, modigt och progressivt.
 
 **Som ateist, och bristande i respekt för påven (ja, jag erkänner), så antog jag utmaningen.** Bokförlaget Catholica säljer den [svenska översättningen av påven Benedictus XVI:s bok](http://www.catholica.se/Visa_detaljer.asp?BokID=231), och ger oss chansen att ladda ner ett kapitel gratis. Sagt och gjort.
-
-
 
 **Kapitlet som förlaget gör tillgängligt heter "Relativismens diktatur".** Det handlar om en ofta återkommande anklagelse från religiöst håll:
 

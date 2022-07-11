@@ -38,8 +38,6 @@ På Dagens Nyheters kultursida har man publicerat ett antal tunga artiklar av [T
 
 **Jag har noterat följande: Inte i någon tidning har jag hittat ett seriöst menat försök till analys av vad som sker i Ryssland, skriven av någon svensk intellektuell. Är inte detta ytterst märkligt?**
 
-
-
 Jag har alldeles bestämt för mig att när George W Bush planerade och genomförde invasionen av Afghanistan 2001 och Irak 2003, så skrevs det på svenska debattsidor en hel del om USA:s bevekelsegrunder och strategiska tänkande. Men nu, när en minst lika viktig historisk process äger rum i vårt europeiska grannskap, då är de svenska intellektuella märkligt avvaktande. Vad kan denna tystnad bero på?
 
 Låt mig försöka med denna högst skissartade gissning: Om man idag analyserar vad som sker i Ryssland, och i vilka banor Putin tänker, då hamnar man ganska naturligt i slutsatsen att Putin är på väg att sakta men säkert upprätta en nyfascistisk stat. En hel del av grundstenarna ligger redan på plats. Hovfilosofer typ [Alexander Dugin](http://en.wikipedia.org/wiki/Aleksandr_Dugin), som jag ämnar skriva mer om senare, har sedan länge levererat argument och visioner som banar vägen för en sådan stat.
@@ -48,9 +46,7 @@ Låt mig försöka med denna högst skissartade gissning: Om man idag analyserar
 
 **Ojdå? Det var ju inte så bra. Alltså tänker vi på något annat.**
 
-**Det är ju nämligen så att en svensk intellektuell hellre skulle avslöja sig som Sverigedemokrat än att tillstå att EU och NATO kan ha positiva egenskaper.
-
-**
+**Det är ju nämligen så att en svensk intellektuell hellre skulle avslöja sig som Sverigedemokrat än att tillstå att EU och NATO kan ha positiva egenskaper.**
 
 Vi kan se det hos till exempel **Åsa Linderborg**, som i en komiskt krumbuktande [artikel 19 mars 2014](http://www.aftonbladet.se/kultur/kronikorer/linderborg/article18571565.ab) försöker distansera sig, men ändå inte, från tillmälet Putinista:
 

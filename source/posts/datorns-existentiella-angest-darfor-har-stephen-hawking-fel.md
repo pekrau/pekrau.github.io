@@ -16,17 +16,13 @@ type: post
 ---
 Maria Gunther skriver i [Dagens Nyheter 2014-06-22 (prenumeration krävs)](http://www.dn.se/nyheter/vetenskap/maskinerna-ar-vara-vanner-/) om en framtid då forskningsfältet [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence) (AI) lyckas nå sitt mål: **En dator som är intelligent och självmedveten. Artikeln diskuterar farhågorna om att en sådan maskin skulle försöka "ta över" från människan. Resonemanget bygger på fysik, matematik och datalogi, medan det biologiska tänkandet är helt frånvarande. Därför blir det fel.**
 
-
-
 Utvecklingen drivs på mot alltmer självständigt agerande datorer. Vi vill ha de tjänster som de intelligenta systemen utför, men samtidigt oroas vi av skräckscenarier som i Terminator-filmerna ([The Terminator](http://www.imdb.com/title/tt0088247/) och [Terminator 2 - Judgment Day](http://www.imdb.com/title/tt0103064/), eller nu senast filmen [”Transcendence”](http://www.imdb.com/title/tt2209764/).
 
 Gunther refererar till en artikel av **Stephen Hawking** med flera i [The Independent 2014-05-01](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence--but-are-we-taking-ai-seriously-enough-9313474.html) som undrar om vi tar det (påstått) förestående genombrottet inom AI på det allvar som det förtjänar:
 
-> [...] it's tempting to dismiss the notion of highly intelligent machines as mere science fiction. But this would be a mistake, and potentially our worst mistake in history.
-
-[...]
-
-Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.
+> [...] it's tempting to dismiss the notion of highly intelligent machines as mere science fiction. But this would be a mistake, and potentially our worst mistake in history.  
+> [...]  
+> Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.  
 
 Hawking målar upp ett scenario där AI-maskinerna uppnår en så kallad singularitet, då de kan börja bygga egna, ännu intelligentare maskiner.
 

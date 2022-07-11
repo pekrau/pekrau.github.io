@@ -27,8 +27,6 @@ We love to complain about queues. Why do we have to wait? Do not the queues in e
 
 **My conclusion: No, we are probably not willing to pay what it costs to eliminate queues.** My results rely on some basic assumptions, and are applicable to many different types of scenarios. I have used computer simulations to investigate the problem. The numbers speak for themselves: **The queueless society is an unreasonable utopia.** 
 
-
-
 I work in a service facility (the [National Genomics Infrastructure in Sweden](https://portal.scilifelab.se/genomics/) within [SciLifeLab](http://www.scilifelab.se/)), where we process samples submitted by researchers in Sweden and deliver data (DNA sequences) back to them. **The most common complaint to us is that our queues are too long. It is whispered that the Karolinska Institute , where many of our users are based, is thinking of opening a separate service, to which, as a KI representative told me, "the researchers can go and get their samples run directly without any queue."** I started thinking about it. Is this a reasonable goal?
 
 There is a very well-developed theory about this, mainly in the field of [Discrete Event Simulation](http://en.wikipedia.org/wiki/Discrete_event_simulation), but the basic features are so simple that I programmed what follows myself. Source code and other files are available in my GitHub repo [queue_simulation](https://github.com/pekrau/queue_simulation) for those who want to look at the details.
@@ -37,7 +35,7 @@ There is a very well-developed theory about this, mainly in the field of [Discre
 
 So what happens if we simulate a service facility to which tasks are submitted? Here is a visual representation:
 
-id="attachment_3869" align="alignleft" width="450"][![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/files/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
+[![Simulation of task execution and queue. 50% utilization of resources.](/files/queue_50.png)](/files/queue_50.png) Simulation of task execution and queue. 50% utilization of resources.
 
 This figure shows time horizontally. Each task is displayed in its own row. The following colors are used:
 
@@ -51,13 +49,12 @@ So this means that even if we have twice as much capacity as is required, strict
 
 If we are economists and administrators, or the one who actually pays for the party, we may want a more efficient operation, so that **the facility works at, say, 90% of its capacity**, and stands idle only 10% of the time. That may seem reasonable? The following happens:
 
-id="attachment_3870" align="alignleft" width="450"][![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/files/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
+[![Simulation of task execution and queue. 90% utilization of resources.](/files/queue_90.png)](/files/queue_90.png) Simulation of task execution and queue. 90% utilization of resources.
 
 Oops! A lot of red, which means a long wait for many tasks.
 
 - The vast majority of tasks end up in a queue. In this case, 87 of a 100.
-
-<li> Those who end up in a queue languish there for a long time: on average 19.1 days (compared with the 5 days a task takes to process; this value was set arbitrarily in this simulation).
+- Those who end up in a queue languish there for a long time: on average 19.1 days (compared with the 5 days a task takes to process; this value was set arbitrarily in this simulation).
 - Note the long diagonals of black blocks: This indicates that the facility is working non-stop for long periods.
 
 If this would involve an emergency room, the media would probably publish disaster stories about the terrible queues, and the staff would risk burnout. And yet there is, after all, 10% lee-way in the system!
@@ -66,7 +63,7 @@ If this would involve an emergency room, the media would probably publish disast
 
 If we instead look at the goal which the above mentioned KI representative mentioned: A facility that has virtually no queues. How do we achieve it? Let's set **the utilization rate at an extremely low value of 20%**. This is how it looks:
 
-id="attachment_3868" align="alignleft" width="450"][![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/files/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
+[![Simulation of task execution and queue. 20% utilization of resources.](/files/queue_20.png)](/files/queue_20.png) Simulation of task execution and queue. 20% utilization of resources.
 
 Here the situation becomes almost queue-free; very little red is visible. But there is still some! And we also see long stretches where very little happens: The facility idles. Whoever pays for the facility will probably be a little concerned. **The luxury of getting rid of the queues is precisely that: a luxury. The facility is five times larger than it in principle needs to be; that is what 20% utilization means.**
 

@@ -31,6 +31,9 @@ tags:
   value: Robert Nozick
 title: "Tror liberaler p\xE5 samh\xE4llet?"
 type: post
+references:
+- Popper 1945a
+- Malik 2014
 ---
 > There is no such thing as society.
 
@@ -41,8 +44,6 @@ Både socialister och konservativa kritiserar liberalismen för att den bygger p
 Även en liberal kan ha anledning att ställa sig frågan om liberaler verkligen tror på samhället. Inte i betydelsen om vi har förtroende för samhället, utan snarare om vi tror att samhället alls existerar.
 
 Låt mig ta ett par konkreta exempel på att liberaler ibland resonerar som om samhället inte alls existerar.
-
-
 
 Under den så kallade flyktingkrisen under hösten 2015 så twittrade Mattias Goldmann, VD för den gröna och liberala tankesmedjan Fores:
 
@@ -89,8 +90,3 @@ I frågan om skatternas eventuella moraliska grund, så blir min fråga: Vilken 
 Det sägs ofta att liberaler borde vara mer ideologiska, att vi ska stå upp för våra värderingar. Jag är inte så säker på att det är rätt väg att gå. Att vara ideologisk utan att ha en aning om vart det leder, eller vad det kräver av samhället, är att ägna sig åt dagdrömmerier, i bästa fall. Att stå upp för värderingar utan att kunna svara på hur samhället ska fungera är att svika just dessa värderinger.
 
 **En lyckosam liberal politik måste därför snarare utgå från kyligt och rationellt tänkande kring hur dagens verklighet skall förändras för att successivt bättre svara upp mot våra ideal.** Hur hjälpa flyktingar på bästa sätt? Hur minska skatterna med bibehållen eller ännu bättre välfärd? Samtidigt måste vi vara medvetna om att även våra mest älskade reformförslag kan leda till problem om de förverkligas. Bara då tar vi vårt samhälle och våra ideal på allvar.
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1
-
-Kenan Malik: **The Quest for a Moral Compass. A Global History of Ethics.** Atlantic Books, 2014, ISBN 978-1-84887-479-4
-

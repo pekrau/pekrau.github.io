@@ -23,18 +23,19 @@ tags:
   value: "samh\xE4llskontraktet"
 title: "Per Altenberg, det \xF6ppna samh\xE4llet och liberalernas blinda fl\xE4ck"
 type: post
+references:
+- Popper 1945a
+- Popper 1945b
 ---
 Per Altenberg skriver en intressant artikel ["Dags att inse faktum: Striden står inte mellan höger och vänster"](http://www.liberaldebatt.se/2016/07/dags-att-inse-faktum-striden-star-inte-mellan-hoger-och-vanster/) i Liberal Debatt 3/2016. Det ligger mycket i hans resonemang, men där finns en blind fläck som leder till en politiskt impotent slutsats. Låt mig förklara.
-
-
 
 Hans tes är följande:
 
 > För de flesta är det uppenbart att kampen mellan nationalister och individorienterade synsätt är på väg att bli den dominerande konfliktdimensionen i europeisk, och därmed svensk, politik. Det innebär samtidigt att höger-vänster-dimensionen i politiken håller på att förlora i relevans.
 
-[...]
+> [...]
 
-Allra viktigast är att vi erkänner den nya kollektivismen som det främsta hotet. [...] Det är först när vi på allvar vågar ta strid för den individbaserade samhällssynen som vi vinner förståelse för att kampen är på allvar [...]
+> Allra viktigast är att vi erkänner den nya kollektivismen som det främsta hotet. [...] Det är först när vi på allvar vågar ta strid för den individbaserade samhällssynen som vi vinner förståelse för att kampen är på allvar [...]
 
 Altenberg refererar till Karl Poppers resonemang om skillnaden mellan det öppna och det slutna samhället, som presenterades i verket **The Open Society and Its Enemies**, utgivet 1945 (se [min sida om Karl Popper](/karl-popper/) för länkar; notera att hela texten för The Open Society finns tillgänglig på nätet). Altenberg beskriver de olika högerpopulisterna i Västvärlden som kollektivister och som anhängare av det slutna samhället i Poppers mening. I ett slutet samhälle ses inte människor som individer med egen vilja och eget ansvar, utan som delar av kollektiv och underordnade dessa kollektivs regler.
 

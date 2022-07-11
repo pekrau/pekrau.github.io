@@ -14,13 +14,7 @@ type: post
 ---
 Att gnälla på bristande verklighetskontakt är kanske inte det mest originella man kan göra mitt i en valrörelse. Men efter att denna söndag ha stött på tre exempel av högst varierande sort, så hoppas jag det förlåts mig att jag reagerar:
 
-
-
-<a name="fp-stockholm-stadsbyggnad">
-
 ### Fall 1: Folkpartiet i Stockholms stadsbyggnadspolitik.
-
-</a>
 
 På senare tid har det funnits hoppingivande tecken på att FP i Stockholm sakta men säkert har insett att dess stadsbyggnadspolitik måste förändras. I en [artikel 17 juli 2014](http://www.svd.se/opinion/brannpunkt/bygg-tatare-inte-glesare_3745008.svd) i Svenska Dagbladet skrev Lotta Edholm och Madeleine Sjöstedt att man borde bygga tätare, inte glesare, och att bostadsministern Stefan Attefall är fel ute som vill premiera byggande av småhus runt storstäderna.
 
@@ -30,17 +24,13 @@ På sina valaffischer säger FP Stockholm: "Vi vill bygga staden, inte riva den.
 
 **Men.** Så kommer vi till detta med de konkreta ställningstagandena. När paroller möter verklighet. Och där blir det platt fall.
 
-**FP har återigen gått på nejsägarlinjen när ett konkret förslag till nybyggnation skall beslutas. **Ett 16 våningar högt hus, som kallas Tantos höghus, har föreslagits på [en hörntomt vid Ringvägen på Södermalm](https://www.google.se/maps/@59.3143532,18.0519063,17z?hl=en). För den som känner till platsen framstår detta som ett synnerligen gott förslag. Få platser i innerstan lämpar sig bättre för ett litet högre solitärhus.
+**FP har återigen gått på nejsägarlinjen när ett konkret förslag till nybyggnation skall beslutas.** Ett 16 våningar högt hus, som kallas Tantos höghus, har föreslagits på [en hörntomt vid Ringvägen på Södermalm](https://www.google.se/maps/@59.3143532,18.0519063,17z?hl=en). För den som känner till platsen framstår detta som ett synnerligen gott förslag. Få platser i innerstan lämpar sig bättre för ett litet högre solitärhus.
 
 Men så har då [FP Stockholm i stadsbyggnadsnämnden visat sitt sanna ansikte](http://www.direktpress.se/sodermalmsnytt/Nyheter/Fortsatt-kritik-mot-hoghus-vid-Tanto/): **Man är "skeptiska" till höjden på huset, och vill "omarbeta" förslaget.** Man är rädda för den skugga som byggnaden kommer att kasta över skolgården för grannen Mariaskolan. Därmed utmanar man löjet. Själv bor jag i skuggan av Skatteskrapan, och är inte olycklig för den skull. Vem kan på allvar tycka att Mariaskolans elevers marginella olägenhet av en skuggad skolgård uppväger de 50-tal nya lägenheter (eller vad det kan röra sig om) som man vill stoppa?
 
 Så var det alltså med inställningen till stadsbyggnationen. Så stor var viljan att bygga fler bostäder i staden. Så klar var insikten om verkligheten för de som söker bostad i Stockholm.
 
-<a name="tidningsbaronerna">
-
 ### Fall 2: Tidningsbaronernas sista strid.
-
-</a>
 
 I ett alldeles för långt och ofokuserat reportage av den annars mycket gode skribenten [Björn af Kleen i Dagens Nyheter 7 september 2014](http://www.dn.se/kultur-noje/tidningsbaronernas-sista-strid/) så uttalar sig Per Svensson (liberal skribent och "senior columnist" på Sydsvenskan) om tidningarnas problem, och då särskilt Sydsvenskan och Helsingborgs Dagblad. Han vill ha en ny affärsstrategi för tidningarna:
 
@@ -52,11 +42,7 @@ Som en gång anställd i läkemedelsbranschen så kan jag konstatera att Per Sve
 
 **Om Per Svensson tror att det finns några fantastiska trollformler att hämta från läkemedelsbolagens forskningsverksamhet för tidningsvärldens del, så är han gruvligt felinformerad.**
 
-<a name="fri-invandring">
-
 ### Fall 3: Fri eller begränsad invandring.
-
-</a>
 
 I en artikel som är lika klargörande som den är moraliskt utmanande, visar [Joel Dahlberg 7 september 2014 i Svenska Dagbladet](http://www.svd.se/kultur/den-inhumana-valfardsstaten_3884062.svd) på att talet om rättigheter för människor som har kommit hit utanför giltiga avtal och tillstånd, så kallade papperslösa (eller illegala invandrare om man så vill formulera det) inte har sin motsvarighet i explicita och genomtänkta ställningstaganden från de politiska partierna. **Han visar hur väldigt många, framförallt i riksdagspartierna, helt enkelt försöker undvika frågan. Det handlar om ett försök att blunda för verkligheten.**
 

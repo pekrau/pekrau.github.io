@@ -19,12 +19,12 @@ tags:
   value: Svante Nordin
 title: 'Svante Nordin: Humaniora i Sverige'
 type: post
+references:
+- Nordin 2008
 ---
 [Svante Nordin](http://sv.wikipedia.org/wiki/Svante_Nordin) beskrivs som "professorn som har gått från intellektuell marxist till skribent för nykonservatismens flaggskepp" [i en artikel i Lundagård 27 maj 2010](http://lundagard.se/2010/05/27/i-civilisationens-tjanst/). Artikeln utgår bland annat från den bok, **[Humaniora i Sverige](http://www.atlantisbok.se/layout/detail.php?id=7346)**, som Nordin, professor i idé- och lärdomshistoria vid Lunds Universitet, utgav 2008.
 
 När jag nu läst denna bok förstår jag varför jag förbisåg hans bidrag till den antologi om humanioras ställning i Sverige, **Till vilken nytta?** (2013), som [jag skrev om](/2013/05/19/humanioras-kris-slutet-pa-postmodernismen/) för en tid sedan. Det bidraget var påfallande uddlöst, förmodligen därför att uppdraget var att diskutera "nytta". **Tvärtemot grundtonen i den antologin, så ser Nordin inte humanioras kris i Sverige främst som en fråga om utarmning från statens sida. För honom handlar det istället om ett forskarsamhälle som inte upprätthåller den intellektuella nivån.**
-
-
 
 Nordin inleder med en prolog som i själva verket är **en mycket kortfattad intellektuell självbiografi. Den är mycket läsvärd.**
 
@@ -67,13 +67,9 @@ Nordin skriver att den filosofiska bakgrunden till denna postmodernism i stort i
 
 Nordins resonemang om vad som har skett inom svensk humaniora är detaljerat men ändå oupphörligt intressant. Det är, som sagt, väl värt att läsa. Han avslutar med bland annat följande tankar:
 
-> Humaniora måste vara forskning och humaniora måste utgöra del av ett fortgående samtal. [...] [Den] har en särskild uppgift genom den roll den spelar i en kulturs självrannsakan och för dess kollektiva minne [...] som möjliggör ett kulturellt samtal.
-
-[...]
-
-Svensk humaniora måste söka återvinna det som förlorats - lärdomen, de långa linjerna bakåt i tiden, förtrogenheten med de förflutna och därmed främmande tänkesätten, de lärda språken, den europeiska kulturen. Men det handlar inte bara om att reparera. Teoriernas intåg är oåterkalleligt, likaså den politiska debattens förstärkta närvaro. Men teorierna måste prövas i en atmosfär av filosofisk bildning, i en kontext som tillvaratar deras filosofihistoriska dimension. Och den politiska debatten måste berikas med en gnutta politiskt förnuft.
-
-**Humaniora i Sverige.** Svante Nordin. Atlantis, 2008, ISBN 978-91-7353-225-9.
+> Humaniora måste vara forskning och humaniora måste utgöra del av ett fortgående samtal. [...] [Den] har en särskild uppgift genom den roll den spelar i en kulturs självrannsakan och för dess kollektiva minne [...] som möjliggör ett kulturellt samtal.  
+> [...]  
+> Svensk humaniora måste söka återvinna det som förlorats - lärdomen, de långa linjerna bakåt i tiden, förtrogenheten med de förflutna och därmed främmande tänkesätten, de lärda språken, den europeiska kulturen. Men det handlar inte bara om att reparera. Teoriernas intåg är oåterkalleligt, likaså den politiska debattens förstärkta närvaro. Men teorierna måste prövas i en atmosfär av filosofisk bildning, i en kontext som tillvaratar deras filosofihistoriska dimension. Och den politiska debatten måste berikas med en gnutta politiskt förnuft.
 
 *Rättelse: I en tidigare version av denna artikel påstod jag att Nordin inte bidrog till antologin **Till vilken nytta?** Men det gjorde han, jag kom bara inte ihåg det.*
 

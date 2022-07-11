@@ -22,7 +22,7 @@ Niklas Orrenius (@niklasorrenius) twittrade om en intervju av en ung lundafiloso
 
 > Johan Brännmark ger ett exempel från den senaste gången filosofin hade riktigt stort inflytande på en samhällsomvandling: på 1700-talet, då filosofers tankar influerade revolutionerna i Amerika och Frankrike.
 
-– De stora problemen bland den framväxande medelklassen på den tiden var kungens makt att beskatta dem, att inskränka deras frihet, att de inte fick diskutera som de ville, adelns privilegier. Det var ju inte den stora massans problem, men det var problemen hos den grupp som så att säga bar tänkandet. De moderna, liberala idéerna konstruerades i respons till den tidens problem.
+> De stora problemen bland den framväxande medelklassen på den tiden var kungens makt att beskatta dem, att inskränka deras frihet, att de inte fick diskutera som de ville, adelns privilegier. Det var ju inte den stora massans problem, men det var problemen hos den grupp som så att säga bar tänkandet. De moderna, liberala idéerna konstruerades i respons till den tidens problem.
 
 Suck. Finn fem fel, typ. Var ska man börja?
 

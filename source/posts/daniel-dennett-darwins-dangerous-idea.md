@@ -19,10 +19,10 @@ tags:
   value: darwinism
 title: 'Daniel Dennett: Darwin''s Dangerous Idea'
 type: post
+references:
+- Dennett 1995
 ---
 Jag har läst [Daniel Dennetts](http://en.wikipedia.org/wiki/Daniel_Dennett) bok **Darwin's Dangerous Idea: Evolution and the Meanings of Life**, ett av de mer omtalade debattinläggen i gränslandet mellan vetenskap och samhällsdebatt under de senaste 20 åren.
-
-
 
 En [sammanfattning av boken finns på Wikipedia](http://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea), så jag tänker inte referera hela innehållet här. 
 
@@ -41,6 +41,3 @@ Det är här farligheten i Darwins idé kommer in. Många har befarat att ifall 
 Dennett argumenterar mot den giriga reduktionism som säger att allt "egentligen" är materia, att  högre fenomen som liv och samhälle egentligen bara är illusioner. **Men han är ändå reduktionist på så sätt att han anser att varje högre nivå är sprungen ur den undre, utan att något andligt/magiskt behöver blandas in.** Det handlar om en resa i "design space" där byggkranar staplas på byggkranar, hela tiden materiellt grundade, men ändå skapande nya ting, nya förhållanden. En emergent process, där det faktiskt kan frambringas något nytt under solen.
 
 Det finns många sidospår i Dennetts bok, där han ofta utmanar tänkandet. I vissa fall skänker han läsaren underbara aha-upplevelser. Så det finns goda skäl att ge sig i kast med boken, även om man det innebär en del arbete vid vevstaken för att svinga sig upp i Dennetts byggkranar.
-
-Daniel C. Dennett: **Darwin's Dangerous Idea: Evolution and the Meanings of Life**, Penguin Books 1995, ISBN 978-0-140-16734-4
-

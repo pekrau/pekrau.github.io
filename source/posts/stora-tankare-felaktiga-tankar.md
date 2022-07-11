@@ -32,29 +32,18 @@ Varför har vi ett sådant binärt förhållningssätt till stora tänkare? Anti
 
 Låt mig därför diskutera några felaktiga tankar från tre nutida tänkare, [Lars Gustafsson](https://sv.wikipedia.org/wiki/Lars_Gustafsson), [Zygmunt Bauman](https://en.wikipedia.org/wiki/Zygmunt_Bauman) och [Torbjörn Tännsjö](https://sv.wikipedia.org/wiki/Torbj%C3%B6rn_T%C3%A4nnsj%C3%B6). Det här är inte menat som analyser av dessa personers hela tänkande, utan det handlar om några specifika tankar och argument.
 
-
-
 Den första är **Lars Gustafsson**, författare och filosof, som nyligen avled. En av hans dikter som har citerats mycket under dessa dagar är "Världens tystnad före Bach". Några strofer lyder:
 
-> Det måste ha funnits en värld före
-
-Triosonatan i D, en värld före a-mollpartitan,
-
-men hur var den världen?
-
-Ett Europa av stora tomma rum utan genklang
-
-överallt ovetande instrument,
-
-där Musikalisches Opfer och Wohltemperiertes Klavier
-
-aldrig hade gått över en klaviatur.
-
-[...]
-
-och ingenstans Bach ingenstans Bach
-
-världens skridskotystnad före Bach
+> Det måste ha funnits en värld före  
+> Triosonatan i D, en värld före a-mollpartitan,  
+> men hur var den världen?  
+> Ett Europa av stora tomma rum utan genklang  
+> överallt ovetande instrument,  
+> där Musikalisches Opfer och Wohltemperiertes Klavier  
+> aldrig hade gått över en klaviatur.  
+> [...]  
+> och ingenstans Bach ingenstans Bach  
+> världens skridskotystnad före Bach  
 
 Kan ett poem vara felaktigt? Kanske inte. Jag tänker inte uttala mig om detta som poem, utan om dess tanke. Ett poems tanke kan vara felaktig, tror jag. Och detta är fel.
 
@@ -95,6 +84,3 @@ Men detta är också utilitarismens stora problem, som jag ser det. Den kan inte
 Jag ska inte gå vidare i diskussionen om utilitarism eller inte, den är närmast oändlig. I den liberala traditionen finns mycket goda förespråkare av utilitarism, och andra lika genomtänkta företrädare för olika typer av rättighetsfilosofier. Diskussionen har varit, och är, intensiv. Den som lyckas förena dessa tankelinjer på ett övertygande sätt har sin plats i filosofihistorien säkrad.
 
 Jag vill bara påpeka att Tännsjös resonemang ovan visar på en fundamental svaghet hos utilitarismen: Den bryr sig inte om dig, just dig.
-
-Lars Gustafsson: **Världens tystnad före Bach. Dikter.** Bonniers, 1982, ISBN 9789100162696.
-

@@ -24,7 +24,7 @@ Vladimir Putins "personliga sändebud" (vad nu det innebär) [Sergej Markov säg
 
 > Fem, sex länder ligger i täten när det gäller russofobin i Europa: Sverige, Polen de baltiska länderna och Finland. I Sveriges och Polens fall kan rysshatet förklaras med gamla stormaktskomplex, i Lettlands och Estlands med att det har blivit ett politiskt instrument. Russofobin i Finland är däremot oförklarlig, Finland har ju bara vunnit ekonomiskt på handeln med Ryssland. Av allt att döma är det Sverige och de baltiska länderna som har påverkat Finland [...]
 
-**Vad ska man egentligen säga om detta fyrverkeri av geopolitiska hallucinationer? Man kan skratta åt eländet, men det är att missa poängen. Vad det handlar om är hot. **
+**Vad ska man egentligen säga om detta fyrverkeri av geopolitiska hallucinationer? Man kan skratta åt eländet, men det är att missa poängen. Vad det handlar om är hot.**
 
 Det finns gamla rysk-sovjetiska propagandatraditioner som känns igen i Markovs uttalanden. En sådan tradition är att komma med så befängda anklagelser att ens ett försök att bemöta dem innebär ett slags erkännande att grunden för dom är relevant. Att den arena som de kan sägas utforma är reell, i någon mening. Detta gäller "förklaringen" om att Sveriges och Polens "russofobi" grundas i gamla stormaktskomplex. Att ens börja diskutera i termer av flera hundra år gamla episoder i svensk och polsk historia innebär att man erkänner sådana resonemang som rimliga. Detsamma gäller de närmast groteska resonemangen om de anledningar som Estland, Lettland och Finland kan ha för att betrakta Rysslands agerande med viss skepsis.
 
@@ -36,9 +36,9 @@ Om han inte tror på dem själv, så levererar han dem för att han vill visa at
 
 Om däremot den ryska ledningen tror på dessa galenskaper, då är de förmodligen också galna nog att riskera det tredje världskrig som sändebudet själv pratar om:
 
-> Markov varnar för följderna om Ryssland trängs in i ett hörn.
+> Markov varnar för följderna om Ryssland trängs in i ett hörn:
 
-- Antisemitismen startade andra världskriget, russofobin kan starta ett tredje.
+> Antisemitismen startade andra världskriget, russofobin kan starta ett tredje.
 
 **Man kan uttrycka det så att den ryska ledningen vill att vi ska bli så rädda för Ryssland att vi inte längre ska känna "russofobi".**
 

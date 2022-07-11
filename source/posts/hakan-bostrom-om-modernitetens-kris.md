@@ -23,12 +23,12 @@ tags:
   value: Sverigedemokraterna
 title: "H\xE5kan Bostr\xF6m om modernitetens kris"
 type: post
+#references:
+#- Nordin 2011
 ---
 Håkan Boström skriver på [Dagens Nyheters ledarsida 9 jan 2014](http://www.dn.se/ledare/signerat/modernitetens-omvandling-fornuftets-kris-blev-politikens/) om moderniteten och krisen i politiken. Hans resonemang är intressant, men det avslutas mycket illa. 
 
 Boström skriver att på 1960-talet uppnåddes ett "slags zenit för tron på politikens, förnuftets och därmed förändringens möjligheter", medan dagens mer fragmentariska världsbild paradoxalt nog har lett till mer grupptänkande och känslomässig positionering. Detta trots att de reella framstegen jämfört med 1960-talet är stora och genomgripande. Vi har genomgått kriser för både plantänkandet och för den rena marknadsekonomin, men inget tydligt alternativ har etablerat sig.
-
-
 
 > Dessa av erfarenhet vunna insikter om både marknaden och byråkratins inneboende begränsningar är uttryck för ideologisk behärskning, men också ett slags uppgivenhet. Samhället är mer komplext än vad några enkla modeller någonsin kan fånga. Det är en kris för förnuftet som springer ur förnuftets inneboende självkritik. Därför mer en kris för den förment rationella politiken än för det kritiska tänkandet i sig.
 
@@ -51,6 +51,3 @@ Men då måste det handla om politik som betyder något. Idag finns en stark tro
 Att SD:s budskap till stor del består av kamouflerad rasism är sant, men det förklarar inte att de får såpass stort stöd. Jag har i denna blogg länge hävdat att man måste se Sverigedemokraternas (och deras övriga europeiska varianters) framgångar som ett uttryck för något utöver deras främlingsfientlighet. SD fångar upp många människors oro för bristen på framtid. Vi ser idag hur skolan och samhället misslyckas med att få en stor, och ökande, andel unga män att utbilda sig. De ser ingen mening med det. **Detta är en sann kris. Att ha stora årskullar med unga män drivande i sysslolöshet och uppgivenhet är ett recept för framtida katastrof.**
 
 Om dagens politiker vill motarbeta främlingsfientlighet, då är det reella samhälleliga problem man ska vilja lösa med konkreta åtgärder. Och det är sådana förslag till åtgärder som de liberala ledarskribenter bör ägna sin energi åt. Inte att deprimerat referera reaktionära filosofer.
-
-**Filosoferna: Det västerländska tänkandet sedan år 1900.** Svante Nordin. Atlantis, 2011, ISBN 978-91-7353-480-2.
-

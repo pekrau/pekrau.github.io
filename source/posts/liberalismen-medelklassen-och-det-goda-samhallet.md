@@ -35,6 +35,9 @@ tags:
   value: "v\xE4lf\xE4rd"
 title: "Liberalismen, medelklassen och det goda samh\xE4llet"
 type: post
+references:
+- Berlin 1969
+- Pinker 2010
 ---
 Jag har [tidigare kommenterat](/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/) Ann Heberleins artikel ([DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) om Borzoo Tavakolis öppna brev till Kent Ekeroth ([DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). Det har kommit intressanta reaktioner från  Svend Dahl och Markus Uvell om Heberleins artikel.
 
@@ -43,8 +46,6 @@ Jag har [tidigare kommenterat](/2013/11/29/ann-heberlein-uttrycker-de-intellektu
 > [...] han [anammar] ett perspektiv där bidraget till tillväxten och välfärden blir det enda som ger människan ett värde och rätt till en plats i samhällsgemenskapen.
 
 Som jag visat i [en tidigare kommentar](/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/) är detta helt enkelt fel. Tavakoli gör inte alls detta. **Tyvärr har Dahl helt enkelt missat att Heberleins resonemang bygger på medelklassförakt.**
-
-
 
 Han imponeras av Heberleins vackra ord om människans egenvärde, en värdering som även jag till fullo skriver under på. **Kruxet är att för Heberlein är denna värdering fullt tillräcklig i sig.** Hon bryr sig inte speciellt om hur ett samhälle måste fungera för att materialisera denna värdering i konkreta förhållanden.
 
@@ -87,8 +88,3 @@ En sista reflektion: En av de viktigaste böckerna under senare år är **Steven
 **Och här är min fråga till Uvell: Är det enbart den negativa friheten som har bidragit till denna utveckling? Har inte utvecklingen av den positiva friheten i olika former också bidragit?** Om så är fallet, då tycks det mindre lyckat att nu ge upp strävan efter "samhällsnytta".
 
 **Kanske är det så att förbättrad samhällsnytta tillsammans med stor och ökande negativ frihet är motorn i det civilisatoriska projektet.**
-
-Isaiah Berlin: **Essäer om frihet**. Timbro, 2011, ISBN 978-9-175-66829-1.
-
-Steven Pinker: **The Better Angels of Our Nature: The decline of violence in history and its causes.** Allen Lane (Penguin Books), 2011, ISBN 978-1-846-14093-8 (finns numera även i pocket 978-0-141-03464-5)
-

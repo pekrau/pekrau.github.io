@@ -20,11 +20,11 @@ Hanna Höglund, skribent på Expressens kultursida, ägnar sig åt satir om oper
 
 > [...] det sedvanliga könsförtrycket.
 
-Det vill säga: ut med valkyriorna, medan hjältinnan själv döms av Wotan till garanterad våldtäkt och ett bespottat kvinnoliv vid spinnrocken (lindrat till magisk sömn med en eldring som skydd). Allt detta sagt som att det är hans plikt.
+> Det vill säga: ut med valkyriorna, medan hjältinnan själv döms av Wotan till garanterad våldtäkt och ett bespottat kvinnoliv vid spinnrocken (lindrat till magisk sömn med en eldring som skydd). Allt detta sagt som att det är hans plikt.
 
-När Terfel långsamt och ömt kysser Stemme på pannan till Wagners evighetsmelodi stannar tiden. Än sen då? Det spelar ingen roll att Stemme är ett Wagnergeni och Terfel bottnar i Wotan som aldrig förr.
+> När Terfel långsamt och ömt kysser Stemme på pannan till Wagners evighetsmelodi stannar tiden. Än sen då? Det spelar ingen roll att Stemme är ett Wagnergeni och Terfel bottnar i Wotan som aldrig förr.
 
-Publikens hänryckning och stående ovationer efter Allfaderns alltför välbekanta maktuppvisning får mig att må lite illa.
+> Publikens hänryckning och stående ovationer efter Allfaderns alltför välbekanta maktuppvisning får mig att må lite illa.
 
 Jag gapskrattade när jag läste detta. **Onekligen fyndigt, att satirisera den så kallat politiskt korrekta debatt** som bland annat ägt rum [kring Wagners Parsifal](/2013/10/23/filosofen-wagner-och-nazismen/)!
 

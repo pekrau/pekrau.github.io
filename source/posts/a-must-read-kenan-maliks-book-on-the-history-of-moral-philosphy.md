@@ -63,7 +63,7 @@ popular: true
 
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), English writer and lecturer, has written a book about the history of moral philosophy. Every person interested in the topic simply must read it. **"The Quest for a Moral Compass" is a marvel of clarity and rigor.** The philosophers' positions are explained intelligibly without undue simplification. Their ethical reasoning is put into a social and intellectual context. It is unceasingly interesting and instructive.
 
-The book begins with the opening stanza from Homer's Iliad, "Sing, goddess, of the anger of Achilleus, son of Peleus. ...", and discusses the moral universe the story unfolds within. **It is the kind of writing that makes me rejoice. No long-winded introduction, pseudo-academic meta talk about how the book is organized, but just bang on, head first! That's how it should be done.</Strong>
+The book begins with the opening stanza from Homer's Iliad, "Sing, goddess, of the anger of Achilleus, son of Peleus. ...", and discusses the moral universe the story unfolds within. **It is the kind of writing that makes me rejoice. No long-winded introduction, pseudo-academic meta talk about how the book is organized, but just bang on, head first! That's how it should be done.**
 
 The book is subtitled **A Global History of Ethics**, signaling that it extends beyond the usual focus only on European philosophy. Each chapter deals with a theme or a philosophical movement, broadly in chronological order. The intimate and complex relationship between ethics and religion occupies a large part of the discussion.
 

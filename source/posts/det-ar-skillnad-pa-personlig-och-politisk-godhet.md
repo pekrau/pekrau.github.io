@@ -34,8 +34,6 @@ De ömsesidiga fräna beskyllningarna står som en giftig dimma över hela disku
 
 Jag tror jag har kommit på vad jag tidigare har missat: **Inget av de tidigare inläggen tydliggör den helt avgörande skillnaden mellan personlig och politisk godhet.** Vare sig Lernfelt, Heberlein eller någon annan debattör tycks ha gjort den distinktionen.
 
-
-
 Varför är skillnaden avgörande? Borde inte politik vägledas av samma moral som personligt handlande? Johannes Lindvall [skriver 10 dec 2016 i Sydsvenskan om politikens etik](http://www.sydsvenskan.se/2016-12-10/konflikternas-mellanvag) där han använder Max Webers term "ansvarsetik". Politiken kan inte bara handla om att vilja goda saker, den måste också ta hänsyn till att det finns förhållanden i verkligheten som gör det omöjligt att uppfylla alla goda saker samtidigt. Då måste man resonera om följderna av en viss politik och ta ansvar för det. Målkonflikter finns och måste erkännas. Val måste göras. Det är ansvarsetik.
 
 Detta skiljer sig från det Weber kallar "sinnelagsetik", alltså att vilja gott. I den finns inget absolut krav på att man gjort en fullständig analys av vad en god handling i slutändan leder till. Det är avsikten som är avgörande.
@@ -52,9 +50,9 @@ Hennes slutsatser om kraven på en rimlig politik är helt riktiga:
 
 > Ingen förväntar sig att en engagerad kulturpersonlighet ska ge svaren på hur heliga principer ska kunna förverkligas. Men av politiker och ledarskribenter har man faktiskt rätt att förvänta sig ett ansvar för helheten.
 
-[...]
+> [...]
 
-En moralisk hållning som flyr alla svåra målkonflikter är snarare feg än principfast. Då kostar godheten ingenting. Det är allt-åt-alla-linjen där man skjuter över ansvaret på någon annan som man sedan kan fördöma.
+> En moralisk hållning som flyr alla svåra målkonflikter är snarare feg än principfast. Då kostar godheten ingenting. Det är allt-åt-alla-linjen där man skjuter över ansvaret på någon annan som man sedan kan fördöma.
 
 Jag vill utmana de som vill se en annorlunda flyktingpolitik än dagens att resonera om de faktiska följderna av de tänkta alternativen. Det är ingen retorisk fråga. Om man redovisar en annan inställning, där man tydligt tar ansvar för sannolika följder, då kan man sedan föra en diskussion som kanske leder vidare. Kanske vi stannar i att vi har olika värderingar. Kanske handlar det om olika syn på hur samhället fungerar. Men så länge det handlar om ett förenklat personligt och icke-politiskt gräl om godhet-mot-ondska så kortsluts varje sådan diskussion.
 

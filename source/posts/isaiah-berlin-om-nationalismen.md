@@ -29,6 +29,9 @@ tags:
   value: utveckling
 title: Isaiah Berlin om nationalismen
 type: post
+references:
+- Berlin 1969
+- Berlin 1979
 ---
 En essä i New York Review of Books [25 april 2013 av Mark Lilla](http://www.nybooks.com/articles/archives/2013/apr/25/isaiah-berlin-against-current/) om den liberale idéhistorikern [Isaiah Berlin](http://en.wikipedia.org/wiki/Isaiah_Berlin) fångade mitt intresse. Berlin är kanske mest känd för sin diskussion av distinktionen mellan negativ och positiv frihet. Men minst lika intressant är det han har skrivit om upplysningsidéerna och reaktionerna mot dem.
 
@@ -51,8 +54,3 @@ Berlin diskuterar vad orsaken till denna anmärkningsvärda fadäs kan vara. Han
 Berlin skriver att [Durkheim](http://en.wikipedia.org/wiki/Durkheim) tydligare än de flesta såg att den förstörelse av gamla traditionella hierarkier som industrisamhällets rationalisering innebar medförde social och emotionell otrygghet. Den ledde till en känsla av brist på värderingar och normer, anomie. **Det var grogrunden för den trygghetsskapande nationalismen.** Socialister och liberaler hade sina respektive visioner av vad som skulle ersätta de gamla hierarkierna, men nationalismen var starkare än dessa. Inte ens den ryska revolutionen, som Berlin hävdar var helt ren från nationalism i sin början, kunde fortsätta utan att anamma nationalistiska tankar, särskilt under andra världskriget.
 
 Detta kanske är en början till analys av nationalismen. Det har hänt mycket sedan Berlin skrev denna essän. Det socialistiska östblocket har försvunnit. Välfärdsstaterna och EU har mognat och därigenom frambringat egna problem. Den europeiska nationalismen i våra dagar, i form av Sverigedemokrater och liknande rörelser, har delvis andra drag än de som Berlin diskuterar. **Men Berlins grundläggande ansats, att det förutom nationellt medvetande måste finnas en känsla av djup social otrygghet, tror jag rymmer en viktig sanning.**
-
-Isaiah Berlin: **Against the Current. Essays in the History of Ideas**, editor Henry Hardy, Pimlico, 1979, ISBN 978-0-712-66690-9
-
-Isaiah Berlin: **Essäer om frihet**, Timbro, 2011, ISBN 978-9-175-66829-1
-

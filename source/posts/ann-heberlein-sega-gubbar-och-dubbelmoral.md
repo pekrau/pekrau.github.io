@@ -18,13 +18,9 @@ type: post
 ---
 **Kan man begära att en professionell etiker uppvisar ett visst mått av koherens?** Låt mig illustrera frågan med en artikel av [Ann Heberlein](http://sv.wikipedia.org/wiki/Ann_Heberlein), som jag uppmärksammades på under ett besök i Lund: ["Vårt behov av sega gubbar" publicerad 15 mars 2013 i Sydsvenskan](http://www.sydsvenskan.se/kultur--nojen/vart-behov-av-sega-gubbar/). Heberlein skriver:
 
-
-
-> I den begränsade del av världen – geografiskt, såväl som andligt och moraliskt – som Sverige utgör vädras viss missbelåtenhet. Den nye påven har inte tillräckligt ”moderna” åsikter för att gillas av det svenska etablissemanget. Han har med kraft och frenesi motarbetat samkönade äktenskap och han är en övertygad abortmotståndare och hyser minst sagt konservativa åsikter i sexualmoraliska frågor.
-
-[...]
-
-Katolska kyrkan spelar rollen som global bromskloss i värderingsfrågor, och, skulle jag vilja påstå, det är inte alltid av ondo. I en tid som kännetecknas av ständigt nya medicinska och teknologiska upptäckter och möjligheter liksom snabba värderingsförändringar är det lätt att bli fartblind. Det finns något gott i att någon också manar till besinning och eftertanke.
+> I den begränsade del av världen – geografiskt, såväl som andligt och moraliskt – som Sverige utgör vädras viss missbelåtenhet. Den nye påven har inte tillräckligt ”moderna” åsikter för att gillas av det svenska etablissemanget. Han har med kraft och frenesi motarbetat samkönade äktenskap och han är en övertygad abortmotståndare och hyser minst sagt konservativa åsikter i sexualmoraliska frågor.  
+> [...]  
+> Katolska kyrkan spelar rollen som global bromskloss i värderingsfrågor, och, skulle jag vilja påstå, det är inte alltid av ondo. I en tid som kännetecknas av ständigt nya medicinska och teknologiska upptäckter och möjligheter liksom snabba värderingsförändringar är det lätt att bli fartblind. Det finns något gott i att någon också manar till besinning och eftertanke.
 
 **Heberlein intar en slags sofistikerad von oben-attityd, där hon markerar avstånd gentemot det provinsiella Sverige, för att istället ge sitt godkännande till den katolska kyrkans roll som moralisk bromskloss.**
 

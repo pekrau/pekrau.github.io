@@ -24,9 +24,9 @@ I [Aftonbladet den 22 feb 2013](http://www.aftonbladet.se/kultur/article16293405
 
 > Det finns redan en tung, internationell och nationell kritik mot den svenska asylpolitiken. Bristfälligt och summariskt genomförda utredningar där de asylsökande förväntas bevisa sina asylskäl och allt oftare ifrågasätts på juridiskt tvivelaktiga grunder.
 
-[...]
+> [...]
 
-Vi kräver att det tillsätts en oberoende parlamentarisk kommission som granskar huruvida polisens metoder inom projekt REVA är lagliga samt förenliga med svenska och internationella asylregler och FN:s konventioner om mänskliga rättigheter.
+> Vi kräver att det tillsätts en oberoende parlamentarisk kommission som granskar huruvida polisens metoder inom projekt REVA är lagliga samt förenliga med svenska och internationella asylregler och FN:s konventioner om mänskliga rättigheter.
 
 [Dagens Nyheters huvudledare 22 feb 2013](http://www.dn.se/ledare/huvudledare/avblas-jakten-pa-gomda) vill "avblåsa jakten på de gömda". Ledarskribenten (förmodligen Peter Wolodarski, att döma av tidigare Twitter-inlägg) har två invändningar. Den första gäller tillvägagångssättet att polisen använder ordningslagen som tvivelaktig hävstång i Reva-kampanjen.
 

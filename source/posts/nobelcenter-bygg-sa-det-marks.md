@@ -20,8 +20,6 @@ Förslaget till[ NobelCenter](http://www.nobelcenter.se/sv/) på Blasieholmen ha
 
 Så vad ska man tycka om detta? **Låt oss börja med tre synpunkter och argument som saklöst kan avfärdas:**
 
-
-
 **1. Förslaget är för stort, för synligt!** Detta är standardgnället när nybyggnation föreslås i Stockholm. Det är en slags nutida stadsbyggnadsvariant av [Jante](http://sv.wikipedia.org/wiki/Jantelagen): **Inget får sticka ut eller synas.** **
 
 Låt oss komma ihåg vad som hände senast den maximen tillämpades: Vi fick det arkitektoniska fiaskot Moderna museet.** Den byggnaden passar så "bra" in i sin omgivning att den är helt osynlig. Den är total tristess manifesterad i cement. Skulden kan inte läggas på arkitekten Rafael Moneo, utan den ligger direkt på de politiker som lyssnade på den tidens högljudda stadsbyggnadsreaktionärer.
@@ -44,5 +42,4 @@ Först försöker hon kamouflera att FP är nejsägare ("välkomnar", jo tjena!)
 
 Det sanna förhållandet är det exakt motsatta: **Platsen kräver en monumental byggnad.** Om NobelCenter alls ska synas måste den ta plats och ge kontrastverkan mot de omgivande stora husen. **Om det är något man kan kritisera förslaget för, så är det att det är för försiktigt.** Risken är att den enkla kuben blir för anonym i förhållande till omgivningen.
 
-**Den enskilt största fördelen med förslaget har inte uppmärksammats av någon kommentar vad jag kan se: Det uppstår en plats på Blasieholmen som människor kommer att vilja gå till. **Platsen framför NobelCenter har i det föreliggande förslaget en rimlig chans att bli en samlingsplats. Hoppas att den fortsatta processen tar fasta på det.
-
+**Den enskilt största fördelen med förslaget har inte uppmärksammats av någon kommentar vad jag kan se: Det uppstår en plats på Blasieholmen som människor kommer att vilja gå till.** Platsen framför NobelCenter har i det föreliggande förslaget en rimlig chans att bli en samlingsplats. Hoppas att den fortsatta processen tar fasta på det.

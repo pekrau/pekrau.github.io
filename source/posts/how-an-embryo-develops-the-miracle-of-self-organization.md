@@ -34,6 +34,9 @@ tags:
   value: utvecklingsbiologi
 title: 'How an embryo develops: The miracle of self-organization'
 type: post
+references:
+- Davies 2014
+- Siedentop 2014
 ---
 The development of an organism such as a plant or a human being has always been a source of fascination. How can a small seed give rise to a giant tree? How can an egg cell combined with a sperm cell develop via the embryo into the complex structures of the human body? In a recent book **"Life Unfolding. How the human body creates itself"**, Jamie A. Davies, professor at the University of Edinburgh, describes the current scientific understanding of this miraculous process.
 
@@ -90,8 +93,3 @@ Our common-sense view of actions as goal-oriented makes it easy for us to fall i
 But that way of looking at it misses the point completely. The true wonder is that the process is self-organized at every step. The cells and tissues have no goal in mind. The have no mind. They do not divide the labor between them in some committee meeting. Instead they react to the environment, process signals, and switch on or off genes as directed by the context they find themselves in.
 
 It is often said that science takes away from the wonder of the world when it explains how things work. If a counter-example is needed, the detailed choreography of an organism's development surely is it. The common-sense view sees the goal, and that is easy for us humans to understand. The scientific view sees cells, genes, proteins and other elements acting together in a dance without a choreographer, a symphony without a conductor, with a result that is as complex as it is wondrous.
-
-Jamie A. Davies: **Life Unfolding. How the human body creates itself**, Oxford University Press, 2014, ISBN 978-0-19-967354-4.
-
-Larry Siedentop: **Inventing the Individual. The Origins of Western Liberalism**, Penguin Books, 2014, ISBN 978-0-141-00954-4.
-

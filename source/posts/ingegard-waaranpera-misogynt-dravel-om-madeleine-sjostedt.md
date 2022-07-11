@@ -14,8 +14,6 @@ type: post
 ---
 Jag vill undvika invektiv i denna blogg, men ibland är frestelsen mycket stor. Ingegärd Waaranperä, teaterkritiker i Dagens Nyheter, uttalar sig i samband med en intervju av kulturborgarrådet Madeleine Sjöstedt i [Expressen 28 november 2013](http://www.expressen.se/kultur/toppnyheter-/har-man-en-publik-pa-tio-personer-sa-ska-man-kunna-fa-tva-till/) av Björn af Kleen. **Det Waaranperä säger skulle kallas misogynt dravel om det hade kommit från en man utanför kulturvärlden.**
 
-
-
 Waaranperä börjar med att prata om teaterkritik, det som är hennes yrke:
 
 > – Både konstnärlig kredd, och tilltron till konsten, går i arv, säger Ingegärd Waaranperä, teaterkritiker i Dagens Nyheter.
@@ -40,9 +38,7 @@ Waaranperä har länge haft svårt för Sjöstedt. För ett år sedan skrev [Waa
 
 Man kan hämta inspiration från Leif GW:s alster för hur man bäst kan karaktärisera Waaranperä själv. Jag vet inte om uttrycket "attackflata" skulle passa, även om jag förstår att man tänker i den riktningen.** Själv associerar jag Waaranperä mest med [kriminalkommissarien Evert Bäckström](http://sv.wikipedia.org/wiki/Evert_B%C3%A4ckstr%C3%B6m)**.
 
-*Tillägg: Anna Steele, ordförande Liberala kvinnor, [kommenterar Waaranperä i Expressen 3 dec 2013](http://www.expressen.se/kultur/fy-waaranpera/).
-
-*
+*Tillägg: Anna Steele, ordförande Liberala kvinnor, [kommenterar Waaranperä i Expressen 3 dec 2013](http://www.expressen.se/kultur/fy-waaranpera/).*
 
 *Tillägg 2: Sakine Madon, krönikör i Expressen, kommenterar angreppen på Madeleine Sjöstedt och hennes politik [i Expressen 7 dec 2013](http://www.expressen.se/ledare/sakine-madon/arroganta-pahopp-fran-kultureliten/).*
 

@@ -23,12 +23,12 @@ tags:
   value: Neanderthal
 title: "M\xE5ste l\xE4sas: Neanderthal Man av Svante P\xE4\xE4bo"
 type: post
+references:
+- Pääbo 2014
 ---
 Svante Pääbo har i dagarna utkommit med boken **Neanderthal Man: In Search of Lost Genomes** om sina banbrytande metoder för att få fram information om generna i urtida djur och människor från fossila ben. Hans fokus är människans förhistoria. **Det är en av de bästa böcker om forskning jag har läst på länge.**
 
 Pääbo berättar bland annat om sin upptäckt av en tidigare okänd typ av människa, Denisova-människan, som levde till för kanske 30-40 tusen år sedan, parallellt med den tidigare från fossila ben kända Neanderthal-människan. Utan gentekniken hade det förmodligen varit omöjligt att särskilja Denisova-människan. Vår kunskap om människans fascinerande förhistoria har utökats ofantligt av Pääbos insatser.
-
-
 
 I boken beskriver Pääbo hur det gick till när han med sina kollegor lyckades få fram data om generna hos Neanderthal- och Denisova-människorna ur några små fossila benbitar. Han beskriver också vad den informationen säger om människans historia. **Boken har alltså två teman: Det ena är hur forskningen går till, det andra vad den har kommit fram till.**
 
@@ -61,6 +61,3 @@ Pääbo är tydlig med vad han inte gillar. De två stora prestige-tidningarna f
 **Slutligen kan sägas att Pääbos bok är ett exempel på att god forskning kan komma ur oväntade möten.** Startpunkten för Pääbos forskning var att han egentligen var intresserad av historia, eller mer specifikt egyptologi. Det ledde till att han undersökte om det fanns DNA kvar i gamla egyptiska mumier. Ingen hade testat detta innan Pääbo gjorde det i början av 1980-talet. Utan intresset för historia, och kontakten med egyptologen Rostislav Holthoer i Uppsala, hade kanske Pääbo ägnat sig åt annat i molekylärbiologi. Men med den kontakten visade det sig möjligt att få tag på material från mumier, och testet kunde göras. På den vägen är det.
 
 **Min slutsats är enkel: Denna boken bör läsas av alla som intresserar sig för modern forskning.** Den borde omedelbart översättas till svenska.
-
-**Neanderthal Man. In Search of Lost Genomes.** Svante Pääbo. Basic Books. 2014.
-

@@ -17,6 +17,9 @@ tags:
   value: utilitarism
 title: "Forskningens nytta, of\xF6ruts\xE4gbarhet och v\xE4rde"
 type: post
+references:
+- Fawcett 2014
+- Popper 1957
 ---
 Stefan Schubert skrev ett debattinlägg 1 okt 2015 i [Vetenskapsrådets](http://vr.se/) webtidning [Curie](http://www.tidningencurie.se/) med rubriken "[Hur mycket nytta måste forskningen skapa?](http://bloggar.tidningencurie.se/stefanschubert/hur-mycket-nytta-maste-forskningen-skapa/)". Schubert vill formulera ett kriterium för att avgöra vilken forskning som skall få resurser. Här kritiserar jag hans förslag.
 
@@ -29,8 +32,6 @@ Han följer upp med:
 > För att avgöra den frågan [om forskningens resurser] ska man inte titta på hur stor nytta denna forskning genererar totalt, utan på marginalnyttan den sista procenten genererar.
 
 Precis som det mesta har forskning en sjunkande marginalnytta. Den första professorn i ett ämne skapar mer nytta än den femtionde.
-
-
 
 **Den första tesen förutsätter att forskningens nytta är beräkningsbar, åtminstone i princip. Men så är det inte.**
 
@@ -76,13 +77,6 @@ Ett konkret förslag för Schubert att bita i: Ge oss en skiss av hur vi ska ber
 
 Ett annat konkret förslag, med tanke på [det Nobelpris som annonserats](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.html) medan jag skrivit detta inlägg: Hur skulle marginalnyttan ha beräknats för att börja lusläsa 1000-åriga skrifter om örtmediciner och sedan vaska fram potentiellt aktiva substanser, gentemot att satsa på myggnät?
 
-Tillägg 9 okt 2015: Tomas Lindahl, Nobelpristagare 2015, [intervjuades i Vetenskapsradion](http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=6274741):
+Tillägg 9 okt 2015: Tomas Lindahl, Nobelpristagare 2015, [intervjuades i Vetenskapsradion](http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=6274741) och fick frågan om vad vinsterna med mer frihet är:
 
-> Vad är vinsterna med mer frihet?
-
-- Friheten är viktig. Det ligger i forskningens natur. Ingen kan hålla på med forskning och precis i förväg veta vad resultatet ska bli. Det finns en del sådana forskare, men det är tråkig forskning. Om man vet vad resultatet ska bli så är det bara att man fyller i detaljer. Den viktiga forskningen beror på nya helt oväntade observationer.
-
-Edmund Fawcett: **Liberalism. The Life of an Idea.** Princeton University Press, 2014, ISBN 978-0-691-15689-7.
-
-Karl Popper: **The Poverty of Historicism.** Routledge &amp; Kegan Paul, 1957, 1976, ISBN 0-7100-4616-2.
-
+> Friheten är viktig. Det ligger i forskningens natur. Ingen kan hålla på med forskning och precis i förväg veta vad resultatet ska bli. Det finns en del sådana forskare, men det är tråkig forskning. Om man vet vad resultatet ska bli så är det bara att man fyller i detaljer. Den viktiga forskningen beror på nya helt oväntade observationer.
