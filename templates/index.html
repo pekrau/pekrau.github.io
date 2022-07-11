@@ -9,8 +9,8 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 {% endblock%}
 
 {% block body_title %}
-<img src="/files/valen-375.png" title="Valen, Kalvsund, Öckerö, Sweden" class="rounded float-start img-fluid me-4">
-<h1 class="pt-4">Civilisation</h1>
+<img src="/files/valen-375.png" title="Valen, Kalvsund, Öckerö, Sweden" class="rounded float-start img-fluid me-3 mb-3">
+<h1>Civilisation</h1>
 <h3 class="text-muted" title="Society, science, culture">Samhälle, vetenskap, kultur</h3>
 <h3 class="text-muted">Per Kraulis</h3>
 {% endblock%}
@@ -19,6 +19,7 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
 <div class="row">
 
   <section class="col-lg-8 offset-lg-1">
+
     {% for post in recent %}
     <div class="card mb-3">
       <div class="card-header bg-light">
@@ -34,11 +35,13 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
       </div>
     </div>
     {% endfor %}
+
     <div class="card mt-2 mb-4">
       <div class="card-body bg-light lead text-end">
         <a href="/blog/">Alla inlägg...</a>
       </div>
     </div>
+
   </section>
 
   <section class="col-lg-3">
@@ -56,7 +59,7 @@ Civilisation: Om politik, vetenskap och kultur. Av Per Kraulis
       </ul>
     </div>
 
-    <div class="card mb-4">
+    <div class="card">
       <div class="card-header bg-light">
         <h4 class="card-title">Sidor</h4>
       </div>
