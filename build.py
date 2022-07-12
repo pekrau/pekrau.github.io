@@ -386,7 +386,7 @@ def write_sitemap():
         outfile.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         for url in SITEMAP_URLS:
             outfile.write("<url>\n")
-            outfile.write(f"<loc>{url}</loc>/n")
+            outfile.write(f"<loc>{url}</loc>\n")
             outfile.write("</url>\n")
         outfile.write("</urlset>\n")
 
