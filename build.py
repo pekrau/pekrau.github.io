@@ -26,7 +26,7 @@ CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
 BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
-SITEMAP_FILES = []
+SITEMAP_URLS = []
 
 
 # Setup the Jinja2 template processing environment.
@@ -348,7 +348,14 @@ def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
         outfile.write(template.render(pages=pages, **kwargs))
     HTML_FILES.add(filepath)
     if sitemap:
-        SITEMAP_FILES.append("https://pekrau.github.io/" + filepath[5:])
+        # Remove "/docs" prefix.
+        filepath = filepath[5:]
+        # Remove any trailing "index.html"
+        try:
+            filepath = filepath[:filepath.index("index.html")]
+        except ValueError:
+            pass
+        SITEMAP_URLS.append("https://pekrau.github.io/" + filepath)
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
@@ -373,15 +380,15 @@ def read_md(filepath):
     return result
 
 def write_sitemap():
-    "Output the sitemap file. Exclude the trailing 'index.html' if present."
-    with open("docs/sitemap.txt", "w") as outfile:
-        for filepath in SITEMAP_FILES:
-            try:
-                filepath = filepath[:filepath.index("index.html")]
-            except ValueError:
-                pass
-            outfile.write(filepath)
-            outfile.write("\n")
+    "Output the sitemap file."
+    with open("docs/sitemap.xml", "w") as outfile:
+        outfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        outfile.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+        for url in SITEMAP_URLS:
+            outfile.write("<url>\n")
+            outfile.write(f"<loc>{url}</loc>/n")
+            outfile.write("</url>\n")
+        outfile.write("</urlset>\n")
 
 def cleanup_html_files():
     "Remove any HTML files not created during this run."
