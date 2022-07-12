@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- block google_search -%}
+    {%- block google_site_verification -%}
     {% endblock %}
     <meta description="{{ description }} | default('Samhälle, vetenskap, kultur')">
     <meta keywords="{{ keywords }}| default('society, science, culture, Homo sapiens, evolution, liberalism')">
@@ -87,12 +87,6 @@
             {% endif %}
             {% endfor %}
           </ul>
-          {#
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" title="Search" placeholder="Sök" aria-label="Search">
-            <button class="btn btn-secondary" type="submit">Sök</button>
-          </form>
-          #}
         </div>
       </div>
     </nav>
