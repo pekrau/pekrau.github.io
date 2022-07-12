@@ -373,9 +373,13 @@ def read_md(filepath):
     return result
 
 def write_sitemap():
-    "Output the sitemap file."
+    "Output the sitemap file. Exclude the trailing 'index.html' if present."
     with open("docs/sitemap.txt", "w") as outfile:
         for filepath in SITEMAP_FILES:
+            try:
+                filepath = filepath[:filepath.index("index.html")]
+            except ValueError:
+                pass
             outfile.write(filepath)
             outfile.write("\n")
 
