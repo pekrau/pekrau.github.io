@@ -103,7 +103,7 @@ def read_posts():
     "Read all Markdown files for blog posts and pre-process."
     for filename in os.listdir("source/posts"):
         if filename.endswith("~"): continue
-        POSTS.append(read_md(os.path.join("source/posts", filename)))
+        POSTS.append(read_md(f"source/posts/{filename}"))
     POSTS.sort(key=lambda p: p["date"], reverse=True)
     POSTS[0]["prev"] = POSTS[1]
     POSTS[-1]["next"] = POSTS[-2]
@@ -140,7 +140,7 @@ def read_pages():
     Add ancient hard-coded HTML page trees and links to other subsites."""
     for filename in os.listdir("source/pages"):
         if filename.endswith("~"): continue
-        PAGES.append(read_md(os.path.join("source/pages", filename)))
+        PAGES.append(read_md(f"source/pages/{filename}"))
     PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))
 
 def read_books():
@@ -236,7 +236,8 @@ def build_blog():
     build_html("blog/en/index.html", "blog/en/index.html", posts=en_posts)
     # All blog post pages.
     for post in POSTS:
-        build_html(os.path.join(post["path"].strip("/"), "index.html"),
+        path = post["path"].strip("/")
+        build_html(f"{path}/index.html",
                    template="blog/post.html", 
                    sitemap=True,
                    post=post,
@@ -246,7 +247,7 @@ def build_blog():
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
     build_html("blog/tags/index.html", sitemap=True, tags=tags)
     for tag in tags:
-        build_html(os.path.join("blog/tags", tag["name"], "index.html"),
+        build_html(f"blog/tags/{tag['name']}/index.html",
                    template="blog/tags/tag.html",
                    tag=tag,
                    posts=tag["posts"])
@@ -265,7 +266,8 @@ def build_pages():
     for page in PAGES:
         # External pages have no HTML, just links to them.
         if page.get("external"): continue
-        build_html(os.path.join(page["path"].strip("/"), "index.html"),
+        path = page["path"].strip("/")
+        build_html(f"{path}/index.html",
                    template="page.html", 
                    sitemap=True,
                    page=page,
@@ -294,7 +296,7 @@ def build_books():
             authors.setdefault(author, []).append(book)
     build_html("library/authors/index.html", sitemap=True, authors=authors)
     for author, author_books in authors.items():
-        build_html(os.path.join("library/authors", author, "index.html"),
+        build_html(f"library/authors/{author}/index.html",
                    template="library/authors/author.html",
                    sitemap=True,
                    author=author,
@@ -314,12 +316,13 @@ def build_books():
         # Since Python 'sort' is stable, this works.
         subject_books.sort(key=lambda b: b["authors"])
         subject_books.sort(key=lambda b: b["published"], reverse=True)
-        build_html(os.path.join("library/subjects", subject, "index.html"),
+        build_html(f"library/subjects/{subject}/index.html",
                    template="library/subjects/subject.html",
                    subject=" ".join([p.capitalize() for p in subject.split("-")]),
                    books=subject_books)
     # Reviewed books.
-    build_html("library/reviewed.html",
+    build_html("library/reviewed/index.html",
+               template="library/reviewed.html",
                books=[b for b in books if b.get("html")])
     # Ratings pages.
     for rating in range(5, 0, -1):
@@ -328,7 +331,7 @@ def build_books():
         # Since Python 'sort' is stable, this works.
         rated.sort(key=lambda b: b["authors"])
         rated.sort(key=lambda b: b["published"], reverse=True)
-        build_html(f"library/rating{rating}.html",
+        build_html(f"library/rating/{rating}/index.html",
                    template="library/rating.html",
                    rating=rating,
                    books=rated)
