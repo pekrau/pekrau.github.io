@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-09-30'
-link: https://kraulis.wordpress.com/2013/09/30/vem-far-saga-nagot-i-dagens-debatt/
 name: vem-far-saga-nagot-i-dagens-debatt
-path: /2013/09/30/vem-far-saga-nagot-i-dagens-debatt/
 tags:
 - name: hanne-kjoller
   value: "Hanne Kj\xF6ller"

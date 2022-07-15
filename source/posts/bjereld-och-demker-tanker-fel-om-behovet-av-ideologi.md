@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-30'
-link: https://kraulis.wordpress.com/2013/11/30/bjereld-och-demker-tanker-fel-om-behovet-av-ideologi/
 name: bjereld-och-demker-tanker-fel-om-behovet-av-ideologi
-path: /2013/11/30/bjereld-och-demker-tanker-fel-om-behovet-av-ideologi/
 tags:
 - name: demokrati
   value: demokrati

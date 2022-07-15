@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2013-01-31'
-link: https://kraulis.wordpress.com/2013/01/31/grundkurs-i-ateism-del-3/
 name: grundkurs-i-ateism-del-3
-path: /2013/01/31/grundkurs-i-ateism-del-3/
 title: 'Grundkurs i ateism, del 3: The duck test'
 type: post
 ---

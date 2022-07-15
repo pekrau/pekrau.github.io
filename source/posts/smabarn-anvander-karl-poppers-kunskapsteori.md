@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-04-09'
-link: https://kraulis.wordpress.com/2015/04/09/smabarn-anvander-karl-poppers-kunskapsteori/
 name: smabarn-anvander-karl-poppers-kunskapsteori
-path: /2015/04/09/smabarn-anvander-karl-poppers-kunskapsteori/
 tags:
 - name: karl-popper
   value: Karl Popper

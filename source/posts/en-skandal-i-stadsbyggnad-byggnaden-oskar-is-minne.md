@@ -7,9 +7,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2017-05-13'
-link: https://kraulis.wordpress.com/2017/05/13/en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne/
 name: en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne
-path: /2017/05/13/en-skandal-i-stadsbyggnad-byggnaden-oskar-is-minne/
 title: 'En skandal i stadsbyggnad: byggnaden Oskar I:s minne'
 type: post
 ---

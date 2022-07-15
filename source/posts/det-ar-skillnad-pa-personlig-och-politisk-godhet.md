@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-12-18'
-link: https://kraulis.wordpress.com/2016/12/18/det-ar-skillnad-pa-personlig-och-politisk-godhet/
 name: det-ar-skillnad-pa-personlig-och-politisk-godhet
-path: /2016/12/18/det-ar-skillnad-pa-personlig-och-politisk-godhet/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

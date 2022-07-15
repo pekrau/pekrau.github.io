@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-06-06'
-link: https://kraulis.wordpress.com/2016/06/06/kungen-fordummar/
 name: kungen-fordummar
-path: /2016/06/06/kungen-fordummar/
 tags:
 - name: bjorn-wiman
   value: "Bj\xF6rn Wiman"

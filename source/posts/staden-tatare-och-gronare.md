@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-10-19'
-link: https://kraulis.wordpress.com/2013/10/19/staden-tatare-och-gronare/
 name: staden-tatare-och-gronare
-path: /2013/10/19/staden-tatare-och-gronare/
 tags:
 - name: folkpartiet
   value: Folkpartiet

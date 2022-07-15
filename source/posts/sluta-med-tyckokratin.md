@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-01-26'
-link: https://kraulis.wordpress.com/2014/01/26/sluta-med-tyckokratin/
 name: sluta-med-tyckokratin
-path: /2014/01/26/sluta-med-tyckokratin/
 tags:
 - name: opinionsmatning
   value: "opinionsm\xE4tning"

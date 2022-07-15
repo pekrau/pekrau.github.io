@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-10-19'
-link: https://kraulis.wordpress.com/2016/10/19/murvlarnas-usla-argument/
 name: murvlarnas-usla-argument
-path: /2016/10/19/murvlarnas-usla-argument/
 tags:
 - name: skatt
   value: skatt

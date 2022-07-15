@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-01-25'
-link: https://kraulis.wordpress.com/2013/01/25/fattigdom-och-klass/
 name: fattigdom-och-klass
-path: /2013/01/25/fattigdom-och-klass/
 tags:
 - name: fattigdom
   value: fattigdom

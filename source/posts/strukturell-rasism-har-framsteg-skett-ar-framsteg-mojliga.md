@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-04-04'
-link: https://kraulis.wordpress.com/2013/04/04/strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga/
 name: strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga
-path: /2013/04/04/strukturell-rasism-har-framsteg-skett-ar-framsteg-mojliga/
 tags:
 - name: essentialism
   value: essentialism

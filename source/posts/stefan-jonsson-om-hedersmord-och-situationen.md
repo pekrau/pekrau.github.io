@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-08-13'
-link: https://kraulis.wordpress.com/2013/08/13/stefan-jonsson-om-hedersmord-och-situationen/
 name: stefan-jonsson-om-hedersmord-och-situationen
-path: /2013/08/13/stefan-jonsson-om-hedersmord-och-situationen/
 tags:
 - name: postkolonialism
   value: postkolonialism

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-03-25'
-link: https://kraulis.wordpress.com/2018/03/25/demokratin-kan-inte-forsvaras-med-illusioner/
 name: demokratin-kan-inte-forsvaras-med-illusioner
-path: /2018/03/25/demokratin-kan-inte-forsvaras-med-illusioner/
 tags:
 - name: demokrati
   value: demokrati

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-06-02'
-link: https://kraulis.wordpress.com/2013/06/02/husbykravallerna-moralisera-eller-analysera/
 name: husbykravallerna-moralisera-eller-analysera
-path: /2013/06/02/husbykravallerna-moralisera-eller-analysera/
 tags:
 - name: husby
   value: Husby

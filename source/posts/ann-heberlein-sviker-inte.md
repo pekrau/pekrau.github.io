@@ -5,9 +5,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2015-11-25'
-link: https://kraulis.wordpress.com/2015/11/25/ann-heberlein-sviker-inte/
 name: ann-heberlein-sviker-inte
-path: /2015/11/25/ann-heberlein-sviker-inte/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

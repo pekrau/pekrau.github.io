@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-03-19'
-link: https://kraulis.wordpress.com/2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/
 name: erik-helmerson-och-konsten-att-vara-tydlig
-path: /2013/03/19/erik-helmerson-och-konsten-att-vara-tydlig/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

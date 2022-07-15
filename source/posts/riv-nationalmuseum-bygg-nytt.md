@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2009-08-18'
-link: https://kraulis.wordpress.com/2009/08/18/riv-nationalmuseum-bygg-nytt/
 name: riv-nationalmuseum-bygg-nytt
-path: /2009/08/18/riv-nationalmuseum-bygg-nytt/
 tags:
 - name: stockholm
   value: Stockholm

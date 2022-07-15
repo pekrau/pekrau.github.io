@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-12-20'
-link: https://kraulis.wordpress.com/2015/12/20/varnplikten-som-moraliserande-myt/
 name: varnplikten-som-moraliserande-myt
-path: /2015/12/20/varnplikten-som-moraliserande-myt/
 tags:
 - name: varnplikt
   value: "v\xE4rnplikt"

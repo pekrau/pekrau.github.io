@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-08-15'
-link: https://kraulis.wordpress.com/2013/08/15/ian-morris-monstren-i-historiens-utveckling/
 name: ian-morris-monstren-i-historiens-utveckling
-path: /2013/08/15/ian-morris-monstren-i-historiens-utveckling/
 tags:
 - name: bok
   value: bok

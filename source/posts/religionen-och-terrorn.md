@@ -5,9 +5,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2016-03-28'
-link: https://kraulis.wordpress.com/2016/03/28/religionen-och-terrorn/
 name: religionen-och-terrorn
-path: /2016/03/28/religionen-och-terrorn/
 tags:
 - name: islamism
   value: islamism

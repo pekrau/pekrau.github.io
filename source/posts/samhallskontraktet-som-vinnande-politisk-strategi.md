@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-06-02'
-link: https://kraulis.wordpress.com/2015/06/02/samhallskontraktet-som-vinnande-politisk-strategi/
 name: samhallskontraktet-som-vinnande-politisk-strategi
-path: /2015/06/02/samhallskontraktet-som-vinnande-politisk-strategi/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

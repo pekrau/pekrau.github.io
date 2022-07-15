@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-09-29'
-link: https://kraulis.wordpress.com/2015/09/29/nationalstaten-som-allmanning-en-extremistisk-invandringspolitik/
 name: nationalstaten-som-allmanning-en-extremistisk-invandringspolitik
-path: /2015/09/29/nationalstaten-som-allmanning-en-extremistisk-invandringspolitik/
 tags:
 - name: adam-smith
   value: Adam Smith

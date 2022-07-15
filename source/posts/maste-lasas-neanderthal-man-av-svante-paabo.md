@@ -3,9 +3,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-03-09'
-link: https://kraulis.wordpress.com/2014/03/09/maste-lasas-neanderthal-man-av-svante-paabo/
 name: maste-lasas-neanderthal-man-av-svante-paabo
-path: /2014/03/09/maste-lasas-neanderthal-man-av-svante-paabo/
 tags:
 - name: biologi
   value: biologi

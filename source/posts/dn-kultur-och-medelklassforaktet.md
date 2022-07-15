@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-02-28'
-link: https://kraulis.wordpress.com/2013/02/28/dn-kultur-och-medelklassforaktet/
 name: dn-kultur-och-medelklassforaktet
-path: /2013/02/28/dn-kultur-och-medelklassforaktet/
 tags:
 - name: medelklass
   value: medelklass

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-11-29'
-link: https://kraulis.wordpress.com/2018/11/29/de-intellektuellas-obesvarade-karlek-till-diktaturen/
 name: de-intellektuellas-obesvarade-karlek-till-diktaturen
-path: /2018/11/29/de-intellektuellas-obesvarade-karlek-till-diktaturen/
 tags:
 - name: elinor-ostrom
   value: Elinor Ostrom

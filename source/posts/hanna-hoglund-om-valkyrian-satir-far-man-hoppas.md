@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-12-09'
-link: https://kraulis.wordpress.com/2013/12/09/hanna-hoglund-om-valkyrian-satir-far-man-hoppas/
 name: hanna-hoglund-om-valkyrian-satir-far-man-hoppas
-path: /2013/12/09/hanna-hoglund-om-valkyrian-satir-far-man-hoppas/
 tags:
 - name: opera
   value: opera

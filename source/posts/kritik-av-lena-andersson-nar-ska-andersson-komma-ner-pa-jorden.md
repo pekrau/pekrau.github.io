@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2019-09-17'
-link: https://kraulis.wordpress.com/2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/
 name: kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden
-path: /2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/
 tags:
 - name: karl-popper
   value: Karl Popper

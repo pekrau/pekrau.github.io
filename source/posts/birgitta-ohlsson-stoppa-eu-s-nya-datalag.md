@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-04-13'
-link: https://kraulis.wordpress.com/2013/04/13/birgitta-ohlsson-stoppa-eu-s-nya-datalag/
 name: birgitta-ohlsson-stoppa-eu-s-nya-datalag
-path: /2013/04/13/birgitta-ohlsson-stoppa-eu-s-nya-datalag/
 tags:
 - name: eu
   value: EU

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-05-14'
-link: https://kraulis.wordpress.com/2013/05/14/debatt-ar-den-liberala-hegemonin-over/
 name: debatt-ar-den-liberala-hegemonin-over
-path: /2013/05/14/debatt-ar-den-liberala-hegemonin-over/
 tags:
 - name: bok
   value: bok

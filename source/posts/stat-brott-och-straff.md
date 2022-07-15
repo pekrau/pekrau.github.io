@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-06-13'
-link: https://kraulis.wordpress.com/2018/06/13/stat-brott-och-straff/
 name: stat-brott-och-straff
-path: /2018/06/13/stat-brott-och-straff/
 tags:
 - name: kriminalitet
   value: kriminalitet

@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-10-06'
-link: https://kraulis.wordpress.com/2013/10/06/daniel-kahneman-intuition-eller-eftertanke/
 name: daniel-kahneman-intuition-eller-eftertanke
-path: /2013/10/06/daniel-kahneman-intuition-eller-eftertanke/
 tags:
 - name: beteendevetenskap
   value: beteendevetenskap

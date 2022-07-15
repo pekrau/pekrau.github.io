@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-10-13'
-link: https://kraulis.wordpress.com/2013/10/13/skonlitteratur-och-empati-sa-fods-en-vandringsmyt/
 name: skonlitteratur-och-empati-sa-fods-en-vandringsmyt
-path: /2013/10/13/skonlitteratur-och-empati-sa-fods-en-vandringsmyt/
 tags:
 - name: bjorn-wiman
   value: "Bj\xF6rn Wiman"

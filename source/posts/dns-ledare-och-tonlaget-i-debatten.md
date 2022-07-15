@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-06-18'
-link: https://kraulis.wordpress.com/2016/06/18/dns-ledare-och-tonlaget-i-debatten/
 name: dns-ledare-och-tonlaget-i-debatten
-path: /2016/06/18/dns-ledare-och-tonlaget-i-debatten/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

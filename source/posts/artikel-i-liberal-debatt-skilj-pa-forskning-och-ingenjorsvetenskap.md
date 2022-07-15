@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2017-12-10'
-link: https://kraulis.wordpress.com/2017/12/10/artikel-i-liberal-debatt-skilj-pa-forskning-och-ingenjorsvetenskap/
 name: artikel-i-liberal-debatt-skilj-pa-forskning-och-ingenjorsvetenskap
-path: /2017/12/10/artikel-i-liberal-debatt-skilj-pa-forskning-och-ingenjorsvetenskap/
 tags:
 - name: ingenjorskonst
   value: "ingenj\xF6rskonst"

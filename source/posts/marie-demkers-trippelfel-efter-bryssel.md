@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-03-25'
-link: https://kraulis.wordpress.com/2016/03/25/marie-demkers-trippelfel-efter-bryssel/
 name: marie-demkers-trippelfel-efter-bryssel
-path: /2016/03/25/marie-demkers-trippelfel-efter-bryssel/
 tags:
 - name: islamiska-staten
   value: Islamiska Staten

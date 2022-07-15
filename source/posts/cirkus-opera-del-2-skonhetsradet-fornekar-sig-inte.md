@@ -7,9 +7,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-09-12'
-link: https://kraulis.wordpress.com/2013/09/12/cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte/
 name: cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte
-path: /2013/09/12/cirkus-opera-del-2-skonhetsradet-fornekar-sig-inte/
 tags:
 - name: opera
   value: opera

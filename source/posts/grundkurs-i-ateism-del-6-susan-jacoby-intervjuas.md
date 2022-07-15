@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2013-03-21'
-link: https://kraulis.wordpress.com/2013/03/21/grundkurs-i-ateism-del-6-susan-jacoby-intervjuas/
 name: grundkurs-i-ateism-del-6-susan-jacoby-intervjuas
-path: /2013/03/21/grundkurs-i-ateism-del-6-susan-jacoby-intervjuas/
 tags:
 - name: susan-jacoby
   value: Susan Jacoby

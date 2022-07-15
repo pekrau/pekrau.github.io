@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-05-04'
-link: https://kraulis.wordpress.com/2014/05/04/efterlysning-de-svenska-intellektuella-om-ryssland/
 name: efterlysning-de-svenska-intellektuella-om-ryssland
-path: /2014/05/04/efterlysning-de-svenska-intellektuella-om-ryssland/
 tags:
 - name: alexander-dugin
   value: Alexander Dugin

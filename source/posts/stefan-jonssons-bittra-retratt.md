@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-09-03'
-link: https://kraulis.wordpress.com/2013/09/03/stefan-jonssons-bittra-retratt/
 name: stefan-jonssons-bittra-retratt
-path: /2013/09/03/stefan-jonssons-bittra-retratt/
 tags:
 - name: hederskultur
   value: hederskultur

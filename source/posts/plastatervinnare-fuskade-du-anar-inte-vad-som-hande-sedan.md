@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2017-02-08'
-link: https://kraulis.wordpress.com/2017/02/08/plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan/
 name: plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan
-path: /2017/02/08/plastatervinnare-fuskade-du-anar-inte-vad-som-hande-sedan/
 tags:
 - name: hans-rosling
   value: Hans Rosling

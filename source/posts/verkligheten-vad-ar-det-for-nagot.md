@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-09-07'
-link: https://kraulis.wordpress.com/2014/09/07/verkligheten-vad-ar-det-for-nagot/
 name: verkligheten-vad-ar-det-for-nagot
-path: /2014/09/07/verkligheten-vad-ar-det-for-nagot/
 tags:
 - name: stefan-jonsson
   value: Stefan Jonsson

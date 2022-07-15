@@ -3,9 +3,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2014-04-13'
-link: https://kraulis.wordpress.com/2014/04/13/nobelcenter-bygg-sa-det-marks/
 name: nobelcenter-bygg-sa-det-marks
-path: /2014/04/13/nobelcenter-bygg-sa-det-marks/
 tags:
 - name: blasieholmen
   value: Blasieholmen

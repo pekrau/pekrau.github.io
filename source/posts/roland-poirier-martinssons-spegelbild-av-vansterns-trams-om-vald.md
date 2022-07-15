@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-05-11'
-link: https://kraulis.wordpress.com/2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/
 name: roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald
-path: /2014/05/11/roland-poirier-martinssons-spegelbild-av-vansterns-trams-om-vald/
 tags:
 - name: alexander-dugin
   value: Alexander Dugin

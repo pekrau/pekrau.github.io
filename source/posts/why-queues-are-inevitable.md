@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-01-31'
-link: https://kraulis.wordpress.com/2015/01/31/why-queues-are-inevitable/
 name: why-queues-are-inevitable
-path: /2015/01/31/why-queues-are-inevitable/
 tags:
 - name: ngi
   value: NGI

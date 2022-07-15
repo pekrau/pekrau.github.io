@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-06-10'
-link: https://kraulis.wordpress.com/2015/06/10/karin-pettersson-vill-ha-kakan-och-ata-den/
 name: karin-pettersson-vill-ha-kakan-och-ata-den
-path: /2015/06/10/karin-pettersson-vill-ha-kakan-och-ata-den/
 tags:
 - name: aftonbladet
   value: Aftonbladet

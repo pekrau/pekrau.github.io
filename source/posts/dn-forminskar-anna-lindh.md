@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-09-08'
-link: https://kraulis.wordpress.com/2013/09/08/dn-forminskar-anna-lindh/
 name: dn-forminskar-anna-lindh
-path: /2013/09/08/dn-forminskar-anna-lindh/
 tags:
 - name: anna-lindh
   value: Anna Lindh

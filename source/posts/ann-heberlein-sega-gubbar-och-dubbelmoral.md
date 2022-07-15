@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-03-27'
-link: https://kraulis.wordpress.com/2013/03/27/ann-heberlein-sega-gubbar-och-dubbelmoral/
 name: ann-heberlein-sega-gubbar-och-dubbelmoral
-path: /2013/03/27/ann-heberlein-sega-gubbar-och-dubbelmoral/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

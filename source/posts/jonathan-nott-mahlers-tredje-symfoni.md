@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-11-08'
-link: https://kraulis.wordpress.com/2013/11/08/jonathan-nott-mahlers-tredje-symfoni/
 name: jonathan-nott-mahlers-tredje-symfoni
-path: /2013/11/08/jonathan-nott-mahlers-tredje-symfoni/
 tags:
 - name: gustav-mahler
   value: Gustav Mahler

@@ -3,9 +3,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-10-21'
-link: https://kraulis.wordpress.com/2013/10/21/fel-fel-fel-the-economist-om-laget-i-forskningen/
 name: fel-fel-fel-the-economist-om-laget-i-forskningen
-path: /2013/10/21/fel-fel-fel-the-economist-om-laget-i-forskningen/
 tags:
 - name: forskningsfel
   value: forskningsfel

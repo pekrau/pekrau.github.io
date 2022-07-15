@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-07-02'
-link: https://kraulis.wordpress.com/2013/07/02/niall-ferguson-i-almedalen/
 name: niall-ferguson-i-almedalen
-path: /2013/07/02/niall-ferguson-i-almedalen/
 tags:
 - name: galileo
   value: Galileo

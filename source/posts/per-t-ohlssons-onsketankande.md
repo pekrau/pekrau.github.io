@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-10-02'
-link: https://kraulis.wordpress.com/2016/10/02/per-t-ohlssons-onsketankande/
 name: per-t-ohlssons-onsketankande
-path: /2016/10/02/per-t-ohlssons-onsketankande/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-04-28'
-link: https://kraulis.wordpress.com/2013/04/28/katrine-kielos-hopplosheten-ar-en-man/
 name: katrine-kielos-hopplosheten-ar-en-man
-path: /2013/04/28/katrine-kielos-hopplosheten-ar-en-man/
 tags:
 - name: bok
   value: bok

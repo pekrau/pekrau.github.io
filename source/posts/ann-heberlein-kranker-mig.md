@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-01-12'
-link: https://kraulis.wordpress.com/2015/01/12/ann-heberlein-kranker-mig/
 name: ann-heberlein-kranker-mig
-path: /2015/01/12/ann-heberlein-kranker-mig/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

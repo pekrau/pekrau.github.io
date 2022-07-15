@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2012-12-01'
-link: https://kraulis.wordpress.com/2012/12/01/sd-fascismen-och-framtiden/
 name: sd-fascismen-och-framtiden
-path: /2012/12/01/sd-fascismen-och-framtiden/
 tags:
 - name: extremhoger
   value: "extremh\xF6ger"

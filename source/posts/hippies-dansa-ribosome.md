@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2012-10-19'
-link: https://kraulis.wordpress.com/2012/10/19/hippies-dansa-ribosome/
 name: hippies-dansa-ribosome
-path: /2012/10/19/hippies-dansa-ribosome/
 tags:
 - name: film
   value: film

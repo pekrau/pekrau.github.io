@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-07-29'
-link: https://kraulis.wordpress.com/2016/07/29/per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack/
 name: per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack
-path: /2016/07/29/per-altenberg-det-oppna-samhallet-och-liberalernas-blinda-flack/
 tags:
 - name: oppna-samhallet
   value: "\xF6ppna samh\xE4llet"

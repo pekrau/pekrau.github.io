@@ -4,9 +4,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2016-03-30'
-link: https://kraulis.wordpress.com/2016/03/30/wagners-parsifal-holier-than-thou/
 name: wagners-parsifal-holier-than-thou
-path: /2016/03/30/wagners-parsifal-holier-than-thou/
 tags:
 - name: parsifal
   value: Parsifal

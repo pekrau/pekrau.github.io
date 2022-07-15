@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-04-27'
-link: https://kraulis.wordpress.com/2014/04/27/valfriheten-och-det-basta/
 name: valfriheten-och-det-basta
-path: /2014/04/27/valfriheten-och-det-basta/
 tags:
 - name: valfrihet
   value: valfrihet

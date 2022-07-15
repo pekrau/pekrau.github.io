@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-05-18'
-link: https://kraulis.wordpress.com/2017/05/18/bilan-osmans-enogda-argument-om-islam/
 name: bilan-osmans-enogda-argument-om-islam
-path: /2017/05/18/bilan-osmans-enogda-argument-om-islam/
 tags:
 - name: islam
   value: Islam

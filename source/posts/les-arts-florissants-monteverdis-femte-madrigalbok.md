@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-06-04'
-link: https://kraulis.wordpress.com/2013/06/04/les-arts-florissants-monteverdis-femte-madrigalbok/
 name: les-arts-florissants-monteverdis-femte-madrigalbok
-path: /2013/06/04/les-arts-florissants-monteverdis-femte-madrigalbok/
 tags:
 - name: claudio-monteverdi
   value: Claudio Monteverdi

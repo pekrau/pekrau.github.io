@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-11-28'
-link: https://kraulis.wordpress.com/2013/11/28/ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt/
 name: ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt
-path: /2013/11/28/ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt/
 tags:
 - name: madeleine-sjostedt
   value: "Madeleine Sj\xF6stedt"

@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-02-22'
-link: https://kraulis.wordpress.com/2013/02/22/daniel-harding-levererar-igen/
 name: daniel-harding-levererar-igen
-path: /2013/02/22/daniel-harding-levererar-igen/
 tags:
 - name: daniel-harding
   value: Daniel Harding

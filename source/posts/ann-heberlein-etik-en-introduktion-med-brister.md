@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-08-13'
-link: https://kraulis.wordpress.com/2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/
 name: ann-heberlein-etik-en-introduktion-med-brister
-path: /2014/08/13/ann-heberlein-etik-en-introduktion-med-brister/
 tags:
 - name: alasdair-macintyre
   value: Alasdair MacIntyre

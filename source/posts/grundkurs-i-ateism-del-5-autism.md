@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-02-16'
-link: https://kraulis.wordpress.com/2013/02/16/grundkurs-i-ateism-del-5-autism/
 name: grundkurs-i-ateism-del-5-autism
-path: /2013/02/16/grundkurs-i-ateism-del-5-autism/
 tags:
 - name: bok
   value: bok

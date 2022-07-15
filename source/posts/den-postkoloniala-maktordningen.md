@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-04-25'
-link: https://kraulis.wordpress.com/2016/04/25/den-postkoloniala-maktordningen/
 name: den-postkoloniala-maktordningen
-path: /2016/04/25/den-postkoloniala-maktordningen/
 tags:
 - name: islam
   value: Islam

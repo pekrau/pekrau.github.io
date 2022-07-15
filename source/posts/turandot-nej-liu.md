@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-03-15'
-link: https://kraulis.wordpress.com/2013/03/15/turandot-nej-liu/
 name: turandot-nej-liu
-path: /2013/03/15/turandot-nej-liu/
 tags:
 - name: giacomo-puccini
   value: Giacomo Puccini

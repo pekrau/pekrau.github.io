@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2017-10-12'
-link: https://kraulis.wordpress.com/2017/10/12/socialdemokraternas-skamloshet/
 name: socialdemokraternas-skamloshet
-path: /2017/10/12/socialdemokraternas-skamloshet/
 tags:
 - name: daniel-suhonen
   value: Daniel Suhonen

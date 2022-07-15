@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-12-22'
-link: https://kraulis.wordpress.com/2013/12/22/n-er-brinn-i-helvetet/
 name: n-er-brinn-i-helvetet
-path: /2013/12/22/n-er-brinn-i-helvetet/
 tags:
 - name: homosexuella
   value: homosexuella

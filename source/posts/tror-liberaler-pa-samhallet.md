@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-04-20'
-link: https://kraulis.wordpress.com/2016/04/20/tror-liberaler-pa-samhallet/
 name: tror-liberaler-pa-samhallet
-path: /2016/04/20/tror-liberaler-pa-samhallet/
 tags:
 - name: john-rawls
   value: John Rawls

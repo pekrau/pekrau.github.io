@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-11-25'
-link: https://kraulis.wordpress.com/2015/11/25/flyktingkrisen-som-havstang/
 name: flyktingkrisen-som-havstang
-path: /2015/11/25/flyktingkrisen-som-havstang/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

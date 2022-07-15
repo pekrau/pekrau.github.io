@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-08-03'
-link: https://kraulis.wordpress.com/2015/08/03/ida-olmedal-snedtander-om-plikt-moral-och-konsekvens/
 name: ida-olmedal-snedtander-om-plikt-moral-och-konsekvens
-path: /2015/08/03/ida-olmedal-snedtander-om-plikt-moral-och-konsekvens/
 tags:
 - name: dygdetik
   value: dygdetik

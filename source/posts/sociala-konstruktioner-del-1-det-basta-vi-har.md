@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-11-26'
-link: https://kraulis.wordpress.com/2017/11/26/sociala-konstruktioner-del-1-det-basta-vi-har/
 name: sociala-konstruktioner-del-1-det-basta-vi-har
-path: /2017/11/26/sociala-konstruktioner-del-1-det-basta-vi-har/
 tags:
 - name: john-searle
   value: John Searle

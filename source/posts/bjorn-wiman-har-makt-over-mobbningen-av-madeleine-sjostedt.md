@@ -5,9 +5,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-12-01'
-link: https://kraulis.wordpress.com/2013/12/01/bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt/
 name: bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt
-path: /2013/12/01/bjorn-wiman-har-makt-over-mobbningen-av-madeleine-sjostedt/
 tags:
 - name: bjorn-wiman
   value: "Bj\xF6rn Wiman"

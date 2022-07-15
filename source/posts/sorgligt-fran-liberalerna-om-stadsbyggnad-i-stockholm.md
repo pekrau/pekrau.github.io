@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2017-12-26'
-link: https://kraulis.wordpress.com/2017/12/26/sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm/
 name: sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm
-path: /2017/12/26/sorgligt-fran-liberalerna-om-stadsbyggnad-i-stockholm/
 tags:
 - name: liberalerna
   value: Liberalerna

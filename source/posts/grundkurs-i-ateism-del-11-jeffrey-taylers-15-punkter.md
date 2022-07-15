@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2014-01-12'
-link: https://kraulis.wordpress.com/2014/01/12/grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter/
 name: grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter
-path: /2014/01/12/grundkurs-i-ateism-del-11-jeffrey-taylers-15-punkter/
 tags:
 - name: jeffrey-tayler
   value: Jeffrey Tayler

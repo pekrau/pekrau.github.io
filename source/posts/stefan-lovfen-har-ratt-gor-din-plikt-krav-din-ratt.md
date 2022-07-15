@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2015-05-29'
-link: https://kraulis.wordpress.com/2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/
 name: stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt
-path: /2015/05/29/stefan-lovfen-har-ratt-gor-din-plikt-krav-din-ratt/
 tags:
 - name: samhallskontraktet
   value: "samh\xE4llskontraktet"

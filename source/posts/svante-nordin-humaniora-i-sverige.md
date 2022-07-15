@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-10-20'
-link: https://kraulis.wordpress.com/2013/10/20/svante-nordin-humaniora-i-sverige/
 name: svante-nordin-humaniora-i-sverige
-path: /2013/10/20/svante-nordin-humaniora-i-sverige/
 tags:
 - name: humaniora
   value: humaniora

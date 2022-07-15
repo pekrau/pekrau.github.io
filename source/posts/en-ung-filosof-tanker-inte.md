@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-10-08'
-link: https://kraulis.wordpress.com/2013/10/08/en-ung-filosof-tanker-inte/
 name: en-ung-filosof-tanker-inte
-path: /2013/10/08/en-ung-filosof-tanker-inte/
 tags:
 - name: etik
   value: etik

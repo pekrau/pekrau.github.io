@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2018-08-08'
-link: https://kraulis.wordpress.com/2018/08/08/djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna/
 name: djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna
-path: /2018/08/08/djavulens-liberal-liberalers-paralys-infor-sverigedemokraterna/
 tags:
 - name: liberalism
   value: liberalism

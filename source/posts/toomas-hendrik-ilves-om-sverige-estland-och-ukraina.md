@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-06-01'
-link: https://kraulis.wordpress.com/2014/06/01/toomas-hendrik-ilves-om-sverige-estland-och-ukraina/
 name: toomas-hendrik-ilves-om-sverige-estland-och-ukraina
-path: /2014/06/01/toomas-hendrik-ilves-om-sverige-estland-och-ukraina/
 tags:
 - name: baltikum
   value: Baltikum

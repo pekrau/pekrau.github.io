@@ -9,9 +9,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-08-11'
-link: https://kraulis.wordpress.com/2014/08/11/hans-ruins-heidegger-chock/
 name: hans-ruins-heidegger-chock
-path: /2014/08/11/hans-ruins-heidegger-chock/
 tags:
 - name: extremhoger
   value: "extremh\xF6ger"

@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-05-05'
-link: https://kraulis.wordpress.com/2013/05/05/kristina-lugn-hjalp-sokes/
 name: kristina-lugn-hjalp-sokes
-path: /2013/05/05/kristina-lugn-hjalp-sokes/
 tags:
 - name: cirkus
   value: cirkus

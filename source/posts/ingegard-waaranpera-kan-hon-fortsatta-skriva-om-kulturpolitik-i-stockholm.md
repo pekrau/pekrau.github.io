@@ -5,9 +5,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-11-30'
-link: https://kraulis.wordpress.com/2013/11/30/ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm/
 name: ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm
-path: /2013/11/30/ingegard-waaranpera-kan-hon-fortsatta-skriva-om-kulturpolitik-i-stockholm/
 tags:
 - name: bjorn-wiman
   value: "Bj\xF6rn Wiman"

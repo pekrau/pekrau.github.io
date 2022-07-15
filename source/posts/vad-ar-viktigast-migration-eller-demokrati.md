@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-11-25'
-link: https://kraulis.wordpress.com/2018/11/25/vad-ar-viktigast-migration-eller-demokrati/
 name: vad-ar-viktigast-migration-eller-demokrati
-path: /2018/11/25/vad-ar-viktigast-migration-eller-demokrati/
 tags:
 - name: liberalerna
   value: Liberalerna

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-04-23'
-link: https://kraulis.wordpress.com/2014/04/23/varldens-kris-vansterns-losningar-ovantat-intressant/
 name: varldens-kris-vansterns-losningar-ovantat-intressant
-path: /2014/04/23/varldens-kris-vansterns-losningar-ovantat-intressant/
 tags:
 - name: bok
   value: bok

@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-02-20'
-link: https://kraulis.wordpress.com/2013/02/20/mobbning-hobbes-pa-skolgarden/
 name: mobbning-hobbes-pa-skolgarden
-path: /2013/02/20/mobbning-hobbes-pa-skolgarden/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

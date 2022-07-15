@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-11-09'
-link: https://kraulis.wordpress.com/2014/11/09/lidande-kristendom-valgorenhet-valfard/
 name: lidande-kristendom-valgorenhet-valfard
-path: /2014/11/09/lidande-kristendom-valgorenhet-valfard/
 tags:
 - name: kristendom
   value: kristendom

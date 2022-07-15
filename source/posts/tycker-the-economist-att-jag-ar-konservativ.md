@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2019-07-11'
-link: https://kraulis.wordpress.com/2019/07/11/tycker-the-economist-att-jag-ar-konservativ/
 name: tycker-the-economist-att-jag-ar-konservativ
-path: /2019/07/11/tycker-the-economist-att-jag-ar-konservativ/
 tags:
 - name: oppna-samhallet
   value: "\xF6ppna samh\xE4llet"

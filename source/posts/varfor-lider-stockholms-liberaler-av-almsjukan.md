@@ -7,9 +7,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2015-04-14'
-link: https://kraulis.wordpress.com/2015/04/14/varfor-lider-stockholms-liberaler-av-almsjukan/
 name: varfor-lider-stockholms-liberaler-av-almsjukan
-path: /2015/04/14/varfor-lider-stockholms-liberaler-av-almsjukan/
 tags:
 - name: folkpartiet
   value: Folkpartiet

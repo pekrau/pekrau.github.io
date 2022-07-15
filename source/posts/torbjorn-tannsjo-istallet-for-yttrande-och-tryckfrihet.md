@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-11-30'
-link: https://kraulis.wordpress.com/2015/11/30/torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet/
 name: torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet
-path: /2015/11/30/torbjorn-tannsjo-istallet-for-yttrande-och-tryckfrihet/
 tags:
 - name: torbjorn-tannsjo
   value: "Torbj\xF6rn T\xE4nnsj\xF6"

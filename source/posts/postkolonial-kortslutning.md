@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-11-05'
-link: https://kraulis.wordpress.com/2015/11/05/postkolonial-kortslutning/
 name: postkolonial-kortslutning
-path: /2015/11/05/postkolonial-kortslutning/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-03-03'
-link: https://kraulis.wordpress.com/2016/03/03/hans-ruin-och-de-utifran-importerade-larosatserna/
 name: hans-ruin-och-de-utifran-importerade-larosatserna
-path: /2016/03/03/hans-ruin-och-de-utifran-importerade-larosatserna/
 tags:
 - name: etik
   value: etik

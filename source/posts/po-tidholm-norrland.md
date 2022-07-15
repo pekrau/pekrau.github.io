@@ -9,9 +9,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-01-01'
-link: https://kraulis.wordpress.com/2013/01/01/po-tidholm-norrland/
 name: po-tidholm-norrland
-path: /2013/01/01/po-tidholm-norrland/
 tags:
 - name: bok
   value: bok

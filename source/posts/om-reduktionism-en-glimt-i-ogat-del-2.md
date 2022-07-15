@@ -3,9 +3,7 @@ categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
 date: '2015-07-28'
-link: https://kraulis.wordpress.com/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/
 name: om-reduktionism-en-glimt-i-ogat-del-2
-path: /2015/07/28/om-reduktionism-en-glimt-i-ogat-del-2/
 tags:
 - name: reduktionism
   value: reduktionism

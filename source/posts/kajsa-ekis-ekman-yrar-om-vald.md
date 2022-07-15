@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-12-13'
-link: https://kraulis.wordpress.com/2013/12/13/kajsa-ekis-ekman-yrar-om-vald/
 name: kajsa-ekis-ekman-yrar-om-vald
-path: /2013/12/13/kajsa-ekis-ekman-yrar-om-vald/
 tags:
 - name: vastvarlden
   value: "v\xE4stv\xE4rlden"

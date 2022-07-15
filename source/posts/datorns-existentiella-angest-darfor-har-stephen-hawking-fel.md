@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-06-22'
-link: https://kraulis.wordpress.com/2014/06/22/datorns-existentiella-angest-darfor-har-stephen-hawking-fel/
 name: datorns-existentiella-angest-darfor-har-stephen-hawking-fel
-path: /2014/06/22/datorns-existentiella-angest-darfor-har-stephen-hawking-fel/
 tags:
 - name: artifical-intelligence
   value: Artifical Intelligence

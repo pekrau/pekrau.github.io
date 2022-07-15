@@ -9,9 +9,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2012-10-17'
-link: https://kraulis.wordpress.com/2012/10/17/civilisation/
 name: civilisation
-path: /2012/10/17/civilisation/
 title: Civilisation
 type: post
 ---

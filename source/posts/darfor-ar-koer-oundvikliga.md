@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-01-31'
-link: https://kraulis.wordpress.com/2015/01/31/darfor-ar-koer-oundvikliga/
 name: darfor-ar-koer-oundvikliga
-path: /2015/01/31/darfor-ar-koer-oundvikliga/
 tags:
 - name: koer
   value: "k\xF6er"

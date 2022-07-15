@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-03-30'
-link: https://kraulis.wordpress.com/2014/03/30/goran-greider-den-solidariska-genen/
 name: goran-greider-den-solidariska-genen
-path: /2014/03/30/goran-greider-den-solidariska-genen/
 tags:
 - name: bok
   value: bok

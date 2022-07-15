@@ -5,9 +5,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2017-04-30'
-link: https://kraulis.wordpress.com/2017/04/30/vardelosa-forklaringar/
 name: vardelosa-forklaringar
-path: /2017/04/30/vardelosa-forklaringar/
 tags:
 - name: eutyfron
   value: Eutyfron

@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-03-17'
-link: https://kraulis.wordpress.com/2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/
 name: dn-de-papperslosa-och-den-intellektuella-arligheten
-path: /2013/03/17/dn-de-papperslosa-och-den-intellektuella-arligheten/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

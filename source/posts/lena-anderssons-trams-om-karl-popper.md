@@ -5,9 +5,7 @@ categories:
 - name: politik
   value: Politik
 date: '2019-05-30'
-link: https://kraulis.wordpress.com/2019/05/30/lena-anderssons-trams-om-karl-popper/
 name: lena-anderssons-trams-om-karl-popper
-path: /2019/05/30/lena-anderssons-trams-om-karl-popper/
 tags:
 - name: john-locke
   value: John Locke

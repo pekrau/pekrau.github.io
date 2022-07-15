@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-10-28'
-link: https://kraulis.wordpress.com/2016/10/28/dagens-nyheter-kryper-for-paven/
 name: dagens-nyheter-kryper-for-paven
-path: /2016/10/28/dagens-nyheter-kryper-for-paven/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

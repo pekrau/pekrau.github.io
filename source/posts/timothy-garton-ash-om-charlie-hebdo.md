@@ -8,9 +8,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-02-15'
-link: https://kraulis.wordpress.com/2015/02/15/timothy-garton-ash-om-charlie-hebdo/
 name: timothy-garton-ash-om-charlie-hebdo
-path: /2015/02/15/timothy-garton-ash-om-charlie-hebdo/
 tags:
 - name: charlie-hebdo
   value: Charlie Hebdo

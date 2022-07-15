@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-06-11'
-link: https://kraulis.wordpress.com/2013/06/11/isaiah-berlin-om-nationalismen/
 name: isaiah-berlin-om-nationalismen
-path: /2013/06/11/isaiah-berlin-om-nationalismen/
 tags:
 - name: bok
   value: bok

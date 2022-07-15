@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-01-23'
-link: https://kraulis.wordpress.com/2014/01/23/birgitta-ohlsson-valfarden-i-fokus-antligen/
 name: birgitta-ohlsson-valfarden-i-fokus-antligen
-path: /2014/01/23/birgitta-ohlsson-valfarden-i-fokus-antligen/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-03-28'
-link: https://kraulis.wordpress.com/2018/03/28/optimister-och-klapare/
 name: optimister-och-klapare
-path: /2018/03/28/optimister-och-klapare/
 title: "Optimister och kl\xE5pare"
 type: post
 ---

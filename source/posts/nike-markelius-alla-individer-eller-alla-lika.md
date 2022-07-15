@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-02-09'
-link: https://kraulis.wordpress.com/2013/02/09/nike-markelius-alla-individer-eller-alla-lika/
 name: nike-markelius-alla-individer-eller-alla-lika
-path: /2013/02/09/nike-markelius-alla-individer-eller-alla-lika/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

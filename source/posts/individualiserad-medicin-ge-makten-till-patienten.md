@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-06-20'
-link: https://kraulis.wordpress.com/2013/06/20/individualiserad-medicin-ge-makten-till-patienten/
 name: individualiserad-medicin-ge-makten-till-patienten
-path: /2013/06/20/individualiserad-medicin-ge-makten-till-patienten/
 tags:
 - name: medicin
   value: medicin

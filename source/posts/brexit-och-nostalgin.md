@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-06-24'
-link: https://kraulis.wordpress.com/2016/06/24/brexit-och-nostalgin/
 name: brexit-och-nostalgin
-path: /2016/06/24/brexit-och-nostalgin/
 tags:
 - name: eu
   value: EU

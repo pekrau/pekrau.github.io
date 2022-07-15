@@ -6,9 +6,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-04-04'
-link: https://kraulis.wordpress.com/2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/
 name: what-is-important-and-what-is-not-for-bioscience-data-handling
-path: /2016/04/04/what-is-important-and-what-is-not-for-bioscience-data-handling/
 tags:
 - name: big-data
   value: Big Data

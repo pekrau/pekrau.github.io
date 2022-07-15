@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-12-15'
-link: https://kraulis.wordpress.com/2013/12/15/lena-andersson-faller-i-extremistfallan/
 name: lena-andersson-faller-i-extremistfallan
-path: /2013/12/15/lena-andersson-faller-i-extremistfallan/
 tags:
 - name: invandring
   value: invandring

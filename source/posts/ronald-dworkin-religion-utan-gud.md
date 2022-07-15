@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2013-03-25'
-link: https://kraulis.wordpress.com/2013/03/25/ronald-dworkin-religion-utan-gud/
 name: ronald-dworkin-religion-utan-gud
-path: /2013/03/25/ronald-dworkin-religion-utan-gud/
 tags:
 - name: eutyfron
   value: Eutyfron

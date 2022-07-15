@@ -3,9 +3,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-03-10'
-link: https://kraulis.wordpress.com/2013/03/10/stockholm-som-vackert-lik/
 name: stockholm-som-vackert-lik
-path: /2013/03/10/stockholm-som-vackert-lik/
 tags:
 - name: stockholm
   value: Stockholm

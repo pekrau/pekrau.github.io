@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-08-21'
-link: https://kraulis.wordpress.com/2013/08/21/vojne-vojne-en-klichefest/
 name: vojne-vojne-en-klichefest
-path: /2013/08/21/vojne-vojne-en-klichefest/
 title: "Vojne vojne: en klich\xE9fest"
 type: post
 ---

@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-01-26'
-link: https://kraulis.wordpress.com/2013/01/26/niall-ferguson-civilization/
 name: niall-ferguson-civilization
-path: /2013/01/26/niall-ferguson-civilization/
 tags:
 - name: bok
   value: bok

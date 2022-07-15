@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2012-10-17'
-link: https://kraulis.wordpress.com/2012/10/17/die-walkure-pa-staatsoper-berlin/
 name: die-walkure-pa-staatsoper-berlin
-path: /2012/10/17/die-walkure-pa-staatsoper-berlin/
 tags:
 - name: opera
   value: opera

@@ -3,9 +3,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-02-04'
-link: https://kraulis.wordpress.com/2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/
 name: vetenskapens-varld-forskningsfusk-eller-slarv
-path: /2013/02/04/vetenskapens-varld-forskningsfusk-eller-slarv/
 tags:
 - name: forskningsfel
   value: forskningsfel

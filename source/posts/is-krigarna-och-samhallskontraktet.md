@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-05-22'
-link: https://kraulis.wordpress.com/2015/05/22/is-krigarna-och-samhallskontraktet/
 name: is-krigarna-och-samhallskontraktet
-path: /2015/05/22/is-krigarna-och-samhallskontraktet/
 tags:
 - name: isaiah-berlin
   value: Isaiah Berlin

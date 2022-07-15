@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-11-01'
-link: https://kraulis.wordpress.com/2015/11/01/invandring-tillit-och-samhallskontrakt/
 name: invandring-tillit-och-samhallskontrakt
-path: /2015/11/01/invandring-tillit-och-samhallskontrakt/
 tags:
 - name: bo-rothstein
   value: Bo Rothstein

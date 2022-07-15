@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2012-11-17'
-link: https://kraulis.wordpress.com/2012/11/17/daniel-harding-dont-enjoy/
 name: daniel-harding-dont-enjoy
-path: /2012/11/17/daniel-harding-dont-enjoy/
 tags:
 - name: bela-bartok
   value: "B\xE9la Bart\xF3k"

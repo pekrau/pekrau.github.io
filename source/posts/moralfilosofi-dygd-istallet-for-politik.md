@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2012-10-29'
-link: https://kraulis.wordpress.com/2012/10/29/moralfilosofi-dygd-istallet-for-politik/
 name: moralfilosofi-dygd-istallet-for-politik
-path: /2012/10/29/moralfilosofi-dygd-istallet-for-politik/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

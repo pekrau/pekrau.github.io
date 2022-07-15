@@ -4,9 +4,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-11-04'
-link: https://kraulis.wordpress.com/2015/11/04/why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology/
 name: why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology
-path: /2015/11/04/why-do-so-many-scientists-misunderstand-the-central-dogma-of-molecular-biology/
 tags:
 - name: dna
   value: DNA

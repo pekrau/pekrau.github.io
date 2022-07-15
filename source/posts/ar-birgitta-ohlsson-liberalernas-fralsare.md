@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-09-14'
-link: https://kraulis.wordpress.com/2016/09/14/ar-birgitta-ohlsson-liberalernas-fralsare/
 name: ar-birgitta-ohlsson-liberalernas-fralsare
-path: /2016/09/14/ar-birgitta-ohlsson-liberalernas-fralsare/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

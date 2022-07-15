@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-03-18'
-link: https://kraulis.wordpress.com/2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/
 name: debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet
-path: /2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/
 tags:
 - name: bok
   value: bok

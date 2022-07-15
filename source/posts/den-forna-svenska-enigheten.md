@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-01-24'
-link: https://kraulis.wordpress.com/2016/01/24/den-forna-svenska-enigheten/
 name: den-forna-svenska-enigheten
-path: /2016/01/24/den-forna-svenska-enigheten/
 tags:
 - name: invandring
   value: invandring

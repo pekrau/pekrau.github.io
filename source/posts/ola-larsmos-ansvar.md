@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2014-12-04'
-link: https://kraulis.wordpress.com/2014/12/04/ola-larsmos-ansvar/
 name: ola-larsmos-ansvar
-path: /2014/12/04/ola-larsmos-ansvar/
 tags:
 - name: alliansen
   value: Alliansen

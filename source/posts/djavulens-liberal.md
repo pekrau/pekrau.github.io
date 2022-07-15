@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-07-01'
-link: https://kraulis.wordpress.com/2018/07/01/djavulens-liberal/
 name: djavulens-liberal
-path: /2018/07/01/djavulens-liberal/
 tags:
 - name: antiliberalism
   value: antiliberalism

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-06-04'
-link: https://kraulis.wordpress.com/2017/06/04/ska-vi-ha-talamod-med-islam/
 name: ska-vi-ha-talamod-med-islam
-path: /2017/06/04/ska-vi-ha-talamod-med-islam/
 tags:
 - name: islam
   value: Islam

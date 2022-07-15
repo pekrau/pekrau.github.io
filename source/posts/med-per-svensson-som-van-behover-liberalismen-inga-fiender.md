@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-12-22'
-link: https://kraulis.wordpress.com/2016/12/22/med-per-svensson-som-van-behover-liberalismen-inga-fiender/
 name: med-per-svensson-som-van-behover-liberalismen-inga-fiender
-path: /2016/12/22/med-per-svensson-som-van-behover-liberalismen-inga-fiender/
 tags:
 - name: anna-dahlberg
   value: Anna Dahlberg

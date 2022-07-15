@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-07-10'
-link: https://kraulis.wordpress.com/2016/07/10/ar-demokratin-urholkad-eller-ar-valjarna-bortskamda/
 name: ar-demokratin-urholkad-eller-ar-valjarna-bortskamda
-path: /2016/07/10/ar-demokratin-urholkad-eller-ar-valjarna-bortskamda/
 tags:
 - name: chris-forsne
   value: Chris Forsne

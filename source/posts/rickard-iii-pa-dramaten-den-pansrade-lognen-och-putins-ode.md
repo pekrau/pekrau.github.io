@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-03-21'
-link: https://kraulis.wordpress.com/2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/
 name: rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode
-path: /2014/03/21/rickard-iii-pa-dramaten-den-pansrade-lognen-och-putins-ode/
 tags:
 - name: shakespeare
   value: Shakespeare

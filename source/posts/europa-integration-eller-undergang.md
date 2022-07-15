@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-01-30'
-link: https://kraulis.wordpress.com/2013/01/30/europa-integration-eller-undergang/
 name: europa-integration-eller-undergang
-path: /2013/01/30/europa-integration-eller-undergang/
 tags:
 - name: europa
   value: Europa

@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-07-08'
-link: https://kraulis.wordpress.com/2013/07/08/svt-vetenskapens-varld-manniskans-forsta-krig/
 name: svt-vetenskapens-varld-manniskans-forsta-krig
-path: /2013/07/08/svt-vetenskapens-varld-manniskans-forsta-krig/
 tags:
 - name: darwinism
   value: darwinism

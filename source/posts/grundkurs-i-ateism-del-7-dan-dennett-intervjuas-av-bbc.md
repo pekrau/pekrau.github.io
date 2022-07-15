@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-04-01'
-link: https://kraulis.wordpress.com/2013/04/01/grundkurs-i-ateism-del-7-dan-dennett-intervjuas-av-bbc/
 name: grundkurs-i-ateism-del-7-dan-dennett-intervjuas-av-bbc
-path: /2013/04/01/grundkurs-i-ateism-del-7-dan-dennett-intervjuas-av-bbc/
 tags:
 - name: daniel-dennett
   value: Daniel Dennett

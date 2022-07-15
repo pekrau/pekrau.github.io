@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2015-10-24'
-link: https://kraulis.wordpress.com/2015/10/24/mattias-goldmanns-obegripliga-lattsinne-om-invandringen/
 name: mattias-goldmanns-obegripliga-lattsinne-om-invandringen
-path: /2015/10/24/mattias-goldmanns-obegripliga-lattsinne-om-invandringen/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

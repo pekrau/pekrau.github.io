@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2015-09-26'
-link: https://kraulis.wordpress.com/2015/09/26/pavens-sa-kallade-radikalitet/
 name: pavens-sa-kallade-radikalitet
-path: /2015/09/26/pavens-sa-kallade-radikalitet/
 tags:
 - name: franciskus
   value: Franciskus

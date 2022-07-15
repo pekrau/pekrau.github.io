@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-12-07'
-link: https://kraulis.wordpress.com/2013/12/07/valkyrian-i-berwaldhallen/
 name: valkyrian-i-berwaldhallen
-path: /2013/12/07/valkyrian-i-berwaldhallen/
 tags:
 - name: bryn-terfel
   value: Bryn Terfel

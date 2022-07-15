@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-04-01'
-link: https://kraulis.wordpress.com/2013/04/01/film-cloud-atlas/
 name: film-cloud-atlas
-path: /2013/04/01/film-cloud-atlas/
 tags:
 - name: film
   value: film

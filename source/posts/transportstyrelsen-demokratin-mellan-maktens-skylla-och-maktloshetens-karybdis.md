@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-07-27'
-link: https://kraulis.wordpress.com/2017/07/27/transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis/
 name: transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis
-path: /2017/07/27/transportstyrelsen-demokratin-mellan-maktens-skylla-och-maktloshetens-karybdis/
 tags:
 - name: demokrati
   value: demokrati

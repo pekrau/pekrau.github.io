@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-01-07'
-link: https://kraulis.wordpress.com/2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/
 name: lena-andersson-svarar-folj-poppers-tankestrukturer
-path: /2015/01/07/lena-andersson-svarar-folj-poppers-tankestrukturer/
 tags:
 - name: ayn-rand
   value: Ayn Rand

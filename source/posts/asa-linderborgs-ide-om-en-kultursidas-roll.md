@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-03-28'
-link: https://kraulis.wordpress.com/2013/03/28/asa-linderborgs-ide-om-en-kultursidas-roll/
 name: asa-linderborgs-ide-om-en-kultursidas-roll
-path: /2013/03/28/asa-linderborgs-ide-om-en-kultursidas-roll/
 tags:
 - name: asa-linderborg
   value: "\xC5sa Linderborg"

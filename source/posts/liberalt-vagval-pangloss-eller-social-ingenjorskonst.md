@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2019-12-08'
-link: https://kraulis.wordpress.com/2019/12/08/liberalt-vagval-pangloss-eller-social-ingenjorskonst/
 name: liberalt-vagval-pangloss-eller-social-ingenjorskonst
-path: /2019/12/08/liberalt-vagval-pangloss-eller-social-ingenjorskonst/
 tags:
 - name: invandring
   value: invandring

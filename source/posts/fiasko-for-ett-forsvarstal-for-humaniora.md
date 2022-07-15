@@ -9,9 +9,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-07-02'
-link: https://kraulis.wordpress.com/2015/07/02/fiasko-for-ett-forsvarstal-for-humaniora/
 name: fiasko-for-ett-forsvarstal-for-humaniora
-path: /2015/07/02/fiasko-for-ett-forsvarstal-for-humaniora/
 tags:
 - name: fritz-haber
   value: Fritz Haber

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-07-03'
-link: https://kraulis.wordpress.com/2018/07/03/djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette/
 name: djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette
-path: /2018/07/03/djavulens-liberal-sofia-nerbrand-spelar-marie-antoinette/
 tags:
 - name: bostader
   value: "bost\xE4der"

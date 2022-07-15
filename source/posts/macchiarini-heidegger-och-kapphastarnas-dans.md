@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-02-28'
-link: https://kraulis.wordpress.com/2016/02/28/macchiarini-heidegger-och-kapphastarnas-dans/
 name: macchiarini-heidegger-och-kapphastarnas-dans
-path: /2016/02/28/macchiarini-heidegger-och-kapphastarnas-dans/
 tags:
 - name: etik
   value: etik

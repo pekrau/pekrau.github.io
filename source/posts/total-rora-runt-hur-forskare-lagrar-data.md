@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2017-09-29'
-link: https://kraulis.wordpress.com/2017/09/29/total-rora-runt-hur-forskare-lagrar-data/
 name: total-rora-runt-hur-forskare-lagrar-data
-path: /2017/09/29/total-rora-runt-hur-forskare-lagrar-data/
 tags:
 - name: data-storage
   value: data storage

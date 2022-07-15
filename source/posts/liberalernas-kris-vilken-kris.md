@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2018-03-17'
-link: https://kraulis.wordpress.com/2018/03/17/liberalernas-kris-vilken-kris/
 name: liberalernas-kris-vilken-kris
-path: /2018/03/17/liberalernas-kris-vilken-kris/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

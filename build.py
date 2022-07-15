@@ -102,8 +102,14 @@ MARKDOWN = marko.Markdown(renderer=HTMLRenderer)
 def read_posts():
     "Read all Markdown files for blog posts and pre-process."
     for filename in os.listdir("source/posts"):
-        if filename.endswith("~"): continue
-        POSTS.append(read_md(f"source/posts/{filename}"))
+        if not filename.endswith(".md"): continue
+        post = read_md(f"source/posts/{filename}")
+        for key in ["name", "date", "categories"]:
+            if key not in post:
+                raise ValueError(f"post {filename} lacks '{key}'")
+        post["path"] = f"/{post['date'].replace('-','/')}/{post['name']}/"
+        if not post.get("draft"):
+            POSTS.append(post)
     POSTS.sort(key=lambda p: p["date"], reverse=True)
     POSTS[0]["prev"] = POSTS[1]
     POSTS[-1]["next"] = POSTS[-2]
@@ -230,14 +236,13 @@ def build_index():
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."
     # Index of all blog posts.
-    build_html("blog/index.html", "blog/index.html", posts=POSTS)
+    build_html("blog/index.html", posts=POSTS)
     # Index of all blog posts in English.
     en_posts = [p for p in POSTS if p.get("language") == "en"]
-    build_html("blog/en/index.html", "blog/en/index.html", posts=en_posts)
+    build_html("blog/en/index.html", posts=en_posts)
     # All blog post pages.
     for post in POSTS:
-        path = post["path"].strip("/")
-        build_html(f"{path}/index.html",
+        build_html(f"{post['path'].strip('/')}/index.html",
                    template="blog/post.html", 
                    sitemap=True,
                    post=post,

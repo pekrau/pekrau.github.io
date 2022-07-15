@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2015-08-19'
-link: https://kraulis.wordpress.com/2015/08/19/ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel/
 name: ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel
-path: /2015/08/19/ola-larsmo-om-liberalismen-och-sverigedemokraterna-ratt-men-fel/
 tags:
 - name: hakan-holmberg
   value: "H\xE5kan Holmberg"

@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-09-28'
-link: https://kraulis.wordpress.com/2016/09/28/porta-nazisterna/
 name: porta-nazisterna
-path: /2016/09/28/porta-nazisterna/
 tags:
 - name: daniel-poohl
   value: Daniel Poohl

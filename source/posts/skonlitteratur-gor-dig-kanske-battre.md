@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-10-07'
-link: https://kraulis.wordpress.com/2013/10/07/skonlitteratur-gor-dig-kanske-battre/
 name: skonlitteratur-gor-dig-kanske-battre
-path: /2013/10/07/skonlitteratur-gor-dig-kanske-battre/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2019-09-22'
-link: https://kraulis.wordpress.com/2019/09/22/den-liberala-demokratin-och-mangkulturen/
 name: den-liberala-demokratin-och-mangkulturen
-path: /2019/09/22/den-liberala-demokratin-och-mangkulturen/
 tags:
 - name: andreas-johansson-heino
   value: "Andreas Johansson Hein\xF6"

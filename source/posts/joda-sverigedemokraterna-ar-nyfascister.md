@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-12-12'
-link: https://kraulis.wordpress.com/2014/12/12/joda-sverigedemokraterna-ar-nyfascister/
 name: joda-sverigedemokraterna-ar-nyfascister
-path: /2014/12/12/joda-sverigedemokraterna-ar-nyfascister/
 tags:
 - name: adolf-hitler
   value: Adolf Hitler

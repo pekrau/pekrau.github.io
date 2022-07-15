@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-02-03'
-link: https://kraulis.wordpress.com/2016/02/03/en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal/
 name: en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal
-path: /2016/02/03/en-synpunkt-och-en-onskan-efter-kis-macchiarini-skandal/
 tags:
 - name: medicin
   value: medicin

@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-03-02'
-link: https://kraulis.wordpress.com/2013/03/02/charlotte-engelke-wagner-i-kaleidoskopet/
 name: charlotte-engelke-wagner-i-kaleidoskopet
-path: /2013/03/02/charlotte-engelke-wagner-i-kaleidoskopet/
 tags:
 - name: richard-wagner
   value: Richard Wagner
