@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-11-10'
-link: https://kraulis.wordpress.com/2013/11/10/gmo-och-framtidens-grodor/
 name: gmo-och-framtidens-grodor
-path: /2013/11/10/gmo-och-framtidens-grodor/
 tags:
 - name: genteknik
   value: genteknik

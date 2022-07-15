@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-04-28'
-link: https://kraulis.wordpress.com/2015/04/28/forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden/
 name: forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden
-path: /2015/04/28/forljuget-och-forvirrat-om-samvetsklausul-i-sjukvarden/
 tags:
 - name: abort
   value: abort

@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2018-08-26'
-link: https://kraulis.wordpress.com/2018/08/26/orsakade-klimatforandringarna-den-varma-sommaren-2018/
 name: orsakade-klimatforandringarna-den-varma-sommaren-2018
-path: /2018/08/26/orsakade-klimatforandringarna-den-varma-sommaren-2018/
 tags:
 - name: klimat
   value: Klimat

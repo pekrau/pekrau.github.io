@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-11-19'
-link: https://kraulis.wordpress.com/2015/11/19/att-lagga-all-skuld-pa-vast-ar-moralisk-rasism/
 name: att-lagga-all-skuld-pa-vast-ar-moralisk-rasism
-path: /2015/11/19/att-lagga-all-skuld-pa-vast-ar-moralisk-rasism/
 tags:
 - name: fascism
   value: fascism

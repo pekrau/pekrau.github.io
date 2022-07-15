@@ -7,9 +7,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2016-03-15'
-link: https://kraulis.wordpress.com/2016/03/15/maria-schottenius-hahahaha/
 name: maria-schottenius-hahahaha
-path: /2016/03/15/maria-schottenius-hahahaha/
 tags:
 - name: maria-schottenius
   value: Maria Schottenius

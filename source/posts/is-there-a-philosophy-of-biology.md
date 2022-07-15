@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-06-19'
-link: https://kraulis.wordpress.com/2016/06/19/is-there-a-philosophy-of-biology/
 name: is-there-a-philosophy-of-biology
-path: /2016/06/19/is-there-a-philosophy-of-biology/
 tags:
 - name: biologi
   value: biologi

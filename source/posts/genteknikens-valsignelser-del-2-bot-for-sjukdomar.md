@@ -3,9 +3,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-01-18'
-link: https://kraulis.wordpress.com/2014/01/18/genteknikens-valsignelser-del-2-bot-for-sjukdomar/
 name: genteknikens-valsignelser-del-2-bot-for-sjukdomar
-path: /2014/01/18/genteknikens-valsignelser-del-2-bot-for-sjukdomar/
 tags:
 - name: genteknik
   value: genteknik

@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-01-06'
-link: https://kraulis.wordpress.com/2013/01/06/pfaff-om-historia-och-framsteg/
 name: pfaff-om-historia-och-framsteg
-path: /2013/01/06/pfaff-om-historia-och-framsteg/
 tags:
 - name: historia
   value: historia

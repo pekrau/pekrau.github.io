@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-07-31'
-link: https://kraulis.wordpress.com/2015/07/31/vansterns-koma-det-klasslosa-samhallet-och-liberalismen/
 name: vansterns-koma-det-klasslosa-samhallet-och-liberalismen
-path: /2015/07/31/vansterns-koma-det-klasslosa-samhallet-och-liberalismen/
 tags:
 - name: medelklass
   value: medelklass

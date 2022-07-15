@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-02-01'
-link: https://kraulis.wordpress.com/2016/02/01/kan-liberaler-forsta-sverigedemokrater/
 name: kan-liberaler-forsta-sverigedemokrater
-path: /2016/02/01/kan-liberaler-forsta-sverigedemokrater/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-04-13'
-link: https://kraulis.wordpress.com/2014/04/13/lasse-berg-ut-ur-kalahari/
 name: lasse-berg-ut-ur-kalahari
-path: /2014/04/13/lasse-berg-ut-ur-kalahari/
 tags:
 - name: bok
   value: bok

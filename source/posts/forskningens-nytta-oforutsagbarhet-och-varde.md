@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-10-07'
-link: https://kraulis.wordpress.com/2015/10/07/forskningens-nytta-oforutsagbarhet-och-varde/
 name: forskningens-nytta-oforutsagbarhet-och-varde
-path: /2015/10/07/forskningens-nytta-oforutsagbarhet-och-varde/
 tags:
 - name: humaniora
   value: humaniora

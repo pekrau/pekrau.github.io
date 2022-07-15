@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-02-16'
-link: https://kraulis.wordpress.com/2013/02/16/grundkurs-i-ateism-del-4/
 name: grundkurs-i-ateism-del-4
-path: /2013/02/16/grundkurs-i-ateism-del-4/
 tags:
 - name: kristendom
   value: kristendom

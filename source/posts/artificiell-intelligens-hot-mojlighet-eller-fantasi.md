@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-07-07'
-link: https://kraulis.wordpress.com/2014/07/07/artificiell-intelligens-hot-mojlighet-eller-fantasi/
 name: artificiell-intelligens-hot-mojlighet-eller-fantasi
-path: /2014/07/07/artificiell-intelligens-hot-mojlighet-eller-fantasi/
 tags:
 - name: artifical-intelligence
   value: Artifical Intelligence

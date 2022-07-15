@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-07-17'
-link: https://kraulis.wordpress.com/2018/07/17/adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget/
 name: adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget
-path: /2018/07/17/adam-kjellgren-om-myter-i-politiken-det-meningsfulla-sammanhanget/
 tags:
 - name: karl-popper
   value: Karl Popper

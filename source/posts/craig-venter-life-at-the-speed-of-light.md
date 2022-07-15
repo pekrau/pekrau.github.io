@@ -3,9 +3,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-03-23'
-link: https://kraulis.wordpress.com/2014/03/23/craig-venter-life-at-the-speed-of-light/
 name: craig-venter-life-at-the-speed-of-light
-path: /2014/03/23/craig-venter-life-at-the-speed-of-light/
 tags:
 - name: biologi
   value: biologi

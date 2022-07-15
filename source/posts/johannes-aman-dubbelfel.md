@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-02-04'
-link: https://kraulis.wordpress.com/2013/02/04/johannes-aman-dubbelfel/
 name: johannes-aman-dubbelfel
-path: /2013/02/04/johannes-aman-dubbelfel/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

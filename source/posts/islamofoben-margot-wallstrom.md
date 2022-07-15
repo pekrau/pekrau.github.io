@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-03-20'
-link: https://kraulis.wordpress.com/2015/03/20/islamofoben-margot-wallstrom/
 name: islamofoben-margot-wallstrom
-path: /2015/03/20/islamofoben-margot-wallstrom/
 tags:
 - name: islam
   value: Islam

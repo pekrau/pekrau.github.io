@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-12-23'
-link: https://kraulis.wordpress.com/2015/12/23/politik-eller-religion-vad-menar-stefan-arvidsson/
 name: politik-eller-religion-vad-menar-stefan-arvidsson
-path: /2015/12/23/politik-eller-religion-vad-menar-stefan-arvidsson/
 tags:
 - name: oppna-samhallet
   value: "\xF6ppna samh\xE4llet"

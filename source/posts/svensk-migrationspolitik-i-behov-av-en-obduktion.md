@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2018-04-24'
-link: https://kraulis.wordpress.com/2018/04/24/svensk-migrationspolitik-i-behov-av-en-obduktion/
 name: svensk-migrationspolitik-i-behov-av-en-obduktion
-path: /2018/04/24/svensk-migrationspolitik-i-behov-av-en-obduktion/
 tags:
 - name: centern
   value: Centern

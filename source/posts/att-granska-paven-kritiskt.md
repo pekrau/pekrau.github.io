@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-01-27'
-link: https://kraulis.wordpress.com/2016/01/27/att-granska-paven-kritiskt/
 name: att-granska-paven-kritiskt
-path: /2016/01/27/att-granska-paven-kritiskt/
 tags:
 - name: katolska-kyrkan
   value: katolska kyrkan

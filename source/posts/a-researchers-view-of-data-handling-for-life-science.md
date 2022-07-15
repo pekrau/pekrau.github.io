@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-06-21'
-link: https://kraulis.wordpress.com/2016/06/21/a-researchers-view-of-data-handling-for-life-science/
 name: a-researchers-view-of-data-handling-for-life-science
-path: /2016/06/21/a-researchers-view-of-data-handling-for-life-science/
 tags:
 - name: big-data
   value: Big Data

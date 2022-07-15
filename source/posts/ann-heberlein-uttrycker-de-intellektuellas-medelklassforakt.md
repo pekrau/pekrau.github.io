@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-29'
-link: https://kraulis.wordpress.com/2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/
 name: ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt
-path: /2013/11/29/ann-heberlein-uttrycker-de-intellektuellas-medelklassforakt/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-01-04'
-link: https://kraulis.wordpress.com/2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/
 name: lena-anderssons-dolda-agenda-om-popper-och-postmodernismen
-path: /2015/01/04/lena-anderssons-dolda-agenda-om-popper-och-postmodernismen/
 tags:
 - name: ayn-rand
   value: Ayn Rand

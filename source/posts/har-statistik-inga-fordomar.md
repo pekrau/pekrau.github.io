@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2017-01-17'
-link: https://kraulis.wordpress.com/2017/01/17/har-statistik-inga-fordomar/
 name: har-statistik-inga-fordomar
-path: /2017/01/17/har-statistik-inga-fordomar/
 tags:
 - name: invandring
   value: invandring

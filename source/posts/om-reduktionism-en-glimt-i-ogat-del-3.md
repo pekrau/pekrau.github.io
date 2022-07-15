@@ -3,9 +3,7 @@ categories:
 - name: filosofi-philosophy
   value: Filosofi (philosophy)
 date: '2015-07-28'
-link: https://kraulis.wordpress.com/2015/07/28/om-reduktionism-en-glimt-i-ogat-del-3/
 name: om-reduktionism-en-glimt-i-ogat-del-3
-path: /2015/07/28/om-reduktionism-en-glimt-i-ogat-del-3/
 tags:
 - name: johannes-vermeer
   value: Johannes Vermeer

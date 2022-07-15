@@ -9,9 +9,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-04'
-link: https://kraulis.wordpress.com/2013/11/04/filosofen-wagner-och-nazismen-del-2/
 name: filosofen-wagner-och-nazismen-del-2
-path: /2013/11/04/filosofen-wagner-och-nazismen-del-2/
 tags:
 - name: extremhoger
   value: "extremh\xF6ger"

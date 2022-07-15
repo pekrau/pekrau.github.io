@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-12-12'
-link: https://kraulis.wordpress.com/2016/12/12/godhet-egoism-kylig-berakning/
 name: godhet-egoism-kylig-berakning
-path: /2016/12/12/godhet-egoism-kylig-berakning/
 tags:
 - name: amanda-bjorkman
   value: "Amanda Bj\xF6rkman"

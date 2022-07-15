@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-02-13'
-link: https://kraulis.wordpress.com/2013/02/13/nike-markelius-att-skapa-en-underklass/
 name: nike-markelius-att-skapa-en-underklass
-path: /2013/02/13/nike-markelius-att-skapa-en-underklass/
 tags:
 - name: medelklass
   value: medelklass

@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2013-01-05'
-link: https://kraulis.wordpress.com/2013/01/05/grundkurs-i-ateism-del-2/
 name: grundkurs-i-ateism-del-2
-path: /2013/01/05/grundkurs-i-ateism-del-2/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

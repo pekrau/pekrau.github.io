@@ -9,9 +9,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-11'
-link: https://kraulis.wordpress.com/2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/
 name: hans-ruins-slingerbultar-om-heidegger-och-nazismen
-path: /2013/11/11/hans-ruins-slingerbultar-om-heidegger-och-nazismen/
 tags:
 - name: extremhoger
   value: "extremh\xF6ger"

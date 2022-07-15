@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-09-04'
-link: https://kraulis.wordpress.com/2016/09/04/liberal-debatt-med-lennart-nordfors/
 name: liberal-debatt-med-lennart-nordfors
-path: /2016/09/04/liberal-debatt-med-lennart-nordfors/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

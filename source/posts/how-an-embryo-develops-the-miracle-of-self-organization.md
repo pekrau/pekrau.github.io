@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-09-29'
-link: https://kraulis.wordpress.com/2016/09/29/how-an-embryo-develops-the-miracle-of-self-organization/
 name: how-an-embryo-develops-the-miracle-of-self-organization
-path: /2016/09/29/how-an-embryo-develops-the-miracle-of-self-organization/
 tags:
 - name: aristoteles
   value: Aristoteles

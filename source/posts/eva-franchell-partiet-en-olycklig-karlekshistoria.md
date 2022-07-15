@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-02-27'
-link: https://kraulis.wordpress.com/2013/02/27/eva-franchell-partiet-en-olycklig-karlekshistoria/
 name: eva-franchell-partiet-en-olycklig-karlekshistoria
-path: /2013/02/27/eva-franchell-partiet-en-olycklig-karlekshistoria/
 tags:
 - name: bok
   value: bok

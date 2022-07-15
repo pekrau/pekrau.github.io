@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-07-10'
-link: https://kraulis.wordpress.com/2017/07/10/sverker-sorlin-om-antropocen-en-besvikelse/
 name: sverker-sorlin-om-antropocen-en-besvikelse
-path: /2017/07/10/sverker-sorlin-om-antropocen-en-besvikelse/
 tags:
 - name: antropocen
   value: antropocen

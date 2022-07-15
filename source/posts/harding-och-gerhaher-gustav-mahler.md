@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2014-01-24'
-link: https://kraulis.wordpress.com/2014/01/24/harding-och-gerhaher-gustav-mahler/
 name: harding-och-gerhaher-gustav-mahler
-path: /2014/01/24/harding-och-gerhaher-gustav-mahler/
 tags:
 - name: christian-gerhaher
   value: Christian Gerhaher

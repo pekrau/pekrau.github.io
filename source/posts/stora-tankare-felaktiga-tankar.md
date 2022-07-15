@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-05-09'
-link: https://kraulis.wordpress.com/2016/05/09/stora-tankare-felaktiga-tankar/
 name: stora-tankare-felaktiga-tankar
-path: /2016/05/09/stora-tankare-felaktiga-tankar/
 tags:
 - name: claudio-monteverdi
   value: Claudio Monteverdi

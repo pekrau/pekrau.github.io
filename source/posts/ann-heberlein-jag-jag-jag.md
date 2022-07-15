@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-04-05'
-link: https://kraulis.wordpress.com/2015/04/05/ann-heberlein-jag-jag-jag/
 name: ann-heberlein-jag-jag-jag
-path: /2015/04/05/ann-heberlein-jag-jag-jag/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

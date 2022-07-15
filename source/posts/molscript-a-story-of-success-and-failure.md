@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-11-03'
-link: https://kraulis.wordpress.com/2014/11/03/molscript-a-story-of-success-and-failure/
 name: molscript-a-story-of-success-and-failure
-path: /2014/11/03/molscript-a-story-of-success-and-failure/
 tags:
 - name: molscript
   value: MolScript

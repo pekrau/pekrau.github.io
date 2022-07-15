@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-02-24'
-link: https://kraulis.wordpress.com/2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/
 name: gomda-flyktingar-fri-invandring-eller-inte
-path: /2013/02/24/gomda-flyktingar-fri-invandring-eller-inte/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

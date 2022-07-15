@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2015-08-10'
-link: https://kraulis.wordpress.com/2015/08/10/tva-artiklar-publicerade/
 name: tva-artiklar-publicerade
-path: /2015/08/10/tva-artiklar-publicerade/
 title: "Tv\xE5 artiklar publicerade"
 type: post
 ---

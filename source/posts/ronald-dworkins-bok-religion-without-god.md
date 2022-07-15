@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-12-29'
-link: https://kraulis.wordpress.com/2014/12/29/ronald-dworkins-bok-religion-without-god/
 name: ronald-dworkins-bok-religion-without-god
-path: /2014/12/29/ronald-dworkins-bok-religion-without-god/
 tags:
 - name: eutyfron
   value: Eutyfron

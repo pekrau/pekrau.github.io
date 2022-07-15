@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2014-02-12'
-link: https://kraulis.wordpress.com/2014/02/12/hoghus-som-symbol-i-staden/
 name: hoghus-som-symbol-i-staden
-path: /2014/02/12/hoghus-som-symbol-i-staden/
 tags:
 - name: hoghus
   value: "h\xF6ghus"

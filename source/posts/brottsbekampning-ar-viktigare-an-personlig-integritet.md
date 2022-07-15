@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-09-01'
-link: https://kraulis.wordpress.com/2015/09/01/brottsbekampning-ar-viktigare-an-personlig-integritet/
 name: brottsbekampning-ar-viktigare-an-personlig-integritet
-path: /2015/09/01/brottsbekampning-ar-viktigare-an-personlig-integritet/
 tags:
 - name: integritet
   value: integritet

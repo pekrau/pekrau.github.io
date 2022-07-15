@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-05-21'
-link: https://kraulis.wordpress.com/2017/05/21/eventuell-reform-av-islam-forutsatter-ett-sekulart-samhalle/
 name: eventuell-reform-av-islam-forutsatter-ett-sekulart-samhalle
-path: /2017/05/21/eventuell-reform-av-islam-forutsatter-ett-sekulart-samhalle/
 tags:
 - name: islam
   value: Islam

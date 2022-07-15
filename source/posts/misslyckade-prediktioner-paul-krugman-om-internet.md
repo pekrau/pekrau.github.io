@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-06'
-link: https://kraulis.wordpress.com/2013/11/06/misslyckade-prediktioner-paul-krugman-om-internet/
 name: misslyckade-prediktioner-paul-krugman-om-internet
-path: /2013/11/06/misslyckade-prediktioner-paul-krugman-om-internet/
 tags:
 - name: internet
   value: Internet

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-07-05'
-link: https://kraulis.wordpress.com/2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/
 name: djavulens-liberal-per-svensson-har-svart-att-forsta
-path: /2018/07/05/djavulens-liberal-per-svensson-har-svart-att-forsta/
 tags:
 - name: antiliberalism
   value: antiliberalism

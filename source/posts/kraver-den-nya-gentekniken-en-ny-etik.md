@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2015-12-14'
-link: https://kraulis.wordpress.com/2015/12/14/kraver-den-nya-gentekniken-en-ny-etik/
 name: kraver-den-nya-gentekniken-en-ny-etik
-path: /2015/12/14/kraver-den-nya-gentekniken-en-ny-etik/
 tags:
 - name: crispr-cas-9
   value: CRISPR/Cas-9

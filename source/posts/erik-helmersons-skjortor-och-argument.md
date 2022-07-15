@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-11-09'
-link: https://kraulis.wordpress.com/2015/11/09/erik-helmersons-skjortor-och-argument/
 name: erik-helmersons-skjortor-och-argument
-path: /2015/11/09/erik-helmersons-skjortor-och-argument/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

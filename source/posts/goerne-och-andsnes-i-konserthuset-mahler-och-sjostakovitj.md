@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2014-01-17'
-link: https://kraulis.wordpress.com/2014/01/17/goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj/
 name: goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj
-path: /2014/01/17/goerne-och-andsnes-i-konserthuset-mahler-och-sjostakovitj/
 tags:
 - name: dimitrij-sjostakovitj
   value: Dimitrij Sjostakovitj

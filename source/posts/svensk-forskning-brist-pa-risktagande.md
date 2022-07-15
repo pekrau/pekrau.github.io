@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2012-10-28'
-link: https://kraulis.wordpress.com/2012/10/28/svensk-forskning-brist-pa-risktagande/
 name: svensk-forskning-brist-pa-risktagande
-path: /2012/10/28/svensk-forskning-brist-pa-risktagande/
 tags:
 - name: open-access
   value: Open Access

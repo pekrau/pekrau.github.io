@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-03-23'
-link: https://kraulis.wordpress.com/2015/03/23/radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source/
 name: radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source
-path: /2015/03/23/radda-det-kulturella-varldsarvet-sprid-det-och-gor-det-open-source/
 tags:
 - name: 3d-scanning
   value: 3D scanning

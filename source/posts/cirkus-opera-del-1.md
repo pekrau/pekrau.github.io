@@ -7,9 +7,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-09-11'
-link: https://kraulis.wordpress.com/2013/09/11/cirkus-opera-del-1/
 name: cirkus-opera-del-1
-path: /2013/09/11/cirkus-opera-del-1/
 tags:
 - name: opera
   value: opera

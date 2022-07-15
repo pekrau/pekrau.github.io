@@ -5,9 +5,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2017-04-21'
-link: https://kraulis.wordpress.com/2017/04/21/meningen-med-livet/
 name: meningen-med-livet
-path: /2017/04/21/meningen-med-livet/
 tags:
 - name: eutyfron
   value: Eutyfron

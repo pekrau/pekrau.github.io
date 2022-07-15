@@ -8,9 +8,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-05-22'
-link: https://kraulis.wordpress.com/2016/05/22/motesplats-open-access-2016-open-science-needs-infrastructure/
 name: motesplats-open-access-2016-open-science-needs-infrastructure
-path: /2016/05/22/motesplats-open-access-2016-open-science-needs-infrastructure/
 tags:
 - name: data-storage
   value: data storage

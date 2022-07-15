@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-04-05'
-link: https://kraulis.wordpress.com/2014/04/05/lidija-praizovic-faller-i-den-egna-gropen/
 name: lidija-praizovic-faller-i-den-egna-gropen
-path: /2014/04/05/lidija-praizovic-faller-i-den-egna-gropen/
 tags:
 - name: asa-linderborg
   value: "\xC5sa Linderborg"

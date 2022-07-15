@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2012-12-29'
-link: https://kraulis.wordpress.com/2012/12/29/grundkurs-i-ateism-del-1/
 name: grundkurs-i-ateism-del-1
-path: /2012/12/29/grundkurs-i-ateism-del-1/
 tags:
 - name: bertrand-russell
   value: Bertrand Russell

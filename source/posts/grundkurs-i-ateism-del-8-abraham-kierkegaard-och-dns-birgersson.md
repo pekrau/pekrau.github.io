@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-05-08'
-link: https://kraulis.wordpress.com/2013/05/08/grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson/
 name: grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson
-path: /2013/05/08/grundkurs-i-ateism-del-8-abraham-kierkegaard-och-dns-birgersson/
 tags:
 - name: bok
   value: bok

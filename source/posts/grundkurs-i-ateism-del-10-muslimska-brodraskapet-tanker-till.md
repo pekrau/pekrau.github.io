@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2013-12-05'
-link: https://kraulis.wordpress.com/2013/12/05/grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till/
 name: grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till
-path: /2013/12/05/grundkurs-i-ateism-del-10-muslimska-brodraskapet-tanker-till/
 tags:
 - name: muslimska-brodraskapet
   value: "Muslimska br\xF6draskapet"

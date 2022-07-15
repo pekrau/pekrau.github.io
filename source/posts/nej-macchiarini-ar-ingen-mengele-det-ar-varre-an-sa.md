@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-02-14'
-link: https://kraulis.wordpress.com/2016/02/14/nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa/
 name: nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa
-path: /2016/02/14/nej-macchiarini-ar-ingen-mengele-det-ar-varre-an-sa/
 tags:
 - name: forskningsfusk
   value: forskningsfusk

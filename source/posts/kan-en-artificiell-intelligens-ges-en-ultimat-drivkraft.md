@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2014-07-08'
-link: https://kraulis.wordpress.com/2014/07/08/kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft/
 name: kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft
-path: /2014/07/08/kan-en-artificiell-intelligens-ges-en-ultimat-drivkraft/
 tags:
 - name: artifical-intelligence
   value: Artifical Intelligence

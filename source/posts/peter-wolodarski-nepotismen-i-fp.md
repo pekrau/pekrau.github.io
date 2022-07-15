@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2013-01-27'
-link: https://kraulis.wordpress.com/2013/01/27/peter-wolodarski-nepotismen-i-fp/
 name: peter-wolodarski-nepotismen-i-fp
-path: /2013/01/27/peter-wolodarski-nepotismen-i-fp/
 tags:
 - name: dagens-nyheter
   value: Dagens Nyheter

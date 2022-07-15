@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-07-16'
-link: https://kraulis.wordpress.com/2017/07/16/transportstyrelsens-landsforraderi/
 name: transportstyrelsens-landsforraderi
-path: /2017/07/16/transportstyrelsens-landsforraderi/
 tags:
 - name: transportstyrelsen
   value: Transportstyrelsen

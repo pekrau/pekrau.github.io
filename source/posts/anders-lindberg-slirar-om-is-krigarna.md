@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-05-24'
-link: https://kraulis.wordpress.com/2015/05/24/anders-lindberg-slirar-om-is-krigarna/
 name: anders-lindberg-slirar-om-is-krigarna
-path: /2015/05/24/anders-lindberg-slirar-om-is-krigarna/
 tags:
 - name: anders-lindberg
   value: Anders Lindberg

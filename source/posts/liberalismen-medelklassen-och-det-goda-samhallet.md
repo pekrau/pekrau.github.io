@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-12-04'
-link: https://kraulis.wordpress.com/2013/12/04/liberalismen-medelklassen-och-det-goda-samhallet/
 name: liberalismen-medelklassen-och-det-goda-samhallet
-path: /2013/12/04/liberalismen-medelklassen-och-det-goda-samhallet/
 tags:
 - name: ann-heberlein
   value: Ann Heberlein

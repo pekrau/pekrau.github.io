@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-11-13'
-link: https://kraulis.wordpress.com/2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/
 name: grundkurs-i-ateism-del-9-marcus-birro
-path: /2013/11/13/grundkurs-i-ateism-del-9-marcus-birro/
 tags:
 - name: eutyfron
   value: Eutyfron

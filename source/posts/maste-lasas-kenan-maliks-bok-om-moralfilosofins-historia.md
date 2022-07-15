@@ -7,9 +7,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2015-02-15'
-link: https://kraulis.wordpress.com/2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/
 name: maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia
-path: /2015/02/15/maste-lasas-kenan-maliks-bok-om-moralfilosofins-historia/
 tags:
 - name: alasdair-macintyre
   value: Alasdair MacIntyre

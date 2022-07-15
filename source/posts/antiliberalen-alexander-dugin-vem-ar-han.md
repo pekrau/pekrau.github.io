@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-05-10'
-link: https://kraulis.wordpress.com/2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/
 name: antiliberalen-alexander-dugin-vem-ar-han
-path: /2014/05/10/antiliberalen-alexander-dugin-vem-ar-han/
 tags:
 - name: 4pt
   value: 4PT

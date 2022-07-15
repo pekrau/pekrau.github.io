@@ -3,9 +3,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-02-02'
-link: https://kraulis.wordpress.com/2014/02/02/den-sociala-kompetensens-tyranni-och-idioti/
 name: den-sociala-kompetensens-tyranni-och-idioti
-path: /2014/02/02/den-sociala-kompetensens-tyranni-och-idioti/
 tags:
 - name: arbetsliv
   value: arbetsliv

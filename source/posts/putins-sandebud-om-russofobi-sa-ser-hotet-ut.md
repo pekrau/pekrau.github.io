@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-06-08'
-link: https://kraulis.wordpress.com/2014/06/08/putins-sandebud-om-russofobi-sa-ser-hotet-ut/
 name: putins-sandebud-om-russofobi-sa-ser-hotet-ut
-path: /2014/06/08/putins-sandebud-om-russofobi-sa-ser-hotet-ut/
 tags:
 - name: finland
   value: Finland

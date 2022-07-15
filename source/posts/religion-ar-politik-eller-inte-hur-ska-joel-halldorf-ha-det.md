@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-02-19'
-link: https://kraulis.wordpress.com/2016/02/19/religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det/
 name: religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det
-path: /2016/02/19/religion-ar-politik-eller-inte-hur-ska-joel-halldorf-ha-det/
 tags:
 - name: franciskus
   value: Franciskus

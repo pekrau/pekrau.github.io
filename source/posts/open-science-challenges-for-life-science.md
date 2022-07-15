@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-04-10'
-link: https://kraulis.wordpress.com/2016/04/10/open-science-challenges-for-life-science/
 name: open-science-challenges-for-life-science
-path: /2016/04/10/open-science-challenges-for-life-science/
 tags:
 - name: data-storage
   value: data storage

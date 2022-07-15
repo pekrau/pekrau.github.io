@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-08-23'
-link: https://kraulis.wordpress.com/2017/08/23/rappakalja-om-negativa-media-och-invandring/
 name: rappakalja-om-negativa-media-och-invandring
-path: /2017/08/23/rappakalja-om-negativa-media-och-invandring/
 tags:
 - name: invandring
   value: invandring

@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2017-09-19'
-link: https://kraulis.wordpress.com/2017/09/19/nazismen-och-gransen-for-toleransen/
 name: nazismen-och-gransen-for-toleransen
-path: /2017/09/19/nazismen-och-gransen-for-toleransen/
 tags:
 - name: demokrati
   value: demokrati

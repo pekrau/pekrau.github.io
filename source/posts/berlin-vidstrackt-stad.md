@@ -3,9 +3,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2012-10-18'
-link: https://kraulis.wordpress.com/2012/10/18/berlin-vidstrackt-stad/
 name: berlin-vidstrackt-stad
-path: /2012/10/18/berlin-vidstrackt-stad/
 tags:
 - name: berlin
   value: Berlin

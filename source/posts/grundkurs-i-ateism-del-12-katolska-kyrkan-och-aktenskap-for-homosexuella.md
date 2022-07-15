@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-05-30'
-link: https://kraulis.wordpress.com/2015/05/30/grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella/
 name: grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella
-path: /2015/05/30/grundkurs-i-ateism-del-12-katolska-kyrkan-och-aktenskap-for-homosexuella/
 tags:
 - name: franciskus
   value: Franciskus

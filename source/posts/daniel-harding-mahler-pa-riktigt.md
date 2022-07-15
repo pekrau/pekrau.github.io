@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-03-08'
-link: https://kraulis.wordpress.com/2013/03/08/daniel-harding-mahler-pa-riktigt/
 name: daniel-harding-mahler-pa-riktigt
-path: /2013/03/08/daniel-harding-mahler-pa-riktigt/
 tags:
 - name: daniel-harding
   value: Daniel Harding

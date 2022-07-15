@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-01-02'
-link: https://kraulis.wordpress.com/2013/01/02/framtidstro-och-klasskamp/
 name: framtidstro-och-klasskamp
-path: /2013/01/02/framtidstro-och-klasskamp/
 tags:
 - name: klasskamp
   value: klasskamp

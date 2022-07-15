@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2017-01-29'
-link: https://kraulis.wordpress.com/2017/01/29/trumpismo-vad-bor-goras/
 name: trumpismo-vad-bor-goras
-path: /2017/01/29/trumpismo-vad-bor-goras/
 tags:
 - name: donald-trump
   value: Donald Trump

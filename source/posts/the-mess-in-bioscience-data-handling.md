@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-04-02'
-link: https://kraulis.wordpress.com/2016/04/02/the-mess-in-bioscience-data-handling/
 name: the-mess-in-bioscience-data-handling
-path: /2016/04/02/the-mess-in-bioscience-data-handling/
 tags:
 - name: big-data
   value: Big Data

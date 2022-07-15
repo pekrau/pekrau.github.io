@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-02-16'
-link: https://kraulis.wordpress.com/2018/02/16/den-ynkliga-retratten-fran-fornekandet-av-hedersmorden/
 name: den-ynkliga-retratten-fran-fornekandet-av-hedersmorden
-path: /2018/02/16/den-ynkliga-retratten-fran-fornekandet-av-hedersmorden/
 tags:
 - name: hederskultur
   value: hederskultur

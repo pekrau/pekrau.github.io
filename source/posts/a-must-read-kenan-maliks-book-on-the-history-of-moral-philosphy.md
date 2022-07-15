@@ -8,9 +8,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2015-02-16'
-link: https://kraulis.wordpress.com/2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/
 name: a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy
-path: /2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/
 tags:
 - name: alasdair-macintyre
   value: Alasdair MacIntyre

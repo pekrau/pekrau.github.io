@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2013-08-25'
-link: https://kraulis.wordpress.com/2013/08/25/tror-vi-pa-nybyggarkommissionen/
 name: tror-vi-pa-nybyggarkommissionen
-path: /2013/08/25/tror-vi-pa-nybyggarkommissionen/
 tags:
 - name: stockholm
   value: Stockholm

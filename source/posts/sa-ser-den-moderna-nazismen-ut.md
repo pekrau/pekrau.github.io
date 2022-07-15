@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-05-28'
-link: https://kraulis.wordpress.com/2014/05/28/sa-ser-den-moderna-nazismen-ut/
 name: sa-ser-den-moderna-nazismen-ut
-path: /2014/05/28/sa-ser-den-moderna-nazismen-ut/
 tags:
 - name: europa
   value: Europa

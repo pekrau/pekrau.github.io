@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-12-02'
-link: https://kraulis.wordpress.com/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/
 name: karl-popper-det-oppna-samhallet-och-dess-fiender
-path: /2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/
 tags:
 - name: gwf-hegel
   value: GWF Hegel

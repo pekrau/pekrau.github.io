@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2014-12-05'
-link: https://kraulis.wordpress.com/2014/12/05/juholt-2-0/
 name: juholt-2-0
-path: /2014/12/05/juholt-2-0/
 tags:
 - name: hakan-juholt
   value: "H\xE5kan Juholt"

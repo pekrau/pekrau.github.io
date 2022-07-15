@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2016-07-02'
-link: https://kraulis.wordpress.com/2016/07/02/ar-liberala-politiker-posorer-eller-strateger/
 name: ar-liberala-politiker-posorer-eller-strateger
-path: /2016/07/02/ar-liberala-politiker-posorer-eller-strateger/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

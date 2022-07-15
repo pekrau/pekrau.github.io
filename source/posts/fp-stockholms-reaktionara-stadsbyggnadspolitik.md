@@ -5,9 +5,7 @@ categories:
 - name: stadsbyggnad
   value: Stadsbyggnad
 date: '2012-11-25'
-link: https://kraulis.wordpress.com/2012/11/25/fp-stockholms-reaktionara-stadsbyggnadspolitik/
 name: fp-stockholms-reaktionara-stadsbyggnadspolitik
-path: /2012/11/25/fp-stockholms-reaktionara-stadsbyggnadspolitik/
 tags:
 - name: stockholm
   value: Stockholm

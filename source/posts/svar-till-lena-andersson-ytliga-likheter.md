@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-01-08'
-link: https://kraulis.wordpress.com/2015/01/08/svar-till-lena-andersson-ytliga-likheter/
 name: svar-till-lena-andersson-ytliga-likheter
-path: /2015/01/08/svar-till-lena-andersson-ytliga-likheter/
 tags:
 - name: ayn-rand
   value: Ayn Rand

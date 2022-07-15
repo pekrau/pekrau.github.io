@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-11-14'
-link: https://kraulis.wordpress.com/2016/11/14/vi-behover-tanka-om/
 name: vi-behover-tanka-om
-path: /2016/11/14/vi-behover-tanka-om/
 tags:
 - name: karl-marx
   value: Karl Marx

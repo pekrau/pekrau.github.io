@@ -7,9 +7,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-03-29'
-link: https://kraulis.wordpress.com/2013/03/29/daniel-dennett-darwins-dangerous-idea/
 name: daniel-dennett-darwins-dangerous-idea
-path: /2013/03/29/daniel-dennett-darwins-dangerous-idea/
 tags:
 - name: bok
   value: bok

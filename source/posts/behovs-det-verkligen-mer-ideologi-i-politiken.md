@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-07-14'
-link: https://kraulis.wordpress.com/2013/07/14/behovs-det-verkligen-mer-ideologi-i-politiken/
 name: behovs-det-verkligen-mer-ideologi-i-politiken
-path: /2013/07/14/behovs-det-verkligen-mer-ideologi-i-politiken/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

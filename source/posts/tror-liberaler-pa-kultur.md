@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-09-26'
-link: https://kraulis.wordpress.com/2017/09/26/tror-liberaler-pa-kultur/
 name: tror-liberaler-pa-kultur
-path: /2017/09/26/tror-liberaler-pa-kultur/
 tags:
 - name: islam
   value: Islam

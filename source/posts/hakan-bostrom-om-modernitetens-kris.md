@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-01-09'
-link: https://kraulis.wordpress.com/2014/01/09/hakan-bostrom-om-modernitetens-kris/
 name: hakan-bostrom-om-modernitetens-kris
-path: /2014/01/09/hakan-bostrom-om-modernitetens-kris/
 tags:
 - name: birgitta-ohlsson
   value: Birgitta Ohlsson

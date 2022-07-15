@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-05-03'
-link: https://kraulis.wordpress.com/2015/05/03/yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare/
 name: yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare
-path: /2015/05/03/yttrandefrihet-charlie-hebdo-amerikanska-pen-och-6-forfattare/
 tags:
 - name: charlie-hebdo
   value: Charlie Hebdo

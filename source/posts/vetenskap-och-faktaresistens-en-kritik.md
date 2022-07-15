@@ -9,9 +9,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2019-02-10'
-link: https://kraulis.wordpress.com/2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/
 name: vetenskap-och-faktaresistens-en-kritik-2
-path: /2019/02/10/vetenskap-och-faktaresistens-en-kritik-2/
 tags:
 - name: asa-wikforss
   value: "\xC5sa Wikforss"

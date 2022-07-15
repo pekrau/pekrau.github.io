@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2012-11-05'
-link: https://kraulis.wordpress.com/2012/11/05/religion-och-klyschor/
 name: religion-och-klyschor
-path: /2012/11/05/religion-och-klyschor/
 tags:
 - name: moral
   value: moral

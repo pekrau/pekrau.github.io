@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-09-07'
-link: https://kraulis.wordpress.com/2016/09/07/antikrundan-och-svenska-varderingar/
 name: antikrundan-och-svenska-varderingar
-path: /2016/09/07/antikrundan-och-svenska-varderingar/
 tags:
 - name: ebba-busch-thor
   value: Ebba Busch Thor

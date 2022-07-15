@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-02-22'
-link: https://kraulis.wordpress.com/2014/02/22/revolution-allt-flyter/
 name: revolution-allt-flyter
-path: /2014/02/22/revolution-allt-flyter/
 tags:
 - name: asa-linderborg
   value: "\xC5sa Linderborg"

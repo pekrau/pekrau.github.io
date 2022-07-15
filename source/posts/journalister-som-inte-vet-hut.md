@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-09-11'
-link: https://kraulis.wordpress.com/2013/09/11/journalister-som-inte-vet-hut/
 name: journalister-som-inte-vet-hut
-path: /2013/09/11/journalister-som-inte-vet-hut/
 title: Journalister som inte vet hut
 type: post
 ---

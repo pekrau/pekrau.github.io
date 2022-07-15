@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-02-03'
-link: https://kraulis.wordpress.com/2013/02/03/stefan-folster-det-sociala-bakvattnet/
 name: stefan-folster-det-sociala-bakvattnet
-path: /2013/02/03/stefan-folster-det-sociala-bakvattnet/
 tags:
 - name: landsbygd
   value: landsbygd

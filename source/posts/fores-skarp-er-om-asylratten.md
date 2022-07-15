@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-10-15'
-link: https://kraulis.wordpress.com/2017/10/15/fores-skarp-er-om-asylratten/
 name: fores-skarp-er-om-asylratten
-path: /2017/10/15/fores-skarp-er-om-asylratten/
 tags:
 - name: flyktingpolitik
   value: flyktingpolitik

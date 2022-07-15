@@ -9,9 +9,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-08-28'
-link: https://kraulis.wordpress.com/2013/08/28/dygdernas-renassans-var-ar-skarpan/
 name: dygdernas-renassans-var-ar-skarpan
-path: /2013/08/28/dygdernas-renassans-var-ar-skarpan/
 tags:
 - name: dygdetik
   value: dygdetik

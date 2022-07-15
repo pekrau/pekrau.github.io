@@ -13,9 +13,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-05-12'
-link: https://kraulis.wordpress.com/2013/05/12/s-peter-davis-three-minute-philosophy/
 name: s-peter-davis-three-minute-philosophy
-path: /2013/05/12/s-peter-davis-three-minute-philosophy/
 title: 'S Peter Davis: Three Minute Philosophy'
 type: post
 ---

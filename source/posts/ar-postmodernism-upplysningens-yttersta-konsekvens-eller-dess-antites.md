@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-03-17'
-link: https://kraulis.wordpress.com/2015/03/17/ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites/
 name: ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites
-path: /2015/03/17/ar-postmodernism-upplysningens-yttersta-konsekvens-eller-dess-antites/
 tags:
 - name: jacques-derrida
   value: Jacques Derrida

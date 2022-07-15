@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2014-09-17'
-link: https://kraulis.wordpress.com/2014/09/17/sfpc-nej-fokusera-pa-det-politiska-projektet/
 name: sfpc-nej-fokusera-pa-det-politiska-projektet
-path: /2014/09/17/sfpc-nej-fokusera-pa-det-politiska-projektet/
 tags:
 - name: folkpartiet
   value: Folkpartiet

@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2016-02-07'
-link: https://kraulis.wordpress.com/2016/02/07/is-the-universe-made-for-life-a-really-bad-argument-for-god/
 name: is-the-universe-made-for-life-a-really-bad-argument-for-god
-path: /2016/02/07/is-the-universe-made-for-life-a-really-bad-argument-for-god/
 title: Is the universe made for life? A really bad argument for God.
 type: post
 ---

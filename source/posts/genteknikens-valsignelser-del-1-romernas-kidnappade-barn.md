@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-11-17'
-link: https://kraulis.wordpress.com/2013/11/17/genteknikens-valsignelser-del-1-romernas-kidnappade-barn/
 name: genteknikens-valsignelser-del-1-romernas-kidnappade-barn
-path: /2013/11/17/genteknikens-valsignelser-del-1-romernas-kidnappade-barn/
 tags:
 - name: genteknik
   value: genteknik

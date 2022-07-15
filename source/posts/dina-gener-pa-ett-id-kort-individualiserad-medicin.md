@@ -5,9 +5,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2013-06-19'
-link: https://kraulis.wordpress.com/2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/
 name: dina-gener-pa-ett-id-kort-individualiserad-medicin
-path: /2013/06/19/dina-gener-pa-ett-id-kort-individualiserad-medicin/
 tags:
 - name: genteknik
   value: genteknik

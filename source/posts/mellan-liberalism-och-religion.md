@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2020-12-25'
-link: https://kraulis.wordpress.com/2020/12/25/mellan-liberalism-och-religion/
 name: mellan-liberalism-och-religion
-path: /2020/12/25/mellan-liberalism-och-religion/
 tags:
 - name: joel-halldorf
   value: Joel Halldorf

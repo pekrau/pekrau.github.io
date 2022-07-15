@@ -3,9 +3,7 @@ categories:
 - name: politik
   value: Politik
 date: '2015-03-12'
-link: https://kraulis.wordpress.com/2015/03/12/reformpolitik-dod-eller-fel-fokus/
 name: reformpolitik-dod-eller-fel-fokus
-path: /2015/03/12/reformpolitik-dod-eller-fel-fokus/
 tags:
 - name: alliansen
   value: Alliansen

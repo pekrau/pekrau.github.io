@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2013-05-19'
-link: https://kraulis.wordpress.com/2013/05/19/humanioras-kris-slutet-pa-postmodernismen/
 name: humanioras-kris-slutet-pa-postmodernismen
-path: /2013/05/19/humanioras-kris-slutet-pa-postmodernismen/
 tags:
 - name: bok
   value: bok

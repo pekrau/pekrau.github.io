@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-06-13'
-link: https://kraulis.wordpress.com/2016/06/13/konfrontera-islams-demoner/
 name: konfrontera-islams-demoner
-path: /2016/06/13/konfrontera-islams-demoner/
 tags:
 - name: donald-trump
   value: Donald Trump

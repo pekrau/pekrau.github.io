@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-01-09'
-link: https://kraulis.wordpress.com/2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/
 name: lena-andersson-avslutar-essensbegreppet-ar-fruktbart
-path: /2015/01/09/lena-andersson-avslutar-essensbegreppet-ar-fruktbart/
 tags:
 - name: essentialism
   value: essentialism

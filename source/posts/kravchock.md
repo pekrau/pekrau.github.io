@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2015-06-11'
-link: https://kraulis.wordpress.com/2015/06/11/kravchock/
 name: kravchock
-path: /2015/06/11/kravchock/
 tags:
 - name: aftonbladet
   value: Aftonbladet

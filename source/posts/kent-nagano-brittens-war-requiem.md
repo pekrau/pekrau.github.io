@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2013-11-24'
-link: https://kraulis.wordpress.com/2013/11/24/kent-nagano-brittens-war-requiem/
 name: kent-nagano-brittens-war-requiem
-path: /2013/11/24/kent-nagano-brittens-war-requiem/
 tags:
 - name: benjamin-britten
   value: Benjamin Britten

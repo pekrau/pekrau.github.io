@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2019-10-23'
-link: https://kraulis.wordpress.com/2019/10/23/individualismen-manniskan-och-behovet-av-liberal-sjalvkritik/
 name: individualismen-manniskan-och-behovet-av-liberal-sjalvkritik
-path: /2019/10/23/individualismen-manniskan-och-behovet-av-liberal-sjalvkritik/
 tags:
 - name: edmund-burke
   value: Edmund Burke

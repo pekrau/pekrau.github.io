@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-06-18'
-link: https://kraulis.wordpress.com/2016/06/18/joel-halldorfs-berattelse-och-tystnad/
 name: joel-halldorfs-berattelse-och-tystnad
-path: /2016/06/18/joel-halldorfs-berattelse-och-tystnad/
 tags:
 - name: islamism
   value: islamism

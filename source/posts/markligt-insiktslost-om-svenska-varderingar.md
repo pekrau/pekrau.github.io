@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-12-04'
-link: https://kraulis.wordpress.com/2016/12/04/markligt-insiktslost-om-svenska-varderingar/
 name: markligt-insiktslost-om-svenska-varderingar
-path: /2016/12/04/markligt-insiktslost-om-svenska-varderingar/
 tags:
 - name: individualism
   value: individualism

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-01-15'
-link: https://kraulis.wordpress.com/2018/01/15/samarbetets-bistra-forutsattningar/
 name: samarbetets-bistra-forutsattningar
-path: /2018/01/15/samarbetets-bistra-forutsattningar/
 tags:
 - name: allmanningen
   value: "allm\xE4nningen"

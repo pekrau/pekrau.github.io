@@ -3,9 +3,7 @@ categories:
 - name: kultur
   value: Kultur
 date: '2015-11-26'
-link: https://kraulis.wordpress.com/2015/11/26/mahler-och-widmann-med-daniel-harding/
 name: mahler-och-widmann-med-daniel-harding
-path: /2015/11/26/mahler-och-widmann-med-daniel-harding/
 tags:
 - name: antoine-tamestis
   value: Antoine Tamestis

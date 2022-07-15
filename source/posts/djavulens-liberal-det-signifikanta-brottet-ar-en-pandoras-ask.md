@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-08-31'
-link: https://kraulis.wordpress.com/2018/08/31/djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask/
 name: djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask
-path: /2018/08/31/djavulens-liberal-det-signifikanta-brottet-ar-en-pandoras-ask/
 tags:
 - name: invandring
   value: invandring

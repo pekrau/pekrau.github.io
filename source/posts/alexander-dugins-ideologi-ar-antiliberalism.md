@@ -7,9 +7,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2017-02-05'
-link: https://kraulis.wordpress.com/2017/02/05/alexander-dugins-ideologi-ar-antiliberalism/
 name: alexander-dugins-ideologi-ar-antiliberalism
-path: /2017/02/05/alexander-dugins-ideologi-ar-antiliberalism/
 tags:
 - name: 4pt
   value: 4PT

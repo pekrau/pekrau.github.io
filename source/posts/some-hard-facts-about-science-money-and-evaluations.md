@@ -6,9 +6,7 @@ categories:
 - name: vetenskap-science
   value: Vetenskap (science)
 date: '2017-03-26'
-link: https://kraulis.wordpress.com/2017/03/26/some-hard-facts-about-science-money-and-evaluations/
 name: some-hard-facts-about-science-money-and-evaluations
-path: /2017/03/26/some-hard-facts-about-science-money-and-evaluations/
 tags:
 - name: open-science
   value: Open Science

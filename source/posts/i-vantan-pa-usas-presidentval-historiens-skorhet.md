@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2016-11-08'
-link: https://kraulis.wordpress.com/2016/11/08/i-vantan-pa-usas-presidentval-historiens-skorhet/
 name: i-vantan-pa-usas-presidentval-historiens-skorhet
-path: /2016/11/08/i-vantan-pa-usas-presidentval-historiens-skorhet/
 tags:
 - name: donald-trump
   value: Donald Trump

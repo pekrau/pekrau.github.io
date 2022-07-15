@@ -3,9 +3,7 @@ categories:
 - name: religion-vs-ateism
   value: Religion vs ateism
 date: '2016-01-26'
-link: https://kraulis.wordpress.com/2016/01/26/nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus/
 name: nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus
-path: /2016/01/26/nar-paven-kommer-pa-tal-tar-det-kritiska-sinnelaget-paus/
 tags:
 - name: joel-halldorf
   value: Joel Halldorf

@@ -5,9 +5,7 @@ categories:
 - name: samhalle
   value: "Samh\xE4lle"
 date: '2018-01-28'
-link: https://kraulis.wordpress.com/2018/01/28/socialister-som-alskar-klassamhallet/
 name: socialister-som-alskar-klassamhallet
-path: /2018/01/28/socialister-som-alskar-klassamhallet/
 tags:
 - name: daniel-suhonen
   value: Daniel Suhonen
