@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.8.0"
+__version__ = "0.9.0"
 
 import csv
 import json
@@ -88,20 +88,37 @@ env.globals["sorted"] = sorted
 
 
 class HTMLRenderer(marko.html_renderer.HTMLRenderer):
-    "Modify output for Bootstrap and other changes."
+    "Modify output for Bootstrap 5."
 
     def render_quote(self, element):
-        "Add blockquote output class for Bootstrap."
-        return '<blockquote class="blockquote ms-3">\n{}</blockquote>\n'.format(
-            self.render_children(element)
-        )
+        """Add blockquote output class for Bootstrap 5.
+        If the last element is a source, then it is rendered as a blockquote footer.
+        """
+        source = None
+        if len(element.children) >=2:
+            source = self.render_children(element.children[-1])
+            if source.startswith("source:"):
+                source = source[len("source:"):].strip()
+                element.children.pop()
+            else:
+                source = None
+        text = self.render_children(element)
+        if source:
+            return f'''<figure class="ms-3">
+<blockquote class="blockquote">{text}</blockquote>
+<figcaption class="blockquote-footer">{source}</figcaption>
+</figure>'''
+        else:
+            return f'''<figure class="ms-3">
+<blockquote class="blockquote">{text}</blockquote>
+</figure>'''
 
 # Markdown converter.
 MARKDOWN = marko.Markdown(renderer=HTMLRenderer)
 
 def read_posts():
     "Read all Markdown files for blog posts and pre-process."
-    for filename in os.listdir("source/posts"):
+    for filename in sorted(os.listdir("source/posts")):
         if not filename.endswith(".md"): continue
         post = read_md(f"source/posts/{filename}")
         for key in ["name", "date", "categories"]:
@@ -144,7 +161,7 @@ def read_posts():
 def read_pages():
     """Read all Markdown files for pages and pre-process.
     Add ancient hard-coded HTML page trees and links to other subsites."""
-    for filename in os.listdir("source/pages"):
+    for filename in sorted(os.listdir("source/pages")):
         if filename.endswith("~"): continue
         PAGES.append(read_md(f"source/pages/{filename}"))
     PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))

@@ -20,11 +20,11 @@ type: post
 ---
 Vi har väl alla någon gång lekt med tanken om vad vi skulle göra om man blev diktator för en dag. Ahh, tänk att kunna förbjuda folk från att fippla med mobiltelefonen när de går på trottoaren! Eller att sätta stopp för världssvälten.
 
-Men så finns det de som går utöver dagdrömmarna, och på allvar propagerar för despoti. Torbjörn Tännsjö, filosof vid Stockholms universitet, skriver en text i [Dagens Nyheter 29 november 2018](https://www.dn.se/kultur-noje/sa-kan-klimatkrisen-leda-fram-till-en-global-despoti/):
+Men så finns det de som går utöver dagdrömmarna, och på allvar propagerar för despoti. Torbjörn Tännsjö, filosof vid Stockholms universitet, skriver [en text i Dagens Nyheter](https://www.dn.se/kultur-noje/sa-kan-klimatkrisen-leda-fram-till-en-global-despoti/):
 
 > [...] jag tror att lösningen på [klimat-] problemet måste vara inte global demokrati utan global despoti. Ja, det är inte bara en rekommendation, utan rent av en förutsägelse. Om mänskligheten alls kommer att räddas, vilket är högst osäkert, så kommer det att ske med hjälp av en global upplyst despotisk styrelse.
-
-
+>
+> source: Torbjörn Tännsjö: Dagens Nyheter 2018-11-29
 
 Västerlandets intellektuella har alltsedan Platons dagar haft en mycket ambivalent inställning till makten. Ofta ser man sig som kritiker av makten som sådan. Ibland ger man prov på sin kärlek till makten. Platon argumenterade i Staten för att härskaren och filosofen bör vara en och samma person. Om det inte gick, så skulle det kanske räcka med att härskaren lyssnade på filosofens råd. Platons egen erfarenhet av den sistnämnda strategin var dock inte så god: Hans försök till maktspel i Syrakusa slutade med att han blev såld som slav. Han hade turen att bli friköpt av en välgörare.
 

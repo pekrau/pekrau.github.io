@@ -71,6 +71,8 @@ Fortsättningen på den texten är också mycket relevant i detta sammanhanget:
 Även många socialliberala politiska teorier lider av detta problem, hävdar jag. John Stuart Mill formulerar sin frihetsprincip sålunda:
 
 > That principle is, that the sole end for which mankind are warranted, individually or collectively in interfering with the liberty of action of any of their number, is self-protection. That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.
+>
+> source: John Stuart Mill: On Liberty
 
 Var finns begreppet samhället i denna princip? Det syns bara i termen "civilized community", som är något som avhåller sig från att göra något, det skall vara passivt. Individens utövande av frihet är något som sker individuellt. Andra människor figurerar endast som de som blandar sig i ("interfering"). Att individen utövar sin frihet i samverkan med andra är inte en del av resonemanget. Den atomistiska individualismen är helt kongruent med denna formuleringen. Jag påstår inte att Mill var anhängare av sådan individualism, men vad i hans princip är det som förhindrar oss från att se det som en naturlig konsekvens?
 
@@ -85,6 +87,8 @@ Jag tror att ganska många, men inte alla, liberaler, kan beslås med att omhuld
 Men finns det då inget sätt att formulera en liberalism som inte leder till atomistisk individualism? Jo, jag tror det. Som exempel vill jag anföra [Karl Poppers samhällsfilosofi](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Popper resonerar i termer av det öppna och det slutna samhället:
 
 > In what follows, the magical or tribal or collectivist society will also be called the closed society, and the society in which individuals are confronted with personal decisions, the open society.
+>
+> source: Karl Popper: The Open Society and Its Enemies
 
 Det slutna samhället är det ursprungliga, det som människor har levt i sedan evinnerlig tid. Det handlar inte om ett enda samhälle, utan om många olika samhällen och kulturer, men med den gemensamma nämnaren att individen i vår mening inte existerar. Alla har sina fixa roller sedan födseln, och de kulturella och sociala strukturerna är givna av traditionen.
 

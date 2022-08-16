@@ -30,6 +30,8 @@ Tidskriften The Economist skriver i sin ledare 4 juli 2019 om ["The global crisi
 Men det är inte artikelns huvudtema jag vill kommentera, utan istället dess korta och kärnfulla beskrivning av skillnaden mellan liberalism och konservatism:
 
 > Liberals say that social order emerges spontaneously from individuals acting freely, but conservatives believe social order comes first, creating the conditions for freedom.
+>
+> source: The Economist 2019-07-04
 
 Oj! Om detta stämmer, så är jag tydligen konservativ, inte liberal. Det är nämligen, anser jag, uppenbart att det påstående som här kallas liberalt &ndash; att sociala förhållanden skapas spontant genom individers frivilliga handlingar &ndash; helt enkelt inte är sant. Den kontrasterande satsen, att sociala förhållanden är primära och att frihet skapas utifrån dessa, vilket alltså skulle vara ett konservativt synsätt, tycks mig däremot vara närmare sanningen, om än inte hela sanningen.
 

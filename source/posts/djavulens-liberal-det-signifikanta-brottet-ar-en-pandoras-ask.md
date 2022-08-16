@@ -26,8 +26,6 @@ Men i dagarna har denna attityd förbytts till sin motsats. Plötsligt undrar m�
 
 Det är många som har hakat på: [Csaba Perlenberg](https://www.expressen.se/gt/ledare/csaba-perlenberg/darfor-blir-eu-migrantens-dod-inte-en-valfraga/), [Isobel Hadley-Kamptz](https://www.dt.se/artikel/opinion/ledare/isobel-hadley-kamptz-vad-sager-det-om-sverige-idag-att-barn-dodar-en-tiggare-utan-att-det-blir-en-huvudnyhet), [Ida Ölmedal](https://www.expressen.se/kultur/ida-olmedal/hur-kan-vi-tala-om-nagot-annat-an-tiggarmordet/), för att ta de jag hittar vid en snabb sökning.
 
-
-
 Det handlar om mordet på en EU-migrant, en rumänsk tiggare som kallas Gica i reportagen. De misstänkta gärningsmännen är tonåringar, enligt uppgifterna i media. En 16-årig grabb har häktats, men flera andra pojkar 15 år eller yngre tycks vara inblandade (se exempelvis Dagens Nyheter [29 augusti 2018](https://www.dn.se/nyheter/sverige/annu-en-tonaring-misstankt-for-mord/) och [30 augusti 2018](https://www.dn.se/arkiv/nyheter/det-ar-ofattbart-sa-svart-att-ta-in/)).
 
 Ett förfärligt brott har begåtts. Förundersökningen är ännu inte klar, inga åtal har väckts. I det läget skriver Ida Ölmedal: "Hur kan vi tala om något annat än tiggarmordet?" Är det så välbetänkt att kräva att valdebatten skall styras av ett enda ännu ej utrett brott? Ursäkta ett anfall av sarkasm, men jag kan inte låta bli att reflektera att häromdagen var det självklart att den som inte totalt fokuserade på klimathotet var en dålig människa.
@@ -35,6 +33,8 @@ Ett förfärligt brott har begåtts. Förundersökningen är ännu inte klar, in
 Csaba Perlenberg skriver:
 
 > Och ändå, detta ofattbara att barn (!) överhuvudtaget misstänks för mord. Själva misstanken är en anklagelseakt mot hela vår samtid, ett ruttet debattklimat där en systematisk avhumaniseringsprocess har använt frusna, vindpinade, uttorkade och hungriga människor på sina knän som politiska slagträn.
+>
+> source: Csaba Perlenberg: GT 2018-08-30
 
 Det finns risker med att utse ett specifikt brott som särskilt signifikant för samhällsutvecklingen. Det finns nämligen andra kandidater till Brottet Som Definierar Vår Samtid. [Rakhmat Akilovs terrordåd i april 2017](https://sv.wikipedia.org/wiki/Attentatet_i_Stockholm_2017), det mord som genom rykten ledde till [upplopp i Chemnitz](https://www.dn.se/nyheter/varlden/stor-radsla-for-nya-kravaller-i-chemnitz-vagar-inte-ga-ut/) i Tyskland häromveckan, [mordet på Lisa Holm](https://sv.wikipedia.org/wiki/Mordet_p%C3%A5_Lisa_Holm) sommaren 2015, [mordförsöket på polisen Ted Eriksson](https://www.aftonbladet.se/nyheter/krim/a/kab6jB/knivhogg-polisen-ted--doms-till-fem-ars-fangelse) i augusti 2017. Vi hade alldeles nyligen en vildvuxen debatt om våldtäkter och invandrare. För att ta några exempel ur högen.
 

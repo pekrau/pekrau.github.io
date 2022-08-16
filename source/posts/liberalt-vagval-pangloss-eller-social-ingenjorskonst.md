@@ -26,13 +26,15 @@ type: post
 ---
 Pangloss är en figur i [Voltaires](https://sv.wikipedia.org/wiki/Voltaire) roman [Candide](https://sv.wikipedia.org/wiki/Candide) (1759), en bok som många i min generation har (tvingats) läsa i skolan. Candide är en naiv yngling som ser krig, jordbävningar och andra katastrofer i Europa och världen. Han följs åt av filosofen Pangloss, vars syn på världen är att den är den bästa möjliga. Vilket elände som än diskuteras så har han en förklaring till varför det måste vara på det viset. Pangloss är ett illa dolt nidporträtt av filosofen [Leibniz](https://sv.wikipedia.org/wiki/Gottfried_Wilhelm_von_Leibniz) (1646-1716), som hävdade att Gud är perfekt, och att allt som denne skapat därför också är perfekt, även om vi enkla människor inte begriper det.
 
-Det må vara mig förlåtet, men det är Pangloss jag tänker på när jag läser Sofia Mirjamsdotters text ["Jag är så obeskrivligt trött på svartmålandet av Sverige"](https://www.allehanda.se/artikel/sofia-mirjamsdotter-jag-ar-sa-obeskrivligt-trott-pa-svartmalandet-av-sverige) (ledarartikel i Allehanda, 6 dec 2019). 
-> 
-> Det är faktiskt djupt oroväckande att vi hamnat i ett läge där det verkar ha blivit någon form av allmän sanning att Sverige är mer eller mindre laglöst land. Att kriminaliteten slår all time high och att myndigheterna helt har tappat kontrollen.
+Det må vara mig förlåtet, men det är Pangloss jag tänker på när jag läser Sofia Mirjamsdotters text ["Jag är så obeskrivligt trött på svartmålandet av Sverige"](https://www.allehanda.se/artikel/sofia-mirjamsdotter-jag-ar-sa-obeskrivligt-trott-pa-svartmalandet-av-sverige). 
 
+> Det är faktiskt djupt oroväckande att vi hamnat i ett läge där det verkar ha blivit någon form av allmän sanning att Sverige är mer eller mindre laglöst land. Att kriminaliteten slår all time high och att myndigheterna helt har tappat kontrollen.
+>
 > Lika obehaglig är den allt mer accepterade förklaringen till detta påstådda tillstånd. Att det skulle bero på invandringen.
 > 
 > Det finns en uppenbar förklaring till att vi hamnat här. Förklaringen heter Sverigedemokraterna, och deras genomarbetade, långsiktiga och tålmodiga strategi för att sprida dessa påståenden och få människor att tro på dem. Saken är bara att det inte gör dem mer sanna.
+>
+> source: Sofia Mirjamsdotter: Ledarartikel i Allehanda, 6 dec 2019
 
 En enkel fråga: Har Sverigedemokraterna dominans inom media? Har enbart Sverigedemokraternas ståndpunkter och tolkningar av verkligheten fått utrymme? 
 

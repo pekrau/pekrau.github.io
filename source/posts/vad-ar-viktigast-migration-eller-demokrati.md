@@ -24,8 +24,6 @@ Amanda Sokolnicki, ledarskribent vid Dagens Nyheter, [skriver den 21 november 20
 
 Så då uppstår frågan: Varför biter inte argumenten?
 
-
-
 Jag tror det beror på att många politiker inser att en liberal reformpolitik enligt Skolnickis recept kommer att leda till att än fler väljare drar en annan slutsats än Sokolnicki avser. Väljarna kan mycket väl inse att hennes argumentation är korrekt. Det är bara det att de kommer att sluta hålla med om premisserna.
 
 Liberaler tar för givet att alla personer som inte är onda eller knäppa är fast förankrade i liberala värderingar: liberal demokrati, frihet, jämlikhet, individualism, internationalism, etc. Men så behöver det inte vara. Om människor kommer till slutsatsen att ett bra liv för dem och deras närmaste inte är kompatibelt med liberal politik i praktiken, så kommer ganska många av dem att välja bort liberalismen. Det är egentligen ett ganska självklart förhållande, men liberaler tycks ha svårt att intellektuellt acceptera det.
@@ -41,6 +39,8 @@ Sokolnickis artikel innehåller fler exempel på argumentation som sannolikt ger
 Sokolnicki vill att politikerna skall visa mod:
 
 > För de mer omfattande reformerna krävs nämligen något annat än det vi sett prov på den senaste tiden: Politiker som inte är rädda för väljarna.
+>
+> source: Amanda Sokolnicki: Dagens Nyheter 2018-11-21
 
 De populistiska rörelserna hävdar att politikerna gör som de vill utan att bry sig om folket. Jag är rädd för att Sokolnickis synpunkt ger dem stöd. Kan verkligen liberaler bli överraskade att stödet för liberala partier, eller för den liberala demokratin, minskar när framträdande liberala opinionsbildare anser att politiker ska strunta i vad väljarna tycker?
 
