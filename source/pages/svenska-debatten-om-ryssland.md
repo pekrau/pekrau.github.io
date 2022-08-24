@@ -26,75 +26,45 @@ Tips med länkar till relevanta artiklar kan skickas till mig via kommentarsfäl
 - Magnus Ljunggren: [Putins band med nyfascismen](http://www.sallskapet.org/ostblog/?p=4042), inlägg i bloggen för Sällskapet för studier av Ryssland, Central- o Östeuropa samt Centralasien. 2014-03-24.
 - Magnus Ljunggren: [Den nya ryska fascismen](http://skma.se/blogg/2014/06/den-nya-ryska-fascismen/), SKMA Nyhetsbrev juni 2014. Ljunggren tycks vara en av ett fåtal rysslandskännare som faktiskt analyserar vad som sker.
 - Timothy Snyder: [Ukraina har svaret på EU:s kris](http://www.dn.se/kultur-noje/kulturdebatt/timothy-snyder-ukraina-har-svaret-pa-eus-kris/), Dagens Nyheter 2014-05-27
+  > Om européerna hade röstat som ukrainarna gjorde, så hade Europa kunnat se fram emot en framtid av säkerhet och välgång.
+  > 
+  > Många européer har levt i en alternativ informationsverklighet, och därmed lagt grunden för detta bakslag. Inom den europeiska vänstern, och särskilt i den tyska, har kritiken av ukrainsk fascism varit standard. Inget mått av information eller argument har kunnat ändra denna fasta hållning. Man kan bara hoppas att dessa valresultat kommer att öppna somliga ögon. Den europeiska vänstern har ett verkligt problem – och det är inte den ukrainska extremhögern. Det är den europeiska extremhögern, som råkar vara populär, stödd av den ryska extremhögern, som råkar sitta vid makten.
 
-> Om européerna hade röstat som ukrainarna gjorde, så hade Europa kunnat se fram emot en framtid av säkerhet och välgång.
-
-Många européer har levt i en alternativ informationsverklighet, och därmed lagt grunden för detta bakslag. Inom den europeiska vänstern, och särskilt i den tyska, har kritiken av ukrainsk fascism varit standard. Inget mått av information eller argument har kunnat ändra denna fasta hållning. Man kan bara hoppas att dessa valresultat kommer att öppna somliga ögon. Den europeiska vänstern har ett verkligt problem – och det är inte den ukrainska extremhögern. Det är den europeiska extremhögern, som råkar vara populär, stödd av den ryska extremhögern, som råkar sitta vid makten.
-- Karin Olsson: [Europas värderingar utmanas av Putin](http://www.expressen.se/kultur/karin-olsson/europas-varderingar-utmanas-av-putin/), Expressen 2014-05-18.
-
-Det tycks i alla fall finnas någon kulturdebattör som tycker att tystnaden om Putin är besvärande.
+- Karin Olsson: [Europas värderingar utmanas av Putin](http://www.expressen.se/kultur/karin-olsson/europas-varderingar-utmanas-av-putin/), Expressen 2014-05-18. Det tycks i alla fall finnas någon kulturdebattör som tycker att tystnaden om Putin är besvärande.
 - Timothy Snyder: [Ukrainas sak är vår – och vår sak är Ukrainas](http://www.dn.se/kultur-noje/kulturdebatt/ukrainas-sak-ar-var-och-var-sak-ar-ukrainas/) (Dagens Nyheter 2014-05-13)
-- Michael Winiarski: [Högerextremisterna har börjat flirta med Putin](http://www.dn.se/nyheter/varlden/hogerextremisterna-har-borjat-flirta-med-putin/) (Dagens Nyheter 2014-05-10)
+- Michael Winiarski: [Högerextremisterna har börjat flirta med Putin](http://www.dn.se/nyheter/varlden/hogerextremisterna-har-borjat-flirta-med-putin/) (Dagens Nyheter 2014-05-10) Insiktsfullt om varför europeiska extremhöger lierar sig med Putin, och varför vissa vänsterintellektuella också gör det. Nämner Alexander Dugin.
 
-Insiktsfullt om varför europeiska extremhöger lierar sig med Putin, och varför vissa vänsterintellektuella också gör det. Nämner Alexander Dugin.
-- DN Huvudledare: [Öppet fält för extrema](http://www.dn.se/ledare/huvudledare/oppet-falt-for-extrema/) (Dagens Nyheter 2014-05-04)
-
-Beskriver bland annat ställningstaganden som europeiska extremhöger gjort för Putins Ryssland.
+- DN Huvudledare: [Öppet fält för extrema](http://www.dn.se/ledare/huvudledare/oppet-falt-for-extrema/) (Dagens Nyheter 2014-05-04) Beskriver bland annat ställningstaganden som europeiska extremhöger gjort för Putins Ryssland.
 - [”Vårt svar kommer vara att vi skjuter skarpt”](http://www.dn.se/nyheter/varlden/vart-svar-kommer-vara-att-vi-skjuter-skarpt/)  (Dagens Nyheter 2014-04-21)
+  > [Vjatjeslav Ponomarev (Ponomarjov)] säger också att han ser de skandinaviska länderna som förebilder.
+  > 
+  > – Jag tycker verkligen om ert nordliga folk, för de nordliga folken har lyckats behålla sina historiska rötter och blodsband. De har ännu inte hunnit drabbats av denna mass­immigration. Blodet vårt späds ut, förstår ni. Och ärligt talat, första signalen om faran i detta gav Breivik och jag tror de hörde honom.
+  > 
+  > Vad tycker ni om Breivik?
+  > 
+  > – Jag har inte en bestämd åsikt men han betedde sig inte korrekt. Man får inte döda folk, han hade kunnat gå ut och säga sin mening.
+  > 
+  > Jag förstår det som att ni är överens med hans idéer?
+  > 
+  > – Ja, men hans handlingar är jag emot, vi har inte rätt att spilla blod. Om han hade försvarat sig hade det varit en sak, nu attackerade han. Det är inte bra, säger Vjatjeslav Ponomarev.
 
-> [Vjatjeslav Ponomarev (Ponomarjov)] säger också att han ser de skandinaviska länderna som förebilder.
+- Peter Wolodarski: [Vladimir Putin har återskapat västvärlden](http://www.dn.se/ledare/signerat/peter-wolodarski-vladimir-putin-har-aterskapat-vastvarlden/) (Dagens Nyheter 2014-04-20). Putin har väckt liv i begreppet "Väst". Europeisk extremhöger ser positivt på Putins annektering av Krim, och uppskattar dennes kritik av det "dekadenta" Europa.
+- Stefan Ingvarsson: [Kultur under censur](http://www.expressen.se/kultur/kultur-under-censur/) (Expressen 2014-04-16). Kulturministeriet i Moskva har föreslagit nya riktlinjer för allt offentligt kulturstöd med det klatschiga mottot "Ryssland är inte Europa" och som innebär att allt som anses främja "mångkultur" och "tolerans" förlorar sin finansiering.
+- Arkadij Babtjenko: [När den ryska pansarvagnen rullar in](http://www.dn.se/kultur-noje/kulturdebatt/arkadij-babtjenko-nar-den-ryska-pansarvagnen-rullar-in/) (Dagens Nyheter 2014-04-16). Hur opposition i Putins Ryssland blivit liktydigt med landsförräderi.
+- Oscar Jonsson: [Ryskt motdrag: Extremism som strategisk tillgång](http://sakpol.wordpress.com/2014/03/31/ryskt-motdrag/) (2014-03-31). Putins Ryssland använder sig av ett nätverk av extremhöger och extremvänster i Europa för att främja sina egna säkerhetspolitiska intressent, med bland annat Alexander Dugin som en viktig länk.
+- Ulf Bjereld: [Palme, Bildt och varför Krimkrisen inte är början på ett nytt kallt krig](http://ulfbjereld.blogspot.ca/2014/03/palme-bildt-och-varfor-krimkrisen-inte.html). Ett exempel på en viss sorts vänster som försöker spela ner hela konflikten, och istället fokusera på hur hemsk Carl Bildt är. I vanliga fall tycker denna sortens vänster att extremhögern är ett allvarligt hot, men när det gäller Putins Ryssland tittar man konsekvent bort.
+- Sofi Oksanen: ["Svik oss inte igen"](http://www.expressen.se/kultur/toppnyheter-/svik-oss-inte-igen/) (Expressen 2014-03-21). Knivskarp analys av Putins Ryssland och de europeiska illusionerna.
+- Åsa Linderborg: [Vi är inga Putinvänner](http://www.aftonbladet.se/kultur/kronikorer/linderborg/article18571565.ab) (Aftonbladet 2014-03-19). Svensk kommunist slingrar sig om Putins Ryssland, och är helt blind för dess extremhöger.
+- Anne Applebaum: [Svårvunna slaget om sanningen](http://www.dn.se/kultur-noje/kulturdebatt/svarvunna-slaget-om-sanningen/) (Dagens Nyheter 2014-03-12). Putins Ryssland bedriver en aggressiv desinformationskampanj.
+- Michael Winiarski: [Så vill Putins rådgivare lägga Europa under Rysslands fötter](http://www.dn.se/nyheter/varlden/sa-vill-putins-radgivare-lagga-europa-under-rysslands-fotter/) (Dagens Nyheter 2014-03-11). Den ryske presidentens nära rådgivare Alexander Dugin drömmer om att Ryssland ska stå i spetsen för ett återupprättat euroasiatiskt imperium.
 
-– Jag tycker verkligen om ert nordliga folk, för de nordliga folken har lyckats behålla sina historiska rötter och blodsband. De har ännu inte hunnit drabbats av denna mass­immigration. Blodet vårt späds ut, förstår ni. Och ärligt talat, första signalen om faran i detta gav Breivik och jag tror de hörde honom.
+- Per Wirtén: [Är ukrainarnas kamp ett stormaktsinferno?](http://www.perwirten.se/2014/03/ar-ukrainarnas-kamp-ett-stormaktsinferno) (2014-03-07). En annan sorts vänster än Linderborgs och Bjerelds. En som ställer den viktiga frågan apropå Linderborgs artikel 2014-03-04 (se nedan):
+  > Min fråga är alltså: är konsekvenserna av Åsa Linderborgs (oklara) ställningstagande verkligen antifascistiska?
 
-Vad tycker ni om Breivik?
+- Åsa Linderborg: [Monstruöst hyckleri om Ukraina](http://www.aftonbladet.se/kultur/article18478974.ab) (Aftonbladet 2014-03-04). Linderborg vill inta en tredje ståndpunkt, som till stor del består i att Carl Bildt är hemsk. Extremhögern i Putins Ryssland viftas bort. Intressant är att denna artikeln inte finns i [listan över Linderborgs krönikor](http://www.aftonbladet.se/kultur/kronikorer/linderborg/), vilket möjligen antyder att hon inte längre är så stolt över den.
 
-– Jag har inte en bestämd åsikt men han betedde sig inte korrekt. Man får inte döda folk, han hade kunnat gå ut och säga sin mening.
+- Timothy Snyder: [När propagandans dimridåer banade väg för kriget](http://www.dn.se/kultur-noje/kulturdebatt/nar-propagandans-dimridaer-banade-vag-for-kriget/) (Dagens Nyheter 2014-03-04). Påminner om den faktiska händelseutvecklingen, i kontrast mot Putins propagandabild av den.
 
-Jag förstår det som att ni är överens med hans idéer?
+- Dmitri Plax: [Ett inferno för oss](http://www.expressen.se/kultur/ett-inferno-for-oss/) (Expressen 2014-02-22). Ukrainas Maidan har Europa som mål.
 
-– Ja, men hans handlingar är jag emot, vi har inte rätt att spilla blod. Om han hade försvarat sig hade det varit en sak, nu attackerade han. Det är inte bra, säger Vjatjeslav Ponomarev.
-- Peter Wolodarski: [Vladimir Putin har återskapat västvärlden](http://www.dn.se/ledare/signerat/peter-wolodarski-vladimir-putin-har-aterskapat-vastvarlden/) (Dagens Nyheter 2014-04-20)
-
-Putin har väckt liv i begreppet "Väst". Europeisk extremhöger ser positivt på Putins annektering av Krim, och uppskattar dennes kritik av det "dekadenta" Europa.
-- Stefan Ingvarsson: [Kultur under censur](http://www.expressen.se/kultur/kultur-under-censur/) (Expressen 2014-04-16)
-
-Kulturministeriet i Moskva har föreslagit nya riktlinjer för allt offentligt kulturstöd med det klatschiga mottot "Ryssland är inte Europa" och som innebär att allt som anses främja "mångkultur" och "tolerans" förlorar sin finansiering.
-- Arkadij Babtjenko: [När den ryska pansarvagnen rullar in](http://www.dn.se/kultur-noje/kulturdebatt/arkadij-babtjenko-nar-den-ryska-pansarvagnen-rullar-in/) (Dagens Nyheter 2014-04-16)
-
-Hur opposition i Putins Ryssland blivit liktydigt med landsförräderi.
-- Oscar Jonsson: [Ryskt motdrag: Extremism som strategisk tillgång](http://sakpol.wordpress.com/2014/03/31/ryskt-motdrag/) (2014-03-31)
-
-Putins Ryssland använder sig av ett nätverk av extremhöger och extremvänster i Europa för att främja sina egna säkerhetspolitiska intressent, med bland annat Alexander Dugin som en viktig länk.
-- Ulf Bjereld: [Palme, Bildt och varför Krimkrisen inte är början på ett nytt kallt krig](http://ulfbjereld.blogspot.ca/2014/03/palme-bildt-och-varfor-krimkrisen-inte.html)
-
-Ett exempel på en viss sorts vänster som försöker spela ner hela konflikten, och istället fokusera på hur hemsk Carl Bildt är. I vanliga fall tycker denna sortens vänster att extremhögern är ett allvarligt hot, men när det gäller Putins Ryssland tittar man konsekvent bort.
-- Sofi Oksanen: ["Svik oss inte igen"](http://www.expressen.se/kultur/toppnyheter-/svik-oss-inte-igen/) (Expressen 2014-03-21)
-
-Knivskarp analys av Putins Ryssland och de europeiska illusionerna.
-- Åsa Linderborg: [Vi är inga Putinvänner](http://www.aftonbladet.se/kultur/kronikorer/linderborg/article18571565.ab) (Aftonbladet 2014-03-19)
-
-Svensk kommunist slingrar sig om Putins Ryssland, och är helt blind för dess extremhöger.
-- Anne Applebaum: [Svårvunna slaget om sanningen](http://www.dn.se/kultur-noje/kulturdebatt/svarvunna-slaget-om-sanningen/) (Dagens Nyheter 2014-03-12)
-
-Putins Ryssland bedriver en aggressiv desinformationskampanj.
-- Michael Winiarski: [Så vill Putins rådgivare lägga Europa under Rysslands fötter](http://www.dn.se/nyheter/varlden/sa-vill-putins-radgivare-lagga-europa-under-rysslands-fotter/) (Dagens Nyheter 2014-03-11)
-
-Den ryske presidentens nära rådgivare Alexander Dugin drömmer om att Ryssland ska stå i spetsen för ett återupprättat euroasiatiskt imperium.
-- Per Wirtén: [Är ukrainarnas kamp ett stormaktsinferno?](http://www.perwirten.se/2014/03/ar-ukrainarnas-kamp-ett-stormaktsinferno) (2014-03-07)
-
-En annan sorts vänster än Linderborgs och Bjerelds. En som ställer den viktiga frågan apropå Linderborgs artikel 2014-03-04 (se nedan):
-
-> Min fråga är alltså: är konsekvenserna av Åsa Linderborgs (oklara) ställningstagande verkligen antifascistiska?
-- Åsa Linderborg: [Monstruöst hyckleri om Ukraina](http://www.aftonbladet.se/kultur/article18478974.ab) (Aftonbladet 2014-03-04)
-
-Linderborg vill inta en tredje ståndpunkt, som till stor del består i att Carl Bildt är hemsk. Extremhögern i Putins Ryssland viftas bort. Intressant är att denna artikeln inte finns i [listan över Linderborgs krönikor](http://www.aftonbladet.se/kultur/kronikorer/linderborg/), vilket möjligen antyder att hon inte längre är så stolt över den.
-- Timothy Snyder: [När propagandans dimridåer banade väg för kriget](http://www.dn.se/kultur-noje/kulturdebatt/nar-propagandans-dimridaer-banade-vag-for-kriget/) (Dagens Nyheter 2014-03-04)
-
-Påminner om den faktiska händelseutvecklingen, i kontrast mot Putins propagandabild av den.
-- Dmitri Plax: [Ett inferno för oss](http://www.expressen.se/kultur/ett-inferno-for-oss/) (Expressen 2014-02-22)
-
-Ukrainas Maidan har Europa som mål.
-- Per Enerud: [Fosterlandet, folket - familjen](http://www.aftonbladet.se/kultur/article18337060.ab) (Aftonbladet 2014-02-11)
-
-Om bakgrunden till homofobin i Putins Ryssland. Inte helt mitt i prick, analysen av förhållandet mellan Putin och extremhögern haltar betänkligt.
-
+- Per Enerud: [Fosterlandet, folket - familjen](http://www.aftonbladet.se/kultur/article18337060.ab) (Aftonbladet 2014-02-11). Om bakgrunden till homofobin i Putins Ryssland. Inte helt mitt i prick, analysen av förhållandet mellan Putin och extremhögern haltar betänkligt.

@@ -93,7 +93,7 @@ Interview with Karl Popper, 1974, in German, with English subtitles. Provides a 
 
 Björn Östbring: [Science is a social enterprise (A note on Karl Popper’s theory of science)](https://bjornostbring.wordpress.com/2011/03/09/science-is-a-social-enterprise-a-note-on-karl-poppers-theory-of-science/), 2011-03-09.
 
-[Karl Popper-Library](http://ub.uni-klu.ac.at/cms/en/special-collections/karl-popper-library/) at Alpen-Adria Universität, Klagenfurt, Wien Graz, Austria.
+[The Karl Popper Archives](https://www.aau.at/en/university-library-klagenfurt/karl-popper-archives/) at Universität Klagenfürt, Austria.
 
 [Karl Popper on New Zealand.](http://www.teara.govt.nz/en/biographies/4p18/popper-karl-raimund) A short biography by Peter Munz.
 
