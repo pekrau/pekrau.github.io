@@ -13,9 +13,7 @@ Här samlar jag länkar till websidor om eller av Alexander Dugin, rysk antilibe
 - Peter Lodenius: [Ukrainas revolution kan inspirera västvärlden](http://www.dn.se/kultur-noje/kulturdebatt/ukrainas-revolution-kan-inspirera-vastvarlden/), Dagens Nyheter, 2014-05-19. Nämner ett möte med eurasianister som Alexander Dugin bevistade i Helsingfors 2014-05-18 (se även Michael Winiarskis intervju nedan).
 - Timothy Snyder: [Intervju om Vladimir Putin och Alexander Dugin](http://www.3sat.de/mediathek/?mode=play&obj=43550) den tyska TV-kanalen 3sat, 2014-05-08.
 - Magnus Ljunggren: [Fascistpropaganda på bästa sändningstid](http://www.svd.se/kultur/understrecket/fascistpropaganda-pa-basta-sandningstid_3536734.svd) , Svenska Dagbladet 2014-05-07. En av de hitintills fåtaliga svenska analyserna av Dugin och den ryska nyfascismen.
-- Marlene Laruelle: [Aleksandr Dugin: A Russion Version of the European Radical Right? [PDF 966 MB]](http://www.wilsoncenter.org/sites/default/files/OP294.pdf), Occasional paper #294, Kennan Institute, Woodrow Wilson International Center for Scholars, 2006, nätversion 2011-07-07
-
-En mycket intressant genomgång av Dugins intellektuella och politiska historia fram till 2006.
+- Marlene Laruelle: [Aleksandr Dugin: A Russion Version of the European Radical Right? [PDF 966 MB]](http://www.wilsoncenter.org/sites/default/files/OP294.pdf), Occasional paper #294, Kennan Institute, Woodrow Wilson International Center for Scholars, 2006, nätversion 2011-07-07. En mycket intressant genomgång av Dugins intellektuella och politiska historia fram till 2006.
 
 ### Nyhetsartiklar
 

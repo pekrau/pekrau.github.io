@@ -77,7 +77,7 @@ De filosofiska influenser som Dugin redovisar utgör en brokig skara tänkare. D
 
 När Dugin talar om positiva värden handlar det oftast om rent reaktionära ideal (s. 28):
 
-> If we reject the idea of progress that is inherent in modernity [...], then all that is ancient gains value and credibility for us simly by virtue of the fact that it is ancient. 'Ancient' means good, and the more ancient - the better.
+> If we reject the idea of progress that is inherent in modernity [...], then all that is ancient gains value and credibility for us simply by virtue of the fact that it is ancient. 'Ancient' means good, and the more ancient - the better.
 
 Dugin diskuterar även teologi. Dugins gudstro tycks inte vara speciellt djup. Det handlar mest om en beundran inför själva tanken om tro, inte om en specifik tro. Inte heller anser han den ryska ortodoxa kyrkan vara den riktiga, vilket kunde vara naturligt. Han anser snarare att vilken kyrka eller vilken religion som helst är att föredra framför ateism eller liberalism. Ju äldre, mer ursprunglig och mindre rationalistisk en teologi är, desto bättre. 
 
