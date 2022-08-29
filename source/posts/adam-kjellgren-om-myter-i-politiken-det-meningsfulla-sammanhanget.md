@@ -28,8 +28,6 @@ Kjellgren landar i att den politiska myten - som exempelvis SD:s tankar om den s
 
 Jag vill föra diskussionen längre genom att påstå att myten inte är det centrala. Den är nämligen bara ett medel. Dess funktion är att åstadkomma och underbygga ett meningsfullt sammanhang, vilket är vad människan som social varelse kräver. Det meningsfulla sammanhanget är det primära.
 
-
-
 Om man tänker i termer av meningsfulla sammanhang, så tror jag man lättare kan se att det inte behöver handla om mer eller mindre lögnaktiga skrönor, utan också om politiska visioner och värderinger. Kjellgren citerar Nils Ekdal om Per Albin Hansson:
 
 > Om Per Albin Hansson kunde desarmera fascismen och kommunismen på 1930-talet genom att impregnera folkhemsbygget med nationell mytologi så kanske en ny politikergeneration måste göra något liknande.
@@ -39,6 +37,3 @@ Men jag vill påpeka att ordet mytologi är illa valt i detta sammanhanget. Per 
 Jag tror man kan beskriva det så här: Politiken behöver ett meningsfullt sammanhang för att engagera. En berättelse om vad som är viktigt, som talar om vad samhället är till för eller borde vara till för. Den progressiva varianten är visionen, värderingarna som man vill ska prägla samhället. Den reaktionära versionen är myten om det förflutna, det äkta, genuina, ofördärvade tillståndet.
 
 Så min slutsats är att de progressiva krafterna måste finna sina berättelser om det meningsfulla sammanhanget. Men det handlar inte om myter. Att kalla det för en myt är helt enkelt inte korrekt. Vi kan lämna myterna åt reaktionärerna, och istället fundera kring vad våra samhällen skall vara till för.
-
-*20 juli 2018: Jag har gjort några smärre stilistiska förändringar i texten.*
-

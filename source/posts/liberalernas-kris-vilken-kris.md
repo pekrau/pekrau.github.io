@@ -20,8 +20,6 @@ Dagens Nyheters ledarartikel 17 mars 2018 "[L och C borde vara lika med sant](ht
 
 Så vad är grunden för Liberalernas kris? Det räcker med att titta på deras valstrategi för att se problemet. Den bygger på tre teman:
 
-
-
 1) Skolan. OK, skolan är ett viktigt område med stora problem. Problemet är att Jan Björklund måste förklara varför han och L under Alliansen inte genomförde det man nu pratar om, och varför en del av vad han genomförde inte gjort susen. Om man inte lyckas hitta ett slagkraftigt sätt att göra det så framstår man inte som trovärdig (milt uttryckt). Och det har man ännu så länge inte gjort. Därför riskerar skolfrågan bli ett sänke för L. Väljare byter inte till ett parti för att det en gång i tiden hade en bra och särskiljande linje i en fråga.
 
 2) Integration. Vilket parti pratar numera inte om den? Däremot så har inget parti (utom SD) hittat en sammanhängande linje i den frågan. Det är mest slumpmässiga påhitt än hit, än dit. Den enda ståndpunkt jag kan komma på som är positivt särskiljande för Liberalerna är väl anti-hedersvåld. Men ej heller där är man unik.
