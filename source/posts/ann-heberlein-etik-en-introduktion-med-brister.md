@@ -28,7 +28,7 @@ type: post
 references:
 - Heberlein 2014
 ---
-Ann Heberlein, akademiker verksam inom etik vid Centrum för teologi och religionsvetenskap vid Lunds universitet, har skrivit boken **Etik: Människa, moral, mening.**
+Ann Heberlein, akademiker verksam inom etik vid Centrum för teologi och religionsvetenskap vid Lunds universitet, har skrivit boken [Etik: Människa, moral, mening](/library/9789100135713.html).
 
 > Föreliggande boks ambition är att erbjuda en grundläggande introduktion till ämnet etik, men också knyta samman etiken med existensen.
 

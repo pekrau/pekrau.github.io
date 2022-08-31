@@ -23,14 +23,12 @@ type: post
 Ann Heberlein [(DN 29 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/ann-heberlein-att-sa-manga-gillar-borzoo-tavakolis-artikel-ar-oroande/)) har problem med det öppna brev Borzoo Tavakoli ställer till SD:s Kent Ekeroth [(DN 21 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/till-kent-ekeroth-riksdagsledamot-for-sd/)). **Hennes läsning av Tavakolis artikel är så skev att det blir intressant:**
 
 > Jag hänger upp mig på Tavakolis betoning av sina prestationer: Han tycks argumentera för sin rätt att vara här, sin rätt till trygghet och säkerhet genom att hänvisa till sin nytta och sina prestationer. Det bekymrar mig att så många gillar och applåderar den retoriken. Människans värde får aldrig någonsin härledas ur hennes prestationer.
-
-[...]
-
-Det är som om hela samhället drabbats av en utilitaristisk psykos, där de enda värden som räknas är produktivitet och nytta. Det gäller att bevisa att man är nyttig för att få vara med.
+> 
+> [...]
+> 
+> Det är som om hela samhället drabbats av en utilitaristisk psykos, där de enda värden som räknas är produktivitet och nytta. Det gäller att bevisa att man är nyttig för att få vara med.
 
 Bakom hennes resonemang, som skenbart förs i termer av etik och värderingar, döljer sig nämligen en attityd som karaktäriserar många intellektuella: Att den strävsamma medelklassen är naiv, egoistisk, fylld av förakt mot svagare människor, och allmänt hysteriskt inriktad på materiell vinning. Kort sagt: **Ett förakt av medelklassen.**
-
-
 
 Vad Tavakoli beskriver är en stolthet över att ha arbetat sig upp från ett läge nära noll, som politisk flykting, till dels en gedigen utbildning, dels att bidra till samhället genom yrkesarbete och på andra sätt, samt att ha bildat familj och tagit ansvar för barn. **Allt detta är klassiska medelklassdygder.** Det är de som Heberlein har problem med.
 
@@ -45,10 +43,10 @@ Detta är tydligen inte begripligt för Heberlein. Kanske är det en variant av 
 Heberlein skriver:
 
 > Det är min fasta övertygelse att människan inte förtjänar sitt värde: Hennes värde är givet.
-
-[...]
-
-När förlorade vi tron på att det finns sådant som är gott i sig själv, som är sitt eget ändamål, inte blott ett medel till något annat, till något nyttigt?
+> 
+> [...]
+> 
+> När förlorade vi tron på att det finns sådant som är gott i sig själv, som är sitt eget ändamål, inte blott ett medel till något annat, till något nyttigt?
 
 Till detta kan man säga: Vi förlorade aldrig den tron. Den syns varje dag i det faktum att vi har kommit så långt som vi har. Sverige är idag ett av de mest mänskliga samhällen som någonsin existerat på denna jord. **Våldet är lägre, välståndet högre, barnadödligheten lägre, etc, etc, än någonsin. Vilket inte betyder att allt är bra. Ska det vara så svårt att hålla de två tankarna i huvudet samtidigt?**
 
@@ -57,10 +55,10 @@ Heberlein tycks inte inse att om man karaktäriserar vårt samhälle som en "uti
 Mot slutet av sin artikel skriver Heberlein:
 
 > Tavakolis text ligger naturligtvis, som man brukar säga, "i tiden".
-
-[...]
-
-Det är inte svårt att tycka om människor som Borzoo Tavakoli
+> 
+> [...]
+> 
+> Det är inte svårt att tycka om människor som Borzoo Tavakoli.
 
 **Notera hur hon inte talar till Tavakoli, utan om honom. Det är signifikant.** För den intellektuella elit som Heberlein tillhör är aldrig medelklassen ett subjekt, någon man diskuterar med eller tänker på som en moralisk, självständig aktör. Den ses snarare som ett objekt, en anonym massa av arbetsmyror som på sin höjd ska arbeta ihop litet skattepengar.
 

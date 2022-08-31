@@ -34,7 +34,7 @@ Det är intressant, och kanske inte helt oväntat, att Stefan Löfvens formuleri
 
 Politism är så indignerade att man inte ens klarar av att referera Stefan Löfven rätt. Han lägger ingalunda alltid ansvaret hos den enskilde individen. Detta att påpeka kopplingen mellan rättigheter och skyldigheter är tydligen för mycket för en viss sorts vänster. Det är betecknande.
 
-**En vänster som inte förmår se kopplingen mellan skyldigheter och rättigheter är en vänster som betraktar människor som amoraliska parasiter. Det enda människor kan göra, enligt denna syn, är att viljelöst konsumera. Frågan är om denna vänster tycker att den gamla kommunistiska devisen "Av var och en efter förmåga, åt var och en efter behov" är för krävande? Den utgår ju från att människor har en förmåga att bidra.**
+En vänster som inte förmår se kopplingen mellan skyldigheter och rättigheter är en vänster som betraktar människor som amoraliska parasiter. Det enda människor kan göra, enligt denna syn, är att viljelöst konsumera. Frågan är om denna vänster tycker att den gamla kommunistiska devisen "Av var och en efter förmåga, åt var och en efter behov" är för krävande? Den utgår ju från att människor har en förmåga att bidra.
 
 Jag tror att en viktig anledning till politikens och välfärdens dåliga anseende hos många medborgare är att sammanhanget mellan rättigheter och skyldigheter gärna bluddras bort av politiker. Skälet är naturligtvis att det är så mycket bekvämare att bara prata om förmåner och med tystnad förbigå den jobbigare sidan av saken, nämligen hur det ska betalas och kontrolleras.
 

@@ -33,7 +33,7 @@ Precis som det mesta har forskning en sjunkande marginalnytta. Den första profe
 
 **Den första tesen förutsätter att forskningens nytta är beräkningsbar, åtminstone i princip. Men så är det inte.**
 
-[Karl Popper](/karl-popper/) har i ett annat sammanhang (se boken **The Poverty of Historicism**) påpekat en fundamental sak om kunskap: Det går inte att förutsäga vad framtida ny kunskap kan innebära för samhället, eftersom en sådan förutsägelse kräver att man vet vad den nya kunskapen kommer att bestå i. Vet man det, ja, då är kunskapen inte längre framtida.
+[Karl Popper](/karl-popper/) har i ett annat sammanhang (se boken [The Poverty of Historicism](/library/9780710046161.html)) påpekat en fundamental sak om kunskap: Det går inte att förutsäga vad framtida ny kunskap kan innebära för samhället, eftersom en sådan förutsägelse kräver att man vet vad den nya kunskapen kommer att bestå i. Vet man det, ja, då är kunskapen inte längre framtida.
 
 **Vi kan alltså inte förutsäga vad framtida vetenskapliga rön kan innebära. Det är inte bara svårt eller vanskligt att sia om det. Utan omöjligt.**
 
@@ -53,7 +53,7 @@ Vetenskapen är en i grunden social verksamhet. Forskare samarbetar och konkurre
 
 Om det var så att forskare skulle vara mer produktiva om de var ensamma i sitt fält, så skulle det finnas starka incitament för varje forskare att hitta på ett eget fält. Så sker i allmänhet inte. Är det för att forskare inte inser sitt eget bästa? Knappast. Unga forskare väljer fält och frågeställningar där de tror att de kan göra största möjliga framsteg. Ibland uppfinner de nya fält, men oftast ger de sig in i konkurrensen i ett existerande "hett" fält. Schuberts antagande om hur marginalnyttans funktion ser ut är inte giltigt.
 
-Av en slump råkar jag just läsa en mycket passande observation om marginalnyttetänkandet. I boken **Liberalism. The Life of an Idea** av Edmund Fawcett diskuteras [Léon Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) och [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall), marginalnyttoteorins grundare, och Fawcett skriver:
+Av en slump råkar jag just läsa en mycket passande observation om marginalnyttetänkandet. I boken [Liberalism. The Life of an Idea](/library/9780691156897.html) av Edmund Fawcett diskuteras [Léon Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) och [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall), marginalnyttoteorins grundare, och Fawcett skriver:
 
 > [...] both thinkers were nevertheless able to agree on marginalism's core principles: the twin sovereignety of supply and demand, and the fruitfulness of competition. **They were able to do all that largely beacuse both grasped how much of life, including political life, marginal economics could not pronounce on.** [Min betoning]
 

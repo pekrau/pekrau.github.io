@@ -18,19 +18,17 @@ Att det handlar om rent praktiskt landsförräderi står klart. Mängder av info
 
 Betrakta den tidslinje som DN:s reporter [Mikael Holmström redovisar](http://www.dn.se/nyheter/sverige/statliga-hemligheter-kunde-nas-av-frammande-makt/) för händelseförloppet:
 
-
-
 > Transportstyrelsens drift av bland annat fordons- och körkortsregister sköts av Trafikverkets datacentral i Örebro. Men Transportstyrelsen vill spara pengar och outsourca driften.
-
-April 2015. IBM får ett kontrakt på 800 miljoner kronor för att ta över driften från Trafikverket. Kontraktet omfattar 1 000 servrar, datahallar och support.
-
-Maj 2015. Övergången till IBM är tidspressad. Transportstyrelsens generaldirektör Maria Ågren beslutar att göra avsteg från Säkerhetsskyddslagen, Personuppgiftslagen och Offentlighets- och sekretesslagen samt verkets egna krav på informationssäkerhet. Beslutet förlängs i juli och augusti.
+>
+> April 2015. IBM får ett kontrakt på 800 miljoner kronor för att ta över driften från Trafikverket. Kontraktet omfattar 1 000 servrar, datahallar och support.
+>
+> Maj 2015. Övergången till IBM är tidspressad. Transportstyrelsens generaldirektör Maria Ågren beslutar att göra avsteg från Säkerhetsskyddslagen, Personuppgiftslagen och Offentlighets- och sekretesslagen samt verkets egna krav på informationssäkerhet. Beslutet förlängs i juli och augusti.
 
 Läs detta noga. Maria Ågren "beslutar att göra avsteg" från tre olika lagar, stiftade av Sveriges riksdag. Vad är detta för något? Om man är helt igenom cynisk kan man konstatera att detta är en användbar innovation. Om jag någon gång skulle få för mig att begå brott så ska jag anföra argumentet "jag beslutade att göra avsteg från lagen." Ta-da! Allt är lugnt!
 
 > Juni 2015 juni. Säpo får reda på att IBM:s drift ska ske i Rumänien och Tjeckien och inleder granskning. Verksamhet ska även drivas från Serbien, Kroatien, Holland och Finland.
-
-25 november 2015. Säpo rekommenderar omedelbart stopp för outsourcingen och säkring av att obehöriga inte kommer åt hemliga uppgifter.
+> 
+> 25 november 2015. Säpo rekommenderar omedelbart stopp för outsourcingen och säkring av att obehöriga inte kommer åt hemliga uppgifter.
 
 Säpo får reda på vad som är på väg att hända, och utreder det i ett halvår! Man såsar alltså. Man låter eländet rulla på. Hur är detta möjligt?
 
@@ -39,8 +37,8 @@ Säpo får reda på vad som är på väg att hända, och utreder det i ett halv�
 Trots att att Säpo (till slut!) kommer fram till att det hela är en urbota idiotisk idé så skiter Transportstyrelsen i det. Och tydligen väljer Säpo då att gå den rent formalistiska vägen och skickar det till åklagaren. Man kunde ha ringt departementet och berättat om den hotande katastrofen. Hemska tanke: Säpo kanske gjorde det? Utan att något hände?
 
 > 26 januari 2016. Åklagare inleder förundersökning om vårdslöshet med hemlig uppgift.
-
-19 januari 2017. Maria Ågren får sparken men orsaken är oklar.
+> 
+> 19 januari 2017. Maria Ågren får sparken men orsaken är oklar.
 
 Det tar alltså ett år, ett helt j-la år, innan det uppenbart nödvändiga sker! Ågren sparkas. Sedan börjar regeringens försök till mörkning. Bara det en skandal i sig. Som om det inte räcker med röta i sammanhanget. Ingen utom de allra närmaste får tydligen reda på vad som hänt.
 

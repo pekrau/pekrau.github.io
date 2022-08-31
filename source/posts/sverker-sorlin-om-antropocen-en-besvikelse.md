@@ -16,7 +16,7 @@ type: post
 references:
 - Sörlin 2017
 ---
-Sverker Sörlin, professor i miljöhistoria vid KTH, har skrivit boken "Antropocen. En essä om människans tidsålder". Den är en besvikelse. Titeln är vilseledande. Boken har inte fokus på [antropocen](https://sv.wikipedia.org/wiki/Antropocen) som fenomen, utan snarare på idéhistorien för begreppet antropocen, vilket är något annat. Idéhistoria kan förvisso vara mycket intressant, men det är inte vad som förutskickas i de marknadsförande texterna på bokens omslag.
+Sverker Sörlin, professor i miljöhistoria vid KTH, har skrivit boken [Antropocen. En essä om människans tidsålder](/library/9789176810644.html). Den är en besvikelse. Titeln är vilseledande. Boken har inte fokus på [antropocen](https://sv.wikipedia.org/wiki/Antropocen) som fenomen, utan snarare på idéhistorien för begreppet antropocen, vilket är något annat. Idéhistoria kan förvisso vara mycket intressant, men det är inte vad som förutskickas i de marknadsförande texterna på bokens omslag.
 
 Antropocen betecknar hur människan har blivit en global geologisk kraft genom sin påverkan på miljö, klimat och ekologi. Påverkan har blivit så stor att det är tveksamt ifall det egentligen finns någon natur kvar. Sörlin diskuterar dessa begrepp med utgångspunkt från olika tänkare genom tiderna. Det är begreppsanalysen och historien om tänkandet som Sörlin tycks vara mest intresserad av. Själva de fenomen som utgör grunden antropocen diskuteras visserligen också ibland, men då främst som bakgrund till begreppshistorien.
 

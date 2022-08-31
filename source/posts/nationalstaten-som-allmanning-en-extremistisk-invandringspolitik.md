@@ -52,9 +52,9 @@ Tänk er en allmänning i form av en ängsmark. Bönderna i byarna runt omkring 
 
 Tragiken i sammanhanget är av den antika grekiska varianten: Alla aktörerna vet att det kommer att gå åt helvete, men ändå klarar man inte att bryta sig ur förloppets järngrepp. Hardin påpekar att allmänningens tragedi visar varför [Adam Smiths](https://en.wikipedia.org/wiki/Adam_Smith) "[osynliga hand](https://en.wikipedia.org/wiki/Invisible_hand)" inte alltid fungerar. Marknadslösningar där individerna agerar enligt individualistisk rationalitet kan inte alltid lösa samhälleliga resursproblem. Det finns situationer där marknadskrafterna obönhörligt leder till haveri.
 
-Men det finns ju trots allt exempel på allmänningar som fungerar. Hur går det till? Det har bland annat ekonomen [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) studerat, och hon fick Nobelpriset i ekonomi 2009 för sina resultat. Hon beskriver teorin i boken **Allmänningen som samhällsinstitution** som utkom 1990. Hennes analys visar att det är möjligt att undvika allmänningens tragedi, under vissa villkor.
+Men det finns ju trots allt exempel på allmänningar som fungerar. Hur går det till? Det har bland annat ekonomen [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) studerat, och hon fick Nobelpriset i ekonomi 2009 för sina resultat. Hon beskriver teorin i boken [Governing the Commons](/library/9780521405997.html) (på svenska: Allmänningen som samhällsinstitution) som utkom 1990. Hennes analys visar att det är möjligt att undvika allmänningens tragedi, under vissa villkor.
 
-Sammanfattningsvis kommer Ostrom fram till åtta designprinciper som bör gälla för att en allmänning (eller resurspool, som den också kallas) skall kunna brukas på ett hållbart sätt:
+Sammanfattningsvis kommer Ostrom fram till åtta designprinciper som bör gälla för att en allmänning (eller resurspool, som den också kallas) skall kunna brukas på ett hållbart sätt (citat ur Lennart J. Lundqvists förord till den svenska utgåvan av Ostroms bok.):
 
 1. Att det finns klart definierade gränser för den gemensamma resurspoolen, liksom för vilka som har rätt att ta ut resursenheter från den.
 2. Att det råder överensstämmelse mellan de regelsystem som är i bruk och de lokala förhållandena.
@@ -64,8 +64,6 @@ Sammanfattningsvis kommer Ostrom fram till åtta designprinciper som bör gälla
 6. Att mekanismer för konfliktlösning finns på plats.
 7. Att externa politiska instanser erkänner brukarnas rätt att själva utforma sina institutioner och regler.
 8. Att resursuttag, skötsel, övervakning, konfliktlösning och utformning av regler organiseras i sammanvävda, "nästlade", av varandra beroende nivåer.
-
-(Citerat ur Lennart J. Lundqvists förord till den svenska utgåvan av Ostroms bok.)
 
 **Jag vill hävda att nationalstaten, och kanske speciellt den moderna välfärdsstaten, kan ses som en allmänning där dessa åtta principer äger giltighet. De resurser som denna bredare definierade allmänning omfattar sträcker sig från rena välfärdsresurser som bidragsystem, till strukturer som hur arbetsmarknad och bostadsmarknad fungerar, till sådana mer svårfångade saker som förhållningssättet medborgare emellan.**
 

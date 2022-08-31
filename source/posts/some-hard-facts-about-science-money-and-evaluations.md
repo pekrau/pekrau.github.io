@@ -10,6 +10,8 @@ name: some-hard-facts-about-science-money-and-evaluations
 tags:
 - name: open-science
   value: Open Science
+- name: goodharts-law
+  value: Goodhart's Law
 title: Some hard facts about science, money and evaluations
 type: post
 ---

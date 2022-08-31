@@ -20,7 +20,7 @@ tags:
 title: "M\xE4rkligt insiktsl\xF6st om svenska v\xE4rderingar"
 type: post
 ---
-Dagens Nyheter har ett tema om nationalism 4 dec 2016. Låt mig här fokusera på en av artiklarna. Den illustrerar  ofrivilligt en anledning till att diskussionen om svenska värderingar och nationalism så ofta blir förvirrad.
+Dagens Nyheter har ett tema om nationalism 4 december 2016. Låt mig här fokusera på en av artiklarna. Den illustrerar  ofrivilligt en anledning till att diskussionen om svenska värderingar och nationalism så ofta blir förvirrad.
 
 Det är den politiska kommentatorn Ewa Stenberg som visar sig inte alls förstå vad värderingar betyder i ett samhälle. Ingressen till hennes artikel ["Politikernas tal möts av frågetecken"](http://www.dn.se/nyheter/sverige/ewa-stenberg-politikernas-tal-mots-av-fragetecken/) lyder:
 

@@ -15,8 +15,8 @@ Jag vill undvika invektiv i denna blogg, men ibland är frestelsen mycket stor. 
 Waaranperä börjar med att prata om teaterkritik, det som är hennes yrke:
 
 > – Både konstnärlig kredd, och tilltron till konsten, går i arv, säger Ingegärd Waaranperä, teaterkritiker i Dagens Nyheter.
-
-– Som teaterkritiker går man ju inte tre trappor under jord på Hälsingegatan om man inte vet att den teatern har en historia av kvalitet.
+> 
+> – Som teaterkritiker går man ju inte tre trappor under jord på Hälsingegatan om man inte vet att den teatern har en historia av kvalitet.
 
 **Vad menar hon med att konstnärligt kredd går i arv?** Och eventuellt nystartade teatrar får här veta att de inte kan förvänta sig något av denna teaterkritiker. Särskilt inte om de huserar i mindre fina lokaler. Vad skall man kalla den attityden?
 
@@ -34,7 +34,7 @@ Så Sjöstedt var en gång en vanlig tjej, som tydligen fått storhetsvansinne, 
 
 Waaranperä har länge haft svårt för Sjöstedt. För ett år sedan skrev [Waaranperä i Dagens Nyheter](http://www.dn.se/kultur-noje/ingegard-waaranpera-madeleine-sjostedt-har-otur-nar-hon-tanker/) att Sjöstedt "har otur när hon tänker". Det är en eufemism för att vara korkad, hämtad från Leif GW Perssons kriminalromaner.
 
-Man kan hämta inspiration från Leif GW:s alster för hur man bäst kan karaktärisera Waaranperä själv. Jag vet inte om uttrycket "attackflata" skulle passa, även om jag förstår att man tänker i den riktningen.** Själv associerar jag Waaranperä mest med [kriminalkommissarien Evert Bäckström](http://sv.wikipedia.org/wiki/Evert_B%C3%A4ckstr%C3%B6m)**.
+Man kan hämta inspiration från Leif GW:s alster för hur man bäst kan karaktärisera Waaranperä själv. Jag vet inte om uttrycket "attackflata" skulle passa, även om jag förstår att man tänker i den riktningen. **Själv associerar jag Waaranperä mest med [kriminalkommissarien Evert Bäckström](http://sv.wikipedia.org/wiki/Evert_B%C3%A4ckstr%C3%B6m)**.
 
 *Tillägg: Anna Steele, ordförande Liberala kvinnor, [kommenterar Waaranperä i Expressen 3 dec 2013](http://www.expressen.se/kultur/fy-waaranpera/).*
 

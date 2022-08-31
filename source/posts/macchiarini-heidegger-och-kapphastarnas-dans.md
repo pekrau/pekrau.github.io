@@ -34,8 +34,6 @@ Det passerade ett så kallat meme, alltså en bild med en fyndig text, i mitt Tw
 
 [![macchiarini-nazistisk-filosofi](/files/macchiarini-nazistisk-filosofi.jpg)](/files/macchiarini-nazistisk-filosofi.jpg)
 
-
-
 Bakgrunden är att Hans Ruin har byggt hela sin karriär på Martin Heidegger och dennes filosofi. Jag har tidigare diskuterat Heidegger, dennes nazism, och Ruins krumbuktande kring denna aspekt, se [denna listan av inlägg](/tag/hans-ruin/).
 
 Flera av de tankefigurer som Ruin använder, som det "tekniska handlandet", "att reflektera över det mänskliga handlandets villkor", "den teoretiska-tekniska kulturen" och "praxisbaserad etisk reflektion", är hämtade mer eller mindre direkt ur Heideggers tänkande. Den underliggande tanken är att teknik, vetenskap och rationalitet är onda, imperialistiska krafter som undanträngt den autentiska människan. Det är en civilisationskritik som vänder sig mot Upplysningen. Den vill idag gärna framstå som radikal och hipp. Men dess antiprogressiva och djupt konservativa natur låter sig inte förnekas. Heidegger deltog i den så kallade [revolutionära konservativa rörelsen](https://en.wikipedia.org/wiki/Conservative_Revolutionary_movement) i mellankrigstidens Tyskland, en rörelse som förebådade och så småningom uppgick i nazismen. Han var reaktionär, i ordets bokstavliga mening. Han gick följaktligen med i Nazistpartiet 1933 och förblev medlem till krigets slut, så länge det var möjligt.
@@ -43,10 +41,10 @@ Flera av de tankefigurer som Ruin använder, som det "tekniska handlandet", "att
 Låt oss granska Ruins sätt att resonera. Han skriver:
 
 > Utvidgade möjligheter att ingripa i levande organismer, genom fosterdiagnostik, transplantationskirurgi, genterapi mm har ställt [människan] inför ett slags handlandets svindel. Om vi ska lokalisera en startpunkt för denna nya erfarenhet får vi rikta blicken mot andra världskriget slut. Det rymmer två genomgripande erfarenheter som hädanefter präglat synen på handlandet. Den ena är utvecklandet och användningen av kärnvapen, den andra industriellt organiserade folkmord.
-
-[...]
-
- I dödslägren visades samtidigt hur rationella, högt utvecklade samhällen kunde använda sin förmåga till bestialiska övergrepp på den egna befolkningen, där också eliten bland ingenjörer, jurister och läkare kom att verka i mördandets tjänst.
+> 
+> [...]
+> 
+> I dödslägren visades samtidigt hur rationella, högt utvecklade samhällen kunde använda sin förmåga till bestialiska övergrepp på den egna befolkningen, där också eliten bland ingenjörer, jurister och läkare kom att verka i mördandets tjänst.
 
 Notera först den implicita kopplingen mellan folkmord och sådant som transplantationskirurgi. Här vill Ruin skapa en association i läsarens medvetande, men utan argument. Modern teknologi innebär folkmord, det är ett axiom.
 
@@ -56,9 +54,7 @@ Ruin vill vrida bort uppmärksamheten från det faktum att det var det nazistisk
 
 "Endast en Gud kan rädda oss" yttrade Heidegger i en intervju mot slutet av sitt liv. Det är den attityden, att människan är fundamentalt oförmögen att förbättra sin värld, att framsteg är omöjligt, och att Upplysningen var ett irrbloss, som utgör grunden för Heideggers fundamentala anti-humanism.
 
-**Detta är alltså den käpphäst som Ruin vill att Macchiarini-skandalen skall bekräfta. Det räcker för Ruin att beskriva den moderna teknologins hemskheter och den moderna analytiska filosofins akademisering för att han skall anse saken bevisad. För oss vanliga dödliga, som inte förtrollats av de heideggerska besvärjelserna, tycks beviskedjan något bristfällig.
-
-**
+**Detta är alltså den käpphäst som Ruin vill att Macchiarini-skandalen skall bekräfta. Det räcker för Ruin att beskriva den moderna teknologins hemskheter och den moderna analytiska filosofins akademisering för att han skall anse saken bevisad. För oss vanliga dödliga, som inte förtrollats av de heideggerska besvärjelserna, tycks beviskedjan något bristfällig.**
 
 I sin kritik av den nutida praktiska filosofin vill Ruin åkalla Sokrates och Platon:
 

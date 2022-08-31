@@ -42,14 +42,14 @@ Men det är annorlunda om vi ska nalkas stora samhälleliga problemen som fattig
 
 Den senaste tidens diskussion har blandat samman den personliga och den politiska godheten. En del av den oförståelse som präglat grälet mellan exempelvis Lernfelt och Heberlein kommer ur denna förvirring. Båda debattörerna har använt exempel som handlar om personlig etik när de velat göra politiska poänger. Det har lett till att de verkliga politiska knäckfrågorna kommit bort.
 
-Anna Dahlberg skriver på Expressens ledarsida [18 dec 2016](http://www.expressen.se/ledare/anna-dahlberg/fastna-inte-i-goda-mot-onda-fallan/) om diskussionen, och där är det tydligt att det handlar om den politiska etiken, även om hon tyvärr inte helt explicit skiljer den från den personliga etiken. Men jag tror att hon skulle hålla med om mitt resonemang.
+Anna Dahlberg [skriver på Expressens ledarsida](http://www.expressen.se/ledare/anna-dahlberg/fastna-inte-i-goda-mot-onda-fallan/) 18 december 2016 om diskussionen, och där är det tydligt att det handlar om den politiska etiken, även om hon tyvärr inte helt explicit skiljer den från den personliga etiken. Men jag tror att hon skulle hålla med om mitt resonemang.
 
 Hennes slutsatser om kraven på en rimlig politik är helt riktiga:
 
 > Ingen förväntar sig att en engagerad kulturpersonlighet ska ge svaren på hur heliga principer ska kunna förverkligas. Men av politiker och ledarskribenter har man faktiskt rätt att förvänta sig ett ansvar för helheten.
-
+> 
 > [...]
-
+> 
 > En moralisk hållning som flyr alla svåra målkonflikter är snarare feg än principfast. Då kostar godheten ingenting. Det är allt-åt-alla-linjen där man skjuter över ansvaret på någon annan som man sedan kan fördöma.
 
 Jag vill utmana de som vill se en annorlunda flyktingpolitik än dagens att resonera om de faktiska följderna av de tänkta alternativen. Det är ingen retorisk fråga. Om man redovisar en annan inställning, där man tydligt tar ansvar för sannolika följder, då kan man sedan föra en diskussion som kanske leder vidare. Kanske vi stannar i att vi har olika värderingar. Kanske handlar det om olika syn på hur samhället fungerar. Men så länge det handlar om ett förenklat personligt och icke-politiskt gräl om godhet-mot-ondska så kortsluts varje sådan diskussion.

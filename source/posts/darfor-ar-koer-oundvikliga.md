@@ -17,9 +17,8 @@ tags:
   value: simulering
 title: "D\xE4rf\xF6r \xE4r k\xF6er oundvikliga"
 type: post
+translation: /2015/01/31/why-queues-are-inevitable/
 ---
-*This blog post is also available [in English](/2015/01/31/why-queues-are-inevitable/).*
-
 Vi klagar gärna på köer. Varför ska vi behöva vänta? Visar inte t.ex. vårdköerna att för snåla resurser läggs på sjukvården? Jag har tittat litet närmare på detta problem.
 
 **Min slutsats: Nej, vi är nog inte beredda att betala vad det kostar att avskaffa köerna.** Mitt resultat bygger på några enkla förutsättningar, och är tillämpligt på många olika typer av verksamheter. Jag har använt datorsimuleringar för att räkna på problemet. Siffrorna talar sitt tydliga språk: **Det köfria samhället är en orimlig utopi.**
@@ -28,7 +27,7 @@ Jag jobbar i en serviceverksamhet ([National Genomics Infrastructure in Sweden](
 
 Det finns en mycket väl utvecklad teori om detta, främst inom det fält som heter [Discrete Event Simulation](http://en.wikipedia.org/wiki/Discrete_event_simulation), men de grundläggande dragen är så enkla att jag programmerade det följande själv. Källkod och andra filer finns på mitt GitHub-repo [queue_simulation](https://github.com/pekrau/queue_simulation) för den som vill titta på detaljerna.
 
-**Ett helt grundläggande antagande som jag gör är att uppdragen kommer till serviceverksamheten helt oberoende av varandra. Det finns ingen tidsbokning, planering eller flockbeteende.** En patient blir sjuk helt oberoende av andra, eller en forskare levererar ett prov till NGI helt oberoende av andra forskare. Då kan man använda en så kallad [slumptalsgenerator](http://sv.wikipedia.org/wiki/Slumptalsgenerator), en slags datorbaserad tärning, för att i ett datorprogram simulera processen.
+Ett helt grundläggande antagande som jag gör är att uppdragen kommer till serviceverksamheten helt oberoende av varandra. Det finns ingen tidsbokning, planering eller flockbeteende. En patient blir sjuk helt oberoende av andra, eller en forskare levererar ett prov till NGI helt oberoende av andra forskare. Då kan man använda en så kallad [slumptalsgenerator](http://sv.wikipedia.org/wiki/Slumptalsgenerator), en slags datorbaserad tärning, för att i ett datorprogram simulera processen.
 
 Så vad händer om vi simulerar en serviceverksamhet dit det kommer ett antal uppdrag litet när som helst? Här är en visuell representation:
 

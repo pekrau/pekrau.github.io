@@ -26,7 +26,7 @@ Ukraina-krisen har blottlagt gamla konfliktytor i den svenska debatten. Den gaml
 
 Allt detta ekar ihåligt efter den senaste tidens händelser, där Rysslands invasion av Krim, destabiliseringen i östra Ukraina, presidentvalet i Ukraina och EU-valet har gjort det besvärligt för tredje-ståndpunktarna. Vi har inte hört så mycket från Greider, Bjereld eller Linderborg på den senaste tiden i dessa frågor. Man kan däremot med stor behållning läsa [Timothy Snyders analys](http://www.dn.se/kultur-noje/kulturdebatt/timothy-snyder-ukraina-har-svaret-pa-eus-kris/) i Dagens Nyheter 27 maj 2014, med rubriken "Ukraina har svaret på EU:s kris".
 
-Estlands president Toomas Hendrik Ilves [intervjuades i Dagens Nyheters lördagsbilaga av Philip Teir (prenumeration krävs förmodligen för åtkomst)](http://www.dn.se/nyheter/varlden/president-med-stor-lust-att-debattera-sakerhetsfragor/) 24 maj 2014, och påminner om ett besläktat trist tema i den svenska närtidshistorien: den svenska inställningen till Baltikum under Sovjet.
+Estlands president Toomas Hendrik Ilves [intervjuades i Dagens Nyheters lördagsbilaga av Philip Teir](http://www.dn.se/nyheter/varlden/president-med-stor-lust-att-debattera-sakerhetsfragor/) 24 maj 2014, och påminner om ett besläktat trist tema i den svenska närtidshistorien: den svenska inställningen till Baltikum under Sovjet.
 
 > Ilves egen pappa var socialdemokrat. Jag frågar om Olof Palme var en figur hemma hos familjen.
 

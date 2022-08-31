@@ -23,9 +23,7 @@ references:
 ---
 Can a 2,400 year old thinker possibly have anything of interest to say to us in the modern world? Yes, says Rebecca Newberger Goldstein, philosopher at Columbia, Harvard and other institutions. Not only does the thinker in question, [Plato](https://en.wikipedia.org/wiki/Plato), provide arguments and views on issues still troubling us today. His entire project, philosophy, is alive and kicking. Goldstein argues convincingly that modern science has not and cannot supplant philosophical reasoning as such. She shows why there are some philosophical problems which science alone cannot answer. Personally, I don't need to be convinced about this, but there are clearly many scientists who believe philosophy in general is a waste of time.
 
-Goldstein makes her case in the book **Plato at the Googleplex. Why Philosophy won't go away.** It is a wonderful book, clear, lucid and a good read. Imagining that Plato came back from the dead, she explores how he would see our world, highlighted by a visit at Google's headquarters. How would we in the modern world meet the challenge of Plato's views and arguments? How would he respond to our views? The text of the book never gets in the way of the thinking. I was a bit apprehensive that the author would be tempted by the premise to go wild describing amusing culture clashes involving ancient Plato in modern times, but those fears turned out to be unfounded. However, I have one important issue with how Plato is portrayed.
-
-
+Goldstein makes her case in the book [Plato at the Googleplex. Why Philosophy won't go away](/library/9780307378194.html). It is a wonderful book, clear, lucid and a good read. Imagining that Plato came back from the dead, she explores how he would see our world, highlighted by a visit at Google's headquarters. How would we in the modern world meet the challenge of Plato's views and arguments? How would he respond to our views? The text of the book never gets in the way of the thinking. I was a bit apprehensive that the author would be tempted by the premise to go wild describing amusing culture clashes involving ancient Plato in modern times, but those fears turned out to be unfounded. However, I have one important issue with how Plato is portrayed.
 
 It involves one aspect of Goldstein's approach. She discusses the problem of how to judge the validity of philosophical views. She first describes the distinction between validity and context:
 
@@ -37,7 +35,7 @@ However, Goldstein is not entirely happy simply discarding the aspect of how ide
 
 This is fine as far as it goes. But there is another way of looking at this issue which alters the perspective.
 
-My starting point is a theme in the later philosophy of [Karl Popper](/karl-popper/), more precisely the [epistemology](https://en.wikipedia.org/wiki/Epistemology) (theory of knowledge) that he presents in one of the essays in the book **Objective Knowledge. An Evolutionary Approach**. In chapter 3, **Epistemology Without a Knowing Subject**, Popper offers the following schema to describe the process of obtaining knowledge:
+My starting point is a theme in the later philosophy of [Karl Popper](/karl-popper/), more precisely the [epistemology](https://en.wikipedia.org/wiki/Epistemology) (theory of knowledge) that he presents in one of the essays in the book [Objective Knowledge. An Evolutionary Approach](/library/9780198750246.html). In chapter 3, **Epistemology Without a Knowing Subject**, Popper offers the following schema to describe the process of obtaining knowledge:
 
 > <code>P<sub>1</sub> &rarr; TT &rarr; EE &rarr; P<sub>2</sub></code>
 
@@ -51,7 +49,7 @@ In the traditional approach described by Goldstein, and also in the modified app
 
 This is an interesting and, I believe, significant point. What it means is that the critical gaze directed at the theory TT is likely to bypass the problem P<sub>1</sub> that it is intended to solve. The problem is viewed as part of the context of discovery. Hence we may fail to consider whether there are entirely different solutions to the problem, or whether the problem itself is even correctly understood.
 
-Reading Goldstein's description of Plato and his views, I cannot avoid comparing it with the quite different narrative offered by Karl Popper in his most famous book, **The Open Society and Its Enemies**, the first half of which is devoted to a strongly critical analysis of Plato's political philosophy. Goldstein does not mention Popper's book, so I do not know what her views on it are.
+Reading Goldstein's description of Plato and his views, I cannot avoid comparing it with the quite different narrative offered by Karl Popper in his most famous book, [The Open Society and Its Enemies](/library/9780710046253.html), the first half of which is devoted to a strongly critical analysis of Plato's political philosophy. Goldstein does not mention Popper's book, so I do not know what her views on it are.
 
 My main issue with Goldstein's image of Plato is that it is strikingly anemic compared to the portrayal implicit in Popper's account. In Goldstein's telling, Plato has "gravitas" and is sorrowful whenever Socrates, his beloved teacher, is mentioned. It is a brilliant but subdued man who walks around the Googleplex, discussing different topics with cogent arguments, but somehow without seeming to become really engaged. There is no fire in Goldstein's Plato. Indeed, she states:
 

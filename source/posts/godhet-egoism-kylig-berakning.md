@@ -24,7 +24,7 @@ tags:
 title: "Godhet, egoism, kylig ber\xE4kning"
 type: post
 ---
-Är godhet bara förtäckt egoism? Eller är godhetshatarna slavar under en hård och kall människosyn? Debatten är frän och sker synbarligen utan försök att förstå den man kritiserar. Ann Heberlein skriver ([Fokus 9 dec 2016](http://www.fokus.se/2016/12/tiggarens-marknad/)) om att "det är så mycket lättare att vara god än att göra rätt" och avser den som ger gåvor till tiggare för att främst - som hon tolkar det - känna sig nöjd med sig själv. Malin Lernfelt anser ([Expressen 11 dec 2016](http://www.expressen.se/debatt/sanningen-ar-att-godheten-raddar-liv/)) att Heberlein är en "professionella tyckare som raljerar över godhet som vore det något förkastligt och efterfrågar hårdare tag [...]"
+Är godhet bara förtäckt egoism? Eller är godhetshatarna slavar under en hård och kall människosyn? Debatten är frän och sker synbarligen utan försök att förstå den man kritiserar. Ann Heberlein skriver ([Fokus 9 december 2016](http://www.fokus.se/2016/12/tiggarens-marknad/)) om att "det är så mycket lättare att vara god än att göra rätt" och avser den som ger gåvor till tiggare för att främst - som hon tolkar det - känna sig nöjd med sig själv. Malin Lernfelt anser ([Expressen 11 december 2016](http://www.expressen.se/debatt/sanningen-ar-att-godheten-raddar-liv/)) att Heberlein är en "professionella tyckare som raljerar över godhet som vore det något förkastligt och efterfrågar hårdare tag [...]"
 
 Så går diskussionen, eller snarare grälet. Många kommer förmodligen att skratta åt min synpunkt i detta (vilket jag struntar i, eftersom jag tror på den), nämligen: **Båda sidor har poänger. Och vi kan nå en bättre värld endast om vi erkänner det.**
 

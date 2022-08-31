@@ -18,9 +18,8 @@ tags:
   value: simulation
 title: Why queues are inevitable
 type: post
+translation: /2015/01/31/darfor-ar-koer-oundvikliga/
 ---
-*Detta inlägg finns även [på svenska](/2015/01/31/darfor-ar-koer-oundvikliga/).*
-
 We love to complain about queues. Why do we have to wait? Do not the queues in e.g. the health care system show that too few resources are allocated to it? I have looked a little closer at this problem.
 
 **My conclusion: No, we are probably not willing to pay what it costs to eliminate queues.** My results rely on some basic assumptions, and are applicable to many different types of scenarios. I have used computer simulations to investigate the problem. The numbers speak for themselves: **The queueless society is an unreasonable utopia.** 

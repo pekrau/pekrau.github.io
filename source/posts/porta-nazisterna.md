@@ -43,8 +43,8 @@ De vill inte ha en debatt. De vill kunna föra ut sitt budskap utan att bli mots
 Låt mig påminna om vad [Karl Popper](/karl-popper/), en av de mest betydelsefulla liberala filosoferna under 1900-talet, skrev 1944 under sin landsflykt från nazisterna. Jag vet att detta är ett långt textstycke, men det är värt ansträngningen:
 
 > Less well known is the paradox of tolerance: Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them. In this formulation, I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies; as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise. But we should claim the right even to suppress them, for it may easily turn out that they are not prepared to meet us on the level of rational argument, but begin by denouncing all argument; they may forbid their followers to listen to anything as deceptive as rational argument, and teach them to answer arguments by the use of their fists. We should therefore claim, in the name of tolerance, the right not to tolerate the intolerant. We should claim that any movement preaching intolerance places itself outside the law, and we should consider incitement to intolerance and persecution as criminal, exactly as we should consider incitement to murder, or to kidnapping; or as we should consider incitement to the revival of the slave trade.
-
-(The Open Society and Its Enemies. Volume 1. The Spell of Plato, note 4, chapter 7)
+> 
+> source: Karl Popper: The Open Society and Its Enemies. Volume 1. The Spell of Plato, note 4, chapter 7
 
 Nazisterna och deras vapendragare använder sig systematiskt av samma taktik som motorcykelgängen. De är inte ute efter debatt. Det handlar enbart om maktdemonstrationer.
 

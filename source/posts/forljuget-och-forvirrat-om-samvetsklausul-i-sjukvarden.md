@@ -41,13 +41,13 @@ Läs nu Göndörs argument igen, och notera att den enda person som har rättigh
 Men ändå tycker hon att själva idén om samvetsklausuler i allmänhet är rätt?! Hon tar det högst hypotetiska fallet med aktiv dödshjälp som exempel:
 
 > Föreställ dig till exempel att aktiv dödshjälp införs i Sverige i dag.
-
+> 
 > [...]
-
+> 
 > Den stora skillnaden är att vårdpersonalen i ena fallet skulle få nya arbetsuppgifter från en dag till en annan.
-
+> 
 > [...]
-
+> 
 > Premisserna för att fatta beslut om sin egen inblandning blir därför helt andra. Det gör att en samvetsklausul skulle vara rimlig för dödshjälp, men inte aborter.
 
 **Notera att detta resonemang undviker mycket noga att belysa frågan ur patientens synvinkel.** Om nu aktiv dödshjälp skulle tillåtas (en helt separat diskussion som jag förbigår här) så handlar det om patienter som verkligen önskar få ett slut på sitt liv, och som inte kan eller vill göra det på egen hand. Om nu detta skulle legaliseras, exakt varför skulle sjukvårdspersonal kunna ge sig rätten att vägra? Står patienten i centrum eller inte?
