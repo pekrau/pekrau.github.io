@@ -19,6 +19,8 @@ tags:
   value: rasism
 title: "Strukturell rasism: Har framsteg skett? \xC4r framsteg m\xF6jliga?"
 type: post
+references:
+  - Popper 1957
 ---
 Efter Jasenko Selimović artikel ([DN 27 mars 2013](http://www.dn.se/kultur-noje/debatt-essa/jonas-min-van)) har debatten kommit att kretsa kring begreppet "strukturell rasism". Lawen Mohtadi intervjuar Selimović i [Expressen 4 april 2013](http://www.expressen.se/kultur/hej-jasenko/), och hennes utgångspunkt är att hon "inte förstår vad han menar" när han, påstår Mohtadi, förnekar existensen av strukturell rasism i Sverige. Mohtadi tycks anse att den strukturella rasismen är ett uppenbart faktum.
 
@@ -38,7 +40,7 @@ Varje exempel på rasism i Sverige ses å andra sidan som uttryck för en grundl
 
 **Så resonerar man med hjälp essentialism: Man har skaffat sig en förmåga att se igenom samhällets inneboende ruttenhet.** Att detta synsätt är så populärt beror förmodligen på att det är mycket slagkraftigt i retoriken. Om man vill platta till en debattmotståndare så underlättar det om man kan påstå att denne inte förstår/vill se/döljer de grundläggande förhållandena. Och det är därför som det är så frestande för den radikale att använda argumentet. 
 
-Jag tänker inte här argumentera mot essentialismen som sådan. Det har bland annat [Karl Popper](http://sv.wikipedia.org/wiki/Popper) gjort i boken [The Poverty of Historicism (1957)](http://en.wikipedia.org/wiki/The_Poverty_of_Historicism).
+Jag tänker inte här argumentera mot essentialismen som sådan. Det har bland annat [Karl Popper](http://sv.wikipedia.org/wiki/Popper) gjort i boken [The Poverty of Historicism (1957)](/library/9780710046161.html).
 
 Jag vill istället påpeka att om man köper det essentialistiska argumentet, exempelvis att Sverige är strukturellt rasistiskt, så innebär det ett problem för den som vill ha en progressiv politik. Man riskerar att ställas inför frågan: **Har framsteg skett? Och kanske än viktigare: Är framsteg ens möjliga?**
 

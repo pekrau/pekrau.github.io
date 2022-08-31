@@ -13,8 +13,8 @@ type: post
 Susan Jacoby, amerikansk författare, [intervjuas på websajten Five Books](http://fivebooks.com/interviews/susan-jacoby-on-atheism) om sina synpunkter och argument kring ateism. Några smakprov:
 
 > Question: In your view, should everyone be an atheist?
-
-Answer: I don’t even know how to answer that question. Atheism seems to me to be reasonable, but should everyone be an atheist? I don’t know. To me that’s like asking, should everyone appreciate art?
+> 
+> Answer: I don’t even know how to answer that question. Atheism seems to me to be reasonable, but should everyone be an atheist? I don’t know. To me that’s like asking, should everyone appreciate art?
 
 Jacoby har skrivit om [Sankt Augustinus](http://sv.wikipedia.org/wiki/Augustinus) och dennes inflytelserika resonemang om gott och ont:
 

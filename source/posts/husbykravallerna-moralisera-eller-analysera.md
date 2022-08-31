@@ -80,7 +80,7 @@ En aspekt som inte berörts mycket är frågan om vilka moraliska signaler som s
 
 I fallet med Husby ser det ut som att den frågan kan få ett ganska hårt men ofrånkomligt svar. Många ungdomar har anhållits av polisen, och de är nu i början av en lång och förmodligen ganska tuff tid av legala efterräkningar. Mordbrännarna kommer inte att se en skymt av sociala insatser, eftersom de då sitter i fängelse. Men även här finns en spänning mellan att straffa och att sätta in sociala åtgärder för att få de dömda in i samhället igen.
 
-**I media har det skymtat förbi reportage om Backa, en förort till Göteborg där kravaller blossade upp 2009. **Tyvärr har jag inte kunnat återfinna dessa reportage för att länka till dom, men kontentan var att kommunen med olika projekt har lyckats vända trenden, och fått en framtidstro att spira i stadsdelen. Här finns ett behov av analys. Vad gjorde kommunen? Hur pass lyckosamt har det verkligen varit? Har man undvikit att belöna de som stod i spetsen för skadegörelsen?
+**I media har det skymtat förbi reportage om Backa, en förort till Göteborg där kravaller blossade upp 2009.** Tyvärr har jag inte kunnat återfinna dessa reportage för att länka till dom, men kontentan var att kommunen med olika projekt har lyckats vända trenden, och fått en framtidstro att spira i stadsdelen. Här finns ett behov av analys. Vad gjorde kommunen? Hur pass lyckosamt har det verkligen varit? Har man undvikit att belöna de som stod i spetsen för skadegörelsen?
 
 **Om den analysen görs rätt så kanske Husby, och därmed Sverige, kan gå en bättre framtid till mötes.**
 
