@@ -18,7 +18,7 @@ references:
 ---
 [Ronald Dworkin](http://en.wikipedia.org/wiki/Ronald_Dworkin), amerikansk rättsfilosof och liberal debattör, gick bort 14 februari 2013. Han publicerade tunga artiklar i [New York Review of Books (NYRB)](http://www.nybooks.com/) där han bland annat utifrån sin syn på filosofin bakom den amerikanska konstitutionen argumenterade kring aktuella politiska problem.
 
-I senaste numret av NYRB ([April 4-24 2013, Volume LX, Number 6](http://www.nybooks.com/issues/2013/apr/04/)) finns ett utdrag ur en bok som kommer att publiceras senare i år: [Religion Without God](http://www.nybooks.com/articles/archives/2013/apr/04/religion-without-god/). **Det är text som är tät, inspirerande och utmanande. Den handlar om värderingarnas plats i vår värld.**
+I senaste numret av NYRB ([April 4-24 2013, Volume LX, Number 6](http://www.nybooks.com/issues/2013/apr/04/)) finns [ett utdrag](http://www.nybooks.com/articles/archives/2013/apr/04/religion-without-god/) ur boken [Religion Without God](/library/9780674726826.html). **Det är text som är tät, inspirerande och utmanande. Den handlar om värderingarnas plats i vår värld.**
 
 **Med en religion utan gud menar Dworkin en världsbild som ser med vördnad på universum och dess fantastiska mångfald, men som inte förutsätter existensen av någon gudom.** Den inbegriper också en övertygelse om att transcendentala och i någon mening objektiva värden är inbyggda i universum. Han citerar Albert Einstein som karakteriserade sig själv som både ateist och djupt religiös:
 

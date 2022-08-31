@@ -47,10 +47,10 @@ Praizovic intar ståndpunkten att det en "välvillig vit medelklass" gör bäst 
 Ett ytterligare, något mer sofistikerat, exempel är **Jan Helin** som i [Aftonbladet 29 sept 2013](http://bloggar.aftonbladet.se/janhelin/2013/09/sondagskolumn-68-om-politik-journalistik-och-hanne-kjoller/) skriver:
 
 > Min egen spaning är att just liberala opinionsbildare har ett särskilt problem som är mycket tydligt i Hanne Kjöllers fall:
-
-Hon tänker att det hon tycker är sanningen. Det är ett riskfyllt antagande. Också liberalt tyckande är en politisk uppfattning.
-
-Opinionsjournalistik blir oftast klarare för läsaren om de politiska förtecknen är tydligt vänster eller tydligt höger. I mittfåran får skribenter inte sällan för sig att de ägnar sig åt objektiv sanning, trots att de får betalt för att vara subjektiva.
+> 
+> Hon tänker att det hon tycker är sanningen. Det är ett riskfyllt antagande. Också liberalt tyckande är en politisk uppfattning.
+> 
+> Opinionsjournalistik blir oftast klarare för läsaren om de politiska förtecknen är tydligt vänster eller tydligt höger. I mittfåran får skribenter inte sällan för sig att de ägnar sig åt objektiv sanning, trots att de får betalt för att vara subjektiva.
 
 Helin retar sig på att Kjöller gör anspråk på att ge en sann bild, och att hennes kritik av andra journalisters rapportering förutsätter att hon, Kjöller, har mer rätt än de. Eftersom Kjöller har beslagits med ett sakfel, så finner Helin det onödigt att diskutera det som är Kjöllers huvudtes, att opinionsjournalistiken i Janne Josefssons kölvatten avsiktligt vinklar nyheter för att frammana en viss bild. Helins slutsats är att Kjöllers bok bara handlar om politik, och då är sanning inte längre relevant.
 

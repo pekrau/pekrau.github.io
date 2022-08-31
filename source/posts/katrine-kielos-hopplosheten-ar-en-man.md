@@ -22,7 +22,7 @@ references:
 ---
 Katrine Kielos är en framträdande ung intellektuell i den svenska debatten. Tyvärr säger hennes argumentation en del om dagens debattklimat.
 
-Kielos har varit ledarskribent på Aftonbladet, och är numera krönikör där. [Hon fick nyligen](http://www.dn.se/kultur-noje/katrine-kielos-far-lagercrantzen) Dagens Nyheters pris ["Lagercrantzen"](http://sv.wikipedia.org/wiki/Lagercrantzen) (som skall belöna "en kritiker med intellektuell bredd och stilistisk spets"), främst för **sin bok "Det enda könet"**.
+Kielos har varit ledarskribent på Aftonbladet, och är numera krönikör där. [Hon fick nyligen](http://www.dn.se/kultur-noje/katrine-kielos-far-lagercrantzen) Dagens Nyheters pris ["Lagercrantzen"](http://sv.wikipedia.org/wiki/Lagercrantzen) (som skall belöna "en kritiker med intellektuell bredd och stilistisk spets"), främst för sin bok [Det enda könet](/library/9789175031729.html).
 
 **Den boken, som jag just har läst, är bland annat en kritik av den ekonomiska vetenskapens människosyn**, den som på engelska brukar kallas ["economic man"](http://en.wikipedia.org/wiki/Homo_economicus). Begreppet har sin födelse i den kritik som riktades på 1800-talet mot de nationalekonomiska teorier som bland annat John Stuart Mill formulerade:
 

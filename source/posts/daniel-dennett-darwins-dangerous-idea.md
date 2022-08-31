@@ -20,7 +20,7 @@ type: post
 references:
 - Dennett 1995
 ---
-Jag har läst [Daniel Dennetts](http://en.wikipedia.org/wiki/Daniel_Dennett) bok **Darwin's Dangerous Idea: Evolution and the Meanings of Life**, ett av de mer omtalade debattinläggen i gränslandet mellan vetenskap och samhällsdebatt under de senaste 20 åren.
+Jag har läst [Daniel Dennetts](http://en.wikipedia.org/wiki/Daniel_Dennett) bok [Darwin's Dangerous Idea: Evolution and the Meanings of Life](/library/9780140167344.html), ett av de mer omtalade debattinläggen i gränslandet mellan vetenskap och samhällsdebatt under de senaste 20 åren.
 
 En [sammanfattning av boken finns på Wikipedia](http://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea), så jag tänker inte referera hela innehållet här. 
 

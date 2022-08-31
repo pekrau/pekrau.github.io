@@ -13,6 +13,8 @@ tags:
   value: Thomas Hobbes
 title: "Mobbning: Hobbes p\xE5 skolg\xE5rden"
 type: post
+references:
+  - Hobbes 1651
 ---
 I Dagens Nyheter skriver [Susanna Birgersson 20 feb 2013 om mobbning](http://www.dn.se/ledare/signerat/mobbning-stoppa-skolgardstyrannerna). Hon skriver insiktsfullt, men det finns ett vidare perspektiv på detta, nämligen vad [Thomas Hobbes](http://sv.wikipedia.org/wiki/Thomas_Hobbes) har att säga om saken.
 

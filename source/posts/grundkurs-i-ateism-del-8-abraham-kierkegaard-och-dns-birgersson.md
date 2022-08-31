@@ -26,7 +26,7 @@ Susanna Birgersson, ledarskribent på Dagens Nyheter, skriver [om Søren Kierkeg
 
 [Kierkegaard](http://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) är en av de filosofer som tycks vara resolut apolitiska, alltså helt ointresserade av, och för, samhällelig praktik. Mig veterligen har ingen politiker använt Kierkegaard som argument för något. **Ej heller har hans tankar använts som ursäkt av någon diktator. Sympatiskt, kan man tycka. Men riktigt så enkelt är det inte.**
 
-Den berömde liberale idéhistorikern [Isaiah Berlin](http://en.wikipedia.org/wiki/Isaiah_Berlin) hävdar i essän "The Counter-Enlightenment" (tillgänglig i boken "Against the Current") att** Kierkegaard var den mest briljante och djupsinnige lärjungen till den radikalt upplysnings-kritiske [Johann Georg Hamann](http://en.wikipedia.org/wiki/Georg_Johann_Hamann)**. Berlin beskriver Hamann som en fanatisk motståndare till rationalism och vetenskap, och som en viktig, om än idag bortglömd, inspiratör till det som blev, och fortfarande är, en lång tradition av reaktion mot Upplysningen.
+Den berömde liberale idéhistorikern [Isaiah Berlin](http://en.wikipedia.org/wiki/Isaiah_Berlin) hävdar i essän "The Counter-Enlightenment" (tillgänglig i boken "Against the Current") att **Kierkegaard var den mest briljante och djupsinnige lärjungen till den radikalt upplysnings-kritiske [Johann Georg Hamann](http://en.wikipedia.org/wiki/Georg_Johann_Hamann)**. Berlin beskriver Hamann som en fanatisk motståndare till rationalism och vetenskap, och som en viktig, om än idag bortglömd, inspiratör till det som blev, och fortfarande är, en lång tradition av reaktion mot Upplysningen.
 
 Med detta i minnet är det intressant att läsa vad Birgersson skriver:
 
