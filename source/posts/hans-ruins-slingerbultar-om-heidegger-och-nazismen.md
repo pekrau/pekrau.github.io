@@ -65,5 +65,5 @@ PS.
 I min bokhylla har jag ett sönderfallande exemplar av **"The Rise and Fall of the Third Reich"**, en historia över Tredje Riket skriven av den amerikanske journalisten William L. Shirer som levde och verkade i Tredje Riket under första hälften av dess existens. Jag kollade om det stod något om Martin Heidegger. Jag fann följande:
 
 > A large majority of professors, however, remained at their posts, and as early as the autumn of 1933 some 960 of them, led by such luminaries as Professor Sauerbruch, the surgeon, Heidegger, the existentialist philosopher, and Pinder, the art historian, took a public vow to support Hitler and the National Socialist regime.
-
-"It was a scene of prostitution," Professor Roepke later wrote, "that has stained the honorable history of German learning."
+> 
+> "It was a scene of prostitution," Professor Roepke later wrote, "that has stained the honorable history of German learning."

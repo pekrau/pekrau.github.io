@@ -30,9 +30,9 @@ Per Altenberg skriver en intressant artikel ["Dags att inse faktum: Striden stå
 Hans tes är följande:
 
 > För de flesta är det uppenbart att kampen mellan nationalister och individorienterade synsätt är på väg att bli den dominerande konfliktdimensionen i europeisk, och därmed svensk, politik. Det innebär samtidigt att höger-vänster-dimensionen i politiken håller på att förlora i relevans.
-
+> 
 > [...]
-
+> 
 > Allra viktigast är att vi erkänner den nya kollektivismen som det främsta hotet. [...] Det är först när vi på allvar vågar ta strid för den individbaserade samhällssynen som vi vinner förståelse för att kampen är på allvar [...]
 
 Altenberg refererar till Karl Poppers resonemang om skillnaden mellan det öppna och det slutna samhället, som presenterades i verket **The Open Society and Its Enemies**, utgivet 1945 (se [min sida om Karl Popper](/karl-popper/) för länkar; notera att hela texten för The Open Society finns tillgänglig på nätet). Altenberg beskriver de olika högerpopulisterna i Västvärlden som kollektivister och som anhängare av det slutna samhället i Poppers mening. I ett slutet samhälle ses inte människor som individer med egen vilja och eget ansvar, utan som delar av kollektiv och underordnade dessa kollektivs regler.

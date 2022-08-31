@@ -23,7 +23,7 @@ type: post
 references:
 - Godfrey-Smith 2013
 ---
-Having just read the book "Philosophy of Biology" by Peter Godfrey-Smith (who is Distinguished Professor of Philosophy at the City University of New York Graduate Center), I am left wondering if there is such a thing as a philosophy of biology. The book is well-written, and it discusses a number of fundamental phenomena in biology quite well. I did learn some new things, and the discussion does explain some issues very well. I cannot find any errors or misunderstandings of significance, except for one statement, discussed later.
+Having just read the book [Philosophy of Biology](/library/9780691140018.html) by Peter Godfrey-Smith (who is Distinguished Professor of Philosophy at the City University of New York Graduate Center), I am left wondering if there is such a thing as a philosophy of biology. The book is well-written, and it discusses a number of fundamental phenomena in biology quite well. I did learn some new things, and the discussion does explain some issues very well. I cannot find any errors or misunderstandings of significance, except for one statement, discussed later.
 
 Yet, I cannot say that I would know how to respond if anyone now asked me what philosophy of biology is actually being proposed in the book.
 

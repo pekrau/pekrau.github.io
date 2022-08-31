@@ -27,13 +27,11 @@ popular: true
 ---
 Göran Rosenbergs krönika i [Sveriges Radio 11 februari 2016](http://sverigesradio.se/sida/artikel.aspx?programid=438&artikel=6366460) om Macchiarini-skandalen är ett exempel på hur berättigad indignation kan slå över i tankefel via orimliga jämförelser. Rosenberg gör det helt enkelt för lätt för sig. Macchiarini-skandalen kräver mer eftertanke än så.
 
-
-
 Rosenberg skriver att Paolo Macchiarini "fick leka doktor Mengele". Han syftar på [Josef Mengele](https://en.wikipedia.org/wiki/Josef_Mengele), SS-officer och läkare som arbetade vid Auschwitz-lägret där han "forskade" på de människor som fraktats dit för att mördas. Hans aktiviteter där inbegrep bland annat följande (citat från Wikipedia, referenser finns där):
 
 > [...] recalled one occasion where Mengele personally killed fourteen twins in one night via a chloroform injection to the heart. If one twin died of disease, Mengele killed the other so that comparative post-mortem reports could be prepared.
-
-Mengele's experiments with eyes included attempts to change eye color by injecting chemicals into the eyes of living subjects and killing people with heterochromatic eyes so that the eyes could be removed and sent to Berlin for study. His experiments on dwarfs and people with physical abnormalities included taking physical measurements, drawing blood, extracting healthy teeth, and treatment with unnecessary drugs and X-rays. Many of the victims were sent to the gas chambers after about two weeks, and their skeletons were sent to Berlin for further study. Mengele sought out pregnant women, on whom he would perform experiments before sending them to the gas chambers.
+> 
+> Mengele's experiments with eyes included attempts to change eye color by injecting chemicals into the eyes of living subjects and killing people with heterochromatic eyes so that the eyes could be removed and sent to Berlin for study. His experiments on dwarfs and people with physical abnormalities included taking physical measurements, drawing blood, extracting healthy teeth, and treatment with unnecessary drugs and X-rays. Many of the victims were sent to the gas chambers after about two weeks, and their skeletons were sent to Berlin for further study. Mengele sought out pregnant women, on whom he would perform experiments before sending them to the gas chambers.
 
 Den som har sett Bosse Lindquists tre dokumentärprogram i SVT [Experimenten](http://www.svtplay.se/video/5848124/experimenten/dokument-inifran-experimenten-stjarnkirurgen) om Macchiarini vet att dennes verksamhet var djupt oetisk. En rad allvarliga fel liksom uppenbarligen direkt fusk begicks, vilket ledde till flera människors död.
 

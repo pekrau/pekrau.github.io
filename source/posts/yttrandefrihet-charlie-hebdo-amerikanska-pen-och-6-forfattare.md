@@ -29,11 +29,11 @@ Vad tycker de 6 författarna? Ett uttalande har publicerats bland annat i [Vultu
 Den springande punkten uttrycks sålunda:
 
 > We do not believe in censoring expression. An expression of views, however disagreeable, is certainly not to be answered by violence or murder.
-
+>
 > However, there is a critical difference between staunchly supporting expression that violates the acceptable, and enthusiastically rewarding such expression.
-
+>
 > [...]
-
+>
 > Our concern is that [...]  PEN is not simply conveying support for freedom of expression, but also valorizing selectively offensive material: material that intensifies the anti-Islamic, anti-Maghreb, anti-Arab sentiments already prevalent in the Western world.
 
 Vi har sett argumentet förut: "Vi är för yttrandefrihet, <i>men</i>..." Och ankan om att Charlie Hebdo hatar muslimska personer kvackar vidare, helt utan verklighetskontakt.
@@ -61,8 +61,8 @@ Vi hade vår egen variant av Charlie Hebdo-debatten redan tidigare i år, där b
 Jag glömde ett viktigt, om än ganska långt, bidrag till denna diskussionen: **Kenan Malik** skriver på [sin blogg Pandaemonium 29 april 2015](https://kenanmalik.wordpress.com/2015/04/29/wrong-about-free-speech-again/): "Wrong about free speech – again". Han avslutar sitt inlägg:
 
 > Freedom of speech is no liberal bauble. It is the first freedom, upon which all other liberties depend.
-
-Longue vie à Charlie Hebdo.
+> 
+> Longue vie à Charlie Hebdo.
 
 **Tillägg 2**
 

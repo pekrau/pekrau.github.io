@@ -42,5 +42,5 @@ Varje brott mot mänskliga rättigheter är ett brott, och det enda sättet att 
 
 Den enda adekvata reaktionen på de bakslag för homosexuellas rättigheter som just nu sker i världen, från Uganda till Ryssland, och det pågående förtrycket i alltför många länder i Afrika och Mellanöstern är följande: **Förakt!**
 
-**Därför att de som hatar homosexuella visar sin låga grad av civilisation. Därför att de visar att de inte har förstått vad det innebär att utvecklas mot ett civiliserat samhälle. Därför att de inte ska tro att vi respekterar dom. Det gör vi inte. Ugandas parlamentariker är amoraliskt avskum. Till dess att de har insett vad mänskliga rättigheter innebär är de bara värda djupt förakt. **
+**Därför att de som hatar homosexuella visar sin låga grad av civilisation. Därför att de visar att de inte har förstått vad det innebär att utvecklas mot ett civiliserat samhälle. Därför att de inte ska tro att vi respekterar dom. Det gör vi inte. Ugandas parlamentariker är amoraliskt avskum. Till dess att de har insett vad mänskliga rättigheter innebär är de bara värda djupt förakt.**
 

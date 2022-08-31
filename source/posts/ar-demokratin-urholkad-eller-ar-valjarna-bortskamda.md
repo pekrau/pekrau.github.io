@@ -23,9 +23,9 @@ Politikerna har bildat ett eget reservat där allt beslutas, och ingen utanför 
 Så långt är den kritiska analysen i linje med vad många andra har uppmärksammat. Men sedan går Forsne in på något som är litet annorlunda och på ett visst sätt mer intressant:
 
 > Det har hänt något inte bara med det bristande förtroendet för politiker och partierna. Men också med föreningssverige. Det samhälle generationer formats av och skolats in i för att känna sig som en del av ett vidareutvecklat byalag har mer och mer tappat sin legitimitet. Istället för respekt och öppna demokratiska processer bildar de som tagit sig till makten små klickar som tvingar igenom sitt eget program och med mer eller mindre mjukt hot får det hukande folket att tiga still.
-
+> 
 > ”Jag bryr mig inte för jag kan ändå inte påverka”
-
+> 
 > är ett återkommande argument. Inte som man tror inför de beslut som fattas på riksplanet – utan utanför den egna tröskeln. Just där demokratin är som viktigast. De har gått så långt att människor inte vågar gå på möten. Få vågar hävda sina åsikter. I konflikternas och diskussionernas förbjudna land knyter man handen i fickan och muttrar i sin ensamhet. Och hukar sig.
 
 När jag läser detta börjar jag fundera på om inte problemet har en helt annan sida. Nämligen att det har brett ut sig en attityd att demokrati innebär att man alltid ska få som man vill. Att det ständiga pratet om hur viktig demokratin är paradoxalt nog har medfört en oförståelse för att demokrati betyder att om man inte lyckas skapa en majoritet för sina idéer så kan man inte förvänta sig att de förverkligas.

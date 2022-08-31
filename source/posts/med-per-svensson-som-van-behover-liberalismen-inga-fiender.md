@@ -19,6 +19,8 @@ tags:
   value: "v\xE4lf\xE4rd"
 title: "Med Per Svensson som v\xE4n beh\xF6ver liberalismen inga fiender"
 type: post
+references:
+  - Svensson 2014
 ---
 Per Svensson skriver [ett inlägg 22 december 2016](http://www.dn.se/kultur-noje/kulturdebatt/per-svensson-friheten-mellan-skylla-och-karybdis/) i debatten om liberalismen på Dagens Nyheters Kultursida. Man skulle kunna tro att det är en satir på en kultursideartikel: En rubrik med "Skylla och Karybdis" (utan förankring i texten), därefter en text som inleder med en figur ur Fjodor Dostojevskijs roman ”Onda andar”. Fisförnämt skulle man kunna kalla det.
 
@@ -30,13 +32,11 @@ Jag blir bedrövad när jag läser detta. Svensson tycker det är skojigt att fn
 
 Med Per Svensson som vän behöver liberalismen inga fiender.
 
-
-
 Liberalismen har historiskt haft ett ambivalent förhållningssätt till välfärden. Så kallad klassisk liberalism, eller libertarianism om man så vill, har betraktat varje statligt välfärdssystem som omoraliskt därför att det krävs skatter. Skatt är stöld, enligt detta synsätt.
 
 Socialliberaler av olika schatteringar har sedan länge haft en annan inställning. Utan en praktisk möjlighet att leva ett värdigt liv blir individuell frihet ett privilegium för de lyckligt lottade. Det jämlikhetsideal som är en lika grundläggande del av liberalismen som dess frihetslängtan blir en chimär om det inte stöds av materiella rättigheter.
 
-Jag har [tidigare diskuterat](/2014/03/16/per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel/) Per Svensson med anledning av dennes skrift "Därför hatar alla liberaler. Och därför har alla fel." Jag har [också kommenterat](/2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/) en diskussion kring boken. Med den skriften och dagens artikel i åtanke måste man dra slutsatsen att Svensson faktiskt inte bryr sig ett skit om huruvida välfärden eller samhället alls fungerar. Bara man hävdar de egna höga idealen, helst i rabulistisk anda, så är allt liberalt och bra.
+Jag har [tidigare diskuterat](/2014/03/16/per-svensson-darfor-hatar-alla-liberaler-och-darfor-har-alla-fel/) Per Svensson med anledning av dennes skrift [Därför hatar alla liberaler. Och därför har alla fel](/library/9789198166002.html). Jag har [också kommenterat](/2014/03/18/debatt-om-per-svenssons-bok-elefanten-som-inte-fanns-i-rummet/) en diskussion kring boken. Med den skriften och dagens artikel i åtanke måste man dra slutsatsen att Svensson faktiskt inte bryr sig ett skit om huruvida välfärden eller samhället alls fungerar. Bara man hävdar de egna höga idealen, helst i rabulistisk anda, så är allt liberalt och bra.
 
 Jag har länge funderat på huruvida liberalismen egentligen tar samhället på allvar. Det finns också en stark dragning hos en del liberala tänkare att utifrån det individualistiska idealet förneka eller förminska samhällets betydelse. Vi ser det i Svenssons och andras förlöjligande och förminskande av de påfrestningar som ett välfärdssystem kan utsättas för. De liberala idealen måste gå före realismen, är parollen. Det är givetvis ett fundamentalt misstag. Liberala värden kan bara förverkligas i ett fungerande samhälle. Individualism bygger på samhällets utveckling, inte på dess nedmontering.
 

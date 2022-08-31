@@ -20,7 +20,7 @@ Det sägs allt som oftast att Sveriges folk fordom var enat och att frid rådde.
 
 > Ett land som präglades av en remarkabel etnisk homogenitet och en mycket stark känsla av samhörighet – allt det som folkhemmet representerade så väl – har på några decennier omvandlats till ett mångetniskt samhälle, där gemenskapsbanden människorna emellan avsevärt försvagats.
 
-Visst ligger det en del i detta och Rojas artikel har vissa poänger. Men det är ändå rejält fel.** Sverige har aldrig varit konfliktfritt. Det är ett enkelt historiskt faktum.** Granska vilken historisk epok som helst och gå förbi den nostalgiska standardbilden så finns konflikterna alltid där.
+Visst ligger det en del i detta och Rojas artikel har vissa poänger. Men det är ändå rejält fel. **Sverige har aldrig varit konfliktfritt. Det är ett enkelt historiskt faktum.** Granska vilken historisk epok som helst och gå förbi den nostalgiska standardbilden så finns konflikterna alltid där.
 
 För att ta idén om folkhemmet: Det var ett tydligt politiskt projekt, där socialdemokratin lyckades anamma och förändra den traditionellt konservativa tanken om nationen som en familj med överhuvud och underlydande, till en vision om jämlikhet och förändring. Vi kan idag få för oss att folkhemmet bara handlade om gullegull och hemtrevnad, men så var det verkligen inte. Idén var en del i en politisk kulturkamp.
 

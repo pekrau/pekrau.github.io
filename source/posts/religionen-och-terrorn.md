@@ -22,8 +22,6 @@ Dagen efter [bombdådet i en park i Lahore](http://www.bbc.com/news/world-asia-3
 
 **Karen Armstrongs tes kan kort och gott sammanfattas så här: All religion är egentligen god. Och är den ibland ond, så är det inte religion.** Schottenius skrev en devot recension av Armstrongs bok [21 mars 2016](http://www.dn.se/dnbok/bokrecensioner/karen-armstrong-med-gud-pa-var-sida-religion-och-vald-genom-historien/), där boken kallades "modig".
 
-
-
 Armstrongs sätt att resonera kan man tillgodogöra sig genom en [intervju i New York Times 26 december 2014](http://artsbeat.blogs.nytimes.com/2014/12/26/the-blame-game-karen-armstrong-talks-about-fields-of-blood/) apropå publiceringen av sagda bok. Där säger hon bland annat:
 
 > If we speak in order to wound, we will make matters worse: in my research I have found that when a fundamentalist group is attacked, it invariably becomes more extreme. My problem with some current critics of Islam is that their criticism is neither accurate, fair, nor well-informed. I am sure they do not intend this, but in the 1930s and ’40s in Europe, we learned how dangerous and ultimately destructive this kind of discourse could be.
@@ -41,8 +39,8 @@ Fundera på vilken "diskurs" som var "dangerous and ultimately destructive". Ant
 Den som tror att dådet i Lahore inte har med religion att göra bör läsa analysen av BBC:s M Ilyas Khan (se länken ovan):
 
 > But many believe there may be a wider context to the latest attack - 27 March was the deadline set by an alliance of more than 30 religious groups for the provincial government of Punjab to withdraw a new women's rights law they oppose.
-
-And supporters of Mumtaz Qadri, a police guard executed last month for the 2011 killing of a provincial governor who advocated reform of the blasphemy laws, have also launched protests. They brought forward the customary 40th day mourning for Qadri by 13 days to coincide with 27 March and several thousand have now occupied a high-security zone in Islamabad to press demands which include the implementation of Sharia law.
+> 
+> And supporters of Mumtaz Qadri, a police guard executed last month for the 2011 killing of a provincial governor who advocated reform of the blasphemy laws, have also launched protests. They brought forward the customary 40th day mourning for Qadri by 13 days to coincide with 27 March and several thousand have now occupied a high-security zone in Islamabad to press demands which include the implementation of Sharia law.
 
 Oh nej då, religion är aldrig ond.
 

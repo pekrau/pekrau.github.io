@@ -18,9 +18,9 @@ Förslaget till[ NobelCenter](http://www.nobelcenter.se/sv/) på Blasieholmen ha
 
 Så vad ska man tycka om detta? **Låt oss börja med tre synpunkter och argument som saklöst kan avfärdas:**
 
-**1. Förslaget är för stort, för synligt!** Detta är standardgnället när nybyggnation föreslås i Stockholm. Det är en slags nutida stadsbyggnadsvariant av [Jante](http://sv.wikipedia.org/wiki/Jantelagen): **Inget får sticka ut eller synas.** **
+**1. Förslaget är för stort, för synligt!** Detta är standardgnället när nybyggnation föreslås i Stockholm. Det är en slags nutida stadsbyggnadsvariant av [Jante](http://sv.wikipedia.org/wiki/Jantelagen): Inget får sticka ut eller synas.
 
-Låt oss komma ihåg vad som hände senast den maximen tillämpades: Vi fick det arkitektoniska fiaskot Moderna museet.** Den byggnaden passar så "bra" in i sin omgivning att den är helt osynlig. Den är total tristess manifesterad i cement. Skulden kan inte läggas på arkitekten Rafael Moneo, utan den ligger direkt på de politiker som lyssnade på den tidens högljudda stadsbyggnadsreaktionärer.
+Låt oss komma ihåg vad som hände senast den maximen tillämpades: Vi fick det arkitektoniska fiaskot Moderna museet. Den byggnaden passar så "bra" in i sin omgivning att den är helt osynlig. Den är total tristess manifesterad i cement. Skulden kan inte läggas på arkitekten Rafael Moneo, utan den ligger direkt på de politiker som lyssnade på den tidens högljudda stadsbyggnadsreaktionärer.
 
 Nu kanske någon invänder att Moderna museet inte är ett fiasko? Det finns en uppsjö sätt att bevisa att så är fallet. Låt mig bara nämna detta: På [hemsidan](http://www.modernamuseet.se/sv/Stockholm/) för Moderna museet i Stockholm  finns inte en bild på hela byggnaden. Inte en. Det enda som finns är två bilder på de två ingångarna. Hade byggnaden haft några kvaliteter alls så hade museet självt, eller dess webb-byrå självklart velat framhäva dessa. Men nej. Alltså: Inse att Moderna museet rent objektivt sett är en arkitektonisk katastrof!
 

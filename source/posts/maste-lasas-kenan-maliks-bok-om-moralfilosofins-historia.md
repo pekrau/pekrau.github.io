@@ -54,9 +54,8 @@ type: post
 references:
 - Malik 2014
 - Popper 1945a
+translation: /2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/
 ---
-*This blog post is also available [in English](/2015/02/16/a-must-read-kenan-maliks-book-on-the-history-of-moral-philosphy/).*
-
 [Kenan Malik](http://en.wikipedia.org/wiki/Kenan_Malik), engelsk skribent och föreläsare, har skrivit en bok om moralfilosofins historia som varje person intresserad av ämnet helt enkelt måste läsa. **"The Quest for a Moral Compass" är ett under av klarhet och stringens.** Filosofernas ståndpunkter framställs begripligt utan orimlig förenkling. Deras etiska resonemang sätts in i ett socialt och intellektuellt sammanhang. Det är oupphörligt intressant och lärorikt.
 
 Boken börjar med öppningsstrofen ur Homeros Iliaden, "Sjung, o gudinna, om vreden som brann hos Peliden Akhilleus...", och diskuterar det moraliska universum som den berättelsen utspelar sig inom. **Det är ett författartekniskt grepp som får mig att jubla. Ingen långrandig inledning, pseudo-akademiskt meta-snack om hur boken är upplagd, utan bara pang på, huvudet före! Så ska en slipsten dras.**
@@ -102,10 +101,10 @@ Nå, Malik är inte någon uttalad anhängare av dygdetik. Den kanske mest känd
 Jämför detta med Karl Poppers ord ur **The Open Society and Its Enemies, The Spell of Plato** (som jag [nyligen diskuterat](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/)):
 
 > The social engineer and technologist, on the other hand, will hardly take much interest in the origin of institutions, or in the original intentions of their founders [...]. Rather, he will put his problem like this. If such and such are our aims, is this institution well designed and organized to serve them?
-
-[...]
-
-We should not try to answer the essentialist question: What is the state, what is its true nature, its real meaning? [...] We should rather put our question in this way: What do we demand from a state? What do we propose to consider as the legitimate aim of state activity?
+> 
+> [...]
+> 
+> We should not try to answer the essentialist question: What is the state, what is its true nature, its real meaning? [...] We should rather put our question in this way: What do we demand from a state? What do we propose to consider as the legitimate aim of state activity?
 
 **Det finns en hel del gemensamt mellan Malik och Popper. I Poppers tänkande finns en tydlig progressiv ansats i hans analys av det öppna samhället. Likaså finns det en stark underström av progressivism i Maliks syn på moralhistorien.** En mindre ofta uppmärksammad skillnad i tonvikt mellan Popper och många andra liberala tänkare är att Popper inte ser så stort behov av att resonera kring människans inneboende natur, eller om samhällskontrakt eller naturrätt. Popper vill verka för individens befrielse, men det är fråga om framsteg och utveckling, inte om återgång till något som en gång förlorats, eller uppfyllande av ett ingånget kontrakt.
 
@@ -136,8 +135,3 @@ Jag blir inte riktigt klok på vilka sociala förhållanden Malik avser. Jag har
 **Men en historia om moraltänkandet som ser den sociala utvecklingen som en oundgänglig komponent i berättelsen, borde rimligen också ta fasta på de stora framsteg som faktiskt har skett.**
 
 Slutligen: Denna bok måste översättas till svenska och utges så fort det bara går!
-
-Kenan Malik: **The Quest for a Moral Compass. A Global History of Ethics.** Atlantic Books, 2014, ISBN 978-1-84887-479-4
-
-Karl Popper: **The Open Society and Its Enemies. Volume 1. The Spell of Plato.** Routledge &amp; Kegan Paul, 1945, 1974, ISBN 0-7100-4625-1.
-
