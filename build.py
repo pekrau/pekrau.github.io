@@ -16,6 +16,8 @@ import markupsafe
 import marko
 import yaml
 
+GOODREADS_FILENAME = "source/goodreads_library_export.csv"
+AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
 
@@ -169,13 +171,13 @@ def read_pages():
 def read_books():
     "Read the Goodreads dump CSV file and apply any corrections."
     # Read lookup table of canonical author names.
-    with open("source/authors_canonical.csv") as infile:
+    with open(AUTHORS_CANONICAL_FILENAME) as infile:
         reader = csv.DictReader(infile)
         for row in reader:
             AUTHORS[row["name"]] = row["canonical"]
 
     non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
-    with open("source/goodreads_library_export.csv") as infile:
+    with open(GOODREADS_FILENAME) as infile:
         reader = csv.DictReader(infile)
         for row in reader:
             book = {
@@ -214,7 +216,7 @@ def read_books():
             except IOError:
                 pass
             if book["reference"] in BOOKS:
-                raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOK[book['reference']]['goodreads']}, {BOOK[book['reference']]['title']}")
+                raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOKS[book['reference']]['goodreads']}, {BOOKS[book['reference']]['title']}")
             BOOKS[book["reference"]] = book
 
             # Normalize author names; do after corrections!
@@ -259,12 +261,17 @@ def build_blog():
     build_html("blog/en/index.html", posts=en_posts)
     # All blog post pages.
     for post in POSTS:
+        try:
+            references = [BOOKS[ref] for ref in post.get("references", [])]
+        except KeyError:
+            print(f"reference error in post '{post['title']}'")
+            references = []
         build_html(f"{post['path'].strip('/')}/index.html",
                    template="blog/post.html", 
                    sitemap=True,
                    post=post,
                    language=post.get("language", "sv"),
-                   references=[BOOKS[ref] for ref in post.get("references", [])])
+                   references=references)
     # Index of all tags.
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
     build_html("blog/tags/index.html", sitemap=True, tags=tags)
