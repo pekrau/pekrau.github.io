@@ -5,7 +5,7 @@ path: /per-kraulis/
 title: Per Kraulis
 type: page
 menu: true
-level: 1
+level: 99
 ---
 ![Per Kraulis](/files/Per_Kraulis_2019-06-25.jpg "Per Kraulis")
 
