@@ -44,15 +44,13 @@ type: post
 references:
 - Popper 1945a
 - Popper 1945b
-- Popper 1974
+- Popper 1974b
 ---
 Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
 
 **Låt mig istället fokusera på hennes centrala påstående, att Poppers tänkande har mycket gemensamt med de postmoderna tankar som bland annat i form av identitetspolitik och allmän moralisk relativism har hemsökt den västerländska debatten.** Andersson förde fram samma tes på ett seminarium 4 dec 2014, men i [min kommentar om det](/2014/12/05/lena-andersson-vs-karl-popper/) så valde jag att utelämna detta, eftersom jag betraktade det som såpass apart att det inte förtjänade uppmärksamhet. Men när nu Andersson gör stort nummer av det i en kolumn i DN så tvingas jag ta itu med det.
 
 **Lena Anderssons påstående är nämligen falskt. Inte vad gäller postmodernismens skadlighet, där träffar hon rätt. Det är hennes utpekande av Popper som en tidig postmodernist som är helt bort i tok.**
-
-
 
 Man kan förstå Anderssons tes på två olika sätt, som inte utesluter varandra. Det kan dels handla om ett logiskt samband, att Karl Poppers filosofi på ett logiskt sätt hänger ihop med eller förebådar postmoderna idéer, så att säga bereder vägen för dom. Man kan också tolka det så att Popper rent faktiskt inspirerade de postmoderna filosoferna, av vilka Andersson nämner [Michel Foucault](http://en.wikipedia.org/wiki/Michel_Foucault), [Jean-François Lyotard](http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard) och [Judith Butler](http://en.wikipedia.org/wiki/Judith_Butler). Det förra handlar om idéernas inbördes relationer, och det kräver filosofiska resonemang för att utröna vilka dessa är. Det senare påståendet handlar om idéhistoria, och kan utredas genom att granska fakta om det historiska skeendet.
 

@@ -23,7 +23,7 @@ title: Lena Anderssons trams om Karl Popper
 type: post
 references:
 - Andersson 2019
-- Popper 1974
+- Popper 1974b
 - Popper 1972
 ---
 Lena Andersson skriver en hel del om den liberale filosofen [Karl Popper](/karl-popper/) i sin senaste bok "Om falsk och äkta liberalism". Tyvärr är ganska mycket av det trams. Jag kommer här att granska en del av de påståenden Andersson gör. Alla indragna citat är från Anderssons bok, om inget annat anges.
