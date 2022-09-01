@@ -8,7 +8,7 @@ type: page
 ---
 Här samlar jag länkar till inlägg i den svenska debatten om utvecklingen i Putins Ryssland och händelserna i Ukraina. Fokus ligger på tolkningar av skeendena på det politiska och samhälleliga planet, rena nyhetsartiklar tas med endast i särskilda fall. Notera att artiklarna listas i omvänd tidsordning.
 
-Jag har samlat information om [Alexander Dugin på en egen sida](/svenska-debatten-om-ryssland/alexander-dugin/ ‎).
+Jag har samlat information om [Alexander Dugin på en egen sida](/svenska-debatten-om-ryssland/alexander-dugin/‎).
 
 Tips med länkar till relevanta artiklar kan skickas till mig via kommentarsfältet.
 

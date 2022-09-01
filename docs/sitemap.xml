@@ -895,9 +895,6 @@
 <loc>https://pekrau.github.io/blog/tags/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/alexander-dugin/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/lista-av-bocker-och-andra-verk/</loc>
 </url>
 <url>
@@ -920,6 +917,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/svenska-debatten-om-ryssland/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/alexander-dugin/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/per-kraulis/</loc>
@@ -2746,12 +2746,6 @@
 <loc>https://pekrau.github.io/library/9780385176576.html</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/9780691169163.html</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/9780393073775.html</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/9781138017313.html</loc>
 </url>
 <url>
@@ -2885,6 +2879,12 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9780198806561.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780691169163.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780393073775.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9789198116205.html</loc>
@@ -3127,9 +3127,6 @@
 <loc>https://pekrau.github.io/library/authors/Bratt, Anna/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Rothmaier, Stefan/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Bookchin, Murray/</loc>
 </url>
 <url>
@@ -3277,9 +3274,6 @@
 <loc>https://pekrau.github.io/library/authors/Darwin, Charles/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Ryan, Andrew/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Davenport, Charles Benedict/</loc>
 </url>
 <url>
@@ -3290,9 +3284,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Dennett, Daniel C/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Ward, Lalla/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/DeFries, Ruth/</loc>
@@ -4129,7 +4120,7 @@
 <loc>https://pekrau.github.io/library/authors/Gumuchdjian, Philip/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Jong, Kenneth A De/</loc>
+<loc>https://pekrau.github.io/library/authors/De Jong, Kenneth A/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Joyce, Richard/</loc>
@@ -4144,13 +4135,7 @@
 <loc>https://pekrau.github.io/library/authors/Kapuściński, Ryszard/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Bodegård, Anders/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Kean, Sam/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Olofsson, Björn/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Kelly, Kevin/</loc>
@@ -4219,9 +4204,6 @@
 <loc>https://pekrau.github.io/library/authors/Kolalowski, Leszek/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Falla, PS/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Kolbert, Elizabeth/</loc>
 </url>
 <url>
@@ -4235,12 +4217,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Kozubek, James/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Kołakowski, Leszek/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Zweigbergk, Martin von/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Krassén, Patrick/</loc>
@@ -4336,9 +4312,6 @@
 <loc>https://pekrau.github.io/library/authors/Laërtius, Diogenes/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Hicks, Robert Drew/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Lederer, William J/</loc>
 </url>
 <url>
@@ -4346,9 +4319,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Lefebvre, Henri/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Bononno, Robert/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Lepage, Henri/</loc>
@@ -4402,13 +4372,7 @@
 <loc>https://pekrau.github.io/library/authors/Lévy, Bernard-Henri/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Holoch, George/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/MacIntyre, Alasdair/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Kermode, Frank/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Magee, Bryan/</loc>
@@ -4421,9 +4385,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Mann, Thomas/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Wallenström, Ulrika/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Marc-Wogau, Konrad/</loc>
@@ -4519,13 +4480,7 @@
 <loc>https://pekrau.github.io/library/authors/Monod, Jacques/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Wainhouse, Austryn/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/More, Thomas/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Turner, Paul/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/More, Max/</loc>
@@ -4571,12 +4526,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Norman, Donald A/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Lan, Phuong/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Dunaeff, Tamara/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Nozick, Robert/</loc>
@@ -4849,9 +4798,6 @@
 <loc>https://pekrau.github.io/library/authors/Reed, John/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Moberg, Olle/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Reich, David/</loc>
 </url>
 <url>
@@ -4907,9 +4853,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Rousseau, Jean-Jacques/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Scott, John T/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Ruin, Hans/</loc>
@@ -5059,15 +5002,6 @@
 <loc>https://pekrau.github.io/library/authors/Smith, Adam/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Campbell, RH/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Skinner, AS/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Todd, WB/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Smith, Larry/</loc>
 </url>
 <url>
@@ -5098,9 +5032,6 @@
 <loc>https://pekrau.github.io/library/authors/Sternhell, Zeev/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Maisel, David/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Stewart-Williams, Steve/</loc>
 </url>
 <url>
@@ -5111,9 +5042,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Støstad, Hanna Nyborg/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Hellerud, Ylva/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Suzman, James/</loc>
@@ -5176,16 +5104,10 @@
 <loc>https://pekrau.github.io/library/authors/Diamond, David/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Torvalds, Sara/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Triandis, Harry C/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Tuchman, Barbara W/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Lundbom, Britt/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Tufte, Edward R/</loc>
@@ -5212,12 +5134,6 @@
 <loc>https://pekrau.github.io/library/authors/Veblen, Thorstein/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Wolfe, Alan/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Banta, Martha/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Venter, J Craig/</loc>
 </url>
 <url>
@@ -5231,15 +5147,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Voslensky, Michael/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Waal, Frans de/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Macedo, Stephen/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Davis, Jonathan/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Waddington, CH/</loc>
@@ -5302,13 +5209,7 @@
 <loc>https://pekrau.github.io/library/authors/Weber, Max/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Lundquist, Agne/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Weil, Simone/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Wills, Arthur/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Eliot, TS/</loc>
@@ -5383,9 +5284,6 @@
 <loc>https://pekrau.github.io/library/authors/Wulf, Andrea/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/André, Emeli/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Wästerberg, Olle/</loc>
 </url>
 <url>
@@ -5408,6 +5306,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Zielonka, Jan/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/de Waal, Frans/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Åkesson, Jimmie/</loc>
