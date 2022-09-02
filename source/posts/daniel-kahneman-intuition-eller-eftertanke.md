@@ -21,6 +21,7 @@ title: 'Daniel Kahneman: Intuition eller eftertanke'
 type: post
 references:
 - Kahneman 2011
+- Pinker 2010
 ---
 [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman), Nobelpristagare i ekonomi år 2002, sammanfattar i boken **Tänka, snabbt och långsamt** resultaten av sin forskning om hur människor faktiskt tänker, bedömer, värderar och väljer. **Det handlar om att ifrågasätta den utgångspunkt som är gängse inom till exempel klassisk ekonomisk teori, nämligen att människan alltid resonerar rationellt för att välja det bästa alternativet i varje given valsituation.**
 

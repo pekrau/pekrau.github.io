@@ -15,8 +15,8 @@ tags:
   value: "Per Ankersj\xF6"
 title: "H\xF6ghus som symbol i staden"
 type: post
-#references:
-#- Andersson 2012
+references:
+- Andersson_O 2012
 ---
 Ola Andersson, arkitekt och debattör, tar upp frågan om höga hus eller inte i [Dagens Nyheter 15 jan 2014](http://www.dn.se/kultur-noje/kulturdebatt/darfor-drabbas-politiker-av-hoga-hus-febern/). Som brukligt är i dagens debatt räcker det inte med att diskutera själva sakfrågan, utan han vill också spekulera i de bakomliggande motiv som styr de som föreslår höga hus:
 

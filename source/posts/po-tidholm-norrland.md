@@ -26,8 +26,6 @@ Po Tidholms bok **Norrland** (Teg Publishing, 2012, ISBN 978-91-979115-3-5) är 
 
 **Man kan kalla boken mångfacetterad. Eller splittrad.** Den tänjer sig mellan bilderna av 1800-talets småbruk, via framtidstrons och industrialismens 50- och 60-tal, till den avfolkning som fortgår idag. Hans vassaste artikel är ett lustmord på Kay Pollaks film "Så som i himmelen", bland annat för dess ohämmade schabloner om landsbygdens folk.
 
-
-
 **Tidholm är ingen naiv grön-vågare. Men ibland blir nostalgin så stark att idylliseringen av gångna tider blir litet väl tydlig.** Han verkar inte riktigt kunna bestämma sig för hur han ser på moderniteten. Är dagens urbanism modernitet? Då ser han det som uttryck för en förstörande global kommersialism. Eller var 50- och 60-talet modernismens guldålder? Då ser han den som en positiv utvecklingskraft.
 
 **Boken är läsvärd. Men dess stora problem är bristen på analys.** Ett exempel är en tanke om att bara vinsterna från skogen, vattenkraften och malmen stannade i  Norrland skulle allt vara så mycket bättre. Men det blir aldrig mer än just denna tanke. Inga analyser av hur dagens situation uppkom. Inte den minsta fundering på hur förhållandena skall förändras. På vilket sätt ska vinsterna "stanna kvar"? Tidholm kan försvara sig med att boken inte är en programskrift, visst. Men hans ständiga upprepning "om bara vinsterna..." frammanar misstanken att det handlar om en intellektuell snuttefilt, inget annat.

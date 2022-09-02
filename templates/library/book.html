@@ -9,6 +9,25 @@
 
 {% block main_section %}
 <section class="col-lg-6 offset-lg-1">
+  {% if book.get("posts") %}
+  <div class="card mb-3">
+    <div class="card-header bg-light" title="Referred">
+      {% if language == 'en' %}
+      Referred to in blog posts
+      {% else %}
+      Referade i blogginlägg
+      {% endif %}
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for post in book["posts"] %}
+      <li class="list-group-item">
+        {{ post_link(post) }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if book.get('rating') %}
   <div class="card">
     <div class="card-header bg-light">
@@ -63,25 +82,6 @@
     </ul>
   </div>
   
-  {% if book.get("posts") %}
-  <div class="card mt-3">
-    <div class="card-header bg-light" title="Referred">
-      {% if language == 'en' %}
-      Referred to in posts
-      {% else %}
-      Refereras i inlägg
-      {% endif %}
-    </div>
-    <ul class="list-group list-group-flush">
-      {% for post in book["posts"] %}
-      <li class="list-group-item">
-        {{ post_link(post) }}
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
   <div class="card mt-3">
     <div class="card-header bg-light" title="Subjects">
       {% if language == 'en' %}
