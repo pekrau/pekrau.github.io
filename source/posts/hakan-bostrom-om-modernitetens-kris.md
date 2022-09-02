@@ -21,8 +21,8 @@ tags:
   value: Sverigedemokraterna
 title: "H\xE5kan Bostr\xF6m om modernitetens kris"
 type: post
-#references:
-#- Nordin 2011
+references:
+- Nordin 2011
 ---
 Håkan Boström skriver på [Dagens Nyheters ledarsida 9 jan 2014](http://www.dn.se/ledare/signerat/modernitetens-omvandling-fornuftets-kris-blev-politikens/) om moderniteten och krisen i politiken. Hans resonemang är intressant, men det avslutas mycket illa. 
 

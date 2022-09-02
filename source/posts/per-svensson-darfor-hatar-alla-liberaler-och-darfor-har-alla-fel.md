@@ -30,6 +30,10 @@ title: "Per Svensson: D\xE4rf\xF6r hatar alla liberaler. Och d\xE4rf\xF6r har al
 type: post
 references:
 - Svensson 2014
+- Berlin 1969
+- Mill 1859
+- Mill 1912
+- Pinker 2010
 ---
 [Per Svensson](http://sv.wikipedia.org/wiki/Per_Svensson_(journalist)), journalist och tidigare kulturchef på Expressen, har författat en hybrid mellan en stridsskrift och en idéhistorisk betraktelse. **Han granskar och bemöter liberalismens kritiker, samtidigt som han vill formulera liberalismens uppgift.** Boken publicerades nyligen av [Liberal Debatt](http://www.liberaldebatt.se/). Den är intressant och läsvärd, men den blottlägger också, enligt min mening, en svaghet hos dagens liberalism.
 
@@ -45,7 +49,7 @@ Slutligen säger Svensson att "liberaler strävar efter att maximera friheten":
 
 > Att vara fri är att inte hindras av andra från att göra det man vill göra. Frihet är ett negativt definierat tillstånd. Frihet är frånvaro av tvång. Frihet är också något som skapas eller krymps i relation mellan människor, inte i relationen mellan människor och, exempelvis, naturen.
 
-Detta är den negativa frihet som Isaiah Berlin har diskuterat i den klassiska essän "Två frihetsbegrepp" (på svenska i boken "Essäer om frihet"). Den kontrasteras där mot den positiva friheten, som är makten att göra något, eller makten att bestämma vad som skall ske i samhället.
+Detta är den negativa frihet som Isaiah Berlin har diskuterat i den klassiska essän **Två frihetsbegrepp** (på svenska i boken **Essäer om frihet**). Den kontrasteras där mot den positiva friheten, som är makten att göra något, eller makten att bestämma vad som skall ske i samhället.
 
 **Så långt måste jag erkänna att min reaktion är: Är detta allt? Här finns inget om samhällsekonomins utveckling, inget om välfärden, mycket litet om teknikens och den globala ekonomins omvälvningar. Det är, helt enkelt, för tunt.**
 
@@ -53,9 +57,9 @@ Resonemanget ovan om naturens irrelevans för politiken är intressant: Svensson
 
 Svensson nämner exemplet rörelsefrihet över ett vattendrag eller ett högt berg. Man kan tolka Svensson så att han menar att en bro eller en tunnel inte kan sägas öka friheten för medborgarna. Men det är en rimlig slutsats endast så länge man håller sig till en strikt politisk definition av "frihet". Det vardagliga begreppet "frihet" är bredare än så.
 
-**Än märkligare blir det när Svensson därpå resonerar om klimathotet, och försöker få det att handla om negativ frihet.** Detta är skruvat. Det är ju bra mycket naturligare att beskriva de negativa följderna av förändrat klimat som en fråga om beskurna faktiska möjligheter (välfärd, i vid mening) för människor. Deras faktiska förmåga att bo där de vill bo, att leva sin liv, försämras av klimatförändringens återverkningar i naturen. Att försöka få miljöförstöringen till att vara en form av begränsad negativ frihet, och alltså ekvivalent med, låt oss säga, åsiktsförtryck, det är mycket udda.
+Än märkligare blir det när Svensson därpå resonerar om klimathotet, och försöker få det att handla om negativ frihet. Detta är skruvat. Det är ju bra mycket naturligare att beskriva de negativa följderna av förändrat klimat som en fråga om beskurna faktiska möjligheter (välfärd, i vid mening) för människor. Deras faktiska förmåga att bo där de vill bo, att leva sin liv, försämras av klimatförändringens återverkningar i naturen. Att försöka få miljöförstöringen till att vara en form av begränsad negativ frihet, och alltså ekvivalent med, låt oss säga, åsiktsförtryck, det är mycket udda.
 
-**Men varför resonerar Svensson på det viset? Jag tror det har att göra med att han inser att det är problematiskt att enbart fokusera på negativ frihet.** Han vill ha någon grad av statligt organiserad välfärd, och den ståndpunkten måste basera sig på något annat politiskt/moraliskt värde än den negativa friheten. Men vad, det resonerar Svensson inte kring.
+Men varför resonerar Svensson på det viset? Jag tror det har att göra med att han inser att det är problematiskt att enbart fokusera på negativ frihet. Han vill ha någon grad av statligt organiserad välfärd, och den ståndpunkten måste basera sig på något annat politiskt/moraliskt värde än den negativa friheten. Men vad, det resonerar Svensson inte kring.
 
 I Sydsvenskan synliggör [Lena Andersson 7 mars 2014](http://www.sydsvenskan.se/kultur--nojen/bocker/bokrecensioner/i-osynliga-handers-klubb---lena-andersson-laser-per-svenssons-bok-om-liberalisme/) denna aspekten:
 
@@ -63,7 +67,7 @@ I Sydsvenskan synliggör [Lena Andersson 7 mars 2014](http://www.sydsvenskan.se/
 
 [Lena Andersson är mycket konsekvent](/2013/12/15/lena-andersson-faller-i-extremistfallan/) i sitt ställningstagande för vad som rätteligen borde kallas libertarianism, den filosofi som har den i citatet nämnde [Robert Nozick](http://en.wikipedia.org/wiki/Robert_Nozick) som främste moderne representant. **Välfärd i form av statliga åtgärder innebär inskränkning av människors rättigheter, och är därför fel.** Med Per Svenssons liberalism tror jag inte detta stämmer så väl, men det förbigår Andersson med tystnad.
 
-Svensson citerar i slutet av sin bok det motto som John Stuart Mill försedde sin klassiker "On Liberty" med. Det är från Wilhelm von Humboldts essä "Sphere and Duties of Government" (tyvärr ej översatt i den svenska utgåva av "Om friheten" som jag har tillgänglig):
+Svensson citerar i slutet av sin bok det motto som John Stuart Mill försedde sin klassiker **On Liberty** med. Det är från Wilhelm von Humboldts essä **Sphere and Duties of Government** (tyvärr ej översatt i den svenska utgåva av "Om friheten" som jag har tillgänglig):
 
 > The grand, leading principle, towards which every argument unfolded in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.
 
@@ -73,7 +77,7 @@ Visserligen nämner Svensson modernitet och utveckling, men det är ett resonema
 
 **Men jag tror att liberalismen ser annorlunda ut om man betraktar den i ljuset av begreppet utvecklingen. Då ser man nämligen följande: Ett fritt samhälle skapas genom att det utvecklas så att dels människors individuella frihet ökas till den sedvanliga gränsen att den inte inkräktar på andra människors frihet. Dels måste också samhällets resurser, i mycket vid mening, öka så att människor faktiskt kan göra mer, ha fler möjligheter. Det senare har att göra med ekonomi, teknik, kunskap, kultur, välfärd och sociala förhållanden att göra. Med en sådan ansats ramlar pusselbitarna individuella rättigheter, välfärd, och modernitet på plats och bildar en större helhet.**
 
-En bok som varje liberal borde läsa är Steven Pinkers "The Better Angels of Our Nature". Där redogör Pinker för det empiriska faktum att våldet i det globala samhället har långsiktigt, om än ryckigt, minskat så långt tillbaka som vi kan se. Vårt samhälle har överlag blivit mer civiliserat. Den utvecklingen är inte förutbestämd enligt någon historisk lag (vilket ju Karl Popper visat är ett hopplöst felaktig idé), men Pinker redogör för en del hypoteser hur detta kan komma sig. Att utvecklingen inte har nått så långt vi skulle vilja säger sig självt.
+En bok som varje liberal borde läsa är Steven Pinkers **The Better Angels of Our Nature**. Där redogör Pinker för det empiriska faktum att våldet i det globala samhället har långsiktigt, om än ryckigt, minskat så långt tillbaka som vi kan se. Vårt samhälle har överlag blivit mer civiliserat. Den utvecklingen är inte förutbestämd enligt någon historisk lag (vilket ju Karl Popper visat är ett hopplöst felaktig idé), men Pinker redogör för en del hypoteser hur detta kan komma sig. Att utvecklingen inte har nått så långt vi skulle vilja säger sig självt.
 
 Pinkers poäng är att framsteg har skett, och att vi borde fundera på vad som ligger till grund för det. Vi har gjort något rätt. Men vad? Och hur kan vi försvara denna utvecklingen, och kanske snabba på den?
 

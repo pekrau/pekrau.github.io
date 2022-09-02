@@ -23,8 +23,8 @@ tags:
   value: Stefan Arvidsson
 title: "Fiasko f\xF6r ett f\xF6rsvarstal f\xF6r humaniora"
 type: post
-#reference:
-#- Forser 2013
+reference:
+- Forser 2013
 ---
 Försvarstal och festtal är två genrer som det är vanskligt att blanda samman. Stefan Arvidsson ([Dagens Nyheter 26 juni 2015](http://www.dn.se/kultur-noje/kulturdebatt/stefan-arvidsson-humaniora-hjalper-oss-att-forsta-det-frammande/)) ger några bra argument för varför humaniora är nödvändigt i en god civilisation. Ett sådant är hans observation att i stort sett varje människa är en amatörhumanist, som använder och efterfrågar humaniora i sina dagliga liv. Men till detta lägger han två argument som är lika vanliga som dåliga. Det handlar om vackra ord hämtade från festtalen. De skorrar illa när de används i ett försvarstal.
 
@@ -34,7 +34,7 @@ Ett försvarstal måste hålla sig till sanningen, annars fungerar det inte. Dä
 
 **Det andra dåliga argumentet bygger på sammanblandningen av humaniora med humanism.** Med humanism menas många goda saker, som en livsåskådning med människan i fokus, eller en politik som vill människan väl. Värdeladdningen är entydigt positiv. En beklaglig skavank i språket gör att både utövare av humaniora och av anhängare av humanism kallas “humanister”. Det är närmast att betrakta som renommésnyltning från humanioras sida. Arvidsson förvandlar denna förvirring till axiom när han skriver att det finns “en historisk pakt mellan humaniora, humanism som livshållning och humanitära ansträngningar”. Ordet “historisk” är en brasklapp. Det är numera ganska länge sedan detta var självklart sant, om det nu någonsin varit det.
 
-När Arvidsson mässar om den “oförsonliga motsättningen mellan humaniora och livsförnekande religioner och antihumanistisk politik” så blir jag förundrad. Han tycks tro att humaniora är automatiskt god. Häromåret utkom antologin “Till vilken nytta? En bok om humanioras möjligheter” (red. Tomas Forser &amp; Thomas Karlsohn, Bokförlaget Daidalos) som behandlar liknande frågeställningar som Arvidsson. Att döma av flera av dess texter så är Arvidsson inte ensam i sin naivitet.
+När Arvidsson mässar om den “oförsonliga motsättningen mellan humaniora och livsförnekande religioner och antihumanistisk politik” så blir jag förundrad. Han tycks tro att humaniora är automatiskt god. Häromåret utkom antologin [Till vilken nytta? En bok om humanioras möjligheter”](/library/9789171734037.html) (red. Tomas Forser &amp; Thomas Karlsohn, Bokförlaget Daidalos) som behandlar liknande frågeställningar som Arvidsson. Att döma av flera av dess texter så är Arvidsson inte ensam i sin naivitet.
 
 **Vi naturvetare har länge haft klart för oss att våra kunskaper och färdigheter kan användas till både gott och ont.** En av de största kemisterna någonsin, Fritz Haber, visade hur man kan fixera luftens kväve för att framställa konstgödsel. Utan Haber-Bosch-processen skulle jordbruket inte vara i närheten av att föda så många människor som sker idag. Men samme Haber utvecklade också de första stridsgaserna, och arbetade aktivt för att få dem i bruk i första världskrigets strider. För fysikerna är självklart atombomben det klassiska exemplet på vetenskapens Janusansikte.
 

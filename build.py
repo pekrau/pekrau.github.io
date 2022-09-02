@@ -309,6 +309,7 @@ def build_books():
                         key=lambda b: b["reference"]))
     # Index of all books and their pages.
     build_html("library/index.html", sitemap=True, books=books)
+    # References in posts to books.
     for post in POSTS:
         for reference in post.get("references", []):
             BOOKS[reference].setdefault("posts", []).append(post)
@@ -349,6 +350,10 @@ def build_books():
                    template="library/subjects/subject.html",
                    subject=" ".join([p.capitalize() for p in subject.split("-")]),
                    books=subject_books)
+    # Books referred to in posts.
+    build_html("library/referred/index.html",
+               template="library/referred.html",
+               books=[b for b in books if b.get("posts")])
     # Reviewed books.
     build_html("library/reviewed/index.html",
                template="library/reviewed.html",

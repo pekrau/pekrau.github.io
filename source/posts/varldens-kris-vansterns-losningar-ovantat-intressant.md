@@ -41,6 +41,8 @@ tags:
   value: "v\xE4nstern"
 title: "V\xE4rldens kris - v\xE4nsterns l\xF6sningar: Ov\xE4ntat intressant"
 type: post
+references:
+- Kielos 2012
 ---
 Antologin **Världens kris - vänsterns lösningar** (red. Katrine Kielos och Jesper Bengtsson, Tankesmedjan Tiden, 2014, ISBN 978-91-980114-2-5) handlar om idépolitiken i efterdyningarna av finanskrisen. Fokus ligger på den i vid mening socialdemokratiska internationella debatten. **Boken är oväntat intressant även för en liberal, och flera av essäerna i den förtjänar att ge inspiration till den liberala idédebatten.**
 

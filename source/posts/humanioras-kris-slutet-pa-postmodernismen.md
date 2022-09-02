@@ -25,8 +25,10 @@ tags:
   value: "Sverker S\xF6rlin"
 title: "Humanioras kris: Slutet p\xE5 postmodernismen?"
 type: post
+references:
+- Forser 2013
 ---
-Boken **Till vilken nytta?** (red. Tomas Forser och Thomas Karlsohn, [Daidalos](https://www.daidalos.se/), 2013, ISBN 978-91-7173-403-7) är en antologi där ett 30-tal svenska humanister diskuterar humanioras ställning och framtid. Den är redigerad av Tomas Forser (professor litteraturvetenskap, Göteborgs universitet) och Thomas Karlsohn (docent idé- och lärdomshistoria, Göteborgs universitet). Artiklarna är många och korta, vilket ger en mångfald av infallsvinklar, ofta med bra fokus. Man använder ordet "möjlighet" i underrubriken, men de flesta författarna skriver i själva verket ordet "kris".
+Boken [Till vilken nytta?](/library/9789171734037.html) är en antologi där ett 30-tal svenska humanister diskuterar humanioras ställning och framtid. Den är redigerad av Tomas Forser (professor litteraturvetenskap, Göteborgs universitet) och Thomas Karlsohn (docent idé- och lärdomshistoria, Göteborgs universitet). Artiklarna är många och korta, vilket ger en mångfald av infallsvinklar, ofta med bra fokus. Man använder ordet "möjlighet" i underrubriken, men de flesta författarna skriver i själva verket ordet "kris".
 
 Det samlade intrycket är märkligt schizofrent: **Samtidigt som man är övertygade om humanioras primat vad gäller kunskap om människan, så betraktar man humaniora som dödligt hotat.** Humaniora sägs ha svaren på många av de stora samtida frågorna genom sina studier av människans villkor. Det är tydligt att man betraktar humaniora som människans krona. Därför betraktar man hotet mot humaniora som ett hot mot människan som sådan. Och man är oerhört bedrövad, för att inte säga helt oförstående, inför att så få ser detta hot.
 

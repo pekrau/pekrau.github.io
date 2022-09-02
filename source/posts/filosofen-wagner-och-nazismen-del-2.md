@@ -25,6 +25,8 @@ tags:
   value: Richard Wagner
 title: Filosofen, Wagner och nazismen, del 2
 type: post
+references:
+- Ruin 2013
 ---
 Hans Ruin avslutar i [Dagens Nyheter 4 nov 2013](http://www.dn.se/kultur-noje/kulturdebatt/hans-ruin-vaga-se-wagners-kristna-antisemitism/) den debatt han startade om Richard Wagners antisemitism och dess förhållande till nazismen. Under debatten har bland annat [Ebba Witt-Brattström (DN 28 okt 2013)](http://www.dn.se/kultur-noje/kulturdebatt/ebba-witt-brattstrom-operans-parsifal-visar-mannens-langtan-att-slippa-kvinnovarlden/) och [Anders Carlberg (DN 29 okt 2013)](http://www.dn.se/kultur-noje/kulturdebatt/anders-carlberg-den-empatiska-operan/) skrivit intressant.
 
