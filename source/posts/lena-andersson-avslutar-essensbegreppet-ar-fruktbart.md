@@ -16,6 +16,7 @@ tags:
 - name: postmodernism
   value: postmodernism
 title: "Lena Andersson avslutar: Essensbegreppet \xE4r fruktbart"
+author: Lena Andersson
 type: post
 ---
 *Följande text av Lena Andersson avslutar diskussionen och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.*
