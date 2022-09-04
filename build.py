@@ -271,6 +271,9 @@ def build_blog():
                    sitemap=True,
                    post=post,
                    language=post.get("language", "sv"),
+                   description=", ".join([c["value"] for c in post.get("categories", [])]),
+                   keywords=", ".join([t["value"] for t in post.get("tags", [])]),
+                   author=post.get("author", "Per Kraulis"),
                    references=references)
     # Index of all tags.
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
