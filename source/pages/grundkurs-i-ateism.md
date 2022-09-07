@@ -31,5 +31,5 @@ Se även:
 - [Ann Heberlein: Jag, jag, jag.](/2015/04/05/ann-heberlein-jag-jag-jag/)
 - [Religionen och terrorn](/2016/03/28/religionen-och-terrorn/)
 
-Se också hela listan av inlägg inom temat [Religion vs ateism](/category/religion-vs-ateism/).
+Se också hela listan av inlägg inom temat [Religion vs ateism](/blog/categories/religion-vs-ateism/).
 
