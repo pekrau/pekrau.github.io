@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.9.0"
+__version__ = "0.10.0"
 
 import csv
 import json
@@ -22,7 +22,9 @@ AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
 
 POSTS = []                # List of posts sorted by date.
+REDIRECTED_POSTS = []     # Deleted posts that redirect to another URL.
 PAGES = []                # List of pages.
+REDIRECTED_PAGES = []     # Deleted pages that redirect to another URL.
 TAGS = {}                 # key: tag name; value: dict(name, value, posts)
 CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
 BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
@@ -127,7 +129,9 @@ def read_posts():
             if key not in post:
                 raise ValueError(f"post {filename} lacks '{key}'")
         post["path"] = f"/{post['date'].replace('-','/')}/{post['name']}/"
-        if not post.get("draft"):
+        if post.get("redirect"):
+            REDIRECTED_POSTS.append(post)
+        elif not post.get("draft"):
             POSTS.append(post)
     POSTS.sort(key=lambda p: p["date"], reverse=True)
     POSTS[0]["prev"] = POSTS[1]
@@ -165,7 +169,11 @@ def read_pages():
     Add ancient hard-coded HTML page trees and links to other subsites."""
     for filename in sorted(os.listdir("source/pages")):
         if filename.endswith("~"): continue
-        PAGES.append(read_md(f"source/pages/{filename}"))
+        page = read_md(f"source/pages/{filename}")
+        if page.get("redirect"):
+            REDIRECTED_PAGES.append(page)
+        else:
+            PAGES.append(page)
     PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))
 
 def read_books():
@@ -291,10 +299,16 @@ def build_blog():
                    template="blog/categories/category.html",
                    category=category,
                    posts=category["posts"])
+    # All redirected posts.
+    for post in REDIRECTED_POSTS:
+        build_html(f"{post['path'].strip('/')}/index.html",
+                   template="redirect.html", 
+                   url=post["redirect"])
 
 
 def build_pages():
     "Build page files."
+    # Site pages.
     for page in PAGES:
         # External pages have no HTML, just links to them.
         if page.get("external"): continue
@@ -304,6 +318,13 @@ def build_pages():
                    sitemap=True,
                    page=page,
                    language=page.get("language", "sv"))
+    # Deleted, redirected pages.
+    for page in REDIRECTED_PAGES:
+        path = page["path"].strip("/")
+        build_html(f"{path}/index.html",
+                   template="redirect.html", 
+                   url=page["redirect"])
+
 
 def build_books():
     "Build book files."
