@@ -5,4 +5,4 @@ at https://pekrau.github.io/.
 
 To do:
 
-- Fix book reference in "Humanioras kris: Slutet på postmodernismen?"
+- Fix issues highlighted by Google Search indexer.
