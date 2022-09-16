@@ -1,8 +1,11 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.10.0"
+__version__ = "0.11.0"
 
 import csv
+import datetime
+import email.utils
+from hashlib import sha1
 import json
 import math
 import os
@@ -16,6 +19,7 @@ import markupsafe
 import marko
 import yaml
 
+BASE_URL = "https://pekrau.github.io" # No trailing "/" slash!
 GOODREADS_FILENAME = "source/goodreads_library_export.csv"
 AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 
@@ -31,6 +35,7 @@ BOOKS = {}                # key: "{lastname} {published}", optional resolving su
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
 SITEMAP_URLS = []
+MAX_RSS_ITEMS = 10        # Max items in RSS feed.xml file.
 
 
 # Setup the Jinja2 template processing environment.
@@ -416,7 +421,7 @@ def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
             filepath = filepath[:filepath.index("index.html")]
         except ValueError:
             pass
-        SITEMAP_URLS.append("https://pekrau.github.io/" + filepath)
+        SITEMAP_URLS.append(BASE_URL + "/" + filepath)
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
@@ -439,6 +444,28 @@ def read_md(filepath):
     result.get("tags", []).sort(key=lambda c: c["value"].lower())
     result.get("categories", []).sort(key=lambda c: c["value"].lower())
     return result
+
+def write_rss():
+    "Output the RSS feed file."
+    template = env.get_template("feed.rss")
+    with open("docs/feed.rss", "w") as outfile:
+        now = datetime.datetime.now().astimezone()
+        pubdate = email.utils.format_datetime(now)
+        items = []
+        for post in POSTS[:MAX_RSS_ITEMS]:
+            date = datetime.datetime.fromisoformat(post["date"]).astimezone()
+            category = [t["value"] for t in post.get("tags", [])] + \
+                [c["value"] for c in post.get("categories", [])]
+            item = {"title": post["title"],
+                    "author": post.get("author") or "Per Kraulis",
+                    "url": BASE_URL + post["path"],
+                    "description": "\n\n".join(post["content"].split("\n\n")[:2]),
+                    "category": ", ".join(category),
+                    "pubdate": email.utils.format_datetime(date),
+                    "guid": sha1((post["title"] + post["date"]).encode("utf-8")).hexdigest()
+            }
+            items.append(item)
+        outfile.write(template.render(pubdate=pubdate, items=items))
 
 def write_sitemap():
     "Output the sitemap file."
@@ -482,5 +509,6 @@ if __name__ == "__main__":
     build_blog()
     build_pages()
     build_books()
+    write_rss()
     write_sitemap()
     cleanup_html_files()
