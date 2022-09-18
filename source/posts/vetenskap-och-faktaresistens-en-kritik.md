@@ -32,9 +32,10 @@ type: post
 references:
 - Wikforss 2017
 - Frans 2017
----
-*Denna text har publicerats i [SANS Magasin nr 2 2018](https://fritanke.se/sans/sans-nr-2-2018/), men är inte tillgänglig på nätet där.*
+about: |
+  Denna text har publicerats i [SANS Magasin nr 2 2018](https://fritanke.se/sans/sans-nr-2-2018/), men är inte tillgänglig på nätet där.
 
+---
 **Vetenskapen kan inte freda sig från kritik genom dekret, kränkthet eller arrogans.**
 
 Debatten om vetenskap och fakta har blivit intensiv och mångfasetterad. Den sträcker sig från genusvetenskap till klimatforskning. Kärnan i debatten är förhållandet mellan vetenskap och politik. Å ena sidan beklagar sig forskare över politikens ignorans eller illvilja. Å andra sidan kritiseras olika vetenskapsfält för att ha en politisk agenda: en politisk vilja som döljs bakom föregivet värdeneutrala utsagor om fakta och verklighet. Anklagelsen handlar i bästa fall om att forskarna är blinda och naiva, i värsta fall hycklande, konspirativa eller korrupta.

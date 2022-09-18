@@ -15,9 +15,10 @@ tags:
   value: liberalism
 title: "\xC4r Birgitta Ohlsson Liberalernas fr\xE4lsare?"
 type: post
----
-**En förkortad version av detta inlägg har [publicerats på Expressen Debatt 2016-09-16](http://www.expressen.se/debatt/ohlsson-ar-inte-liberalernas-fralsare/).**
+about: |
+  En förkortad version av detta inlägg har [publicerats på Expressen Debatt 2016-09-16](http://www.expressen.se/debatt/ohlsson-ar-inte-liberalernas-fralsare/).
 
+---
 Efter en i stort sett obegriplig fajt inom Liberalerna om Birgitta Ohlssons position i partiet, så är det väl obligatoriskt att en liberalt sinnad bloggare knappar ner sina synpunkter. Men till skillnad från de flesta, misstänker jag, kommer jag inte att delta i hyllandet av Ohlsson. Jag tror nämligen inte att hon är någon frälsare för Liberalerna.
 
 Först: Jag känner Jan Björklund privat sedan tiden i Folkpartiets Ungdomsförbund på 80-talet. Men jag har inte haft någon närmare kontakt med honom på ganska många år, så jag vågar nog påstå att jag kan visa oberoende. Vilket jag gör sålunda: Björklunds uttalande om att SD bör inbjudas till blocköverskridande samtal var felaktigt både i sak och rent taktiskt. Men det viktiga är att Björklund har misslyckats att under de två senaste åren ge Liberalerna den nytändning som de så desperat behöver. Han bör avgå.

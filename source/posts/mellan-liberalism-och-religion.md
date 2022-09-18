@@ -23,9 +23,10 @@ references:
 - Halldorf 2018
 - Deneen 2018
 - Siedentop 2014
----
-*Denna text har publicerats i [SANS Magasin nr 3 2019](https://fritanke.se/sans/sans-nr-3-2019/), men är inte tillgänglig på nätet där.*
+about: |
+  Denna text har publicerats i [SANS Magasin nr 3 2019](https://fritanke.se/sans/sans-nr-3-2019/), men är inte tillgänglig på nätet där.
 
+---
 Joel Halldorf, teolog och skribent i Dagen och Expressen, skriver i boken “Gud: Återkomsten” att dagens känsla av kris orsakas av “den tomhet som finns i hjärtat av det liberala projektet.” Han hävdar att den liberala individualismen inte kan utgöra grunden för ett hållbart samhälle. Lösningen på problemet är att religionens politiska, kulturella och sociala roll måste få större utrymme i en postsekulär värld. Diskussionen är intressant och tar upp många aspekter, men, som jag ska försöka visa, hans grundläggande argumentation är motsägelsefull.
 
 Det har blivit en självklarhet i dagens debatt att liberalismen befinner sig i kris. Med liberalism menas då den breda tanketradition som utgör grunden för det moderna västerlandet, där individens frihet, marknadsekonomi, öppenhet, globalisering, välfärd, sekularism och utveckling är centrala begrepp. Finanskrisen 2008, Vladimir Putin och angreppen på Ukraina, flyktingkrisen 2015, Brexit-omröstningen, Donald Trump, EU:s krackelering och högerradikala rörelsers globala framgångar, för att ta några exempel, har allvarligt skadat det liberala självförtroendet. Ända sedan begynnelsen har liberalismen beskyllts för värdemässig tomhet och mänsklig kyla. Euforin vid kommunismens sammanbrott 1989 tystade tillfälligt sådant tal. Men nu har anklagelsen åter vunnit i styrka, och krisen är ett faktum.

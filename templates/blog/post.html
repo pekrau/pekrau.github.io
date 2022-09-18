@@ -16,6 +16,14 @@
 {% block main_aside %}
 <aside class="col-lg-3 offset-lg-2">
 
+  {% if post.get('about_html') %}
+  <div class="card border-danger mb-3">
+    <div class="card-body pb-0">
+      {{ post['about_html'] | safe }}
+    </div>
+  </div>
+  {% endif %}
+
   <ul class="list-group">
     {% if post["prev"] %}
     <li class="list-group-item">

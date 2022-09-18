@@ -45,6 +45,9 @@ references:
 - Popper 1945a
 - Popper 1945b
 - Popper 1974b
+about: |
+  Följande text ledde till en diskussion med Lena Andersson. Länkar till alla inlägg finns längst ner på sidan.
+
 ---
 Lena Andersson [skriver i Dagens Nyheter 2 jan 2015](http://www.dn.se/ledare/kolumner/lena-andersson-popper-som-postmodernist/) om den liberale filosofen [Karl Popper](http://en.wikipedia.org/wiki/Karl_Popper) med anledning av att det är 70 år sedan hans centrala verk inom politisk filosofi, **Det öppna samhället och dess fiender**, gavs ut. Jag kommenterade detta verk i [ett inlägg 2 dec 2014](/2014/12/02/karl-popper-det-oppna-samhallet-och-dess-fiender/). Andersson är positiv till mycket i Poppers resonemang, vilket är gott så, och inget att kommentera.
 

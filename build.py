@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.11.1"
+__version__ = "0.11.2"
 
 import csv
 import datetime
@@ -150,6 +150,7 @@ def read_posts():
             if tag["name"] == "bok":
                 post["tags"].pop(pos)
                 break
+    # Set references to/from tags.
     for post in POSTS:
         for tag in post.get("tags", []):
             try:
@@ -159,6 +160,7 @@ def read_posts():
                 TAGS[tag["name"]] = tag
     for tag in TAGS.values():
         tag["posts"].sort(key=lambda p: p["date"], reverse=True)
+    # Set references to/from categories.
     for post in POSTS:
         for category in post.get("categories", []):
             try:
@@ -168,6 +170,10 @@ def read_posts():
                 CATEGORIES[category["name"]] = category
     for category in CATEGORIES.values():
         category["posts"].sort(key=lambda p: p["date"], reverse=True)
+    # Convert any 'about' text'.
+    for post in POSTS:
+        if post.get("about"):
+            post["about_html"] = MARKDOWN.convert(post["about"])
 
 def read_pages():
     """Read all Markdown files for pages and pre-process.

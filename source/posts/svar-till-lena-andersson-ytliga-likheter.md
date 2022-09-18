@@ -29,9 +29,10 @@ tags:
   value: Robert Nozick
 title: 'Svar till Lena Andersson: Ytliga likheter'
 type: post
----
-*Följande text är ett inlägg i en diskussion med Lena Andersson. Länkar till alla inlägg finns längst ner på sidan.*
+about: |
+  Följande text är ett inlägg i en diskussion med Lena Andersson. Länkar till alla inlägg finns längst ner på sidan.
 
+---
 Hej Lena,
 
 Det var ju inte bara essentialismen som gjorde att jag gissade att du är påverkad av Ayn Rand. Utan också din tydliga libertarianism, som jag diskuterat tidigare:
