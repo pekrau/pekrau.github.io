@@ -36,6 +36,9 @@
       {% else %}
       Mina kommentarer
       {% endif %}
+      {% if book.get("review_date") %}
+      {{ book['review_date'] }}
+      {% endif %}
     </div>
     <div class="card-body">
       <p title="{{ book['rating'] }}">

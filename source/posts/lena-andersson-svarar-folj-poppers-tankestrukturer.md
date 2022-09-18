@@ -28,9 +28,10 @@ tags:
 title: "Lena Andersson svarar: F\xF6lj Poppers tankestrukturer"
 author: Lena Andersson
 type: post
----
-*Följande text av Lena Andersson är ett svar på ett tidigare inlägg och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.*
+about: |
+  Följande text av Lena Andersson är ett svar på ett tidigare inlägg och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.
 
+---
 Hej Per,
 
 Jag tror att du går för hårt fram med psykologiseringen när du talar om att jag har en dold agenda. Jag har en öppen agenda tycks det mig och är djupt och beständigt intresserad av frågan om hur man ska förhålla sig till essensbegreppet och -konceptet. Det beror inte på studier av Ayn Rand (i så fall mer av Russell) utan snarare på studier av resterna och avlagringarna efter Foucaults och Butlers intellektuella framfart, som jag har försökt ta del av och till små delar anamma.

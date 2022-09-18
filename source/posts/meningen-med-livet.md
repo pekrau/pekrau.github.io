@@ -13,9 +13,10 @@ tags:
   value: Sans magasin
 title: Meningen med livet
 type: post
----
-*Denna text har publicerats i [SANS Magasin nr 3 2015](http://www.fritanke.se/sans/nr-3-2015/), men är inte tillgänglig på nätet där.*
+about: |
+  Denna text har publicerats i [SANS Magasin nr 3 2015](http://www.fritanke.se/sans/nr-3-2015/), men är inte tillgänglig på nätet där.
 
+---
 Vad är meningen med livet? Finns det en mening med livet? Det är frågor som mänskligheten förmodligen ställt sig så länge den funnits. Förmågan, eller förbannelsen, att kunna ställa dessa frågor är måhända kriteriet för vad som är en människa.
 
 Religionen, Gud, brukar anföras som en garanti för att det finns en mening med livet, även om det inte skulle vara möjligt att nå säker kunskap om den. Jackie Jakubowski citerar i Sans nr 1 2015 Albert Einstein om en andlig dimension i livet och skriver att ett

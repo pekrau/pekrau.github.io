@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.11.0"
+__version__ = "0.11.2"
 
 import csv
 import datetime
@@ -150,6 +150,7 @@ def read_posts():
             if tag["name"] == "bok":
                 post["tags"].pop(pos)
                 break
+    # Set references to/from tags.
     for post in POSTS:
         for tag in post.get("tags", []):
             try:
@@ -159,6 +160,7 @@ def read_posts():
                 TAGS[tag["name"]] = tag
     for tag in TAGS.values():
         tag["posts"].sort(key=lambda p: p["date"], reverse=True)
+    # Set references to/from categories.
     for post in POSTS:
         for category in post.get("categories", []):
             try:
@@ -168,6 +170,10 @@ def read_posts():
                 CATEGORIES[category["name"]] = category
     for category in CATEGORIES.values():
         category["posts"].sort(key=lambda p: p["date"], reverse=True)
+    # Convert any 'about' text'.
+    for post in POSTS:
+        if post.get("about"):
+            post["about_html"] = MARKDOWN.convert(post["about"])
 
 def read_pages():
     """Read all Markdown files for pages and pre-process.
@@ -222,6 +228,8 @@ def read_books():
             if row["My Review"]:
                 book["html"] = MARKDOWN.convert(row["My Review"].strip('"').replace("<br/>", "\n"))
 
+            if row["Date Read"]:
+                book["review_date"] = row["Date Read"].replace("/", "-")
             # Read any corrections file for the book.
             try:
                 with open(f"source/corrections/{book['goodreads']}.json") as infile:
@@ -379,15 +387,15 @@ def build_books():
                    template="library/subjects/subject.html",
                    subject=" ".join([p.capitalize() for p in subject.split("-")]),
                    books=subject_books)
-    # Books referred to in posts.
+    # List of books referred to in posts.
     build_html("library/referred/index.html",
                template="library/referred.html",
                books=[b for b in books if b.get("posts")])
-    # Reviewed books.
+    # List of reviewed books.
     build_html("library/reviewed/index.html",
                template="library/reviewed.html",
                books=[b for b in books if b.get("html")])
-    # Ratings pages.
+    # Lists of books by rating.
     for rating in range(5, 0, -1):
         rated = [b for b in books if b.get("rating") == rating]
         # Primary sort by published date, secondary sort by authors.

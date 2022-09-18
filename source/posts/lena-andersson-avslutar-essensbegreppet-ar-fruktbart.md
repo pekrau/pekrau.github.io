@@ -18,9 +18,10 @@ tags:
 title: "Lena Andersson avslutar: Essensbegreppet \xE4r fruktbart"
 author: Lena Andersson
 type: post
----
-*Följande text av Lena Andersson avslutar diskussionen och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.*
+about: |
+  Följande text av Lena Andersson avslutar diskussionen och publiceras med tillåtelse. Länkar till alla inlägg finns längst ner på sidan.
 
+---
 Hej Per,
 
 Jag håller med om att det är stor skillnad på Poppers kritik och postmodern dekonstruktion, deras syfte är ju precis det du skriver och det skiljer sig från hans.

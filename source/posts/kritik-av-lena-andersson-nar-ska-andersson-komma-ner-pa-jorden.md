@@ -24,9 +24,10 @@ type: post
 references:
 - Andersson 2019
 popular: true
----
-*Uppdaterat 2019-10-01: Nummer 3-2019 av Liberal Debatt kom ut för ca en månad sedan och finns numera på nätet [här](https://www.liberaldebatt.se/). Den publicerade versionen av min artikel finns [här](https://www.liberaldebatt.se/2019/09/nar-ska-andersson-komma-ner-pa-jorden/). Texten här nedanför är manuset, i stort sett identisk med den publicerade texten. Se till att också läsa de tre andra artiklar i samma nummer av LD som kritiserar Lena Anderssons bok **Om falsk och äkta liberalism**.*
+about: |
+  Uppdaterat 2019-10-01: Nummer 3-2019 av Liberal Debatt kom ut för ca en månad sedan och finns numera på nätet [här](https://www.liberaldebatt.se/). Den publicerade versionen av min artikel finns [här](https://www.liberaldebatt.se/2019/09/nar-ska-andersson-komma-ner-pa-jorden/). Texten här nedanför är manuset, i stort sett identisk med den publicerade texten. Se till att också läsa de tre andra artiklar i samma nummer av LD som kritiserar Lena Anderssons bok **Om falsk och äkta liberalism**.
 
+---
 Lena Anderssons bok “Om falsk och äkta liberalism” har rönt stor uppmärksamhet. Hon utgår från naturrätten och idén om självägandet. Problemet är att Andersson inte är explicit med de fulla konsekvenserna av dessa postulat. Dessutom argumenterar hon för att eventuella konsekvenser är irrelevanta för att bedöma hennes liberalism. En sådan liberalism är inte värd namnet.
 
 
