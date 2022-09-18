@@ -22,27 +22,63 @@
 
   <section class="col-lg-8 offset-lg-1">
 
-    {% for post in recent %}
+    {% for item in recent %}
+    {% if item['type'] == 'post' %}
     <div class="card mb-3">
       <div class="card-header bg-light">
-        <h5 class="card-title">{{ post['title'] }}
-          <small class="text-muted">{{ post['date'] }}</small>
+        <h5 class="card-title">{{ item['title'] }}
+          {% if item.get('language') == 'en' %}
+          <small class="text-muted">Post {{ item['date'] }}</small>
+          {% else %}
+          <small class="text-muted">Inlägg {{ item['date'] }}</small>
+          {% endif %}
         </h5>
       </div>
       <div class="card-body">
-        {{ post['short_html'] | safe }}
+        {{ item['short_html'] | safe }}
         <div class="text-end">
-          <a href="{{ post['path'] }}">Hela inlägget...</a> 
+          <a href="{{ item['path'] }}">
+            {%- if item.get('language') == 'en' -%}
+            The whole post...
+            {%- else -%}
+            Hela inlägget...
+            {%- endif -%}
+          </a>
         </div>
       </div>
     </div>
-    {% endfor %}
 
-    <div class="card mt-2 mb-4">
-      <div class="card-body bg-light lead text-end">
-        <a href="/blog/">Alla inlägg...</a>
+    {% elif item['type'] == 'book' %}
+    <div class="card mb-3">
+      <div class="card-header bg-light">
+        <h5 class="card-title">
+          <i>{{ item['authors'][0] }}</i>:
+          {{ item['title'] }}
+          <small class="text-muted">
+            {%- if item.get('language') == 'en' -%}
+            Review
+            {%- else -%}
+            Recension
+            {% endif %}
+            {{ item['date'] }}
+          </small>
+        </h5>
+      </div>
+      <div class="card-body">
+        {{ item['short_html'] | safe }}
+        <div class="text-end">
+          <a href="{{ item['path'] }}">
+            {%- if item.get('language') == 'en' -%}
+            The whole review...
+            {%- else -%}
+            Hela recensionen...
+            {%- endif -%}
+          </a> 
+        </div>
       </div>
     </div>
+    {% endif %}
+    {% endfor %}
 
   </section>
 

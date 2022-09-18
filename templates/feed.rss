@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <rss version="2.0">
-   <channel>
-      <title>Civilisation</title>
-      <link>https://pekrau.github.io/</link>
-      <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
-      <language>sv</language>
-      <pubDate>{{ pubdate }}</pubDate>
-      <webMaster>per.kraulis@gmail.com</webMaster>
-      {% for item in items %}
-      <item>
-         <title>{{ item['title'] }}</title>
-         <link>{{ item['url'] }}</link>
-         <category>{{ item['category'] }}</category>
-         <description>{{ item['description'] }}</description>
-         <pubDate>{{ item['pubdate'] }}</pubDate>
-         <guid>{{ item['guid'] }}</guid>
-      </item>
-      {% endfor %}
-   </channel>
+  <channel>
+    <title>Civilisation</title>
+    <link>https://pekrau.github.io/</link>
+    <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
+    <language>sv</language>
+    <pubDate>{{ pubdate }}</pubDate>
+    <webMaster>per.kraulis@gmail.com</webMaster>
+    {% for item in items %}
+    <item>
+      <title>{{ item['title'] | escape }}</title>
+      <link>{{ item['url'] }}</link>
+      <category>{{ item['category'] }}</category>
+      <description>{{ item['description'] }}</description>
+      <pubDate>{{ item['pubdate'] }}</pubDate>
+      <guid>{{ item['guid'] }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
 </rss>

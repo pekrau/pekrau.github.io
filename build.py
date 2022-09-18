@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.11.2"
+__version__ = "0.12.0"
 
 import csv
 import datetime
@@ -19,7 +19,7 @@ import markupsafe
 import marko
 import yaml
 
-BASE_URL = "https://pekrau.github.io" # No trailing "/" slash!
+BASE_URL = "https://pekrau.github.io"    # No trailing "/" slash!
 GOODREADS_FILENAME = "source/goodreads_library_export.csv"
 AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 
@@ -35,7 +35,8 @@ BOOKS = {}                # key: "{lastname} {published}", optional resolving su
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
 SITEMAP_URLS = []
-MAX_RSS_ITEMS = 10        # Max items in RSS feed.xml file.
+MAX_LATEST_ITEMS = 10     # Max latest item on index page and in RSS 'feed.xml' file.
+LATEST_ITEMS = []         # The latest items; posts and book reviews.
 
 
 # Setup the Jinja2 template processing environment.
@@ -47,7 +48,7 @@ def author_link(author):
 
 def authors_links(book, max=3):
     if max and len(book["authors"]) > max:
-        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"][:3]] + ["..."]))
+        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"][:max]] + ["..."]))
     else:
         return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"]]))
 
@@ -200,6 +201,7 @@ def read_books():
         reader = csv.DictReader(infile)
         for row in reader:
             book = {
+                "type": "book",
                 "title": row["Title"],
                 "goodreads": row["Book Id"],
                 "isbn": row["ISBN13"].lstrip("=").strip('"') or row["ISBN"].lstrip("=").strip('"'),
@@ -226,10 +228,11 @@ def read_books():
             if row["My Rating"] and row["My Rating"] != "0":
                 book["rating"] = int(row["My Rating"])
             if row["My Review"]:
-                book["html"] = MARKDOWN.convert(row["My Review"].strip('"').replace("<br/>", "\n"))
+                book["content"] = row["My Review"].strip('"').replace("<br/>", "\n")
+                book["html"] = MARKDOWN.convert(book["content"])
 
             if row["Date Read"]:
-                book["review_date"] = row["Date Read"].replace("/", "-")
+                book["date"] = row["Date Read"].replace("/", "-")
             # Read any corrections file for the book.
             try:
                 with open(f"source/corrections/{book['goodreads']}.json") as infile:
@@ -244,6 +247,9 @@ def read_books():
             for pos, author in enumerate(book["authors"]):
                 author = author.replace(".", "").strip().rstrip(",")
                 book["authors"][pos] =  AUTHORS.get(author, author)
+
+            # Set the path for the book file; do after corrections!
+            book["path"] = f"/library/{book['isbn']}.html"
 
     # Check the validity of book data.
     isbns = set()
@@ -261,16 +267,26 @@ def build_index():
     "Build the top index.html file."
     categories = list(CATEGORIES.values())
     categories.sort(key=lambda c: c["value"].lower())
-    # Convert the two first paragraphs of the first three posts.
-    recent = POSTS[:3]
-    for post in recent:
-        post["short_html"] = MARKDOWN.convert("\n\n".join(post["content"].split("\n\n")[:2]))
+    # Collect the latest blog posts.
+    posts = POSTS[:MAX_LATEST_ITEMS]
+    # Convert the first paragraph of the latest posts.
+    for post in posts:
+        post["short_html"] = MARKDOWN.convert(post["content"].split("\n\n", 1)[0])
+    # Collect the latest book reviews.
+    books = [b for b in BOOKS.values() if b.get("date") and b.get("content")]
+    books.sort(key=lambda b: b["date"], reverse=True)
+    books = books[:MAX_LATEST_ITEMS]
+    for book in books:
+        book["short_html"] = MARKDOWN.convert(book["content"].split("\n", 1)[0])
+    items = posts + books
+    items.sort(key=lambda b: b["date"], reverse=True)
+    LATEST_ITEMS.extend(items[:MAX_LATEST_ITEMS])
     popular = [p for p in POSTS if p.get("popular")]
     build_html("index.html",
                sitemap=True,
                updated=time.strftime("%Y-%m-%d"),
                categories=categories,
-               recent=recent,
+               recent=LATEST_ITEMS,
                popular=popular)
 
 def build_blog():
@@ -351,7 +367,7 @@ def build_books():
         for reference in post.get("references", []):
             BOOKS[reference].setdefault("posts", []).append(post)
     for book in books:
-        build_html(f"library/{book['isbn']}.html",
+        build_html(book["path"].strip("/"),
                    template="library/book.html",
                    sitemap=True,
                    book=book,
@@ -460,17 +476,26 @@ def write_rss():
         now = datetime.datetime.now().astimezone()
         pubdate = email.utils.format_datetime(now)
         items = []
-        for post in POSTS[:MAX_RSS_ITEMS]:
-            date = datetime.datetime.fromisoformat(post["date"]).astimezone()
-            category = [t["value"] for t in post.get("tags", [])] + \
-                [c["value"] for c in post.get("categories", [])]
-            item = {"title": post["title"],
-                    "author": post.get("author") or "Per Kraulis",
-                    "url": BASE_URL + post["path"],
-                    "description": "\n\n".join(post["content"].split("\n\n")[:2]),
-                    "category": ", ".join(category),
+        for item in LATEST_ITEMS:
+            date = datetime.datetime.fromisoformat(item["date"]).astimezone()
+            if item["type"] == "post":
+                categories = [c["value"] for c in item.get("categories", [])]
+                tags = [t["value"] for t in item.get("tags", [])]
+            elif item["type"] == "book":
+                categories = ["review"]
+                tags = item["subjects"]
+            else:
+                raise ValueError(f"item {item['title']} has invalid type {item['type']}")
+            if item["type"] == "book":
+                title = f"{item['authors'][0]}: {item['title']}"
+            else:
+                title = item["title"]
+            item = {"title": title,
+                    "url": BASE_URL + item["path"],
+                    "category": ", ".join(categories),
+                    "description": ", ".join(tags),
                     "pubdate": email.utils.format_datetime(date),
-                    "guid": sha1((post["title"] + post["date"]).encode("utf-8")).hexdigest()
+                    "guid": sha1((item["title"] + item["date"]).encode("utf-8")).hexdigest()
             }
             items.append(item)
         outfile.write(template.render(pubdate=pubdate, items=items))
