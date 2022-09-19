@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 18 Sep 2022 22:15:43 +0200</pubDate>
+    <pubDate>Mon, 19 Sep 2022 09:02:08 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Gaus, Gerald F: The Tyranny of the Ideal: Justice in a Diverse Society</title>
+      <link>https://pekrau.github.io/library/9780691158808.html</link>
+      <category>review</category>
+      <description>liberalism, morality, political-philosophy</description>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
+      <guid>e0bde2230ee2fa901b732f4761ab3c991a1b8a5c</guid>
+    </item>
     
     <item>
       <title>Buchanan, Allen: The Evolution of Moral Progress: A Biocultural Theory</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, science</description>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0100</pubDate>
       <guid>080278e181a8d79d46536784e3559ab759fe17fc</guid>
-    </item>
-    
-    <item>
-      <title>Halldenius, Lena: Liberalism</title>
-      <link>https://pekrau.github.io/library/9789186980573.html</link>
-      <category>review</category>
-      <description>liberalism, political-philosophy</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>fc0d2951035e1dd3abc8c5bd432d8d8802ab6497</guid>
     </item>
     
   </channel>
