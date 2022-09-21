@@ -477,7 +477,7 @@ def write_rss():
         pubdate = email.utils.format_datetime(now)
         items = []
         for item in LATEST_ITEMS:
-            date = datetime.datetime.fromisoformat(item["date"]).astimezone()
+            date = datetime.datetime.fromisoformat(f"{item['date']} 12:00:00").astimezone()
             if item["type"] == "post":
                 categories = [c["value"] for c in item.get("categories", [])]
                 tags = [t["value"] for t in item.get("tags", [])]
