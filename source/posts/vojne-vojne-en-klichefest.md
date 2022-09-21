@@ -4,6 +4,9 @@ categories:
   value: Kultur
 date: '2013-08-21'
 name: vojne-vojne-en-klichefest
+tags:
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Vojne vojne: en klich\xE9fest"
 type: post
 ---

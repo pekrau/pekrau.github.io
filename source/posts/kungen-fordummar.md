@@ -21,6 +21,8 @@ tags:
   value: PJ Anders Linder
 - name: rasmus-jonlund
   value: Rasmus Jonlund
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Kungen f\xF6rdummar"
 type: post
 ---

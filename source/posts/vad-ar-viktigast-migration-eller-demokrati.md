@@ -13,6 +13,8 @@ tags:
   value: liberalism
 - name: sverigedemokraterna
   value: Sverigedemokraterna
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Vad \xE4r viktigast? Migration eller demokrati?"
 type: post
 ---

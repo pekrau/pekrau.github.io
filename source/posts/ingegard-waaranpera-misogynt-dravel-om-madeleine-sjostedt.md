@@ -7,6 +7,8 @@ name: ingegard-waaranpera-misogynt-dravel-om-madeleine-sjostedt
 tags:
 - name: madeleine-sjostedt
   value: "Madeleine Sj\xF6stedt"
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Ingeg\xE4rd Waaranper\xE4: Misogynt dravel om Madeleine Sj\xF6stedt"
 type: post
 ---

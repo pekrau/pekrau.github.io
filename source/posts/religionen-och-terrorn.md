@@ -13,6 +13,8 @@ tags:
   value: Karen Armstrong
 - name: maria-schottenius
   value: Maria Schottenius
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: Religionen och terrorn
 type: post
 ---

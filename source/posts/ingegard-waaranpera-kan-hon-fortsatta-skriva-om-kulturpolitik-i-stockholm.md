@@ -11,6 +11,8 @@ tags:
   value: "Bj\xF6rn Wiman"
 - name: madeleine-sjostedt
   value: "Madeleine Sj\xF6stedt"
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Ingeg\xE4rd Waaranper\xE4: Kan hon forts\xE4tta skriva om kulturpolitik i\
   \ Stockholm?"
 type: post

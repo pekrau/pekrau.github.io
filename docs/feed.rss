@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Tue, 20 Sep 2022 11:23:25 +0200</pubDate>
+    <pubDate>Wed, 21 Sep 2022 20:52:42 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Kulturella konstruktioner är våra och ändå oberoende</title>
+      <link>https://pekrau.github.io/2022/09/21/kulturella-konstruktioner-ar-vara-och-anda-oberoende/</link>
+      <category>Filosofi (philosophy)</category>
+      <description>Karl Popper, kulturella konstruktioner, matematik, objektiv kunskap, Värld 3</description>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0200</pubDate>
+      <guid>ff0de1bf9f6cada527ba761235d847939d1c23d2</guid>
+    </item>
     
     <item>
       <title>Gaus, Gerald F: The Tyranny of the Ideal: Justice in a Diverse Society</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, science</description>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0100</pubDate>
       <guid>8e0684fde38c051bfadda54494f1749b131ff623</guid>
-    </item>
-    
-    <item>
-      <title>Johansson, Sverker: På spaning efter språkets ursprung</title>
-      <link>https://pekrau.github.io/library/9789127148659.html</link>
-      <category>review</category>
-      <description>human-evolution, science</description>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>080278e181a8d79d46536784e3559ab759fe17fc</guid>
     </item>
     
   </channel>

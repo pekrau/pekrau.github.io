@@ -11,6 +11,8 @@ tags:
   value: "samh\xE4llskontraktet"
 - name: thomas-hobbes
   value: Thomas Hobbes
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Mobbning: Hobbes p\xE5 skolg\xE5rden"
 type: post
 references:

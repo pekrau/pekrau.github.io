@@ -17,6 +17,8 @@ tags:
   value: "p\xE5ven"
 - name: peter-wolodarski
   value: Peter Wolodarski
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Dagens Nyheter kryper f\xF6r p\xE5ven"
 type: post
 ---

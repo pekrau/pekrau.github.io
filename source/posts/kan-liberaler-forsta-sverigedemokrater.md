@@ -15,6 +15,8 @@ tags:
   value: "samh\xE4llskontraktet"
 - name: sverigedemokraterna
   value: Sverigedemokraterna
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Kan liberaler f\xF6rst\xE5 sverigedemokrater?"
 type: post
 ---
