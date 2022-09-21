@@ -16,8 +16,9 @@ tags:
   value: life science
 - name: open-science
   value: Open Science
-title: I have published an opinion piece on Open Science in the Swedish newspaper
-  Dagens Nyheter
+- name: dagens-nyheter
+  value: Dagens Nyheter
+title: I have published an opinion piece on Open Science in the Swedish newspaper Dagens Nyheter
 type: post
 ---
 I have published an opinion piece in an on-going debate in the culture section of the main Swedish daily newspaper Dagens Nyheter (in Swedish, of course): [Vetenskapens problem handlar inte om fusk](http://www.dn.se/kultur-noje/kulturdebatt/vetenskapens-problem-handlar-inte-om-fusk/) ("The problems of science are not about cheating"), 6 April 2016.

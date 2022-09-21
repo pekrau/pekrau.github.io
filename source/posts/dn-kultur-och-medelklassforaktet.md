@@ -13,6 +13,8 @@ tags:
   value: "Nina Bj\xF6rk"
 - name: valfard
   value: "v\xE4lf\xE4rd"
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "DN Kultur och medelklassf\xF6raktet"
 type: post
 ---

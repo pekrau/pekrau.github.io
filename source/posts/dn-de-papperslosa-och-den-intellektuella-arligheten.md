@@ -15,6 +15,8 @@ tags:
   value: flyktingpolitik
 - name: invandring
   value: invandring
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "DN, de pappersl\xF6sa, och den intellektuella \xE4rligheten"
 type: post
 ---

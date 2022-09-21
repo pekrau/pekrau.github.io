@@ -15,6 +15,8 @@ tags:
   value: liberalism
 - name: nazism
   value: nazism
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: Porta nazisterna!
 type: post
 references:

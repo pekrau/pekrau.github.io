@@ -13,6 +13,8 @@ tags:
   value: invandring
 - name: liberalism
   value: liberalism
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: Erik Helmersons skjortor och argument
 type: post
 ---

@@ -15,6 +15,8 @@ tags:
   value: kriminalitet
 - name: statistik
   value: statistik
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: "Har statistik inga f\xF6rdomar?"
 type: post
 ---

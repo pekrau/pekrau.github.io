@@ -13,6 +13,8 @@ tags:
   value: Maria Schottenius
 - name: monarki
   value: monarki
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: Maria Schottenius? Hahahaha...
 type: post
 ---

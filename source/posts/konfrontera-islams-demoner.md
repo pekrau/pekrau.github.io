@@ -25,6 +25,8 @@ tags:
   value: kristendom
 - name: orlando
   value: Orlando
+- name: dagens-nyheter
+  value: Dagens Nyheter
 title: Konfrontera islams demoner
 type: post
 ---
