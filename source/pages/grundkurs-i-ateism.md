@@ -5,6 +5,7 @@ name: grundkurs-i-ateism
 path: /grundkurs-i-ateism/
 title: Grundkurs i ateism
 type: page
+ordinal: 15
 ---
 "Grundkurs i ateism" är en serie inlägg där jag diskuterar frågor som har med religion och ateism att göra, ofta med utgångspunkt i debatter eller andra händelser.
 

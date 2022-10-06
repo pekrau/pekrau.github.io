@@ -6,6 +6,7 @@ path: /karl-popper/
 title: Karl Popper
 type: page
 menu: true
+ordinal: 10
 ---
 ![Karl Popper memorial plaque](/files/popper-christchurch-nz.jpg)  
 Memorial plaque in Christchurch, New Zealand.

@@ -6,6 +6,7 @@ path: /djavulens-liberal/
 title: "Dj\xE4vulens liberal"
 type: page
 menu: true
+ordinal: 1
 ---
 Här samlar jag länkar till mina inlägg publicerade under vinjetten "djävulens liberal". Jag kritiserar liberal teori och praktik i syfte att blotta svagheter och misstag. Liberalismens kris beror till en inte försumbar del på egna inre motsättningar. Endast genom att jämföra politisk teori med erfarenheter från verkligheten kan framsteg nås.
 

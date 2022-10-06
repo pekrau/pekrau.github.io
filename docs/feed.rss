@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 22 Sep 2022 14:02:52 +0200</pubDate>
+    <pubDate>Thu, 06 Oct 2022 21:58:31 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Gaus, Gerald F: The Open Society and Its Complexities</title>
+      <link>https://pekrau.github.io/library/9780190648978.html</link>
+      <category>review</category>
+      <description>human-evolution, liberalism, political-philosophy</description>
+      <pubDate>Thu, 06 Oct 2022 12:00:00 +0200</pubDate>
+      <guid>017f900fe5010911f2f722468ca8e5c5dbdef44c</guid>
+    </item>
     
     <item>
       <title>Kulturella konstruktioner är våra och ändå oberoende</title>
@@ -87,15 +96,6 @@
       <description>liberalism, political-philosophy</description>
       <pubDate>Sun, 06 Feb 2022 12:00:00 +0100</pubDate>
       <guid>2f3583388f02bd7a113176b7758b6689f3e3c78d</guid>
-    </item>
-    
-    <item>
-      <title>Newson, Lesley: A Story of Us: A New Look at Human Evolution</title>
-      <link>https://pekrau.github.io/library/9780190883201.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, science</description>
-      <pubDate>Sun, 30 Jan 2022 12:00:00 +0100</pubDate>
-      <guid>8e0684fde38c051bfadda54494f1749b131ff623</guid>
     </item>
     
   </channel>

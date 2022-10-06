@@ -5,6 +5,7 @@ name: svenska-debatten-om-ryssland
 path: /svenska-debatten-om-ryssland/
 title: Ryssland
 type: page
+ordinal: 40
 ---
 Här samlar jag länkar till inlägg i den svenska debatten om utvecklingen i Putins Ryssland och händelserna i Ukraina. Fokus ligger på tolkningar av skeendena på det politiska och samhälleliga planet, rena nyhetsartiklar tas med endast i särskilda fall. Notera att artiklarna listas i omvänd tidsordning.
 

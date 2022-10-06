@@ -5,6 +5,7 @@ name: publikationer-i-andra-media
 path: /publikationer-i-andra-media/
 title: Publikationer i andra media
 type: page
+ordinal: 90
 ---
 - **Mellan religion och liberalism.**, publicerad i [Sans magasin 3-2019](https://fritanke.se/sans/sans-nr-3-%E2%80%A2-2019/). En kritik av Joel Halldorfs bok "Gud: Återkomsten", som är en slags lättvariant av Patrick J. Deneen "Why liberalism failed". Jag kritiserar Halldorf för att hans argument för religionens goda inflytande på samhället bygger på två olika argument som inte kan kombineras så lätt. Jag refererar bland annat till Larry Siedentop "Inventing the individual. The origins of Western liberalism". Joel Halldorf svara på min kritik i samma nummer.
 - **"Vetenskap och faktaresistens: En kritik"**, publicerad i [Sans magasin 2-2018](http://fritanke.se/sans/sans-nr-2-%E2%80%A2-2018/). Min text utgår från, och kritiserar, Åsa Wikforss bok "Alternativa fakta: Om kunskapen och dess fiender" (Fri Tanke 2017) och Emma Frans "Larmrapporten: Att skilja vetenskap från trams" (Volante 2017). Wikforss svarar på min kritik i samma nummer.

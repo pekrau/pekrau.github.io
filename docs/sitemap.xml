@@ -898,22 +898,22 @@
 <loc>https://pekrau.github.io/djavulens-liberal/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/grundkurs-i-ateism/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/karl-popper/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/open-science/</loc>
+<loc>https://pekrau.github.io/grundkurs-i-ateism/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/publikationer-i-andra-media/</loc>
+<loc>https://pekrau.github.io/open-science/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/svenska-debatten-om-ryssland/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/alexander-dugin/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/publikationer-i-andra-media/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/per-kraulis/</loc>
@@ -973,6 +973,9 @@
 <loc>https://pekrau.github.io/library/9789185639489.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9780415397155.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9780062228253.html</loc>
 </url>
 <url>
@@ -1019,6 +1022,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9781771642095.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780812692648.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9781848168626.html</loc>
@@ -1079,6 +1085,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9780712668422.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780521574907.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9780190622053.html</loc>
@@ -1633,6 +1642,9 @@
 <loc>https://pekrau.github.io/library/9780710085184.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9780415522298.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9789174291902.html</loc>
 </url>
 <url>
@@ -1987,6 +1999,9 @@
 <loc>https://pekrau.github.io/library/9789127823938.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9789171730565.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9789172638501.html</loc>
 </url>
 <url>
@@ -2068,6 +2083,9 @@
 <loc>https://pekrau.github.io/library/9781250077929.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9781316630358.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9780385076159.html</loc>
 </url>
 <url>
@@ -2141,6 +2159,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9781501150128.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780367322489.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/x1968a.html</loc>
@@ -2974,6 +2995,9 @@
 <loc>https://pekrau.github.io/library/authors/Andersson, Ola/</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/authors/Angner, Erik/</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/authors/Annas, George/</loc>
 </url>
 <url>
@@ -3029,6 +3053,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Badawi, Raif/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/Baier, Kurt/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Baldwin, Geoff/</loc>
@@ -3712,9 +3739,6 @@
 <loc>https://pekrau.github.io/library/authors/Hicks, Stephen RC/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Johansson, Anders/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Hirdman, Yvonne/</loc>
 </url>
 <url>
@@ -4369,6 +4393,9 @@
 <loc>https://pekrau.github.io/library/authors/Linton, Magnus/</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/authors/Locke, John/</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/authors/Lovell, Julia/</loc>
 </url>
 <url>
@@ -4456,6 +4483,9 @@
 <loc>https://pekrau.github.io/library/authors/McGrath, Alister E/</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/authors/McMahon, Christopher/</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/authors/Medawar, Peter/</loc>
 </url>
 <url>
@@ -4508,6 +4538,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Mukherjee, Siddhartha/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/Muldoon, Ryan/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Myrdal, Gunnar/</loc>
