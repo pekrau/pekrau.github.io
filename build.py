@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.12.0"
+__version__ = "0.12.1"
 
 import csv
 import datetime
@@ -186,7 +186,7 @@ def read_pages():
             REDIRECTED_PAGES.append(page)
         else:
             PAGES.append(page)
-    PAGES.sort(key=lambda p: (p.get("level", 0), p["title"].lower()))
+    PAGES.sort(key=lambda p: (p.get("ordinal", 999), p["title"].lower()))
 
 def read_books():
     "Read the Goodreads dump CSV file and apply any corrections."

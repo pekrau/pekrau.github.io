@@ -5,6 +5,7 @@ name: open-science
 path: /open-science/
 title: Open Science
 type: page
+ordinal: 24
 ---
 In this page I list links to articles discussing Open Science, data storage and handling, and Big Data issues.
 

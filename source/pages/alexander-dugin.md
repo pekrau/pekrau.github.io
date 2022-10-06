@@ -5,9 +5,9 @@ name: alexander-dugin
 path: /alexander-dugin/
 title: Alexander Dugin
 type: page
-level: 1
+ordinal: 42
 ---
-Här samlar jag länkar till websidor om eller av Alexander Dugin, rysk antiliberal ideolog och aktivist. Jag fyller på litet vartefter.
+Här finns länkar till websidor om eller av Alexander Dugin, rysk antiliberal ideolog och aktivist.
 
 ### Essäer och analyser
 
