@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Fri, 07 Oct 2022 12:59:26 +0200</pubDate>
+    <pubDate>Sun, 30 Oct 2022 19:17:18 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Fukuyama, Francis: Liberalism and Its Discontents</title>
+      <link>https://pekrau.github.io/library/9780374606718.html</link>
+      <category>review</category>
+      <description>liberalism, political-philosophy, politics</description>
+      <pubDate>Sun, 30 Oct 2022 12:00:00 +0100</pubDate>
+      <guid>cdc493ed9e4308e2510ca0e80e7fea9a4c6df8fa</guid>
+    </item>
     
     <item>
       <title>Gaus, Gerald F: The Open Society and Its Complexities</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, science</description>
       <pubDate>Mon, 14 Feb 2022 12:00:00 +0100</pubDate>
       <guid>c14c2ddd1876f9f14ee86685fc9c929ac8dfffc4</guid>
-    </item>
-    
-    <item>
-      <title>Hadley-Kamptz, Isobel: Frihet &amp; fruktan: tankar om liberalism</title>
-      <link>https://pekrau.github.io/library/9789127132191.html</link>
-      <category>review</category>
-      <description>liberalism, political-philosophy</description>
-      <pubDate>Sun, 06 Feb 2022 12:00:00 +0100</pubDate>
-      <guid>2f3583388f02bd7a113176b7758b6689f3e3c78d</guid>
     </item>
     
   </channel>
