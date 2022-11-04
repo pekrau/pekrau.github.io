@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 30 Oct 2022 19:17:18 +0100</pubDate>
+    <pubDate>Fri, 04 Nov 2022 22:01:50 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Raihani, Nichola: The Social Instinct: How Cooperation Shaped the World</title>
+      <link>https://pekrau.github.io/library/9781787332041.html</link>
+      <category>review</category>
+      <description>human-evolution, morality</description>
+      <pubDate>Fri, 04 Nov 2022 12:00:00 +0100</pubDate>
+      <guid>2142f65a639b92b7365f262abff7a586a542a8cd</guid>
+    </item>
     
     <item>
       <title>Fukuyama, Francis: Liberalism and Its Discontents</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, karl-popper, philosophy, science</description>
       <pubDate>Thu, 19 May 2022 12:00:00 +0200</pubDate>
       <guid>2c1cdd43145ee02dde89fea91846f00de84d9cf5</guid>
-    </item>
-    
-    <item>
-      <title>Sterelny, Kim: Pleistocene Social Contract: Culture and Cooperation in Human Evolution</title>
-      <link>https://pekrau.github.io/library/9780197531389.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, science</description>
-      <pubDate>Mon, 14 Feb 2022 12:00:00 +0100</pubDate>
-      <guid>c14c2ddd1876f9f14ee86685fc9c929ac8dfffc4</guid>
     </item>
     
   </channel>
