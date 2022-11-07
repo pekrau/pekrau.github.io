@@ -16,6 +16,8 @@ vid [SciLifeLab](https://www.scilifelab.se/), med en forskartjänst vid [institu
 
 **email**: per.kraulis@gmail.com, per.kraulis@scilifelab.se
 
+**Mastodon** [@PerKraulis@mastodon.nu](https://mastodon.nu/@PerKraulis)
+
 **Twitter** [@PerKraulis](https://twitter.com/PerKraulis)
 
 **GitHub** [pekrau](https://github.com/pekrau)
