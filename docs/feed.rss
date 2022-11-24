@@ -5,8 +5,26 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 07 Nov 2022 14:40:14 +0100</pubDate>
+    <pubDate>Thu, 24 Nov 2022 22:21:23 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Darwin, Charles: Om Arternas Uppkomst</title>
+      <link>https://pekrau.github.io/library/9781519249524.html</link>
+      <category>review</category>
+      <description>evolution, philosophy</description>
+      <pubDate>Thu, 24 Nov 2022 12:00:00 +0100</pubDate>
+      <guid>dd64b592e7e1573e2b92e1ba0e7d639d9d75761d</guid>
+    </item>
+    
+    <item>
+      <title>Thomas, Nicholas: Voyagers: The Settlement of the Pacific</title>
+      <link>https://pekrau.github.io/library/9781541619838.html</link>
+      <category>review</category>
+      <description>history, human-evolution</description>
+      <pubDate>Wed, 16 Nov 2022 12:00:00 +0100</pubDate>
+      <guid>7c67e74ffe67c02a3e57a87b6334f8b9b5d2de03</guid>
+    </item>
     
     <item>
       <title>Raihani, Nichola: The Social Instinct: How Cooperation Shaped the World</title>
@@ -78,24 +96,6 @@
       <description>human-evolution, science</description>
       <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
       <guid>88d7c43d8df268753e37f9271c1cfc9a2665ab55</guid>
-    </item>
-    
-    <item>
-      <title>Rousseau, Jean-Jacques: The Major Political Writings of Jean-Jacques Rousseau: The Two &#34;Discourses&#34; and the &#34;Social Contract&#34;</title>
-      <link>https://pekrau.github.io/library/9780226921860.html</link>
-      <category>review</category>
-      <description>enlightenment, morality, political-philosophy</description>
-      <pubDate>Thu, 09 Jun 2022 12:00:00 +0200</pubDate>
-      <guid>e8a1494a8510cd71da43fe70c8b893306c004f46</guid>
-    </item>
-    
-    <item>
-      <title>Popper, Karl: World of Propensities</title>
-      <link>https://pekrau.github.io/library/9781855060005.html</link>
-      <category>review</category>
-      <description>human-evolution, karl-popper, philosophy, science</description>
-      <pubDate>Thu, 19 May 2022 12:00:00 +0200</pubDate>
-      <guid>2c1cdd43145ee02dde89fea91846f00de84d9cf5</guid>
     </item>
     
   </channel>
