@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 24 Nov 2022 22:21:23 +0100</pubDate>
+    <pubDate>Mon, 19 Dec 2022 21:09:13 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Tomasello, Michael: The Evolution of Agency: Behavioral Organization from Lizards to Humans</title>
+      <link>https://pekrau.github.io/library/9780262047005.html</link>
+      <category>review</category>
+      <description>evolution, morality, philosophy, science</description>
+      <pubDate>Mon, 19 Dec 2022 12:00:00 +0100</pubDate>
+      <guid>a545fd64275aaa92e5ce51ccad370cef95ead865</guid>
+    </item>
     
     <item>
       <title>Darwin, Charles: Om Arternas Uppkomst</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, science</description>
       <pubDate>Mon, 11 Jul 2022 12:00:00 +0200</pubDate>
       <guid>2bad5f2dd1bdde6cc48277cbbdcaa1695181523e</guid>
-    </item>
-    
-    <item>
-      <title>Heyes, Cecilia: Cognitive Gadgets: The Cultural Evolution of Thinking</title>
-      <link>https://pekrau.github.io/library/9780674980150.html</link>
-      <category>review</category>
-      <description>human-evolution, science</description>
-      <pubDate>Sun, 03 Jul 2022 12:00:00 +0200</pubDate>
-      <guid>88d7c43d8df268753e37f9271c1cfc9a2665ab55</guid>
     </item>
     
   </channel>
