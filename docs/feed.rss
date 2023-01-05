@@ -5,8 +5,26 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 19 Dec 2022 21:23:50 +0100</pubDate>
+    <pubDate>Thu, 05 Jan 2023 13:54:00 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Jalalvand, Farshid: Apan &amp; Filosofen</title>
+      <link>https://pekrau.github.io/library/9789189139398.html</link>
+      <category>review</category>
+      <description>biomedicine, evolution, philosophy, science</description>
+      <pubDate>Thu, 05 Jan 2023 12:00:00 +0100</pubDate>
+      <guid>e47563335d16f2edad10389ad302dcca2428d4ab</guid>
+    </item>
+    
+    <item>
+      <title>Östbring, Björn: Nationalstaten - En essä om liberal nationalism och Sveriges framtid</title>
+      <link>https://pekrau.github.io/library/9789189526662.html</link>
+      <category>review</category>
+      <description>history, liberalism, political-philosophy, politics</description>
+      <pubDate>Wed, 04 Jan 2023 12:00:00 +0100</pubDate>
+      <guid>278209a2241ca03d8069957d0d53a8847c66544a</guid>
+    </item>
     
     <item>
       <title>Tomasello, Michael: The Evolution of Agency: Behavioral Organization from Lizards to Humans</title>
@@ -78,24 +96,6 @@
       <description>liberalism, morality, political-philosophy</description>
       <pubDate>Tue, 13 Sep 2022 12:00:00 +0200</pubDate>
       <guid>e0bde2230ee2fa901b732f4761ab3c991a1b8a5c</guid>
-    </item>
-    
-    <item>
-      <title>Buchanan, Allen: The Evolution of Moral Progress: A Biocultural Theory</title>
-      <link>https://pekrau.github.io/library/9780190868413.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, science</description>
-      <pubDate>Tue, 16 Aug 2022 12:00:00 +0200</pubDate>
-      <guid>6da47dd72859a6b7ac46d026010f7fab9f6f3f56</guid>
-    </item>
-    
-    <item>
-      <title>Hare, Brian: Survival Of The Friendliest</title>
-      <link>https://pekrau.github.io/library/9780861540235.html</link>
-      <category>review</category>
-      <description>human-evolution, science</description>
-      <pubDate>Mon, 11 Jul 2022 12:00:00 +0200</pubDate>
-      <guid>2bad5f2dd1bdde6cc48277cbbdcaa1695181523e</guid>
     </item>
     
   </channel>
