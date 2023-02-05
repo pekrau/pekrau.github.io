@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 08 Jan 2023 20:05:50 +0100</pubDate>
+    <pubDate>Sun, 05 Feb 2023 18:51:41 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Pettit, Philip: The Birth of Ethics: Reconstructing the Role and Nature of Morality</title>
+      <link>https://pekrau.github.io/library/9780190904913.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, philosophy</description>
+      <pubDate>Sun, 05 Feb 2023 12:00:00 +0100</pubDate>
+      <guid>e1d55da4139b3bcda813804ed7f639acd1472a61</guid>
+    </item>
     
     <item>
       <title>Kragh, Martin: Det fallna imperiet: Ryssland och väst under Vladimir Putin</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, liberalism, political-philosophy</description>
       <pubDate>Thu, 06 Oct 2022 12:00:00 +0200</pubDate>
       <guid>017f900fe5010911f2f722468ca8e5c5dbdef44c</guid>
-    </item>
-    
-    <item>
-      <title>Kulturella konstruktioner är våra och ändå oberoende</title>
-      <link>https://pekrau.github.io/2022/09/21/kulturella-konstruktioner-ar-vara-och-anda-oberoende/</link>
-      <category>Filosofi (philosophy)</category>
-      <description>Karl Popper, kulturella konstruktioner, matematik, objektiv kunskap, Värld 3</description>
-      <pubDate>Wed, 21 Sep 2022 12:00:00 +0200</pubDate>
-      <guid>ff0de1bf9f6cada527ba761235d847939d1c23d2</guid>
     </item>
     
   </channel>
