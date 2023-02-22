@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 05 Feb 2023 18:51:41 +0100</pubDate>
+    <pubDate>Wed, 22 Feb 2023 09:32:24 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Hippel, William Von: The Social Leap: how and why humans connect</title>
+      <link>https://pekrau.github.io/library/9781925713022.html</link>
+      <category>review</category>
+      <description>human-evolution, science</description>
+      <pubDate>Tue, 21 Feb 2023 12:00:00 +0100</pubDate>
+      <guid>d4fa3246a20d0a652b0a6139c3fe13c7ef64f2ec</guid>
+    </item>
     
     <item>
       <title>Pettit, Philip: The Birth of Ethics: Reconstructing the Role and Nature of Morality</title>
@@ -87,15 +96,6 @@
       <description>liberalism, political-philosophy, politics</description>
       <pubDate>Sun, 30 Oct 2022 12:00:00 +0100</pubDate>
       <guid>cdc493ed9e4308e2510ca0e80e7fea9a4c6df8fa</guid>
-    </item>
-    
-    <item>
-      <title>Gaus, Gerald F: The Open Society and Its Complexities</title>
-      <link>https://pekrau.github.io/library/9780190648978.html</link>
-      <category>review</category>
-      <description>human-evolution, liberalism, political-philosophy</description>
-      <pubDate>Thu, 06 Oct 2022 12:00:00 +0200</pubDate>
-      <guid>017f900fe5010911f2f722468ca8e5c5dbdef44c</guid>
     </item>
     
   </channel>
