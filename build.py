@@ -299,9 +299,11 @@ def build_blog():
     # All blog post pages.
     for post in POSTS:
         try:
-            references = [BOOKS[ref] for ref in post.get("references", [])]
+            references = []
+            for ref in post.get("references", []):
+                references.append(BOOKS[ref])
         except KeyError:
-            print(f"reference error in post '{post['title']}'")
+            print(f"reference error '{ref}' in post '{post['title']}'")
             references = []
         build_html(f"{post['path'].strip('/')}/index.html",
                    template="blog/post.html", 
