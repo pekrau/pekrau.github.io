@@ -82,7 +82,12 @@
         Goodreads {{ book['goodreads'] }}
       </li>
       <li class="list-group-item">
-        Referens <strong>{{ book["reference"] }}</strong>
+        {% if language == 'en' %}
+        Reference
+        {% else %}
+        Referens
+        {% endif %}
+        <strong>{{ book["reference"] }}</strong>
       </li>
     </ul>
   </div>
