@@ -1354,6 +1354,9 @@
 <loc>https://pekrau.github.io/library/9781780748412.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9780553214642.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9780199381104.html</loc>
 </url>
 <url>
@@ -1783,9 +1786,6 @@
 <loc>https://pekrau.github.io/library/9780262600699.html</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/9780691000428.html</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/9780674631113.html</loc>
 </url>
 <url>
@@ -2165,9 +2165,6 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9780394718255.html</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/9780140441659.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9781118334317.html</loc>
@@ -2665,6 +2662,9 @@
 <loc>https://pekrau.github.io/library/9780281075201.html</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/9780691000428.html</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/9780571225231.html</loc>
 </url>
 <url>
@@ -2728,9 +2728,6 @@
 <loc>https://pekrau.github.io/library/9185015407.html</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/9780553214642.html</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/9780553277371.html</loc>
 </url>
 <url>
@@ -2783,6 +2780,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9780996139519.html</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/9780140441659.html</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/9789185318391.html</loc>
@@ -3460,6 +3460,15 @@
 <loc>https://pekrau.github.io/library/authors/Gullans, Steve/</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/authors/Epstein, Joseph/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/Reeve, Henry/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/Tocqueville, Alexis de/</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/authors/Epstein, Brian/</loc>
 </url>
 <url>
@@ -3802,7 +3811,7 @@
 <loc>https://pekrau.github.io/library/authors/Hicks, Stephen RC/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Hippel, William Von/</loc>
+<loc>https://pekrau.github.io/library/authors/Hppel, William von/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Hirdman, Yvonne/</loc>
@@ -4582,9 +4591,6 @@
 <loc>https://pekrau.github.io/library/authors/Monod, Jacques/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/More, Thomas/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/More, Max/</loc>
 </url>
 <url>
@@ -5131,6 +5137,9 @@
 <loc>https://pekrau.github.io/library/authors/Spencer, Nick/</loc>
 </url>
 <url>
+<loc>https://pekrau.github.io/library/authors/Spillmann, Betty E/</loc>
+</url>
+<url>
 <loc>https://pekrau.github.io/library/authors/Spufford, Francis/</loc>
 </url>
 <url>
@@ -5191,12 +5200,6 @@
 <loc>https://pekrau.github.io/library/authors/Thorsell, Staffan/</loc>
 </url>
 <url>
-<loc>https://pekrau.github.io/library/authors/Tocqueville, Alexis de/</loc>
-</url>
-<url>
-<loc>https://pekrau.github.io/library/authors/Epstein, Joseph/</loc>
-</url>
-<url>
 <loc>https://pekrau.github.io/library/authors/Toffler, Alvin/</loc>
 </url>
 <url>
@@ -5243,6 +5246,9 @@
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Turchin, Peter/</loc>
+</url>
+<url>
+<loc>https://pekrau.github.io/library/authors/More, Thomas/</loc>
 </url>
 <url>
 <loc>https://pekrau.github.io/library/authors/Tännsjö, Torbjörn/</loc>

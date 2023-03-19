@@ -5,11 +5,20 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Wed, 22 Feb 2023 09:32:24 +0100</pubDate>
+    <pubDate>Sun, 19 Mar 2023 20:40:32 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
     
     <item>
-      <title>Hippel, William Von: The Social Leap: how and why humans connect</title>
+      <title>Kropotkin, Pyotr: Ömsesidig hjälp</title>
+      <link>https://pekrau.github.io/library/9789198170801.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, philosophy</description>
+      <pubDate>Sat, 18 Mar 2023 12:00:00 +0100</pubDate>
+      <guid>e530d5374beca8fd0072cc46228e18f0e85bffc7</guid>
+    </item>
+    
+    <item>
+      <title>Hppel, William von: The Social Leap: how and why humans connect</title>
       <link>https://pekrau.github.io/library/9781925713022.html</link>
       <category>review</category>
       <description>human-evolution, science</description>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality</description>
       <pubDate>Fri, 04 Nov 2022 12:00:00 +0100</pubDate>
       <guid>2142f65a639b92b7365f262abff7a586a542a8cd</guid>
-    </item>
-    
-    <item>
-      <title>Fukuyama, Francis: Liberalism and Its Discontents</title>
-      <link>https://pekrau.github.io/library/9780374606718.html</link>
-      <category>review</category>
-      <description>liberalism, political-philosophy, politics</description>
-      <pubDate>Sun, 30 Oct 2022 12:00:00 +0100</pubDate>
-      <guid>cdc493ed9e4308e2510ca0e80e7fea9a4c6df8fa</guid>
     </item>
     
   </channel>
