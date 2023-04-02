@@ -34,7 +34,7 @@ CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
 BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
-SITEMAP_URLS = []
+SITEMAP_URLS = {};        # Key: canonical URL, value: lastmod.
 MAX_LATEST_ITEMS = 10     # Max latest item on index page and in RSS 'feed.xml' file.
 LATEST_ITEMS = []         # The latest items; posts and book reviews.
 
@@ -230,9 +230,10 @@ def read_books():
             if row["My Review"]:
                 book["content"] = row["My Review"].strip('"').replace("<br/>", "\n")
                 book["html"] = MARKDOWN.convert(book["content"])
-
+            book["lastmod"] = row["Date Added"].replace("/", "-")
             if row["Date Read"]:
                 book["date"] = row["Date Read"].replace("/", "-")
+                book["lastmod"] = book["date"]
             # Read any corrections file for the book.
             try:
                 with open(f"source/corrections/{book['goodreads']}.json") as infile:
@@ -313,7 +314,8 @@ def build_blog():
                    description=", ".join([c["value"] for c in post.get("categories", [])]),
                    keywords=", ".join([t["value"] for t in post.get("tags", [])]),
                    author=post.get("author", "Per Kraulis"),
-                   references=references)
+                   references=references,
+                   lastmod=post["lastmod"])
     # Index of all tags.
     tags = sorted(TAGS.values(), key=lambda t: t["value"].lower())
     build_html("blog/tags/index.html", sitemap=True, tags=tags)
@@ -348,7 +350,8 @@ def build_pages():
                    template="page.html", 
                    sitemap=True,
                    page=page,
-                   language=page.get("language", "sv"))
+                   language=page.get("language") or "sv",
+                   lastmod=page.get("lastmod"))
     # Deleted, redirected pages.
     for page in REDIRECTED_PAGES:
         path = page["path"].strip("/")
@@ -373,7 +376,8 @@ def build_books():
                    template="library/book.html",
                    sitemap=True,
                    book=book,
-                   language=book.get("language") or "sv")
+                   language=book.get("language") or "sv",
+                   lastmod=book.get("lastmod"))
     # Authors index and pages.
     authors = {}
     for book in books:
@@ -432,6 +436,13 @@ def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
     if pages is None:
         pages = PAGES
     template = env.get_template(template)
+    # Compute canonical URL.
+    canonical = BASE_URL + "/" + filepath
+    try: # Remove any trailing "index.html" from canonical URL.
+        canonical = canonical[:canonical.index("index.html")]
+    except ValueError:
+        pass
+    kwargs["canonical"] = canonical
     filepath = os.path.join("docs", filepath)
     dirpath = os.path.dirname(filepath)
     if dirpath and not os.path.exists(dirpath):
@@ -440,14 +451,7 @@ def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
         outfile.write(template.render(pages=pages, **kwargs))
     HTML_FILES.add(filepath)
     if sitemap:
-        # Remove "/docs" prefix.
-        filepath = filepath[5:]
-        # Remove any trailing "index.html"
-        try:
-            filepath = filepath[:filepath.index("index.html")]
-        except ValueError:
-            pass
-        SITEMAP_URLS.append(BASE_URL + "/" + filepath)
+        SITEMAP_URLS[canonical] = kwargs.get("lastmod")
 
 def read_md(filepath):
     "Return the Markdown file as a dict with front matter and content as items."
@@ -469,6 +473,7 @@ def read_md(filepath):
     result["html"] = MARKDOWN.convert(result["content"])
     result.get("tags", []).sort(key=lambda c: c["value"].lower())
     result.get("categories", []).sort(key=lambda c: c["value"].lower())
+    result["lastmod"] = time.strftime("%Y-%m-%d", time.gmtime(os.path.getmtime(filepath)))
     return result
 
 def write_rss():
@@ -507,9 +512,11 @@ def write_sitemap():
     with open("docs/sitemap.xml", "w") as outfile:
         outfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         outfile.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-        for url in SITEMAP_URLS:
+        for url, lastmod in SITEMAP_URLS.items():
             outfile.write("<url>\n")
-            outfile.write(f"<loc>{url}</loc>\n")
+            outfile.write(f"  <loc>{url}</loc>\n")
+            if lastmod:
+                outfile.write(f"  <lastmod>{lastmod}</lastmod>\n")
             outfile.write("</url>\n")
         outfile.write("</urlset>\n")
 
