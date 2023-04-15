@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 02 Apr 2023 16:18:42 +0200</pubDate>
+    <pubDate>Sat, 15 Apr 2023 19:50:01 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Wolin, Richard: Heidegger in Ruins: Between Philosophy and Ideology</title>
+      <link>https://pekrau.github.io/library/9780300233186.html</link>
+      <category>review</category>
+      <description>philosophy, political-philosophy</description>
+      <pubDate>Sat, 15 Apr 2023 12:00:00 +0200</pubDate>
+      <guid>af9e23ce7c35f5dc5fb2afdd3388ada683d05799</guid>
+    </item>
     
     <item>
       <title>Cobb, Matthew: As Gods: A Moral History of the Genetic Age</title>
@@ -87,15 +96,6 @@
       <description>evolution, philosophy</description>
       <pubDate>Thu, 24 Nov 2022 12:00:00 +0100</pubDate>
       <guid>dd64b592e7e1573e2b92e1ba0e7d639d9d75761d</guid>
-    </item>
-    
-    <item>
-      <title>Thomas, Nicholas: Voyagers: The Settlement of the Pacific</title>
-      <link>https://pekrau.github.io/library/9781541619838.html</link>
-      <category>review</category>
-      <description>history, human-evolution</description>
-      <pubDate>Wed, 16 Nov 2022 12:00:00 +0100</pubDate>
-      <guid>7c67e74ffe67c02a3e57a87b6334f8b9b5d2de03</guid>
     </item>
     
   </channel>
