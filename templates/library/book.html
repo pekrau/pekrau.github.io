@@ -12,11 +12,11 @@
   {% if book.get("posts") %}
   <div class="card mb-3">
     <div class="card-header bg-light" title="Referred">
-      {%- if language == 'en' -%}
+      {% if language == 'en' %}
       Referred to in blog posts
-      {%- else -%}
+      {% else %}
       Referade i blogginlägg
-      {%- endif -%}
+      {% endif %}
     </div>
     <ul class="list-group list-group-flush">
       {% for post in book["posts"] %}
@@ -32,11 +32,11 @@
   <div class="card">
     <div class="card-header bg-light">
       <h5 class="card-title">
-        {%- if language == 'en' -%}
+        {% if language == 'en' %}
         My comments
-        {%- else -%}
+        {% else %}
         Mina kommentarer
-        {%- endif -%}
+        {% endif %}
         {% if book.get("date") %}
         <small class="text-muted">{{ book['date'] }}</small>
         {% endif %}

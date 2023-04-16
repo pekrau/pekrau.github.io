@@ -1,14 +1,14 @@
 {% extends 'base.html' %}
 
 {% block head_meta %}
-    <meta name="google-site-verification" content="xxKc5YmJpCNmaNZheoVf9crvQsKNMB8eAc206N9EoXQ">
-{%- endblock %}
+<meta name="google-site-verification" content="xxKc5YmJpCNmaNZheoVf9crvQsKNMB8eAc206N9EoXQ">
+{% endblock %}
 
 {% block head_title %}Civilisation. Samhälle, vetenskap,kultur. Per Kraulis{% endblock%}
 
 {% block head_link %}
-    <link href="/feed.rss" rel="alternate" type="application/rss+xml" title="Subscribe to What's New">
-{%- endblock %}
+<link href="/feed.rss" rel="alternate" type="application/rss+xml" title="Subscribe to What's New">
+{% endblock %}
 
 {% block body_title %}
 <img src="/files/valen-375.png" title="Valen, Kalvsund, Öckerö, Sweden" class="rounded float-start img-fluid me-3 mb-3">
@@ -33,22 +33,27 @@
     <div class="card mb-3">
       <div class="card-header bg-light">
         <h5 class="card-title">{{ item['title'] }}
-          {% if item.get('language') == 'en' %}
-          <small class="text-muted">Post {{ item['date'] }}</small>
-          {% else %}
-          <small class="text-muted">Inlägg {{ item['date'] }}</small>
-          {% endif %}
+          <a href="{{ item['path'] }}">
+            <small>
+              {% if item.get('language') == 'en' %}
+              Post
+              {% else %}
+              Inlägg
+              {% endif %}
+              {{ item['date'] }}
+            </small>
+          </a>
         </h5>
       </div>
       <div class="card-body">
         {{ item['short_html'] | safe }}
         <div class="text-end">
-          <a href="{{ item['path'] }}" class="btn btn-primary" role="button">
-            {%- if item.get('language') == 'en' -%}
-            The whole post...
-            {%- else -%}
-            Hela inlägget...
-            {%- endif -%}
+          <a href="{{ item['path'] }}">
+            {% if item.get('language') == 'en' %}
+            View the whole post...
+            {% else %}
+            Se hela inlägget...
+            {% endif %}
           </a>
         </div>
       </div>
@@ -60,25 +65,27 @@
         <h5 class="card-title">
           <i>{{ item['authors'][0] }}</i>:
           {{ item['title'] }}
-          <small class="text-muted">
-            {%- if item.get('language') == 'en' -%}
-            Review
-            {%- else -%}
-            Recension
-            {% endif %}
-            {{ item['date'] }}
-          </small>
+          <a href="{{ item['path'] }}">
+            <small>
+              {% if item.get('language') == 'en' %}
+              Review
+              {% else %}
+              Recension
+              {% endif %}
+              {{ item['date'] }}
+            </small>
+          </a>
         </h5>
       </div>
       <div class="card-body">
         {{ item['short_html'] | safe }}
         <div class="text-end">
-          <a href="{{ item['path'] }}" class="btn btn-primary" role="button">
-            {%- if item.get('language') == 'en' -%}
-            The whole review...
-            {%- else -%}
-            Hela recensionen...
-            {%- endif -%}
+          <a href="{{ item['path'] }}">
+            {% if item.get('language') == 'en' %}
+            View the whole review...
+            {% else %}
+            Se hela recensionen...
+            {% endif %}
           </a> 
         </div>
       </div>
