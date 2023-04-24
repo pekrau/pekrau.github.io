@@ -272,7 +272,11 @@ def build_index():
     posts = POSTS[:MAX_LATEST_ITEMS]
     # Convert the first paragraph of the latest posts.
     for post in posts:
-        post["short_html"] = MARKDOWN.convert(post["content"].split("\n\n", 1)[0])
+        try:
+            content = post["content"][:post["content"].index("<!-- more -->")]
+        except ValueError:
+            content = post["content"].split("\n\n", 1)[0]
+        post["short_html"] = MARKDOWN.convert(content)
     # Collect the latest book reviews.
     books = [b for b in BOOKS.values() if b.get("date") and b.get("content")]
     books.sort(key=lambda b: b["date"], reverse=True)

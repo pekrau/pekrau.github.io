@@ -14,7 +14,7 @@ tags:
 - name: elinor-ostrom
   value: Elinor Ostrom
 - name: michael-tomasello
-  value: MIchael Tomasello
+  value: Michael Tomasello
 - name: moral
   value: moral
 - name: samarbete
