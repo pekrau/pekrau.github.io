@@ -5,8 +5,44 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 24 Apr 2023 18:21:58 +0200</pubDate>
+    <pubDate>Thu, 13 Jul 2023 11:37:53 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Buchanan, Allen: Our Moral Fate: Evolution and the Escape from Tribalism</title>
+      <link>https://pekrau.github.io/library/9780262043748.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, philosophy</description>
+      <pubDate>Thu, 13 Jul 2023 12:00:00 +0200</pubDate>
+      <guid>d497efc513592d92f4a8f8490611a7937c6548fc</guid>
+    </item>
+    
+    <item>
+      <title>Hrdy, Sarah Blaffer: Mothers and Others: The Evolutionary Origins of Mutual Understanding</title>
+      <link>https://pekrau.github.io/library/9780674032996.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, science</description>
+      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
+      <guid>282af2aba45aa0ef997d1c3fc1bee4dae3c13f76</guid>
+    </item>
+    
+    <item>
+      <title>Lindenfors, Patrik: Äckel. Smitta, synd, samhälle</title>
+      <link>https://pekrau.github.io/library/9789177753117.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, religion, science</description>
+      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
+      <guid>83e4d53ed27ec4e359688f6ede33cf07ff52b697</guid>
+    </item>
+    
+    <item>
+      <title>Pagel, Mark: Wired for Culture: Origins of the Human Social Mind</title>
+      <link>https://pekrau.github.io/library/9780393344202.html</link>
+      <category>review</category>
+      <description>human-evolution, political-philosophy</description>
+      <pubDate>Fri, 05 May 2023 12:00:00 +0200</pubDate>
+      <guid>64238b62612a380e14591d094c83de5fd3f812c3</guid>
+    </item>
     
     <item>
       <title>Är moral biologiskt programmerad?</title>
@@ -54,48 +90,12 @@
     </item>
     
     <item>
-      <title>Pettit, Philip: The Birth of Ethics: Reconstructing the Role and Nature of Morality</title>
+      <title>Pettit, Philip: The Birth of Ethics: Reconstructing the Role and Nature of Morality (The Berkeley Tanner Lectures)</title>
       <link>https://pekrau.github.io/library/9780190904913.html</link>
       <category>review</category>
       <description>human-evolution, morality, philosophy</description>
       <pubDate>Sun, 05 Feb 2023 12:00:00 +0100</pubDate>
-      <guid>e1d55da4139b3bcda813804ed7f639acd1472a61</guid>
-    </item>
-    
-    <item>
-      <title>Kragh, Martin: Det fallna imperiet: Ryssland och väst under Vladimir Putin</title>
-      <link>https://pekrau.github.io/library/9789189139039.html</link>
-      <category>review</category>
-      <description>history, politics</description>
-      <pubDate>Sun, 08 Jan 2023 12:00:00 +0100</pubDate>
-      <guid>fa5c8e75a052ece84b3bc76c62169812d35c416e</guid>
-    </item>
-    
-    <item>
-      <title>Jalalvand, Farshid: Apan &amp; Filosofen</title>
-      <link>https://pekrau.github.io/library/9789189139398.html</link>
-      <category>review</category>
-      <description>biomedicine, evolution, philosophy, science</description>
-      <pubDate>Thu, 05 Jan 2023 12:00:00 +0100</pubDate>
-      <guid>e47563335d16f2edad10389ad302dcca2428d4ab</guid>
-    </item>
-    
-    <item>
-      <title>Östbring, Björn: Nationalstaten - En essä om liberal nationalism och Sveriges framtid</title>
-      <link>https://pekrau.github.io/library/9789189526662.html</link>
-      <category>review</category>
-      <description>history, liberalism, political-philosophy, politics</description>
-      <pubDate>Wed, 04 Jan 2023 12:00:00 +0100</pubDate>
-      <guid>278209a2241ca03d8069957d0d53a8847c66544a</guid>
-    </item>
-    
-    <item>
-      <title>Tomasello, Michael: The Evolution of Agency: Behavioral Organization from Lizards to Humans</title>
-      <link>https://pekrau.github.io/library/9780262047005.html</link>
-      <category>review</category>
-      <description>evolution, morality, philosophy, science</description>
-      <pubDate>Mon, 19 Dec 2022 12:00:00 +0100</pubDate>
-      <guid>a545fd64275aaa92e5ce51ccad370cef95ead865</guid>
+      <guid>fd1a3ef41ff932b18c23729ba6bb554485a97534</guid>
     </item>
     
   </channel>
