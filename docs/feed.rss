@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Fri, 14 Jul 2023 10:11:11 +0200</pubDate>
+    <pubDate>Thu, 27 Jul 2023 19:32:26 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Rhodes, Richard: The Making of the Atomic Bomb</title>
+      <link>https://pekrau.github.io/library/9781451677614.html</link>
+      <category>review</category>
+      <description>history, politics</description>
+      <pubDate>Mon, 17 Jul 2023 12:00:00 +0200</pubDate>
+      <guid>cdb2ea3bddf8692c899f1b950333b351ed9d871d</guid>
+    </item>
     
     <item>
       <title>Buchanan, Allen: Our Moral Fate: Evolution and the Escape from Tribalism</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, science</description>
       <pubDate>Tue, 21 Feb 2023 12:00:00 +0100</pubDate>
       <guid>d4fa3246a20d0a652b0a6139c3fe13c7ef64f2ec</guid>
-    </item>
-    
-    <item>
-      <title>Pettit, Philip: The Birth of Ethics: Reconstructing the Role and Nature of Morality</title>
-      <link>https://pekrau.github.io/library/9780190904913.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, philosophy</description>
-      <pubDate>Sun, 05 Feb 2023 12:00:00 +0100</pubDate>
-      <guid>e1d55da4139b3bcda813804ed7f639acd1472a61</guid>
     </item>
     
   </channel>
