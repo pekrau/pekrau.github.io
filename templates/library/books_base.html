@@ -1,0 +1,22 @@
+{# Base template for books table page. #}
+
+{% extends 'base.html' %}
+
+{% block css %}
+<link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+{% endblock %}
+
+
+{% block javascript %}
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script>
+$(function() {
+  $("#books").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25
+  });
+});
+</script>
+{% endblock %}
