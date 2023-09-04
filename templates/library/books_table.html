@@ -1,16 +1,20 @@
-{# Standard table of books. #}
+{# Standard table of books. Requires Datatables includes for proper function. #}
 
-<table class="table table-sm table-hover">
-  <tr>
-    <th title="Authors" width="25%">Författare</th>
-    <th title="Title">Titel</th>
-    <th title="Reference">Referens</th>
-  </tr>
-  {% for book in books %}
-  <tr>
-    <td>{{ authors_links(book) }}</td>
-    <td>{{ book_link(book) }}</td>
-    <td class="text-nowrap">{{ book["reference"] }}</td>
-  </tr>
-  {% endfor %}
+<table id="books" class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th title="Authors" width="25%">Författare</th>
+      <th title="Title">Titel</th>
+      <th title="Published">Publicerad</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for book in books %}
+    <tr>
+      <td>{{ authors_links(book) }}</td>
+      <td>{{ book_link(book) }}</td>
+      <td>{{ published_link(book["published"]) }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>

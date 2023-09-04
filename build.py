@@ -37,6 +37,7 @@ HTML_FILES = set()        # All HTML files created during a run.
 SITEMAP_URLS = {};        # Key: canonical URL, value: lastmod.
 MAX_LATEST_ITEMS = 10     # Max latest item on index page and in RSS 'feed.xml' file.
 LATEST_ITEMS = []         # The latest items; posts and book reviews.
+YEAR_PUBLISHED = {}       # key: year; value: list of books
 
 
 # Setup the Jinja2 template processing environment.
@@ -81,6 +82,9 @@ def subject_link(subject):
     title = " ".join([p.capitalize() for p in subject.split("-")])
     return markupsafe.Markup(f"""<a href="/library/subjects/{subject}" class="text-nowrap">{title}</a>""")
 
+def published_link(year):
+    return markupsafe.Markup(f"""<a href="/library/published/{year}" class="text-nowrap">{year}</a>""")
+
 
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
@@ -93,6 +97,7 @@ env.globals["book_link"] = book_link
 env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
 env.globals["subject_link"] = subject_link
+env.globals["published_link"] = published_link
 env.globals["len"] = len
 env.globals["sorted"] = sorted
 
@@ -206,7 +211,7 @@ def read_books():
                 "goodreads": row["Book Id"],
                 "isbn": row["ISBN13"].lstrip("=").strip('"') or row["ISBN"].lstrip("=").strip('"'),
                 "published": row["Original Publication Year"] or row["Year Published"],
-                "edition": {"published": row["Year Published"],
+                "edition": {"published": row["Year Published"] or row["Original Publication Year"],
                             "publisher": row["Publisher"]}
             }
             book["authors"] = [row["Author l-f"]]
@@ -234,15 +239,21 @@ def read_books():
             if row["Date Read"]:
                 book["date"] = row["Date Read"].replace("/", "-")
                 book["lastmod"] = book["date"]
+
             # Read any corrections file for the book.
             try:
                 with open(f"source/corrections/{book['goodreads']}.json") as infile:
                     book.update(json.load(infile))
             except IOError:
                 pass
+
             if book["reference"] in BOOKS:
                 raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOKS[book['reference']]['goodreads']}, {BOOKS[book['reference']]['title']}")
             BOOKS[book["reference"]] = book
+            try:
+                YEAR_PUBLISHED.setdefault(int(book["published"]), list()).append(book)
+            except ValueError:
+                print(">>> invalid published:", book["goodreads"], book["title"])
 
             # Normalize author names; do after corrections!
             for pos, author in enumerate(book["authors"]):
@@ -252,17 +263,16 @@ def read_books():
             # Set the path for the book file; do after corrections!
             book["path"] = f"/library/{book['isbn']}.html"
 
-    # Check the validity of book data.
+    # Collect and check ISBN data.
     isbns = set()
     for book in BOOKS.values():
-        if not book.get("published"):
-            print(">>> lacking published:", book["goodreads"], book["title"])
         if not book["isbn"]:
             print(">>> lacking ISBN:", book["goodreads"], book["title"])
         if book["isbn"] in isbns:
             print(">>> duplicate isbn:", book["goodreads"], book["title"])
         elif book["isbn"]:
             isbns.add(book["isbn"])
+
 
 def build_index():
     "Build the top index.html file."
@@ -432,6 +442,14 @@ def build_books():
                    template="library/rating.html",
                    rating=rating,
                    books=rated)
+    # Lists of books by year published.
+    for year, published in sorted(YEAR_PUBLISHED.items()):
+        published = sorted(published, key=lambda b: b["reference"])
+        build_html(f"library/published/{year}/index.html",
+                   template="library/published.html",
+                   year=year,
+                   books=published)
+
 
 def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
     "Build a single HTML page from the data for an item."

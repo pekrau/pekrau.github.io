@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 <html lang="sv">
   <head>
@@ -5,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     
-    <meta description="Samhälle, vetenskap, kultur">
-    <meta keywords="society, science, culture, Homo sapiens, evolution, liberalism">
+    <meta description="Samhälle, evolution, kultur, politik">
+    <meta keywords="society, evolution, culture, politics">
     <meta author="Per Kraulis">
     <title>Böcker med betyg 1</title>
     
@@ -17,6 +19,9 @@
     <link href="/files/valen-32.png" type="image/png" rel="shortcut icon">
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/litera/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css" rel="stylesheet">
+    
+<link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -204,55 +209,59 @@
 <section class="col-lg-10 offset-lg-1">
   
 
-<table class="table table-sm table-hover">
-  <tr>
-    <th title="Authors" width="25%">Författare</th>
-    <th title="Title">Titel</th>
-    <th title="Reference">Referens</th>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Andersson, Lena">Andersson, Lena</a></td>
-    <td><a href="/library/9789198166033.html">Om falsk och äkta liberalism</a></td>
-    <td class="text-nowrap">Andersson 2019</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Halldorf, Joel">Halldorf, Joel</a></td>
-    <td><a href="/library/9789173877732.html">Gud : Återkomsten - Hur religionen kom tillbaka och vad den betyder.</a></td>
-    <td class="text-nowrap">Halldorf 2018</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Pettit, Philip">Pettit, Philip</a>; <a href="/library/authors/Hoekstra, Kinch">Hoekstra, Kinch</a>; <a href="/library/authors/Tomasello, Michael">Tomasello, Michael</a></td>
-    <td><a href="/library/9780190904913.html">The Birth of Ethics: Reconstructing the Role and Nature of Morality</a></td>
-    <td class="text-nowrap">Pettit 2018</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/McGrath, Alister E">McGrath, Alister E</a></td>
-    <td><a href="/library/9781250077929.html">The Big Question: Why We Can’t Stop Talking About Science, Faith and God</a></td>
-    <td class="text-nowrap">McGrath 2015</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Heberlein, Ann">Heberlein, Ann</a></td>
-    <td><a href="/library/9789100135713.html">Etik: människa, moral, mening - En introduktion</a></td>
-    <td class="text-nowrap">Heberlein 2014</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Dugin, Alexander">Dugin, Alexander</a></td>
-    <td><a href="/library/9781907166655.html">The Fourth Political Theory</a></td>
-    <td class="text-nowrap">Dugin 2009</td>
-  </tr>
-  
-  <tr>
-    <td><a href="/library/authors/Rousseau, Jean-Jacques">Rousseau, Jean-Jacques</a></td>
-    <td><a href="/library/9780226921860.html">The Major Political Writings of Jean-Jacques Rousseau: The Two "Discourses" and the "Social Contract"</a></td>
-    <td class="text-nowrap">Rousseau 1762</td>
-  </tr>
-  
+<table id="books" class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th title="Authors" width="25%">Författare</th>
+      <th title="Title">Titel</th>
+      <th title="Published">Publicerad</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td><a href="/library/authors/Andersson, Lena">Andersson, Lena</a></td>
+      <td><a href="/library/9789198166033.html">Om falsk och äkta liberalism</a></td>
+      <td><a href="/library/published/2019" class="text-nowrap">2019</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/Halldorf, Joel">Halldorf, Joel</a></td>
+      <td><a href="/library/9789173877732.html">Gud : Återkomsten - Hur religionen kom tillbaka och vad den betyder.</a></td>
+      <td><a href="/library/published/2018" class="text-nowrap">2018</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/Pettit, Philip">Pettit, Philip</a>; <a href="/library/authors/Hoekstra, Kinch">Hoekstra, Kinch</a>; <a href="/library/authors/Tomasello, Michael">Tomasello, Michael</a></td>
+      <td><a href="/library/9780190904913.html">The Birth of Ethics: Reconstructing the Role and Nature of Morality</a></td>
+      <td><a href="/library/published/2018" class="text-nowrap">2018</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/McGrath, Alister E">McGrath, Alister E</a></td>
+      <td><a href="/library/9781250077929.html">The Big Question: Why We Can’t Stop Talking About Science, Faith and God</a></td>
+      <td><a href="/library/published/2015" class="text-nowrap">2015</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/Heberlein, Ann">Heberlein, Ann</a></td>
+      <td><a href="/library/9789100135713.html">Etik: människa, moral, mening - En introduktion</a></td>
+      <td><a href="/library/published/2014" class="text-nowrap">2014</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/Dugin, Alexander">Dugin, Alexander</a></td>
+      <td><a href="/library/9781907166655.html">The Fourth Political Theory</a></td>
+      <td><a href="/library/published/2009" class="text-nowrap">2009</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href="/library/authors/Rousseau, Jean-Jacques">Rousseau, Jean-Jacques</a></td>
+      <td><a href="/library/9780226921860.html">The Major Political Writings of Jean-Jacques Rousseau: The Two "Discourses" and the "Social Contract"</a></td>
+      <td><a href="/library/published/1762" class="text-nowrap">1762</a></td>
+    </tr>
+    
+  </tbody>
 </table>
 </section>
 
@@ -275,5 +284,18 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
+    
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script>
+$(function() {
+  $("#books").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25
+  });
+});
+</script>
+
   </body>
 </html>

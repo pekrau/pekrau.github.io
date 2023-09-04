@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 27 Jul 2023 19:32:26 +0200</pubDate>
+    <pubDate>Mon, 04 Sep 2023 12:37:14 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Schmidtz, David: Living Together: Inventing Moral Science</title>
+      <link>https://pekrau.github.io/library/9780197658529.html</link>
+      <category>review</category>
+      <description>enlightenment, liberalism, morality, philosophy, political-philosophy</description>
+      <pubDate>Mon, 28 Aug 2023 12:00:00 +0200</pubDate>
+      <guid>243a0d1121ed3efed5b69d2b0f594824992d29c5</guid>
+    </item>
     
     <item>
       <title>Rhodes, Richard: The Making of the Atomic Bomb</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, philosophy</description>
       <pubDate>Sat, 18 Mar 2023 12:00:00 +0100</pubDate>
       <guid>e530d5374beca8fd0072cc46228e18f0e85bffc7</guid>
-    </item>
-    
-    <item>
-      <title>Hippel, William von: The Social Leap: how and why humans connect</title>
-      <link>https://pekrau.github.io/library/9781925713022.html</link>
-      <category>review</category>
-      <description>human-evolution, science</description>
-      <pubDate>Tue, 21 Feb 2023 12:00:00 +0100</pubDate>
-      <guid>d4fa3246a20d0a652b0a6139c3fe13c7ef64f2ec</guid>
     </item>
     
   </channel>
