@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+{% extends 'datatables_base.html' %}
 
 {% block head_title %}Alla författare{% endblock %}
 
@@ -8,7 +8,7 @@
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  <table class="table table-sm">
+  <table id="authors" class="table table-sm">
     <thead>
       <tr>
         <th title="Author">Författare</th>
@@ -25,4 +25,16 @@
     </tbody>
   </table>
 </section>
+{% endblock %}
+
+{% block javascript %}
+{{ super() }}
+<script>
+$(function() {
+  $("#authors").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25
+  });
+});
+</script>
 {% endblock %}
