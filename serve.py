@@ -4,7 +4,7 @@ import http.server
 import socketserver
 import functools
 
-PORT = 8000
+PORT = 8080
 
 handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory="docs")
 
