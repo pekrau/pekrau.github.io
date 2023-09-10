@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 07 Sep 2023 20:30:12 +0200</pubDate>
+    <pubDate>Sun, 10 Sep 2023 20:46:37 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Johansson, Sverker: På vandring i Språkens fotspår</title>
+      <link>https://pekrau.github.io/library/9789127182431.html</link>
+      <category>review</category>
+      <description>history, science</description>
+      <pubDate>Sun, 10 Sep 2023 12:00:00 +0200</pubDate>
+      <guid>e15a55c56f2e11e3dd19a2746b3b9393a307535a</guid>
+    </item>
     
     <item>
       <title>Schmidtz, David: Living Together: Inventing Moral Science</title>
@@ -87,15 +96,6 @@
       <description>biomedicine, dna-of-the-future, human-evolution, morality, science</description>
       <pubDate>Sun, 02 Apr 2023 12:00:00 +0200</pubDate>
       <guid>448de24756acbb627d87ef76d7a460507745d788</guid>
-    </item>
-    
-    <item>
-      <title>Kropotkin, Pyotr: Ömsesidig hjälp</title>
-      <link>https://pekrau.github.io/library/9789198170801.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, philosophy</description>
-      <pubDate>Sat, 18 Mar 2023 12:00:00 +0100</pubDate>
-      <guid>e530d5374beca8fd0072cc46228e18f0e85bffc7</guid>
     </item>
     
   </channel>
