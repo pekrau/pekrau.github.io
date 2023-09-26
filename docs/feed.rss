@@ -5,16 +5,25 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 10 Sep 2023 20:46:37 +0200</pubDate>
+    <pubDate>Tue, 26 Sep 2023 21:42:41 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
     
     <item>
-      <title>Johansson, Sverker: På vandring i Språkens fotspår</title>
+      <title>Hannon, Elizabeth: Why We Disagree about Human Nature</title>
+      <link>https://pekrau.github.io/library/9780198823650.html</link>
+      <category>review</category>
+      <description>human-evolution, philosophy, science</description>
+      <pubDate>Tue, 26 Sep 2023 12:00:00 +0200</pubDate>
+      <guid>3ab870a46f2af3f6e4db56141de23799684d2269</guid>
+    </item>
+    
+    <item>
+      <title>Johansson, Sverker: På vandring i språkens fotspår</title>
       <link>https://pekrau.github.io/library/9789127182431.html</link>
       <category>review</category>
       <description>history, science</description>
       <pubDate>Sun, 10 Sep 2023 12:00:00 +0200</pubDate>
-      <guid>e15a55c56f2e11e3dd19a2746b3b9393a307535a</guid>
+      <guid>99421deb039d0b42e0ec22177d34f084c3648998</guid>
     </item>
     
     <item>
@@ -45,21 +54,21 @@
     </item>
     
     <item>
-      <title>Hrdy, Sarah Blaffer: Mothers and Others: The Evolutionary Origins of Mutual Understanding</title>
-      <link>https://pekrau.github.io/library/9780674032996.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, science</description>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
-      <guid>282af2aba45aa0ef997d1c3fc1bee4dae3c13f76</guid>
-    </item>
-    
-    <item>
       <title>Lindenfors, Patrik: Äckel. Smitta, synd, samhälle</title>
       <link>https://pekrau.github.io/library/9789177753117.html</link>
       <category>review</category>
       <description>human-evolution, morality, religion, science</description>
       <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
       <guid>83e4d53ed27ec4e359688f6ede33cf07ff52b697</guid>
+    </item>
+    
+    <item>
+      <title>Hrdy, Sarah Blaffer: Mothers and Others: The Evolutionary Origins of Mutual Understanding</title>
+      <link>https://pekrau.github.io/library/9780674032996.html</link>
+      <category>review</category>
+      <description>human-evolution, morality, science</description>
+      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
+      <guid>282af2aba45aa0ef997d1c3fc1bee4dae3c13f76</guid>
     </item>
     
     <item>
@@ -87,15 +96,6 @@
       <description>philosophy, political-philosophy</description>
       <pubDate>Sat, 15 Apr 2023 12:00:00 +0200</pubDate>
       <guid>af9e23ce7c35f5dc5fb2afdd3388ada683d05799</guid>
-    </item>
-    
-    <item>
-      <title>Cobb, Matthew: As Gods: A Moral History of the Genetic Age</title>
-      <link>https://pekrau.github.io/library/9781541602854.html</link>
-      <category>review</category>
-      <description>biomedicine, dna-of-the-future, human-evolution, morality, science</description>
-      <pubDate>Sun, 02 Apr 2023 12:00:00 +0200</pubDate>
-      <guid>448de24756acbb627d87ef76d7a460507745d788</guid>
     </item>
     
   </channel>
