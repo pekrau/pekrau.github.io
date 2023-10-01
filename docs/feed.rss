@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Tue, 26 Sep 2023 21:42:41 +0200</pubDate>
+    <pubDate>Sun, 01 Oct 2023 17:46:11 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Tomasello, Michael: Origins of Human Communication</title>
+      <link>https://pekrau.github.io/library/9780262201773.html</link>
+      <category>review</category>
+      <description>human-evolution, philosophy, science</description>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0200</pubDate>
+      <guid>bfdeb4982196e42f2ecfc538fe154cd1bd494fc1</guid>
+    </item>
     
     <item>
       <title>Hannon, Elizabeth: Why We Disagree about Human Nature</title>
@@ -87,15 +96,6 @@
       <description>Homo sapiens, moral, samarbete</description>
       <pubDate>Sun, 23 Apr 2023 12:00:00 +0200</pubDate>
       <guid>b763bdca8da5d8273ee4c60bf12f3e7a12cc84d8</guid>
-    </item>
-    
-    <item>
-      <title>Wolin, Richard: Heidegger in Ruins: Between Philosophy and Ideology</title>
-      <link>https://pekrau.github.io/library/9780300233186.html</link>
-      <category>review</category>
-      <description>philosophy, political-philosophy</description>
-      <pubDate>Sat, 15 Apr 2023 12:00:00 +0200</pubDate>
-      <guid>af9e23ce7c35f5dc5fb2afdd3388ada683d05799</guid>
     </item>
     
   </channel>
