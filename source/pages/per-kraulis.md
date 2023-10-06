@@ -11,15 +11,17 @@ ordinal: 99
 
 Jag är liberal, inspirerad av Karl Popper: Framsteg är möjliga, och har skett. Jag är intresserad av vad de nya kunskaperna om människans evolution innebär för resonemangen inom politisk filosofi.
 
-Jag studerar praktisk filosofi på Stockholms universitet.
+Jag studerar praktisk filosofi på Stockholms universitet sedan början av september 2023.
 
-Jag pensionerade mig 1 september 2023 från mitt jobb som  Data Engineer för [Data Centre](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/), med en forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/) [Stockholms universitet](http://www.su.se/), och arbetar med Python, databaser och webben. Jag har en bakgrund som biomedicinsk forskare inom proteinstruktur, NMR, och bioinformatik.
+Jag pensionerade mig 1 september 2023 från mitt jobb som  Data Engineer för [Data Centre](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/) (forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/) [Stockholms universitet](http://www.su.se/))- Jag arbetadae med Python, databaser och webben. Jag har en bakgrund som biomedicinsk forskare inom proteinstruktur, NMR, preklinisk läkemedelsforskning och bioinformatik.
 
-**email**: per.kraulis@gmail.com, per.kraulis@scilifelab.se
+**email** per.kraulis@gmail.com
 
-**Mastodon** [@PerKraulis@mastodon.nu](https://mastodon.nu/@PerKraulis)
+**Bluesky** [@perkraulis.bsky.social](https://bsky.app/profile/perkraulis.bsky.social)
 
 **Twitter** [@PerKraulis](https://twitter.com/PerKraulis)
+
+**Mastodon** [@PerKraulis@mastodon.nu](https://mastodon.nu/@PerKraulis)
 
 **GitHub** [pekrau](https://github.com/pekrau)
 
