@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Sun, 01 Oct 2023 17:46:11 +0200</pubDate>
+    <pubDate>Fri, 06 Oct 2023 18:08:31 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Johansson Heinö, Andreas: Anteckningar från kulturkriget</title>
+      <link>https://pekrau.github.io/library/9789177032281.html</link>
+      <category>review</category>
+      <description>liberalism, political-philosophy, politics</description>
+      <pubDate>Fri, 06 Oct 2023 12:00:00 +0200</pubDate>
+      <guid>0f01f28cfe0f49404189f822ae60eca3db982c79</guid>
+    </item>
     
     <item>
       <title>Tomasello, Michael: Origins of Human Communication</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, political-philosophy</description>
       <pubDate>Fri, 05 May 2023 12:00:00 +0200</pubDate>
       <guid>64238b62612a380e14591d094c83de5fd3f812c3</guid>
-    </item>
-    
-    <item>
-      <title>Är moral biologiskt programmerad?</title>
-      <link>https://pekrau.github.io/2023/04/23/ar-moral-biologiskt-programmerad/</link>
-      <category>Evolution, Filosofi (philosophy)</category>
-      <description>Homo sapiens, moral, samarbete</description>
-      <pubDate>Sun, 23 Apr 2023 12:00:00 +0200</pubDate>
-      <guid>b763bdca8da5d8273ee4c60bf12f3e7a12cc84d8</guid>
     </item>
     
   </channel>
