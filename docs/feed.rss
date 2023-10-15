@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Fri, 06 Oct 2023 18:08:31 +0200</pubDate>
+    <pubDate>Sun, 15 Oct 2023 20:40:19 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Mounk, Yascha: The Identity Trap: A Story of Ideas and Power in Our Time</title>
+      <link>https://pekrau.github.io/library/9780593493199.html</link>
+      <category>review</category>
+      <description>enlightenment, morality, political-philosophy, politics</description>
+      <pubDate>Sun, 15 Oct 2023 12:00:00 +0200</pubDate>
+      <guid>0d20db0280018ef1558e6d3a29e08c34447d84b6</guid>
+    </item>
     
     <item>
       <title>Johansson Heinö, Andreas: Anteckningar från kulturkriget</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, science</description>
       <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
       <guid>282af2aba45aa0ef997d1c3fc1bee4dae3c13f76</guid>
-    </item>
-    
-    <item>
-      <title>Pagel, Mark: Wired for Culture: Origins of the Human Social Mind</title>
-      <link>https://pekrau.github.io/library/9780393344202.html</link>
-      <category>review</category>
-      <description>human-evolution, political-philosophy</description>
-      <pubDate>Fri, 05 May 2023 12:00:00 +0200</pubDate>
-      <guid>64238b62612a380e14591d094c83de5fd3f812c3</guid>
     </item>
     
   </channel>
