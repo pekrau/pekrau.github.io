@@ -7,6 +7,7 @@
       <th title="Title">Titel</th>
       <th title="Published">Publicerad</th>
       <th title="Rating">Betyg</th>
+      <th title="Rated">Betygsatt</th>
     </tr>
   </thead>
   <tbody>
@@ -15,7 +16,13 @@
       <td>{{ authors_links(book) }}</td>
       <td>{{ book_link(book) }}</td>
       <td>{{ published_link(book['published']) }}</td>
-      <td>{{ book.get('rating') or '-' }}</td>
+      {% if book.get('rating') %}
+      <td>{{ book['rating'] }}</td>
+      <td>{{ book.get('date') or '' }}</td>
+      {% else %}
+      <td></td>
+      <td></td>
+      {% endif %}
     </tr>
     {% endfor %}
   </tbody>
