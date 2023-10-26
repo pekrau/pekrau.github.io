@@ -7,7 +7,7 @@ type: page
 menu: true
 ordinal: 99
 ---
-![Per Kraulis](/files/Per_Kraulis_2019-06-25.jpg "Per Kraulis")
+![Per Kraulis](/files/Per_Kraulis_2023-10-09_small.png "Per Kraulis")
 
 Jag är liberal, inspirerad av Karl Popper: Framsteg är möjliga, och har skett. Jag är intresserad av vad de nya kunskaperna om människans evolution innebär för resonemangen inom politisk filosofi.
 
