@@ -1,5 +1,5 @@
 ---
-date: '2022-06-28'
+date: '2023-10-27'
 name: per-kraulis
 path: /per-kraulis/
 title: Per Kraulis
@@ -7,13 +7,13 @@ type: page
 menu: true
 ordinal: 99
 ---
-![Per Kraulis](/files/Per_Kraulis_2023-10-09_small.png "Per Kraulis")
+![Per Kraulis](/files/Per_Kraulis_2023-10-27.jpg "Per Kraulis")
 
 Jag är liberal, inspirerad av Karl Popper: Framsteg är möjliga, och har skett. Jag är intresserad av vad de nya kunskaperna om människans evolution innebär för resonemangen inom politisk filosofi.
 
 Jag studerar praktisk filosofi på Stockholms universitet sedan början av september 2023.
 
-Jag pensionerade mig 1 september 2023 från mitt jobb som  Data Engineer för [Data Centre](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/) (forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/) [Stockholms universitet](http://www.su.se/))- Jag arbetadae med Python, databaser och webben. Jag har en bakgrund som biomedicinsk forskare inom proteinstruktur, NMR, preklinisk läkemedelsforskning och bioinformatik.
+Jag pensionerade mig 1 september 2023 från mitt jobb som  Data Engineer för [Data Centre](https://www.scilifelab.se/data/) vid [SciLifeLab](https://www.scilifelab.se/) (forskartjänst vid [institutionen for biokemi och biofysik](http://www.dbb.su.se/) [Stockholms universitet](http://www.su.se/)). Jag arbetade med Python, databaser och webben. Jag har en bakgrund som biomedicinsk forskare inom proteinstruktur, NMR, preklinisk läkemedelsforskning och bioinformatik.
 
 **email** per.kraulis@gmail.com
 
