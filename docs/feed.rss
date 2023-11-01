@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Fri, 27 Oct 2023 14:30:05 +0200</pubDate>
+    <pubDate>Wed, 01 Nov 2023 21:33:11 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Neiman, Susan: Left Is Not Woke</title>
+      <link>https://pekrau.github.io/library/9781509558315.html</link>
+      <category>review</category>
+      <description>human-evolution, liberalism, morality, philosophy, political-philosophy, politics</description>
+      <pubDate>Wed, 01 Nov 2023 12:00:00 +0100</pubDate>
+      <guid>1e8b40d84255f64c4c77fae04c65aaeda116baac</guid>
+    </item>
     
     <item>
       <title>Mounk, Yascha: The Identity Trap: A Story of Ideas and Power in Our Time</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, religion, science</description>
       <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
       <guid>83e4d53ed27ec4e359688f6ede33cf07ff52b697</guid>
-    </item>
-    
-    <item>
-      <title>Hrdy, Sarah Blaffer: Mothers and Others: The Evolutionary Origins of Mutual Understanding</title>
-      <link>https://pekrau.github.io/library/9780674032996.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, science</description>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
-      <guid>282af2aba45aa0ef997d1c3fc1bee4dae3c13f76</guid>
     </item>
     
   </channel>
