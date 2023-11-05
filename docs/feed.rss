@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Wed, 01 Nov 2023 21:33:11 +0100</pubDate>
+    <pubDate>Sun, 05 Nov 2023 13:31:09 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Flannery, Kent V: The Creation of Inequality: How Our Prehistoric Ancestors Set the Stage for Monarchy, Slavery, and Empire</title>
+      <link>https://pekrau.github.io/library/9780674416772.html</link>
+      <category>review</category>
+      <description>history, human-evolution, political-philosophy</description>
+      <pubDate>Sat, 04 Nov 2023 12:00:00 +0100</pubDate>
+      <guid>d59d53b64851e430df504296ff825e16ed2d2afb</guid>
+    </item>
     
     <item>
       <title>Neiman, Susan: Left Is Not Woke</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, morality, philosophy</description>
       <pubDate>Thu, 13 Jul 2023 12:00:00 +0200</pubDate>
       <guid>d497efc513592d92f4a8f8490611a7937c6548fc</guid>
-    </item>
-    
-    <item>
-      <title>Lindenfors, Patrik: Äckel. Smitta, synd, samhälle</title>
-      <link>https://pekrau.github.io/library/9789177753117.html</link>
-      <category>review</category>
-      <description>human-evolution, morality, religion, science</description>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 +0200</pubDate>
-      <guid>83e4d53ed27ec4e359688f6ede33cf07ff52b697</guid>
     </item>
     
   </channel>
