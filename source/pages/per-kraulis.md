@@ -11,9 +11,9 @@ ordinal: 99
 
 Jag är liberal, inspirerad av Karl Popper: Framsteg är möjliga, och har skett. Jag är intresserad av hur de nya kunskaperna om människans evolution kan integreras i liberala teorier inom politisk filosofi.
 
-Jag studerar praktisk filosofi på Stockholms universitet sedan 1:a september 2023.
+Jag studerar praktisk filosofi vid Stockholms universitet sedan 1:a september 2023.
 
-Jag var aktiv i Folkpartiets Ungdomsförbund från 1976 till ca 1988, och har varit medlem av redaktionsrådet för tidskriften Liberal Debatt. Jag har publicerat texter i bland annat Dagens Nyheter, Liberal Debatt, Filosofisk tidskrift och tidskriften Sans.
+Jag var aktiv i Folkpartiets Ungdomsförbund från 1976 till ca 1988, och har varit medlem av redaktionsrådet för tidskriften Liberal Debatt. Jag har publicerat texter i bland annat Dagens Nyheter, Liberal Debatt, Upsala Nya Tidning, Filosofisk tidskrift och tidskriften Sans.
 
 ### Kontakt
 
@@ -32,14 +32,14 @@ Jag pensionerade mig 1 september 2023 från mitt arbete som Data Engineer för [
 - Civilingenjör i kemiteknik, KTH, 1985
 - Fil. dr. i molekylärbiologi, Uppsala universitet, 1990
 - Postdoc, strukturbiologi, Cambridge University, UK, 1991-1993
-- Foass, protein-NMR, Karolinska Institutet, Södertörn, 1993-1994
+- Foass, protein-NMR, Karolinska Institutet, 1993-1994
 - Forskare, protein-NMR, Pharmacia & Upjohn, Stockholm, 1994-1997
 - Forskare, bioinformatik, Pharmacia & Upjohn, Stockholm, 1997-2000
 - Forskare, Stockholm Bioinformatics Center, Stockholms universitet, 2000-2003
 - Chef bioinformatik, Biovitrum, Stockholm, 2003-2005
 - Gästprofessor bioinformatik, Tartu universitet, Estland, 2006
 - Konsult, web-baserad analys, Stockholm, 2007-2008
-- Forskare, Konsortiet för strukturgenomik, Karolinska Institutet, Stockholm, 2009-2010
+- Forskare, Konsortiet för strukturgenomik, Karolinska Institutet, 2009-2010
 - Forskare, Nationella Genomikinfrastrukturen, SciLifeLab, Stockholms universitet, 2010-1016
 - Forskare, Data Centre, SciLifeLab, Stockholms universitet, 2016-2023
 
