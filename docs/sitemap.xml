@@ -1224,7 +1224,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/per-kraulis/</loc>
-  <lastmod>2023-11-10</lastmod>
+  <lastmod>2023-11-11</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/</loc>
@@ -1300,6 +1300,10 @@
 <url>
   <loc>https://pekrau.github.io/library/9780415397155.html</loc>
   <lastmod>2022-09-20</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/9780241502693.html</loc>
+  <lastmod>2023-12-02</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780062228253.html</loc>
@@ -1647,7 +1651,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780198724049.html</loc>
-  <lastmod>2023-09-01</lastmod>
+  <lastmod>2023-11-19</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9789171732965.html</loc>
@@ -1895,7 +1899,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9789144140131.html</loc>
-  <lastmod>2023-08-31</lastmod>
+  <lastmod>2023-12-07</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9789173432504.html</loc>
@@ -2090,7 +2094,7 @@
   <lastmod>2019-03-05</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/9780241304532.html</loc>
+  <loc>https://pekrau.github.io/library/9789188589620.html</loc>
   <lastmod>2021-12-06</lastmod>
 </url>
 <url>
@@ -2415,7 +2419,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780813349343.html</loc>
-  <lastmod>2023-09-01</lastmod>
+  <lastmod>2023-11-19</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9789113021348.html</loc>
@@ -3115,7 +3119,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9781009209205.html</loc>
-  <lastmod>2023-10-12</lastmod>
+  <lastmod>2023-12-18</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780393344202.html</loc>
@@ -3428,6 +3432,14 @@
 <url>
   <loc>https://pekrau.github.io/library/9789187219405.html</loc>
   <lastmod>2021-12-07</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/9781108519748.html</loc>
+  <lastmod>2023-12-02</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/9781009088329.html</loc>
+  <lastmod>2023-12-02</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780415109246.html</loc>
@@ -4036,6 +4048,10 @@
 <url>
   <loc>https://pekrau.github.io/library/9780300233186.html</loc>
   <lastmod>2023-04-15</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/9780141018911.html</loc>
+  <lastmod>2023-11-13</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9781781255834.html</loc>
@@ -4836,6 +4852,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Grayling, A C/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Grayling, AC/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Greene, Joshua D/</loc>
@@ -6164,6 +6183,12 @@
   <loc>https://pekrau.github.io/library/authors/Ruin, Hans/</loc>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/authors/Ruse, Michael/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Richards, Robert J/</loc>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/authors/Russell, Stuart/</loc>
 </url>
 <url>
@@ -6630,6 +6655,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Wolin, Richard/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Wollstonecraft, Mary/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Wrangham, Richard W/</loc>
