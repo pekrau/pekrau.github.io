@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.12.1"
+__version__ = "0.13.0"
 
 import csv
 import datetime
@@ -44,14 +44,29 @@ YEAR_PUBLISHED = {}       # key: year; value: list of books
 def post_link(post):
     return markupsafe.Markup(f"""<a href="{post['path']}">{post['title']}</a>""")
 
-def author_link(author):
-    return markupsafe.Markup(f"""<a href="/library/authors/{author}">{author}</a>""")
-
-def authors_links(book, max=3):
-    if max and len(book["authors"]) > max:
-        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"][:max]] + ["..."]))
+def author_link(author, display=False):
+    if display:
+        name = author_display(author)
     else:
-        return markupsafe.Markup("; ".join([author_link(a) for a in book["authors"]]))
+        name = author
+    return markupsafe.Markup(f"""<a href="/library/authors/{author}">{name}</a>""")
+
+def authors_links(book, max=3, display=False):
+    if max and len(book["authors"]) > max:
+        return markupsafe.Markup("; ".join([author_link(a, display=display)
+                                            for a in book["authors"][:max]] + ["..."]))
+    else:
+        return markupsafe.Markup("; ".join([author_link(a, display=display)
+                                            for a in book["authors"]]))
+
+def author_display(author):
+    "Display version of the author name: firstname lastname."
+    try:
+        lastname, firstname = author.split(",", 1)
+    except ValueError:
+        return author
+    else:
+        return f"{firstname.strip()} {lastname.strip()}"
 
 def book_link(book, full=False):
     if full:
@@ -93,6 +108,7 @@ env = jinja2.Environment(
 env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
+env.globals["author_display"] = author_display
 env.globals["book_link"] = book_link
 env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
