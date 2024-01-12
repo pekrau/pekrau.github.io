@@ -64,6 +64,9 @@
               <a class="nav-link dropdown-toggle" href="#" id="library" role="button" data-bs-toggle="dropdown" aria-expanded="false">Bibliotek</a>
               <ul class="dropdown-menu" aria-labelledby="library">
                 <li>
+                  <a class="dropdown-item" href="/library/reviewed/">Recenserade böcker</a>
+                </li>
+                <li>
                   <a class="dropdown-item" href="/library/">Alla böcker</a>
                 </li>
                 <li>
@@ -72,17 +75,14 @@
                 <li>
                   <a class="dropdown-item" href="/library/subjects/">Alla ämnen</a>
                 </li>
-                <li>
-                  <a class="dropdown-item" href="/library/referred/">Bloggade böcker</a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/library/reviewed/">Recenserade böcker</a>
-                </li>
                 {% for rating in range(5, 0, -1) %}
                 <li>
                   <a class="dropdown-item" href="/library/rating/{{ rating }}/">Böcker med betyg {{ rating }}</a>
                 </li>
                 {% endfor %}
+                <li>
+                  <a class="dropdown-item" href="/library/referred/">Bloggade böcker</a>
+                </li>
               </ul>
             </li>
             {% for page in pages %}

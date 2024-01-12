@@ -1,4 +1,4 @@
-{% extends 'library/books_base.html' %}
+{% extends 'datatables_base.html' %}
 
 {% block head_title %}Recenserade böcker{% endblock %}
 
@@ -10,4 +10,17 @@
 <section class="col-lg-10 offset-lg-1">
   {% include 'library/books_table.html' %}
 </section>
+{% endblock %}
+
+{% block javascript %}
+{{ super() }}
+<script>
+$(function() {
+  $("#books").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25,
+    "order": [4, "desc"]
+  });
+});
+</script>
 {% endblock %}
