@@ -1,3 +1,7 @@
+
+
+
+
 <!doctype html>
 <html lang="sv">
   <head>
@@ -8,9 +12,9 @@
     <meta description="Samhälle, evolution, kultur, politik">
     <meta keywords="society, evolution, culture, politics">
     <meta author="Per Kraulis">
-    <title>Historia och vetenskap: en essä om marxismen, historicismen och humaniora</title>
+    <title>Böcker publicerade 1785</title>
     
-    <link rel="canonical" href="https://pekrau.github.io/library/918587616X.html">
+    <link rel="canonical" href="https://pekrau.github.io/library/published/1785/">
     
     
     
@@ -18,7 +22,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/litera/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css" rel="stylesheet">
     
-    
+<link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -187,8 +192,10 @@
       <header class="row my-3">
         <div class="col offset-lg-1">
           
-<h1>Historia och vetenskap: en essä om marxismen, historicismen och humaniora</h1>
-<h3><a href="/library/authors/Nordin, Svante">Svante Nordin</a></h3>
+<h1>
+  Böcker publicerade 1785
+  <small class="text-muted">(1)
+</h1>
 
         </div>
       </header>
@@ -198,102 +205,38 @@
       <div class="row">
 
         
-<section class="col-lg-6 offset-lg-1">
+<section class="col-lg-10 offset-lg-1">
   
 
-  
+<table id="books" class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th title="Authors" width="25%">Författare</th>
+      <th title="Title">Titel</th>
+      <th title="Published">Publicerad</th>
+      <th title="Rating">Betyg</th>
+      <th title="Review">Recension</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td><a href="/library/authors/Kant, Immanuel">Kant, Immanuel</a>; <a href="/library/authors/Korsgaard, Christine M">Korsgaard, Christine M</a>; <a href="/library/authors/Gregor, Mary">Gregor, Mary</a></td>
+      <td><a href="/library/9780521626958.html">Groundwork of the Metaphysics of Morals</a></td>
+      <td><a href="/library/published/1785" class="text-nowrap">1785</a></td>
+      
+      <td></td>
+      <td></td>
+      
+    </tr>
+    
+  </tbody>
+</table>
 </section>
 
 
         
-<aside class="col-lg-3 offset-lg-2">
-
-  <div class="card">
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">
-        <a href="/library/published/1981" class="text-nowrap">1981</a>
-      </li>
-      
-      <li class="list-group-item">
-        Zenit
-      </li>
-      
-      
-      <li class="list-group-item">
-        ISBN 918587616X
-      </li>
-      
-      <li class="list-group-item">
-        Goodreads 43389585
-      </li>
-      <li class="list-group-item">
         
-        Referens
-        
-        <strong>Nordin 1981</strong>
-      </li>
-    </ul>
-  </div>
-  
-  <div class="card mt-3">
-    <div class="card-header bg-light" title="Subjects">
-      
-      Ämnen
-      
-    </div>
-    <div class="card-body">
-      
-      <a href="/library/subjects/history" class="text-nowrap">History</a>
-      <br>
-      
-      <a href="/library/subjects/political-philosophy" class="text-nowrap">Political Philosophy</a>
-      <br>
-      
-    </div>
-  </div>
-
-  <div class="card mt-3">
-    <div class="card-header" title="External links">
-      
-      Externa länkar
-      
-      <i class="bi bi-box-arrow-up-right"></i>
-    </div>
-    <ul class="list-group list-group-flush">
-      
-      <li class="list-group-item">
-        <a target="_blank" href="https://www.goodreads.com/book/show/43389585">
-          Goodreads
-        </a>
-      </li>
-      
-      
-      <li class="list-group-item">
-        <a target="_blank" href="https://isbnsearch.org/isbn/918587616X">
-          ISBN Search
-        </a>
-      </li>
-      <li class="list-group-item">
-        <a target="_blank" href="https://www.bookfinder.com/search/?author=&title=&lang=en&isbn=918587616X&new_used=*&destination=se&currency=SEK&mode=basic&st=sr&ac=qr">
-          Bookfinder
-        </a>
-      </li>
-      <li class="list-group-item">
-        <a target="_blank" href="https://www.bokus.com/bok/918587616X">
-          Bokus
-        </a>
-      </li>
-      <li class="list-group-item">
-        <a target="_blank" href="https://www.adlibris.com/se/sok?q=918587616X">
-          Adlibris
-        </a>
-      </li>
-      
-    </ul>
-  </div>
-
-</aside>
-
 
       </div>
       
@@ -311,6 +254,19 @@
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
     
-    
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+<script>
+$(function() {
+  $("#books").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25
+  });
+});
+</script>
+
   </body>
 </html>

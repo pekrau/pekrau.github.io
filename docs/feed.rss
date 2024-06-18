@@ -5,16 +5,43 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 21 Dec 2023 14:50:48 +0100</pubDate>
+    <pubDate>Tue, 18 Jun 2024 11:40:51 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Ruse, Michael: Understanding Natural Selection (Understanding Life)</title>
+      <link>https://pekrau.github.io/library/9781009088329.html</link>
+      <category>review</category>
+      <description>evolution, philosophy, science</description>
+      <pubDate>Tue, 18 Jun 2024 12:00:00 +0200</pubDate>
+      <guid>260fe5f0c8b3921a68c4172f9b17a09060891149</guid>
+    </item>
+    
+    <item>
+      <title>Waal, Frans de: Different: Gender Through the Eyes of a Primatologist</title>
+      <link>https://pekrau.github.io/library/9781324007104.html</link>
+      <category>review</category>
+      <description>human-evolution, science</description>
+      <pubDate>Wed, 12 Jun 2024 12:00:00 +0200</pubDate>
+      <guid>1ec954f7a257fdc2768cfa6dffb036568649192a</guid>
+    </item>
+    
+    <item>
+      <title>Muthukrishna, Michael: A Theory of Everyone: The New Science of Who We Are, How We Got Here, and Where We’re Going</title>
+      <link>https://pekrau.github.io/library/9780262048378.html</link>
+      <category>review</category>
+      <description>human-evolution, philosophy, science</description>
+      <pubDate>Sat, 30 Mar 2024 12:00:00 +0100</pubDate>
+      <guid>8aa948870a081fed8815d875e2458d3e4e90aac1</guid>
+    </item>
     
     <item>
       <title>Page, Lionel: Optimally Irrational</title>
       <link>https://pekrau.github.io/library/9781009209205.html</link>
       <category>review</category>
       <description>human-evolution, political-philosophy, science</description>
-      <pubDate>Mon, 18 Dec 2023 12:00:00 +0100</pubDate>
-      <guid>f0832ff7ff3fbc62f4298f62bccbc722e627befe</guid>
+      <pubDate>Sun, 17 Dec 2023 12:00:00 +0100</pubDate>
+      <guid>4814b096c00a9993c244e262e99eded2f1d70e2c</guid>
     </item>
     
     <item>
@@ -40,8 +67,8 @@
       <link>https://pekrau.github.io/library/9780593493199.html</link>
       <category>review</category>
       <description>enlightenment, morality, political-philosophy, politics</description>
-      <pubDate>Sun, 15 Oct 2023 12:00:00 +0200</pubDate>
-      <guid>0d20db0280018ef1558e6d3a29e08c34447d84b6</guid>
+      <pubDate>Fri, 13 Oct 2023 12:00:00 +0200</pubDate>
+      <guid>00977e60b2fb66141be2f4c1f13e9c29a9140674</guid>
     </item>
     
     <item>
@@ -67,35 +94,8 @@
       <link>https://pekrau.github.io/library/9780198823650.html</link>
       <category>review</category>
       <description>human-evolution, philosophy, science</description>
-      <pubDate>Tue, 26 Sep 2023 12:00:00 +0200</pubDate>
-      <guid>3ab870a46f2af3f6e4db56141de23799684d2269</guid>
-    </item>
-    
-    <item>
-      <title>Johansson, Sverker: På vandring i språkens fotspår</title>
-      <link>https://pekrau.github.io/library/9789127182431.html</link>
-      <category>review</category>
-      <description>history, science</description>
-      <pubDate>Sun, 10 Sep 2023 12:00:00 +0200</pubDate>
-      <guid>99421deb039d0b42e0ec22177d34f084c3648998</guid>
-    </item>
-    
-    <item>
-      <title>Schmidtz, David: Living Together: Inventing Moral Science</title>
-      <link>https://pekrau.github.io/library/9780197658529.html</link>
-      <category>review</category>
-      <description>enlightenment, human-evolution, liberalism, morality, political-philosophy</description>
-      <pubDate>Mon, 28 Aug 2023 12:00:00 +0200</pubDate>
-      <guid>243a0d1121ed3efed5b69d2b0f594824992d29c5</guid>
-    </item>
-    
-    <item>
-      <title>Rhodes, Richard: The Making of the Atomic Bomb</title>
-      <link>https://pekrau.github.io/library/9781451677614.html</link>
-      <category>review</category>
-      <description>history, politics</description>
-      <pubDate>Mon, 17 Jul 2023 12:00:00 +0200</pubDate>
-      <guid>cdb2ea3bddf8692c899f1b950333b351ed9d871d</guid>
+      <pubDate>Wed, 20 Sep 2023 12:00:00 +0200</pubDate>
+      <guid>9d6d20d925671ecd68c211ea0f94d8ab02ff0385</guid>
     </item>
     
   </channel>
