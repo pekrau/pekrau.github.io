@@ -5,8 +5,35 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Tue, 18 Jun 2024 11:40:51 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2024 15:33:55 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Kritik av Nils Karlson om liberalism mot populism</title>
+      <link>https://pekrau.github.io/2024/09/23/kritik-av-nils-karlson-om-liberalims-mot-populism/</link>
+      <category>Politik</category>
+      <description>liberalism, nyliberalism, populism, Sverigedemokraterna</description>
+      <pubDate>Mon, 23 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>2f5fde15c4d7b3ef11d245fbce969282c8e42d2d</guid>
+    </item>
+    
+    <item>
+      <title>Karlson, Nils: Reviving Classical Liberalism Against Populism (Palgrave Studies in Classical Liberalism)</title>
+      <link>https://pekrau.github.io/library/9783031490736.html</link>
+      <category>review</category>
+      <description>liberalism, political-philosophy</description>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>bdb9527afe373b88a0691736b9294d46c6c20a7d</guid>
+    </item>
+    
+    <item>
+      <title>Hobbes, Thomas: Leviathan eller En kyrklig och civil stats innehåll, form och makt</title>
+      <link>https://pekrau.github.io/library/9789171731296.html</link>
+      <category>review</category>
+      <description>human-evolution, liberalism, philosophy, political-philosophy</description>
+      <pubDate>Fri, 06 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>3da81415d9e1c98c585ede36f8dc15da6ee3077b</guid>
+    </item>
     
     <item>
       <title>Ruse, Michael: Understanding Natural Selection (Understanding Life)</title>
@@ -69,33 +96,6 @@
       <description>enlightenment, morality, political-philosophy, politics</description>
       <pubDate>Fri, 13 Oct 2023 12:00:00 +0200</pubDate>
       <guid>00977e60b2fb66141be2f4c1f13e9c29a9140674</guid>
-    </item>
-    
-    <item>
-      <title>Johansson Heinö, Andreas: Anteckningar från kulturkriget</title>
-      <link>https://pekrau.github.io/library/9789177032281.html</link>
-      <category>review</category>
-      <description>liberalism, political-philosophy, politics</description>
-      <pubDate>Fri, 06 Oct 2023 12:00:00 +0200</pubDate>
-      <guid>0f01f28cfe0f49404189f822ae60eca3db982c79</guid>
-    </item>
-    
-    <item>
-      <title>Tomasello, Michael: Origins of Human Communication</title>
-      <link>https://pekrau.github.io/library/9780262201773.html</link>
-      <category>review</category>
-      <description>human-evolution, philosophy, science</description>
-      <pubDate>Sun, 01 Oct 2023 12:00:00 +0200</pubDate>
-      <guid>bfdeb4982196e42f2ecfc538fe154cd1bd494fc1</guid>
-    </item>
-    
-    <item>
-      <title>Hannon, Elizabeth: Why We Disagree about Human Nature</title>
-      <link>https://pekrau.github.io/library/9780198823650.html</link>
-      <category>review</category>
-      <description>human-evolution, philosophy, science</description>
-      <pubDate>Wed, 20 Sep 2023 12:00:00 +0200</pubDate>
-      <guid>9d6d20d925671ecd68c211ea0f94d8ab02ff0385</guid>
     </item>
     
   </channel>
