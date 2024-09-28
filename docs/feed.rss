@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 23 Sep 2024 15:33:55 +0200</pubDate>
+    <pubDate>Sat, 28 Sep 2024 15:05:56 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Hibbing, John R: Predisposed: The Left, the Right, and the Biology of Political Differences</title>
+      <link>https://pekrau.github.io/library/9781032520063.html</link>
+      <category>review</category>
+      <description>human-evolution, liberalism, political-philosophy, politics</description>
+      <pubDate>Thu, 26 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>61d1cd9979d16d0475d77045944894b8dd95c905</guid>
+    </item>
     
     <item>
       <title>Kritik av Nils Karlson om liberalism mot populism</title>
@@ -15,6 +24,15 @@
       <description>liberalism, nyliberalism, populism, Sverigedemokraterna</description>
       <pubDate>Mon, 23 Sep 2024 12:00:00 +0200</pubDate>
       <guid>2f5fde15c4d7b3ef11d245fbce969282c8e42d2d</guid>
+    </item>
+    
+    <item>
+      <title>Whitehouse, Harvey: Inheritance: The Evolutionary Origins of the Modern World</title>
+      <link>https://pekrau.github.io/library/9781529152227.html</link>
+      <category>review</category>
+      <description>human-evolution, politics</description>
+      <pubDate>Fri, 20 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>2a0d69adcbd3fb2ab56d26f4cd0fced5995b70a0</guid>
     </item>
     
     <item>
@@ -78,24 +96,6 @@
       <description>history, human-evolution, political-philosophy</description>
       <pubDate>Sat, 04 Nov 2023 12:00:00 +0100</pubDate>
       <guid>d59d53b64851e430df504296ff825e16ed2d2afb</guid>
-    </item>
-    
-    <item>
-      <title>Neiman, Susan: Left Is Not Woke</title>
-      <link>https://pekrau.github.io/library/9781509558315.html</link>
-      <category>review</category>
-      <description>human-evolution, liberalism, morality, political-philosophy, politics</description>
-      <pubDate>Wed, 01 Nov 2023 12:00:00 +0100</pubDate>
-      <guid>1e8b40d84255f64c4c77fae04c65aaeda116baac</guid>
-    </item>
-    
-    <item>
-      <title>Mounk, Yascha: The Identity Trap: A Story of Ideas and Power in Our Time</title>
-      <link>https://pekrau.github.io/library/9780593493199.html</link>
-      <category>review</category>
-      <description>enlightenment, morality, political-philosophy, politics</description>
-      <pubDate>Fri, 13 Oct 2023 12:00:00 +0200</pubDate>
-      <guid>00977e60b2fb66141be2f4c1f13e9c29a9140674</guid>
     </item>
     
   </channel>
