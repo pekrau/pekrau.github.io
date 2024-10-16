@@ -10,15 +10,44 @@ ordinal: 90
 
 - **Därför har Heinö fel om liberal nationalism**, publicerad i
   [Liberal Debatt (web)](https://www.liberaldebatt.se/2024/10/darfor-har-heino-fel-om-liberal-nationalism/) 2024-10-11.
+
   Det är dags att börja lyssna på forskningen om kulturens roll för
   människan, skriver skribenten Per Kraulis, och menar att liberaler
   som Andreas Johansson Heinö misslyckas med att förstå vårt behov av
   nationer, traditioner och normer. Som resultat blir det liberala
   projektet lidande.
 
+- **Liberalismen är inte möjlig utan samarbete**,
+  publicerad i [Liberal Debatt (web)](https://www.liberaldebatt.se/2022/03/liberalismen-ar-inte-mojlig-utan-samarbete-recension-av-vi-ar-alla-individualister/) 2022-03-17.
+
+  Recension av "Vi är alla individualister". 
+  Har liberalismen gått vilse, och hur ska den i så fall hitta vägen
+  hem? En nyutkommen bok av LD:s biträdande redaktör Jesper Ahlin
+  Marceta ger åtminstone en del av svaren, menar den liberale
+  skribenten Per Kraulis.
+
+- **“Ny liberalism” riktar strålkastaren mot liberalismens blinda fläck**,
+  publicerad [Liberal Debatt (web)](https://www.liberaldebatt.se/2020/01/recension-ny-liberalism/) 2020-01-07.
+
+  Sex nutida tänkare inom politisk filosofi och moralfilosofi
+  introduceras i boken “Ny liberalism” (Timbro Förlag, 2018),
+  redigerad av Patrick Krassén. Fem av dem utgår från den
+  libertarianska traditionen, medan den sjätte, Jonathan Haidt, mer är
+  moralforskare än filosof.
+
+- **När ska Andersson komma ner på jorden?**, publicerad i
+  [Liberal Debatt (web)](https://www.liberaldebatt.se/2019/09/nar-ska-andersson-komma-ner-pa-jorden/) 2019-09-28. Även publicerad i den tryckta tidskriften nummer 3-2019,
+  se [inlägg på denna blogg](/2019/09/17/kritik-av-lena-andersson-nar-ska-andersson-komma-ner-pa-jorden/).
+
+  Lena Andersson utgår från naturrätten och idén om
+  självägandet. Problemet är att hon inte är explicit med de fulla
+  konsekvenserna av dessa postulat. Dessutom argumenterar hon för att
+  eventuella konsekvenser är irrelevanta för att bedöma hennes
+  liberalism. En sådan liberalism är inte värd namnet.
+
 - **Mellan religion och liberalism.**, publicerad i
-  [Sans magasin 3-2019](https://fritanke.se/sans/sans-nr-3-%E2%80%A2-2019/).
-  En kritik av Joel Halldorfs bok "Gud: Återkomsten", som är en slags
+  [Sans magasin 3-2019](https://fritanke.se/sans/sans-nr-3-%E2%80%A2-2019/).  En
+  kritik av Joel Halldorfs bok "Gud: Återkomsten", som är en slags
   lättvariant av Patrick J. Deneen "Why liberalism failed". Jag
   kritiserar Halldorf för att hans argument för religionens goda
   inflytande på samhället bygger på två olika argument som inte kan
