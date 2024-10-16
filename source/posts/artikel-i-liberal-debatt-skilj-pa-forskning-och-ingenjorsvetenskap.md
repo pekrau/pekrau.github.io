@@ -14,7 +14,7 @@ tags:
 title: "Artikel i Liberal Debatt: Skilj p\xE5 forskning och ingenj\xF6rsvetenskap"
 type: post
 ---
-Jag skriver [en artikel](http://www.liberaldebatt.se/2017/12/skilj-pa-forskning-och-ingenjorsvetenskap/) i serien "På djupet" i Liberal Debatt 5/2017 med titeln **Skilj på forskning och ingenjörsvetenskap**.
+Jag har skrivir [en artikel](http://www.liberaldebatt.se/2017/12/skilj-pa-forskning-och-ingenjorsvetenskap/) i serien "På djupet" i Liberal Debatt 5/2017 med titeln **Skilj på forskning och ingenjörsvetenskap**.
 
 Ur artikeln:
 
