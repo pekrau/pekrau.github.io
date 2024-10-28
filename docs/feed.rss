@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Wed, 16 Oct 2024 11:03:50 +0200</pubDate>
+    <pubDate>Mon, 28 Oct 2024 18:15:55 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Lindström, Jonathan: Världens äldsta historia: Hjältar, gudinnor och myter under 300 000 år</title>
+      <link>https://pekrau.github.io/library/9789113118697.html</link>
+      <category>review</category>
+      <description>history, literature-music-art, science</description>
+      <pubDate>Mon, 28 Oct 2024 12:00:00 +0100</pubDate>
+      <guid>d3201795623b14ad0c7431ecde8ec55b6d49a889</guid>
+    </item>
     
     <item>
       <title>Artikel i Liberal Debatt: Därför har Heinö fel om liberal nationalism</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, philosophy, science</description>
       <pubDate>Sat, 30 Mar 2024 12:00:00 +0100</pubDate>
       <guid>8aa948870a081fed8815d875e2458d3e4e90aac1</guid>
-    </item>
-    
-    <item>
-      <title>Page, Lionel: Optimally Irrational</title>
-      <link>https://pekrau.github.io/library/9781009209205.html</link>
-      <category>review</category>
-      <description>human-evolution, political-philosophy, science</description>
-      <pubDate>Sun, 17 Dec 2023 12:00:00 +0100</pubDate>
-      <guid>4814b096c00a9993c244e262e99eded2f1d70e2c</guid>
     </item>
     
   </channel>

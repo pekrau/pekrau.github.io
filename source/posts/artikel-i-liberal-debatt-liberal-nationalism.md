@@ -18,6 +18,7 @@ tags:
 - name: andreas-johansson-heino
   value: Andreas Johansson Heinö
 title: "Artikel i Liberal Debatt: Därför har Heinö fel om liberal nationalism"
+popular: True
 type: post
 ---
 Jag har skrivit [en artikel](https://www.liberaldebatt.se/2024/10/darfor-har-heino-fel-om-liberal-nationalism/)
