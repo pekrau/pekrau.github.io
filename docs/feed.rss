@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 28 Oct 2024 18:15:55 +0100</pubDate>
+    <pubDate>Tue, 12 Nov 2024 14:35:42 +0100</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Fukuyama, Francis: The End of History and the Last Man</title>
+      <link>https://pekrau.github.io/library/9780241960240.html</link>
+      <category>review</category>
+      <description>history, liberalism, politics</description>
+      <pubDate>Tue, 12 Nov 2024 12:00:00 +0100</pubDate>
+      <guid>af71f758458b5a6df07b112abe332a177bbb74ee</guid>
+    </item>
     
     <item>
       <title>Lindström, Jonathan: Världens äldsta historia: Hjältar, gudinnor och myter under 300 000 år</title>
@@ -87,15 +96,6 @@
       <description>human-evolution, science</description>
       <pubDate>Wed, 12 Jun 2024 12:00:00 +0200</pubDate>
       <guid>1ec954f7a257fdc2768cfa6dffb036568649192a</guid>
-    </item>
-    
-    <item>
-      <title>Muthukrishna, Michael: A Theory of Everyone: The New Science of Who We Are, How We Got Here, and Where We’re Going</title>
-      <link>https://pekrau.github.io/library/9780262048378.html</link>
-      <category>review</category>
-      <description>human-evolution, philosophy, science</description>
-      <pubDate>Sat, 30 Mar 2024 12:00:00 +0100</pubDate>
-      <guid>8aa948870a081fed8815d875e2458d3e4e90aac1</guid>
     </item>
     
   </channel>

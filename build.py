@@ -158,7 +158,9 @@ def read_posts():
         post["path"] = f"/{post['date'].replace('-','/')}/{post['name']}/"
         if post.get("redirect"):
             REDIRECTED_POSTS.append(post)
-        elif not post.get("draft"):
+        elif post.get("draft"):
+            print("Draft >>>", filename)
+        else:
             POSTS.append(post)
     POSTS.sort(key=lambda p: p["date"], reverse=True)
     POSTS[0]["prev"] = POSTS[1]
