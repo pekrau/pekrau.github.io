@@ -16,8 +16,8 @@ tags:
 title: Är moral biologiskt programmerad?
 references:
 - Tomasello 2016
-- de Waal 2006
-- de Waal 2013
+- Waal 2006
+- Waal 2013
 - Pettit 2018
 type: post
 ---
