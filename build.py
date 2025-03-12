@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.13.0"
+__version__ = "0.13.1"
 
 import csv
 import datetime

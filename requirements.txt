@@ -1,4 +1,4 @@
-Jinja2==3.1.5
+Jinja2==3.1.6
 marko==2.1.2
 MarkupSafe==2.1.5
 PyYAML==6.0.2
