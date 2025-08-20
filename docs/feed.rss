@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Tue, 04 Mar 2025 17:21:07 +0100</pubDate>
+    <pubDate>Wed, 20 Aug 2025 17:26:51 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Burke, Edmund: Reflektioner om franska revolutionen</title>
+      <link>https://pekrau.github.io/library/9186092030.html</link>
+      <category>review</category>
+      <description>enlightenment, history, liberalism, political-philosophy</description>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 +0200</pubDate>
+      <guid>4ef7ea716767b8fe7d93ce6e4c2a47ca5c176c5a</guid>
+    </item>
     
     <item>
       <title>Fukuyama, Francis: The End of History and the Last Man</title>
@@ -87,15 +96,6 @@
       <description>evolution, philosophy, science</description>
       <pubDate>Tue, 18 Jun 2024 12:00:00 +0200</pubDate>
       <guid>260fe5f0c8b3921a68c4172f9b17a09060891149</guid>
-    </item>
-    
-    <item>
-      <title>Waal, Frans de: Different: Gender Through the Eyes of a Primatologist</title>
-      <link>https://pekrau.github.io/library/9781324007104.html</link>
-      <category>review</category>
-      <description>human-evolution, science</description>
-      <pubDate>Wed, 12 Jun 2024 12:00:00 +0200</pubDate>
-      <guid>1ec954f7a257fdc2768cfa6dffb036568649192a</guid>
     </item>
     
   </channel>
