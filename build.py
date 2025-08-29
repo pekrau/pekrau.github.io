@@ -21,6 +21,7 @@ import yaml
 
 BASE_URL = "https://pekrau.github.io"    # No trailing "/" slash!
 GOODREADS_FILENAME = "source/goodreads_library_export.csv"
+NON_GOODREADS_FILENAME = "source/non_goodreads.csv"
 AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
@@ -213,73 +214,85 @@ def read_pages():
 
 def read_books():
     "Read the Goodreads dump CSV file and apply any corrections."
+    non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
+
     # Read lookup table of canonical author names.
     with open(AUTHORS_CANONICAL_FILENAME) as infile:
         reader = csv.DictReader(infile)
         for row in reader:
             AUTHORS[row["name"]] = row["canonical"]
 
-    non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
+    # Read in Goodreads CSV file.
     with open(GOODREADS_FILENAME) as infile:
         reader = csv.DictReader(infile)
-        for row in reader:
-            book = {
-                "type": "book",
-                "title": row["Title"],
-                "goodreads": row["Book Id"],
-                "isbn": row["ISBN13"].lstrip("=").strip('"') or row["ISBN"].lstrip("=").strip('"'),
-                "published": row["Original Publication Year"] or row["Year Published"],
-                "edition": {"published": row["Year Published"] or row["Original Publication Year"],
-                            "publisher": row["Publisher"]}
-            }
-            book["authors"] = [row["Author l-f"]]
-            lastname = book["authors"][0].split(",")[0].strip()
-            book["reference"] = f"{lastname} {book['published']}"
-            for name in row["Additional Authors"].split(","):
-                name = name.strip()
-                if not name: continue
-                parts = name.split()
-                lastname = parts[-1]
-                firstname = " ".join(parts[0:-1])
-                book["authors"].append(f"{lastname}, {firstname}")
-            subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
-            if "svenska" in subjects:
-                book["language"] = "sv"
-            else:
-                book["language"] = "en"
-            book["subjects"] = sorted(set(subjects).difference(non_subjects))
-            if row["My Rating"] and row["My Rating"] != "0":
-                book["rating"] = int(row["My Rating"])
-            if row["My Review"]:
-                book["content"] = row["My Review"].strip('"').replace("<br/>", "\n")
-                book["html"] = MARKDOWN.convert(book["content"])
-            book["lastmod"] = row["Date Added"].replace("/", "-")
-            if row["Date Read"]:
-                book["date"] = row["Date Read"].replace("/", "-")
-                book["lastmod"] = book["date"]
+        rows = list(reader)
 
-            # Read any corrections file for the book.
-            try:
-                with open(f"source/corrections/{book['goodreads']}.json") as infile:
-                    book.update(json.load(infile))
-            except IOError:
-                pass
+    # Read in CSV file for books not in Goodreads.
+    try:
+        with open(NON_GOODREADS_FILENAME) as infile:
+            reader = csv.DictReader(infile)
+            rows.extend(list(reader))
+    except OSError:
+        pass
 
-            if book["reference"] in BOOKS:
-                raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOKS[book['reference']]['goodreads']}, {BOOKS[book['reference']]['title']}")
-            BOOKS[book["reference"]] = book
-            try:
-                YEAR_PUBLISHED.setdefault(int(book["published"]), list()).append(book)
-            except ValueError:
-                print(">>> invalid published:", book["goodreads"], book["title"])
+    for row in rows:
+        book = {
+            "type": "book",
+            "title": row["Title"],
+            "goodreads": row["Book Id"],
+            "isbn": row["ISBN13"].lstrip("=").strip('"') or row["ISBN"].lstrip("=").strip('"'),
+            "published": row["Original Publication Year"] or row["Year Published"],
+            "edition": {"published": row["Year Published"] or row["Original Publication Year"],
+                        "publisher": row["Publisher"]}
+        }
+        book["authors"] = [row["Author l-f"]]
+        lastname = book["authors"][0].split(",")[0].strip()
+        book["reference"] = f"{lastname} {book['published']}"
+        for name in row["Additional Authors"].split(","):
+            name = name.strip()
+            if not name: continue
+            parts = name.split()
+            lastname = parts[-1]
+            firstname = " ".join(parts[0:-1])
+            book["authors"].append(f"{lastname}, {firstname}")
+        subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
+        if "svenska" in subjects:
+            book["language"] = "sv"
+        else:
+            book["language"] = "en"
+        book["subjects"] = sorted(set(subjects).difference(non_subjects))
+        if row["My Rating"] and row["My Rating"] != "0":
+            book["rating"] = int(row["My Rating"])
+        if row["My Review"]:
+            book["content"] = row["My Review"].strip('"').replace("<br/>", "\n")
+            book["html"] = MARKDOWN.convert(book["content"])
+        book["lastmod"] = row["Date Added"].replace("/", "-")
+        if row["Date Read"]:
+            book["date"] = row["Date Read"].replace("/", "-")
+            book["lastmod"] = book["date"]
 
-            # Normalize author names; do after corrections!
-            for pos, author in enumerate(book["authors"]):
-                author = author.replace(".", "").strip().rstrip(",")
-                book["authors"][pos] =  AUTHORS.get(author, author)
+        # Read any corrections file for the book.
+        try:
+            with open(f"source/corrections/{book['goodreads']}.json") as infile:
+                book.update(json.load(infile))
+        except IOError:
+            pass
 
-            # Set the path for the book file; do after corrections!
-            book["path"] = f"/library/{book['isbn']}.html"
+        if book["reference"] in BOOKS:
+            raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOKS[book['reference']]['goodreads']}, {BOOKS[book['reference']]['title']}")
+        BOOKS[book["reference"]] = book
+        try:
+            YEAR_PUBLISHED.setdefault(int(book["published"]), list()).append(book)
+        except ValueError:
+            print(">>> invalid published:", book["goodreads"], book["title"])
+
+        # Normalize author names; do after corrections!
+        for pos, author in enumerate(book["authors"]):
+            author = author.replace(".", "").strip().rstrip(",")
+            book["authors"][pos] =  AUTHORS.get(author, author)
+
+        # Set the path for the book file; do after corrections!
+        book["path"] = f"/library/{book['isbn']}.html"
 
     # Collect and check ISBN data.
     isbns = set()
