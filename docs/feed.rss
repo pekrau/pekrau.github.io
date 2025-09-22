@@ -5,7 +5,7 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Fri, 29 Aug 2025 16:26:14 +0200</pubDate>
+    <pubDate>Mon, 22 Sep 2025 20:24:19 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
     
     <item>
@@ -15,6 +15,15 @@
       <description>enlightenment, history, liberalism, political-philosophy</description>
       <pubDate>Wed, 30 Jul 2025 12:00:00 +0200</pubDate>
       <guid>4ef7ea716767b8fe7d93ce6e4c2a47ca5c176c5a</guid>
+    </item>
+    
+    <item>
+      <title>Europeiska kärnvapen löser inga problem – bättre med svenska</title>
+      <link>https://pekrau.github.io/2024/11/20/feltankt-om-europiska-karnvapen/</link>
+      <category>Politik, Samhälle</category>
+      <description>Europa, försvar, kärnvapen, säkerhetspolitik</description>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0100</pubDate>
+      <guid>b500734f33dedacab22c2b5332595f86274987bd</guid>
     </item>
     
     <item>
@@ -87,15 +96,6 @@
       <description>human-evolution, liberalism, philosophy, political-philosophy</description>
       <pubDate>Fri, 06 Sep 2024 12:00:00 +0200</pubDate>
       <guid>3da81415d9e1c98c585ede36f8dc15da6ee3077b</guid>
-    </item>
-    
-    <item>
-      <title>Ruse, Michael: Understanding Natural Selection (Understanding Life)</title>
-      <link>https://pekrau.github.io/library/9781009088329.html</link>
-      <category>review</category>
-      <description>evolution, philosophy, science</description>
-      <pubDate>Tue, 18 Jun 2024 12:00:00 +0200</pubDate>
-      <guid>260fe5f0c8b3921a68c4172f9b17a09060891149</guid>
     </item>
     
   </channel>
