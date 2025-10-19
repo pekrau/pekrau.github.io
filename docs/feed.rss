@@ -5,8 +5,17 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Mon, 22 Sep 2025 20:24:19 +0200</pubDate>
+    <pubDate>Sun, 19 Oct 2025 11:18:56 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Wade, Nicholas: The Origin of Politics: How Evolution and Ideology Shape the Fate of Nations</title>
+      <link>https://pekrau.github.io/library/9780063379787.html</link>
+      <category>review</category>
+      <description>human-evolution, politics</description>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0200</pubDate>
+      <guid>383c753de6f9274c282c34578e2713f4e181b762</guid>
+    </item>
     
     <item>
       <title>Burke, Edmund: Reflektioner om franska revolutionen</title>
@@ -87,15 +96,6 @@
       <description>liberalism, political-philosophy</description>
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0200</pubDate>
       <guid>55ca176ce19647076920f7e6f3cb4f9f431ce07c</guid>
-    </item>
-    
-    <item>
-      <title>Hobbes, Thomas: Leviathan eller En kyrklig och civil stats innehåll, form och makt</title>
-      <link>https://pekrau.github.io/library/9789171731296.html</link>
-      <category>review</category>
-      <description>human-evolution, liberalism, philosophy, political-philosophy</description>
-      <pubDate>Fri, 06 Sep 2024 12:00:00 +0200</pubDate>
-      <guid>3da81415d9e1c98c585ede36f8dc15da6ee3077b</guid>
     </item>
     
   </channel>
