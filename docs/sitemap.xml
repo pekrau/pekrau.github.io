@@ -1423,7 +1423,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780190210229.html</loc>
-  <lastmod>2023-11-02</lastmod>
+  <lastmod>2025-11-24</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9780674976719.html</loc>
@@ -1647,7 +1647,7 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9781009542517.html</loc>
-  <lastmod>2025-10-19</lastmod>
+  <lastmod>2025-11-16</lastmod>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/9781491917879.html</loc>
@@ -2306,6 +2306,10 @@
   <lastmod>2024-10-07</lastmod>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/9780060780722.html</loc>
+  <lastmod>2025-11-20</lastmod>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/9780674699069.html</loc>
   <lastmod>2021-12-09</lastmod>
 </url>
@@ -2734,6 +2738,10 @@
   <lastmod>2018-01-24</lastmod>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/9780674248151.html</loc>
+  <lastmod>2025-11-20</lastmod>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/9780861043231.html</loc>
   <lastmod>2021-12-17</lastmod>
 </url>
@@ -2862,7 +2870,7 @@
   <lastmod>2024-10-16</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/9781572591530.html</loc>
+  <loc>https://pekrau.github.io/library/1572591536.html</loc>
   <lastmod>2025-03-12</lastmod>
 </url>
 <url>
@@ -4707,9 +4715,6 @@
   <loc>https://pekrau.github.io/library/authors/Blundell, Nigel/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Boehm, Boehm/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Boehm, Christopher/</loc>
 </url>
 <url>
@@ -5319,6 +5324,9 @@
   <loc>https://pekrau.github.io/library/authors/McDermott, Rose/</loc>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/authors/Hauser, Marc/</loc>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/authors/Havelock, Eric Alfred/</loc>
 </url>
 <url>
@@ -5907,6 +5915,9 @@
   <loc>https://pekrau.github.io/library/authors/Bergström, Lars/</loc>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/authors/Kitcher, Kitcher/</loc>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/authors/Kitcher, Philip/</loc>
 </url>
 <url>
@@ -5935,6 +5946,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Kolbert, Elizabeth/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Kolodny, Niko/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Komarov, Boris/</loc>
@@ -6054,7 +6068,10 @@
   <loc>https://pekrau.github.io/library/authors/Lefebvre, Alexandre/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Lehninger, Albert L; Nelson/</loc>
+  <loc>https://pekrau.github.io/library/authors/Nelson, David L/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Cox, Michael M/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Lepage, Henri/</loc>
@@ -6711,9 +6728,6 @@
   <loc>https://pekrau.github.io/library/authors/Scheffler, Samuel/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Kolodny, Niko/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Schmidtz, David/</loc>
 </url>
 <url>
@@ -7000,6 +7014,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Waal, Frans de/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Waal, De/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Waddington, Conrad H/</loc>
