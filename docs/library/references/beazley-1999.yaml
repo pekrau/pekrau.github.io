@@ -1,0 +1,22 @@
+authors:
+- Beazley, David
+content: Very good reference book (fourth edition).
+edition:
+  published: '2009'
+  publisher: Addison-Wesley Professional
+goodreads: '6666431'
+html: '<p>Very good reference book (fourth edition).</p>
+
+  '
+isbn: '9780672329784'
+language: en
+lastmod: '2019-02-07'
+path: /library/9780672329784.html
+published: '1999'
+rating: 5
+reference: Beazley 1999
+subjects:
+- computing
+- python
+title: Python Essential Reference
+type: book

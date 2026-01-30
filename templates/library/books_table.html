@@ -14,7 +14,7 @@
     {% for book in books %}
     <tr>
       <td>{{ authors_links(book) }}</td>
-      <td>{{ book_link(book) }}</td>
+      <td>{{ text_link(book) }}</td>
       <td>{{ published_link(book['published']) }}</td>
       {% if book.get('rating') %}
       <td>{{ book['rating'] }}</td>

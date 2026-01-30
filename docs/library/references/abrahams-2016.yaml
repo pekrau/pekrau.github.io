@@ -1,0 +1,20 @@
+authors:
+- Abrahams, Sam
+- Hafner, Danijar
+- Erwitt, Erik
+- Scarpinelli, Ariel
+edition:
+  published: '2016'
+  publisher: Bleeding Edge Press
+goodreads: '34997267'
+isbn: '9781939902450'
+language: en
+lastmod: '2019-02-07'
+path: /library/9781939902450.html
+published: '2016'
+reference: Abrahams 2016
+subjects:
+- computing
+- python
+title: 'TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms'
+type: book

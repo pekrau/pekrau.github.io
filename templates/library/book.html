@@ -80,16 +80,19 @@
         ISBN {{ book['isbn'] }}
       </li>
       {% endif %}
+      {% if book.get("goodreads") %}
       <li class="list-group-item">
         Goodreads {{ book['goodreads'] }}
       </li>
+      {% endif %}
       <li class="list-group-item">
         {% if language == 'en' %}
         Reference
         {% else %}
         Referens
         {% endif %}
-        <strong>{{ book["reference"] }}</strong>
+        <strong>{{ book['reference'] }}</strong>
+        <a href="references/{{ book['reference'].casefold().replace(' ', '-') }}.yaml">YAML</a>
       </li>
     </ul>
   </div>

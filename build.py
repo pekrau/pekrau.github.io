@@ -1,12 +1,11 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.13.1"
+__version__ = "0.14.0"
 
 import csv
 import datetime
 import email.utils
 from hashlib import sha1
-import json
 import math
 import os
 import os.path
@@ -21,7 +20,6 @@ import yaml
 
 BASE_URL = "https://pekrau.github.io"    # No trailing "/" slash!
 GOODREADS_FILENAME = "source/goodreads_library_export.csv"
-NON_GOODREADS_FILENAME = "source/non_goodreads.csv"
 AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
 
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
@@ -32,18 +30,19 @@ PAGES = []                # List of pages.
 REDIRECTED_PAGES = []     # Deleted pages that redirect to another URL.
 TAGS = {}                 # key: tag name; value: dict(name, value, posts)
 CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
-BOOKS = {}                # key: "{lastname} {published}", optional resolving suffix
+TEXTS = {}                # key: "{lastname} {published}", optional resolving suffix
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
 SITEMAP_URLS = {};        # Key: canonical URL, value: lastmod.
 MAX_LATEST_ITEMS = 10     # Max latest item on index page and in RSS 'feed.xml' file.
-LATEST_ITEMS = []         # The latest items; posts and book reviews.
-YEAR_PUBLISHED = {}       # key: year; value: list of books
+LATEST_ITEMS = []         # The latest items; posts and text reviews.
+YEAR_PUBLISHED = {}       # key: year; value: list of texts
 
 
 # Setup the Jinja2 template processing environment.
 def post_link(post):
     return markupsafe.Markup(f"""<a href="{post['path']}">{post['title']}</a>""")
+
 
 def author_link(author, display=False):
     if display:
@@ -52,13 +51,15 @@ def author_link(author, display=False):
         name = author
     return markupsafe.Markup(f"""<a href="/library/authors/{author}">{name}</a>""")
 
-def authors_links(book, max=3, display=False):
-    if max and len(book["authors"]) > max:
+
+def authors_links(text, max=3, display=False):
+    if max and len(text["authors"]) > max:
         return markupsafe.Markup("; ".join([author_link(a, display=display)
-                                            for a in book["authors"][:max]] + ["..."]))
+                                            for a in text["authors"][:max]] + ["..."]))
     else:
         return markupsafe.Markup("; ".join([author_link(a, display=display)
-                                            for a in book["authors"]]))
+                                            for a in text["authors"]]))
+
 
 def author_display(author):
     "Display version of the author name: firstname lastname."
@@ -69,16 +70,19 @@ def author_display(author):
     else:
         return f"{firstname.strip()} {lastname.strip()}"
 
-def book_link(book, full=False):
+
+def text_link(text, full=False):
     if full:
-        return markupsafe.Markup(" ".join(["; ".join(book["authors"]),
-                                           book_link(book),
-                                           f"({book['published']})"]))
+        return markupsafe.Markup(" ".join(["; ".join(text["authors"]),
+                                           text_link(text),
+                                           f"({text['published']})"]))
     else:
-        return markupsafe.Markup(f"""<a href="/library/{book['isbn']}.html">{book['title']}</a>""")
+        return markupsafe.Markup(f"""<a href="/library/{text['isbn']}.html">{text['title']}</a>""")
+
 
 def category_link(category):
     return markupsafe.Markup(f"""<a href="/blog/categories/{category['name']}" class="text-nowrap">{category['value']}</a>""")
+
 
 def tag_link(tag, sized=True):
     try:
@@ -94,9 +98,11 @@ def tag_link(tag, sized=True):
     href = f"/blog/tags/{tag['name']}"
     return markupsafe.Markup(f'<a href="{href}" class="text-nowrap" title="{number}">{span}</a>')
 
+
 def subject_link(subject):
     title = " ".join([p.capitalize() for p in subject.split("-")])
     return markupsafe.Markup(f"""<a href="/library/subjects/{subject}" class="text-nowrap">{title}</a>""")
+
 
 def published_link(year):
     return markupsafe.Markup(f"""<a href="/library/published/{year}" class="text-nowrap">{year}</a>""")
@@ -110,7 +116,7 @@ env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["author_display"] = author_display
-env.globals["book_link"] = book_link
+env.globals["text_link"] = text_link
 env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
 env.globals["subject_link"] = subject_link
@@ -147,6 +153,7 @@ class HTMLRenderer(marko.html_renderer.HTMLRenderer):
 
 # Markdown converter.
 MARKDOWN = marko.Markdown(renderer=HTMLRenderer)
+
 
 def read_posts():
     "Read all Markdown files for blog posts and pre-process."
@@ -200,6 +207,7 @@ def read_posts():
         if post.get("about"):
             post["about_html"] = MARKDOWN.convert(post["about"])
 
+
 def read_pages():
     """Read all Markdown files for pages and pre-process.
     Add ancient hard-coded HTML page trees and links to other subsites."""
@@ -211,6 +219,7 @@ def read_pages():
         else:
             PAGES.append(page)
     PAGES.sort(key=lambda p: (p.get("ordinal", 999), p["title"].lower()))
+
 
 def read_books():
     "Read the Goodreads dump CSV file and apply any corrections."
@@ -227,14 +236,7 @@ def read_books():
         reader = csv.DictReader(infile)
         rows = list(reader)
 
-    # Read in CSV file for books not in Goodreads.
-    try:
-        with open(NON_GOODREADS_FILENAME) as infile:
-            reader = csv.DictReader(infile)
-            rows.extend(list(reader))
-    except OSError:
-        pass
-
+    # Convert Goodreads CSV file row into a text item.
     for row in rows:
         book = {
             "type": "book",
@@ -271,38 +273,75 @@ def read_books():
             book["date"] = row["Date Read"].replace("/", "-")
             book["lastmod"] = book["date"]
 
-        # Read any corrections file for the book.
+        # Read corrections file for the book, if any. Any item may be changed.
         try:
-            with open(f"source/corrections/{book['goodreads']}.json") as infile:
-                book.update(json.load(infile))
+            with open(f"source/corrections/{book['goodreads']}.yaml") as infile:
+                book.update(yaml.safe_load(infile))
         except IOError:
             pass
 
-        if book["reference"] in BOOKS:
-            raise ValueError(f"duplicate reference for {book['goodreads']}, {book['title']} and {BOOKS[book['reference']]['goodreads']}, {BOOKS[book['reference']]['title']}")
-        BOOKS[book["reference"]] = book
-        try:
-            YEAR_PUBLISHED.setdefault(int(book["published"]), list()).append(book)
-        except ValueError:
-            print(">>> invalid published:", book["goodreads"], book["title"])
+        if book["reference"] in TEXTS:
+            raise ValueError(f"duplicate reference {book['reference']}, {book['goodreads']}, {book['title']}")
+        TEXTS[book["reference"]] = book
 
-        # Normalize author names; do after corrections!
-        for pos, author in enumerate(book["authors"]):
+
+def read_additional():
+    "Read additional texts; articles, links, books not in Goodreads, etc."
+    for filename in os.listdir("source/additional"):
+        if not filename.endswith(".yaml"):
+            continue
+        with open(f"source/additional/{filename}") as infile:
+            text = yaml.safe_load(infile)
+            if text["reference"] in TEXTS:
+                raise ValueError(f"duplicate reference {book['reference']} in additional {{filename}}")
+        TEXTS[text["reference"]] = text
+
+
+def check_fixup():
+    "Do some additional checks and fixups for the texts."
+    # Normalize author names.
+    for text in TEXTS.values():
+        for pos, author in enumerate(text["authors"]):
             author = author.replace(".", "").strip().rstrip(",")
-            book["authors"][pos] =  AUTHORS.get(author, author)
+            text["authors"][pos] =  AUTHORS.get(author, author)
 
-        # Set the path for the book file; do after corrections!
-        book["path"] = f"/library/{book['isbn']}.html"
+    # Set the path for text file.
+    for text in TEXTS.values():
+        if text["type"] == "book":
+            text["path"] = f"/library/{text['isbn']}.html"
+        else:
+            name = text["reference"].casefold().replace(" ", "-")
+            text["path"] = f"/library/{name}.html"
 
-    # Collect and check ISBN data.
+    # Check that year published is an integer.
+    for text in TEXTS.values():
+        try:
+            YEAR_PUBLISHED.setdefault(int(text["published"]), list()).append(text)
+        except ValueError:
+            if text["type"] == "book":
+                print(">>> invalid 'published':", text["goodreads"], text["title"])
+            else:
+                print(">>> invalid 'published':", text["reference"], text["title"])
+
+    # Check ISBN data for books.
     isbns = set()
-    for book in BOOKS.values():
-        if not book["isbn"]:
-            print(">>> lacking ISBN:", book["goodreads"], book["title"])
-        if book["isbn"] in isbns:
-            print(">>> duplicate isbn:", book["goodreads"], book["title"])
-        elif book["isbn"]:
-            isbns.add(book["isbn"])
+    for text in TEXTS.values():
+        if text["type"] != "book":
+            continue
+        if not text["isbn"]:
+            print(">>> lacking ISBN:", text["goodreads"], text["title"])
+        if text["isbn"] in isbns:
+            print(">>> duplicate isbn:", text["goodreads"], text["title"])
+        elif text["isbn"]:
+            isbns.add(text["isbn"])
+
+
+def write_references():
+    "Write the reference YAML files for all texts (books)."
+    for reference, text in TEXTS.items():
+        name = reference.casefold().replace(" ", "-")
+        with open(f"docs/library/references/{name}.yaml", "w") as outfile:
+            outfile.write(yaml.dump(text, allow_unicode=True))
 
 
 def build_index():
@@ -319,7 +358,7 @@ def build_index():
             content = post["content"].split("\n\n", 1)[0]
         post["short_html"] = MARKDOWN.convert(content)
     # Collect the latest book reviews.
-    books = [b for b in BOOKS.values() if b.get("date") and b.get("content")]
+    books = [b for b in TEXTS.values() if b.get("date") and b.get("content")]
     books.sort(key=lambda b: b["date"], reverse=True)
     books = books[:MAX_LATEST_ITEMS]
     for book in books:
@@ -347,7 +386,7 @@ def build_blog():
         try:
             references = []
             for ref in post.get("references", []):
-                references.append(BOOKS[ref])
+                references.append(TEXTS[ref])
         except KeyError:
             print(f"reference error '{ref}' in post '{post['title']}'")
             references = []
@@ -408,14 +447,14 @@ def build_pages():
 def build_books():
     "Build book files."
     # Only books having ISBN (possibly a dummy value) are considered.
-    books = list(sorted([b for b in BOOKS.values() if b.get("isbn")], 
+    books = list(sorted([b for b in TEXTS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
     # Index of all books and their pages.
     build_html("library/index.html", sitemap=True, books=books)
     # References in posts to books.
     for post in POSTS:
         for reference in post.get("references", []):
-            BOOKS[reference].setdefault("posts", []).append(post)
+            TEXTS[reference].setdefault("posts", []).append(post)
     for book in books:
         build_html(book["path"].strip("/"),
                    template="library/book.html",
@@ -600,6 +639,9 @@ if __name__ == "__main__":
     read_posts()
     read_pages()
     read_books()
+    read_additional()
+    check_fixup()
+    write_references()
     build_index()
     build_blog()
     build_pages()
