@@ -1,10 +1,10 @@
 {% extends 'library/books_base.html' %}
 
-{% block head_title %}Böcker med betyg {{ rating }}{% endblock %}
+{% block head_title %}Texter med betyg {{ rating }}{% endblock %}
 
 {% block body_title %}
 <h1>
-  Böcker med betyg {{ rating }}
+  Texter med betyg {{ rating }}
   {% for i in range(rating) %}
   <i class="bi bi-star-fill text-warning"></i>
   {% endfor %}

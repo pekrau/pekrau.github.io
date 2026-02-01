@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.14.0"
+__version__ = "0.15.0"
 
 import csv
 import datetime
@@ -9,9 +9,11 @@ from hashlib import sha1
 import math
 import os
 import os.path
+from pathlib import Path
 import re
 import shutil
 import time
+import unicodedata
 
 import jinja2
 import markupsafe
@@ -71,13 +73,18 @@ def author_display(author):
         return f"{firstname.strip()} {lastname.strip()}"
 
 
+def urlize(name):
+    "Convert the string to ASCII, lowercase, replace blank with dash."
+    return unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("utf-8").lower().replace(" ", "-")
+
+
 def text_link(text, full=False):
     if full:
         return markupsafe.Markup(" ".join(["; ".join(text["authors"]),
                                            text_link(text),
                                            f"({text['published']})"]))
     else:
-        return markupsafe.Markup(f"""<a href="/library/{text['isbn']}.html">{text['title']}</a>""")
+        return markupsafe.Markup(f"""<a href="{text['path']}">{text['title']}</a>""")
 
 
 def category_link(category):
@@ -116,6 +123,7 @@ env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["author_display"] = author_display
+env.globals["urlize"] = urlize
 env.globals["text_link"] = text_link
 env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
@@ -157,17 +165,16 @@ MARKDOWN = marko.Markdown(renderer=HTMLRenderer)
 
 def read_posts():
     "Read all Markdown files for blog posts and pre-process."
-    for filename in sorted(os.listdir("source/posts")):
-        if not filename.endswith(".md"): continue
-        post = read_md(f"source/posts/{filename}")
+    for filepath in sorted(Path("source/posts").glob("*.md")):
+        post = read_md(filepath)
         for key in ["name", "date", "categories"]:
             if key not in post:
-                raise ValueError(f"post {filename} lacks '{key}'")
+                raise ValueError(f"post {filepath} lacks '{key}'")
         post["path"] = f"/{post['date'].replace('-','/')}/{post['name']}/"
         if post.get("redirect"):
             REDIRECTED_POSTS.append(post)
         elif post.get("draft"):
-            print("Draft >>>", filename)
+            print("Draft >>>", filepath)
         else:
             POSTS.append(post)
     POSTS.sort(key=lambda p: p["date"], reverse=True)
@@ -182,7 +189,7 @@ def read_posts():
             if tag["name"] == "bok":
                 post["tags"].pop(pos)
                 break
-    # Set references to/from tags.
+    # Set points to/from tags.
     for post in POSTS:
         for tag in post.get("tags", []):
             try:
@@ -192,7 +199,7 @@ def read_posts():
                 TAGS[tag["name"]] = tag
     for tag in TAGS.values():
         tag["posts"].sort(key=lambda p: p["date"], reverse=True)
-    # Set references to/from categories.
+    # Set pointers to/from categories.
     for post in POSTS:
         for category in post.get("categories", []):
             try:
@@ -211,9 +218,8 @@ def read_posts():
 def read_pages():
     """Read all Markdown files for pages and pre-process.
     Add ancient hard-coded HTML page trees and links to other subsites."""
-    for filename in sorted(os.listdir("source/pages")):
-        if filename.endswith("~"): continue
-        page = read_md(f"source/pages/{filename}")
+    for filepath in sorted(Path("source/pages").glob("*.md")):
+        page = read_md(filepath)
         if page.get("redirect"):
             REDIRECTED_PAGES.append(page)
         else:
@@ -287,31 +293,26 @@ def read_books():
 
 def read_additional():
     "Read additional texts; articles, links, books not in Goodreads, etc."
-    for filename in os.listdir("source/additional"):
-        if not filename.endswith(".yaml"):
-            continue
-        with open(f"source/additional/{filename}") as infile:
+    for filepath in Path("source/additional").glob("*.yaml"):
+        with open(filepath) as infile:
             text = yaml.safe_load(infile)
             if text["reference"] in TEXTS:
-                raise ValueError(f"duplicate reference {book['reference']} in additional {{filename}}")
+                raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
         TEXTS[text["reference"]] = text
 
 
 def check_fixup():
     "Do some additional checks and fixups for the texts."
+
     # Normalize author names.
     for text in TEXTS.values():
         for pos, author in enumerate(text["authors"]):
             author = author.replace(".", "").strip().rstrip(",")
             text["authors"][pos] =  AUTHORS.get(author, author)
 
-    # Set the path for text file.
+    # Set the path for text files.
     for text in TEXTS.values():
-        if text["type"] == "book":
-            text["path"] = f"/library/{text['isbn']}.html"
-        else:
-            name = text["reference"].casefold().replace(" ", "-")
-            text["path"] = f"/library/{name}.html"
+        text["path"] = f"/library/{urlize(text['reference'])}.html"
 
     # Check that year published is an integer.
     for text in TEXTS.values():
@@ -337,11 +338,17 @@ def check_fixup():
 
 
 def write_references():
-    "Write the reference YAML files for all texts (books)."
+    "Write the reference YAML files and their HTML files for all texts (books)."
+    template = env.get_template("library/yaml.html")
     for reference, text in TEXTS.items():
+        code = yaml.dump(text, allow_unicode=True)
         name = reference.casefold().replace(" ", "-")
         with open(f"docs/library/references/{name}.yaml", "w") as outfile:
-            outfile.write(yaml.dump(text, allow_unicode=True))
+            outfile.write(code)
+        filepath = f"docs/library/references/{name}-yaml.html"
+        with open(filepath, "w") as outfile:
+            outfile.write(template.render(code=code))
+        HTML_FILES.add(filepath)
 
 
 def build_index():

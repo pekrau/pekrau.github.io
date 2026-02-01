@@ -68,7 +68,8 @@
   <div class="card">
     <ul class="list-group list-group-flush">
       <li class="list-group-item">
-        {{ published_link(book['published']) }}
+        <strong>{{ book['reference'] }}</strong>
+        <a href="references/{{ urlize(book['reference'])}}-yaml.html">YAML</a>
       </li>
       {% if book.get('edition').get('publisher') %}
       <li class="list-group-item">
@@ -87,12 +88,11 @@
       {% endif %}
       <li class="list-group-item">
         {% if language == 'en' %}
-        Reference
+        Published
         {% else %}
-        Referens
+        Publicerad
         {% endif %}
-        <strong>{{ book['reference'] }}</strong>
-        <a href="references/{{ book['reference'].casefold().replace(' ', '-') }}.yaml">YAML</a>
+        {{ published_link(book['published']) }}
       </li>
     </ul>
   </div>
