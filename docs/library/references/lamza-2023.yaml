@@ -1,0 +1,60 @@
+abstract: 'Multicellularity evolved multiple times in the history of life, with most
+  reviewers agreeing that it appeared at least 20 times in eukaryotes. However, a
+  specific list of multicellular eukaryotes with clear criteria for inclusion has
+  not yet been published. Herein, an updated critical review of eukaryotic multicellularity
+  is presented, based on current understanding of eukaryotic phylogeny and new discoveries
+  in microbiology, phycology and mycology. As a result, 45 independent multicellular
+  lineages are identified that fall into six distinct types. Functional criteria,
+  as distinct from a purely topological definition of a cell, are introduced to bring
+  uniformity and clarity to the existing definitions of terms such as colony, multicellularity,
+  thallus or plasmodium. The category of clonal multicellularity is expanded to include:
+  (i) septated multinucleated thalli found in Pseudofungi and early-branching Fungi
+  such as Chytridiomycota and Blastocladiomycota; and (ii) multicellular reproductive
+  structures formed by plasmotomy in intracellular parasites such as Phytomyxea. Furthermore,
+  (iii) endogeneous budding, as found in Paramyxida, is described as a form of multicellularity.
+  The best-known case of clonal multicellularity, i.e. (iv) non-separation of cells
+  after cell division, as known from Metazoa and Ochrophyta, is also discussed. The
+  category of aggregative multicellularity is expanded to include not only (v) pseudoplasmodial
+  forms, such a sorocarp-forming Acrasida, but also (vi) meroplasmodial organisms,
+  such as members of Variosea or Filoreta. A common set of topological, geometric,
+  genetic and life-cycle criteria are presented that form a coherent, philosophically
+  sound framework for discussing multicellularity. A possibility of a seventh type
+  of multicellularity is discussed, that of multi-species superorganisms formed by
+  protists with obligatory bacterial symbionts, such as some members of Oxymonada
+  or Parabasalia. Its inclusion is dependent on the philosophical stance taken towards
+  the concepts of individuality and organism in biology. Taxa that merit special attention
+  are identified, such as colonial Centrohelea, and a new speculative form of multicellularity,
+  possibly present in some reticulopodial amoebae, is briefly described. Because of
+  insufficient phylogenetic and morphological data, not all lineages could be unequivocally
+  identified, and the true total number of all multicellular eukaryotic lineages is
+  therefore higher, likely close to a hundred.'
+authors:
+- Lamża, Łukasz
+date: '2023-12-01'
+doi: 10.1111/brv.13001
+edition:
+  published: '2023'
+  publisher: Wiley
+issn: 1469-185X,0006-3231
+journal: Biol. Rev. Camb. Philos. Soc.
+language: en
+number: '6'
+pages: 2188-2209
+path: /library/lamza-2023.html
+pmid: '37475165'
+published: '2023'
+reference: Lamża 2023
+subjects:
+- aggregative multicellularity
+- colony
+- endogeneous budding
+- multicellularity
+- plasmotomy
+- pseudoplasmodium
+- septation
+- sorocarp
+- thallus
+title: 'Diversity of ''simple'' multicellular eukaryotes: 45 independent cases and
+  six types of multicellularity'
+type: article
+volume: '98'

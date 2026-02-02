@@ -1,0 +1,39 @@
+abstract: Plant (archaeplastid) evolution has transformed the biosphere, but we are
+  only now beginning to learn how this took place through comparative genomics, phylogenetics,
+  and the fossil record. This has illuminated the phylogeny of Archaeplastida, Viridiplantae,
+  and Streptophyta, and has resolved the evolution of key characters, genes, and genomes
+  - revealing that many key innovations evolved long before the clades with which
+  they have been casually associated. Molecular clock analyses estimate that Streptophyta
+  and Viridiplantae emerged in the late Mesoproterozoic to late Neoproterozoic, whereas
+  Archaeplastida emerged in the late-mid Palaeoproterozoic. Together, these insights
+  inform on the coevolution of plants and the Earth system that transformed ecology
+  and global biogeochemical cycles, increased weathering, and precipitated snowball
+  Earth events, during which they would have been key to oxygen production and net
+  primary productivity (NPP).
+authors:
+- Bowles, Alexander M C
+- Williamson, Christopher J
+- Williams, Tom A
+- Lenton, Timothy M
+- Donoghue, Philip C J
+date: '2023-03-01'
+doi: 10.1016/j.tplants.2022.09.009
+edition:
+  published: '2023'
+  publisher: Elsevier BV
+issn: 1360-1385,1878-4372
+journal: Trends Plant Sci.
+language: en
+number: '3'
+pages: 312-329
+pmid: '36328872'
+published: '2023'
+reference: Bowles 2023
+subjects:
+- archaeplastida
+- streptophyta
+- viridiplantae
+- plant evolution
+title: The origin and early evolution of plants
+type: article
+volume: '28'

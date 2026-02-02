@@ -73,13 +73,20 @@ def author_display(author):
         return f"{firstname.strip()} {lastname.strip()}"
 
 
-def normalize(name):
+def normalize(reference):
     """Normalize the reference for part of a URL.
+    - Normalize non-ASCII characters.
     - Convert the string to ASCII.
     - Lowercase.
     - Replace blank with dash.
     """
-    return unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("utf-8").lower().replace(" ", "-")
+    return unicodedata.normalize("NFKD", reference).\
+        replace("æ", "a").\
+        replace("Æ", "A").\
+        encode("ASCII", "ignore").\
+        decode("utf-8").\
+        lower().\
+        replace(" ", "-")
 
 
 def text_link(text, full=False):
@@ -268,6 +275,7 @@ def read_books():
             firstname = " ".join(parts[0:-1])
             book["authors"].append(f"{lastname}, {firstname}")
         subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
+        subjects = [t for t in subjects if t]
         if "svenska" in subjects:
             book["language"] = "sv"
         else:
@@ -305,6 +313,16 @@ def read_additional():
         TEXTS[text["reference"]] = text
 
 
+def read_references():
+    "Read references from the separate database."
+    for filepath in Path("source/references").glob("*.yaml"):
+        with open(filepath) as infile:
+            text = yaml.safe_load(infile)
+            if text["reference"] in TEXTS:
+                raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
+        TEXTS[text["reference"]] = text
+
+
 def check_fixup():
     "Do some additional checks and fixups for the texts."
 
@@ -328,15 +346,15 @@ def check_fixup():
             else:
                 print(">>> invalid 'published':", text["reference"], text["title"])
 
-    # Check ISBN data for books.
+    # Check that every book has ISBN, and that it is not duplicated.
     isbns = set()
     for text in TEXTS.values():
         if text["type"] != "book":
             continue
-        if not text["isbn"]:
-            print(">>> lacking ISBN:", text["goodreads"], text["title"])
+        if not text.get("isbn"):
+            print(">>> lacking ISBN:", text.get("goodreads"), text["title"])
         if text["isbn"] in isbns:
-            print(">>> duplicate isbn:", text["goodreads"], text["title"])
+            print(">>> duplicate isbn:", text.get("goodreads"), text["title"])
         elif text["isbn"]:
             isbns.add(text["isbn"])
 
@@ -457,7 +475,7 @@ def build_pages():
 
 def build_books():
     "Build book files."
-    # Only books having ISBN (possibly a dummy value) are considered.
+    # XXX Only books having ISBN (possibly a dummy value) are considered.
     books = list(sorted([b for b in TEXTS.values() if b.get("isbn")], 
                         key=lambda b: b["reference"]))
     # Index of all books and their pages.
@@ -488,10 +506,7 @@ def build_books():
     # Subject index and pages.
     subjects = dict()
     for book in books:
-        for subject in book["subjects"]:
-            if not subject.strip():
-                print(">>> no categories for", book["isbn"], book["title"])
-                continue
+        for subject in book.get("subjects", list()):
             subjects.setdefault(subject, []).append(book)
     subjects = list(subjects.items())
     build_html("library/subjects/index.html", sitemap=True, subjects=subjects)
@@ -651,6 +666,7 @@ if __name__ == "__main__":
     read_pages()
     read_books()
     read_additional()
+    read_references()
     check_fixup()
     write_references()
     build_index()

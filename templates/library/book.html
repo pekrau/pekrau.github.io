@@ -15,7 +15,7 @@
       {% if language == 'en' %}
       Referred to in blog posts
       {% else %}
-      Referade i blogginlägg
+      Referad i blogginlägg
       {% endif %}
     </div>
     <ul class="list-group list-group-flush">
@@ -69,11 +69,24 @@
     <ul class="list-group list-group-flush">
       <li class="list-group-item">
         <strong>{{ book['reference'] }}</strong>
-        <a href="references/{{ normalize(book['reference'])}}-yaml.html">YAML</a>
+        <small>
+          <a href="references/{{ normalize(book['reference'])}}-yaml.html">YAML</a>
+        </small>
       </li>
-      {% if book.get('edition').get('publisher') %}
+      <li class="list-group-item">
+        {% if language == 'en' %}
+        Published
+        {% else %}
+        Publicerad
+        {% endif %}
+        {{ published_link(book['published']) }}
+      </li>
+      {% if book.get('edition', {}).get('publisher') %}
       <li class="list-group-item">
         {{ book['edition']['publisher'] }}
+        {% if book['edition'].get('published') and (book['edition']['published'] != book['published']) %}
+        ({{ book['edition']['published'] }})
+        {% endif %}
       </li>
       {% endif %}
       {% if book.get('isbn') %}
@@ -86,14 +99,6 @@
         Goodreads {{ book['goodreads'] }}
       </li>
       {% endif %}
-      <li class="list-group-item">
-        {% if language == 'en' %}
-        Published
-        {% else %}
-        Publicerad
-        {% endif %}
-        {{ published_link(book['published']) }}
-      </li>
     </ul>
   </div>
   

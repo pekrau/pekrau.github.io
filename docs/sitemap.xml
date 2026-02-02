@@ -1502,6 +1502,9 @@
   <lastmod>2023-02-01</lastmod>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/bibeln-2000.html</loc>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/bicchieri-2001.html</loc>
   <lastmod>2022-09-27</lastmod>
 </url>
@@ -1720,6 +1723,9 @@
 <url>
   <loc>https://pekrau.github.io/library/connell-2009.html</loc>
   <lastmod>2021-12-07</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/coyne-2010.html</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/coyne-2015.html</loc>
@@ -2306,7 +2312,7 @@
   <lastmod>2021-12-07</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/hatemi-2000.html</loc>
+  <loc>https://pekrau.github.io/library/hatemi-2011.html</loc>
   <lastmod>2024-10-07</lastmod>
 </url>
 <url>
@@ -2484,6 +2490,9 @@
 <url>
   <loc>https://pekrau.github.io/library/holst-2016.html</loc>
   <lastmod>2021-12-09</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/homeros-1980.html</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/hope-2004.html</loc>
@@ -2948,6 +2957,9 @@
 <url>
   <loc>https://pekrau.github.io/library/linton-2019.html</loc>
   <lastmod>2019-06-12</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/list-2016.html</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/locke-1689.html</loc>
@@ -3459,6 +3471,9 @@
 <url>
   <loc>https://pekrau.github.io/library/plant-1973.html</loc>
   <lastmod>2021-12-07</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/platon-2000.html</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/pluckrose-2020.html</loc>
@@ -4405,7 +4420,7 @@
   <lastmod>2018-07-20</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/wrn-2013.html</loc>
+  <loc>https://pekrau.github.io/library/warn-2013.html</loc>
   <lastmod>2021-12-17</lastmod>
 </url>
 <url>
@@ -4684,6 +4699,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Bhattacharya, Ananyo/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/diverse/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Bicchieri, Cristina/</loc>
@@ -5325,10 +5343,52 @@
   <loc>https://pekrau.github.io/library/authors/Harré, Rom/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Hatemi, Peter K/</loc>
+  <loc>https://pekrau.github.io/library/authors/Hatemi, Peter/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/McDermott, Rose/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Proctor, Darby/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Brosnan, Sarah/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Smirnov, Oleg/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Johnson, Tim/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Eaves, Lindon J/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Heath, Andrew C/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Martin, Nicholas G/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Boardman, Jason D/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Fowler, James H/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Loewen, Peter J/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Settle, Jaime/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Dawes, Christopher T/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Smith, Kevin B/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Hibbing, John R/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Hauser, Marc/</loc>
@@ -5371,12 +5431,6 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Weinstein, Bret/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Hibbing, John R/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Smith, Kevin B/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Alford, John R/</loc>
@@ -5539,6 +5593,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Holst, Sanford/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Homeros/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Hope, Tony/</loc>
@@ -6114,6 +6171,12 @@
   <loc>https://pekrau.github.io/library/authors/Linton, Magnus/</loc>
 </url>
 <url>
+  <loc>https://pekrau.github.io/library/authors/List, Christian/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Valentini, Laura/</loc>
+</url>
+<url>
   <loc>https://pekrau.github.io/library/authors/Locke, John/</loc>
 </url>
 <url>
@@ -6448,6 +6511,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Plant, Raymond/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Platon/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Pluckrose, Helen/</loc>
