@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.15.0"
+__version__ = "0.15.1"
 
 import csv
 import datetime
@@ -73,8 +73,12 @@ def author_display(author):
         return f"{firstname.strip()} {lastname.strip()}"
 
 
-def urlize(name):
-    "Convert the string to ASCII, lowercase, replace blank with dash."
+def normalize(name):
+    """Normalize the reference for part of a URL.
+    - Convert the string to ASCII.
+    - Lowercase.
+    - Replace blank with dash.
+    """
     return unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode("utf-8").lower().replace(" ", "-")
 
 
@@ -123,7 +127,7 @@ env.globals["post_link"] = post_link
 env.globals["author_link"] = author_link
 env.globals["authors_links"] = authors_links
 env.globals["author_display"] = author_display
-env.globals["urlize"] = urlize
+env.globals["normalize"] = normalize
 env.globals["text_link"] = text_link
 env.globals["category_link"] = category_link
 env.globals["tag_link"] = tag_link
@@ -312,7 +316,7 @@ def check_fixup():
 
     # Set the path for text files.
     for text in TEXTS.values():
-        text["path"] = f"/library/{urlize(text['reference'])}.html"
+        text["path"] = f"/library/{normalize(text['reference'])}.html"
 
     # Check that year published is an integer.
     for text in TEXTS.values():
@@ -342,10 +346,10 @@ def write_references():
     template = env.get_template("library/yaml.html")
     for reference, text in TEXTS.items():
         code = yaml.dump(text, allow_unicode=True)
-        name = reference.casefold().replace(" ", "-")
-        with open(f"docs/library/references/{name}.yaml", "w") as outfile:
+        norm = normalize(reference)
+        with open(f"docs/library/references/{norm}.yaml", "w") as outfile:
             outfile.write(code)
-        filepath = f"docs/library/references/{name}-yaml.html"
+        filepath = f"docs/library/references/{norm}-yaml.html"
         with open(filepath, "w") as outfile:
             outfile.write(template.render(code=code))
         HTML_FILES.add(filepath)

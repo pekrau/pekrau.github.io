@@ -69,7 +69,7 @@
     <ul class="list-group list-group-flush">
       <li class="list-group-item">
         <strong>{{ book['reference'] }}</strong>
-        <a href="references/{{ urlize(book['reference'])}}-yaml.html">YAML</a>
+        <a href="references/{{ normalize(book['reference'])}}-yaml.html">YAML</a>
       </li>
       {% if book.get('edition').get('publisher') %}
       <li class="list-group-item">
