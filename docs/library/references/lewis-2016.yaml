@@ -1,5 +1,6 @@
 authors:
 - Lewis, ND
+date: '2021-12-05'
 edition:
   published: '2016'
   publisher: CreateSpace Independent Publishing Platform
@@ -16,3 +17,4 @@ subjects:
 title: 'Deep Time Series Forecasting with Python: An Intuitive Introduction to Deep
   Learning for Applied Time Series Modeling'
 type: book
+year: 2016

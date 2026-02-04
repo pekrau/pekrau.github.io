@@ -1,6 +1,7 @@
 authors:
 - Berg, Lasse
 content: En lättläst och bra bok, trots att den är litet splittrad.
+date: '2016-02-16'
 edition:
   published: '2014'
   publisher: Ordfront förlag
@@ -15,8 +16,10 @@ path: /library/berg-2014.html
 published: '2014'
 rating: 4
 reference: Berg 2014
+reviewed: '2016-02-16'
 subjects:
 - human-evolution
 - science
 title: 'Ut ur Kalahari: Drömmen om det goda livet'
 type: book
+year: 2014

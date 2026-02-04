@@ -1,0 +1,15 @@
+{# Base template for texts table page. #}
+
+{% extends 'datatables_base.html' %}
+
+{% block javascript %}
+{{ super() }}
+<script>
+$(function() {
+  $("#texts").DataTable( {
+    "pagingType": "full_numbers",
+    "pageLength": 25
+  });
+});
+</script>
+{% endblock %}

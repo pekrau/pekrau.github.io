@@ -12,14 +12,14 @@
     <thead>
       <tr>
         <th title="Author">Författare</th>
-        <th title="Number of books">Antal böcker</th>
+        <th title="Number of texts">Antal texter</th>
       </tr>
     </thead>
     <tbody>
-      {% for author, books in sorted(authors.items()) %}
+      {% for author, texts in sorted(authors.items()) %}
       <tr>
         <td>{{ author_link(author) }}</td>
-        <td>{{ len(books) }}</th>
+        <td>{{ len(texts) }}</th>
       </tr>
       {% endfor %}
     </tbody>

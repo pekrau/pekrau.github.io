@@ -5,6 +5,7 @@ authors:
 content: A pretty good introduction to the topic, which helps you decide whether a
   graph database is appropropriate for your problem. However, there is not enough
   information to enough to actually get started.
+date: '2016-01-28'
 edition:
   published: '2013'
   publisher: O'Reilly Media
@@ -21,7 +22,9 @@ path: /library/robinson-2013.html
 published: '2013'
 rating: 3
 reference: Robinson 2013
+reviewed: '2016-01-28'
 subjects:
 - computing
 title: Graph Databases
 type: book
+year: 2013

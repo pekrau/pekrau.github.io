@@ -4,12 +4,12 @@
 
 {% block body_title %}
 <h1 title="Subject: {{ subject }}">Ämne: {{ subject }}
-  <small class="text-muted">({{ len(books) }})
+  <small class="text-muted">({{ len(texts) }})
 </h1>
 {% endblock%}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  {% include 'library/books_table.html' %}
+  {% include 'library/texts_table.html' %}
 </section>
 {% endblock %}

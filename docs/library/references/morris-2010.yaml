@@ -6,6 +6,7 @@ content: 'I have written a comment in Swedish about this book: https://kraulis.w
   Conclusion: A good overview of global history, but its main thesis about the general
   direction of history is not useful; it does not provide any useful predictions,
   at any rate.'
+date: '2015-04-23'
 edition:
   published: '2011'
   publisher: Picador
@@ -24,6 +25,7 @@ path: /library/morris-2010.html
 published: '2010'
 rating: 4
 reference: Morris 2010
+reviewed: '2015-04-23'
 subjects:
 - history
 - political-philosophy
@@ -31,3 +33,4 @@ subjects:
 title: 'Why the West Rules—for Now: The Patterns of History, and What They Reveal
   About the Future'
 type: book
+year: 2010

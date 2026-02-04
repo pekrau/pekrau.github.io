@@ -64,6 +64,7 @@ path: /library/sapolsky-2017.html
 published: '2017'
 rating: 4
 reference: Sapolsky 2017
+reviewed: '2018-09-09'
 subjects:
 - evolution
 - human-evolution
@@ -71,3 +72,4 @@ subjects:
 - science
 title: 'Behave: The Biology of Humans at Our Best and Worst'
 type: book
+year: 2017

@@ -2,6 +2,7 @@ authors:
 - Pääbo, Svante
 content: This is an excellent book. Not only does it describe the subject matter very
   well, it also provided a good account of how science is done, warts and all.
+date: '2015-04-14'
 edition:
   published: '2014'
   publisher: Basic Books
@@ -17,9 +18,11 @@ path: /library/paabo-2014.html
 published: '2014'
 rating: 5
 reference: Pääbo 2014
+reviewed: '2015-04-14'
 subjects:
 - favorites
 - human-evolution
 - science
 title: 'Neanderthal Man: In Search of Lost Genomes'
 type: book
+year: 2014

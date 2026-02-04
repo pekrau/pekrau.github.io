@@ -75,6 +75,7 @@ path: /library/mitchell-2018.html
 published: '2018'
 rating: 5
 reference: Mitchell 2018
+reviewed: '2020-07-04'
 subjects:
 - biomedicine
 - evolution
@@ -82,3 +83,4 @@ subjects:
 - science
 title: 'Innate: How the Wiring of Our Brains Shapes Who We Are'
 type: book
+year: 2018

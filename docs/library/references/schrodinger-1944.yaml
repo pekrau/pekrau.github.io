@@ -1,6 +1,7 @@
 authors:
 - Schrödinger, Erwin
 content: A classic. Everyone interested in biology needs to read it.
+date: '2018-01-24'
 edition:
   published: '1967'
   publisher: Capital City Press
@@ -15,8 +16,10 @@ path: /library/schrodinger-1944.html
 published: '1944'
 rating: 5
 reference: Schrödinger 1944
+reviewed: '2018-01-24'
 subjects:
 - evolution
 - philosophy
 title: What is life? & Mind and matter
 type: book
+year: 1944

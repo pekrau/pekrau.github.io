@@ -1,6 +1,7 @@
 authors:
 - Beazley, David
 content: Very good reference book (fourth edition).
+date: '2019-02-07'
 edition:
   published: '2009'
   publisher: Addison-Wesley Professional
@@ -15,8 +16,10 @@ path: /library/beazley-1999.html
 published: '1999'
 rating: 5
 reference: Beazley 1999
+reviewed: '2019-02-07'
 subjects:
 - computing
 - python
 title: Python Essential Reference
 type: book
+year: 1999

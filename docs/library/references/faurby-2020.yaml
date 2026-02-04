@@ -3,17 +3,17 @@ authors:
 - Silvestro, Daniele
 - Werdelin, Lars
 - Antonelli, Alexandre
-date: '2020-03-00'
 doi: 10.1111/ele.13451
 issn: 1461-023X, 1461-0248
 issue: '3'
 journal: Ecol. Lett.
 language: en
+lastmod: '2020-03-00'
 pages: 537--544
 path: /library/faurby-2020.html
 pmc: PMC7079157
 pmid: '31943670'
-published: '2020'
+published: '2020-03-00'
 reference: Faurby 2020
 subjects:
 - pyrate
@@ -26,3 +26,4 @@ subjects:
 title: Brain expansion in early hominins predicts carnivore extinctions in East Africa
 type: article
 volume: '23'
+year: 2020

@@ -56,6 +56,7 @@ path: /library/gellner-1990.html
 published: '1990'
 rating: 3
 reference: Gellner 1990
+reviewed: '2020-09-06'
 subjects:
 - history
 - human-evolution
@@ -64,3 +65,4 @@ subjects:
 - religion
 title: 'Plough, Sword and Book: The Structure of Human History'
 type: book
+year: 1990

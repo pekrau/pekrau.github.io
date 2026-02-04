@@ -7,6 +7,7 @@ content: Interesting and though-provoking. However, the book is marred by the fa
   blocks. He glosses over the fact that this would entail having to recreate an entire
   ecology of mirror-image organisms to sustain it. And the purported benefits are
   in no way commensurate with that colossal task.
+date: '2016-02-09'
 edition:
   published: '2012'
   publisher: Basic Books
@@ -26,6 +27,7 @@ path: /library/church-2012.html
 published: '2012'
 rating: 2
 reference: Church 2012
+reviewed: '2016-02-09'
 subjects:
 - biomedicine
 - dna-of-the-future
@@ -33,3 +35,4 @@ subjects:
 - science
 title: 'Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves'
 type: book
+year: 2012

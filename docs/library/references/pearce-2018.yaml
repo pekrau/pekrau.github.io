@@ -25,20 +25,18 @@ authors:
 - Tupper, Andrew S
 - Pudritz, Ralph E
 - Higgs, Paul G
-date: '2018-03-01'
 doi: 10.1089/ast.2017.1674
-edition:
-  published: '2018'
-  publisher: Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY
-    10801 USA
 issn: 1531-1074,1557-8070
 journal: Astrobiology
 language: en
+lastmod: '2018-03-01'
 number: '3'
 pages: 343-364
 path: /library/pearce-2018.html
 pmid: '29570409'
-published: '2018'
+published: '2018-03-01'
+publisher: Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY
+  10801 USA
 reference: Pearce 2018
 subjects:
 - origin of life
@@ -50,3 +48,4 @@ subjects:
 title: Constraining the time interval for the origin of life on Earth
 type: article
 volume: '18'
+year: 2018

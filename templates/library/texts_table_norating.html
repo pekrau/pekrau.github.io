@@ -1,0 +1,22 @@
+{# Table of texts omitting rating. Requires Datatables includes for proper function. #}
+
+<table id="texts" class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th title="Authors" width="25%">Författare</th>
+      <th title="Title">Titel</th>
+      <th title="Published">Publicerad</th>
+      <th title="Review">Recension</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for text in texts %}
+    <tr>
+      <td>{{ authors_links(text) }}</td>
+      <td>{{ text_link(text) }}</td>
+      <td>{{ published_link(text['published']) }}</td>
+      <td>{{ text.get('date') or '' }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

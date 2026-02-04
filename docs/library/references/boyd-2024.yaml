@@ -1,19 +1,17 @@
 authors:
 - Boyd, Robert
 - Richerson, Peter
-date: '2024-11-26'
 doi: 10.1073/pnas.2322879121
-edition:
-  published: '2024'
-  publisher: Proceedings of the National Academy of Sciences
 issn: 0027-8424,1091-6490
 issue: '48'
 journal: Proc. Natl. Acad. Sci. U. S. A.
 language: en
+lastmod: '2024-11-26'
 pages: e2322879121
 path: /library/boyd-2024.html
 pmid: '39556734'
-published: '2024'
+published: '2024-11-26'
+publisher: Proceedings of the National Academy of Sciences
 reference: Boyd 2024
 subjects:
 - cooperation
@@ -22,3 +20,4 @@ subjects:
 title: 'Cultural evolution: Where we have been and where we are going (maybe)'
 type: article
 volume: '121'
+year: 2024

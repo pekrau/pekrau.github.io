@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.15.1"
+__version__ = "0.16.0"
 
 import csv
 import datetime
@@ -16,6 +16,7 @@ import time
 import unicodedata
 
 import jinja2
+import jsonschema
 import markupsafe
 import marko
 import yaml
@@ -32,7 +33,7 @@ PAGES = []                # List of pages.
 REDIRECTED_PAGES = []     # Deleted pages that redirect to another URL.
 TAGS = {}                 # key: tag name; value: dict(name, value, posts)
 CATEGORIES = {}           # key: category name; value: dict(name, value, posts)
-TEXTS = {}                # key: "{lastname} {published}", optional resolving suffix
+TEXTS = {}                # key: "{familyname} {published}", optional resolving suffix
 AUTHORS = {}              # key: name; value: canonical name
 HTML_FILES = set()        # All HTML files created during a run.
 SITEMAP_URLS = {};        # Key: canonical URL, value: lastmod.
@@ -64,13 +65,13 @@ def authors_links(text, max=3, display=False):
 
 
 def author_display(author):
-    "Display version of the author name: firstname lastname."
+    "Display version of the author name: firstname familyname."
     try:
-        lastname, firstname = author.split(",", 1)
+        familyname, firstname = author.split(",", 1)
     except ValueError:
         return author
     else:
-        return f"{firstname.strip()} {lastname.strip()}"
+        return f"{firstname.strip()} {familyname.strip()}"
 
 
 def normalize(reference):
@@ -238,7 +239,7 @@ def read_pages():
     PAGES.sort(key=lambda p: (p.get("ordinal", 999), p["title"].lower()))
 
 
-def read_books():
+def read_goodreads():
     "Read the Goodreads dump CSV file and apply any corrections."
     non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
 
@@ -265,15 +266,15 @@ def read_books():
                         "publisher": row["Publisher"]}
         }
         book["authors"] = [row["Author l-f"]]
-        lastname = book["authors"][0].split(",")[0].strip()
-        book["reference"] = f"{lastname} {book['published']}"
+        familyname = book["authors"][0].split(",")[0].strip()
+        book["reference"] = f"{familyname} {book['published']}"
         for name in row["Additional Authors"].split(","):
             name = name.strip()
             if not name: continue
             parts = name.split()
-            lastname = parts[-1]
+            familyname = parts[-1]
             firstname = " ".join(parts[0:-1])
-            book["authors"].append(f"{lastname}, {firstname}")
+            book["authors"].append(f"{familyname}, {firstname}")
         subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
         subjects = [t for t in subjects if t]
         if "svenska" in subjects:
@@ -283,13 +284,14 @@ def read_books():
         book["subjects"] = sorted(set(subjects).difference(non_subjects))
         if row["My Rating"] and row["My Rating"] != "0":
             book["rating"] = int(row["My Rating"])
+        date = row["Date Read"].strip()
+        if not date:
+            date = row["Date Added"].strip()
+        book["lastmod"] = book["date"] = date.replace("/", "-")
         if row["My Review"]:
             book["content"] = row["My Review"].strip('"').replace("<br/>", "\n")
             book["html"] = MARKDOWN.convert(book["content"])
-        book["lastmod"] = row["Date Added"].replace("/", "-")
-        if row["Date Read"]:
-            book["date"] = row["Date Read"].replace("/", "-")
-            book["lastmod"] = book["date"]
+            book["reviewed"] = book["date"]
 
         # Read corrections file for the book, if any. Any item may be changed.
         try:
@@ -304,27 +306,31 @@ def read_books():
 
 
 def read_additional():
-    "Read additional texts; articles, links, books not in Goodreads, etc."
+    "Read additional books (not in Goodreads)."
     for filepath in Path("source/additional").glob("*.yaml"):
         with open(filepath) as infile:
             text = yaml.safe_load(infile)
+            assert text["type"] == "book"
             if text["reference"] in TEXTS:
                 raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
         TEXTS[text["reference"]] = text
 
 
-def read_references():
-    "Read references from the separate database."
-    for filepath in Path("source/references").glob("*.yaml"):
+def read_others():
+    "Read articles and links."
+    for filepath in Path("source/others").glob("*.yaml"):
         with open(filepath) as infile:
             text = yaml.safe_load(infile)
+            text["year"] = int(text["published"].split("-")[0])
+            if "lastmod" not in text:
+                text["lastmod"] = text["published"]
             if text["reference"] in TEXTS:
                 raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
         TEXTS[text["reference"]] = text
 
 
-def check_fixup():
-    "Do some additional checks and fixups for the texts."
+def fixup():
+    "Do some additional fixups for the texts."
 
     # Normalize author names.
     for text in TEXTS.values():
@@ -336,27 +342,118 @@ def check_fixup():
     for text in TEXTS.values():
         text["path"] = f"/library/{normalize(text['reference'])}.html"
 
-    # Check that year published is an integer.
+    # Set year integer value.
+    for text in TEXTS.values():
+        if text["published"].startswith("-"):
+            dateparts = (text["published"],)
+        else:
+            dateparts = text["published"].split("-")
+        parts = dateparts[0].split()
+        try:
+            if len(parts) == 1 and parts[0][0] == "-":
+                text["year"] = int(parts[0])
+            elif len(parts) > 1 and parts[-1].lower() in ("bc", "bce", "fkr", "f.kr."):
+                text["year"] = - int(parts[0])
+            else:
+                text["year"] = int(dateparts[0])
+        except ValueError:
+            print(text["title"], text["authors"], text.get("goodreads"))
+            raise
+
+    # Set up published year bins.
     for text in TEXTS.values():
         try:
-            YEAR_PUBLISHED.setdefault(int(text["published"]), list()).append(text)
-        except ValueError:
-            if text["type"] == "book":
-                print(">>> invalid 'published':", text["goodreads"], text["title"])
-            else:
-                print(">>> invalid 'published':", text["reference"], text["title"])
+            YEAR_PUBLISHED.setdefault(text["year"], list()).append(text)
+        except KeyError:
+            print(text["title"])
+            raise
+
+
+def check():
+    "Check the texts."
 
     # Check that every book has ISBN, and that it is not duplicated.
     isbns = set()
     for text in TEXTS.values():
-        if text["type"] != "book":
-            continue
-        if not text.get("isbn"):
-            print(">>> lacking ISBN:", text.get("goodreads"), text["title"])
-        if text["isbn"] in isbns:
-            print(">>> duplicate isbn:", text.get("goodreads"), text["title"])
-        elif text["isbn"]:
-            isbns.add(text["isbn"])
+        if text["type"] == "book":
+            if not text.get("isbn"):
+                print(">>> lacking ISBN:", text.get("goodreads"), text["title"])
+            if text["isbn"] in isbns:
+                print(">>> duplicate isbn:", text.get("goodreads"), text["title"])
+            elif text["isbn"]:
+                isbns.add(text["isbn"])
+
+    # Validate against JSON schema.
+    schema = dict(
+        type="object",
+        properties=dict(
+            title=dict(type="string"),
+            reference=dict(type="string"),
+            authors=dict(
+                type="array",
+                items=dict(type="string"),
+                minItems=1,
+                uniqueItems=True, # XXX regex format
+            ),
+            published=dict(type="string"),
+            year=dict(type="integer"),
+            language=dict(type="string"),
+            path=dict(type="string"),
+            subjects=dict(
+                type="array",
+                items=dict(type="string"),
+                minItems=1,
+                uniqueItems=True,
+            ),
+        ),
+        required=["title", "reference", "authors", "published", "year", "path",],
+        oneOf=[
+            dict(               # book
+                type="object",
+                properties=dict(
+                    type=dict(const="book"),
+                    subtitle=dict(type="string"),
+                    goodreads=dict(type="string"),
+                    isbn=dict(type="string"),
+                    edition=dict(
+                        type="object",
+                        properties=dict(
+                            published=dict(type="string"),
+                            publisher=dict(type="string"),
+                        ),
+                        required=["published", "publisher"],
+                    ),
+                ),
+                required=["type",]
+            ),
+            dict(               # article
+                type="object",
+                properties=dict(
+                    type=dict(const="article"),
+                ),
+                required=["type",]
+            ),
+            dict(               # link
+                type="object",
+                properties=dict(
+                    type=dict(const="link"),
+                ),
+                required=["type",]
+            ),
+        ],
+    )
+
+    validator =jsonschema.Draft202012Validator(
+        schema=schema,
+        format_checker=jsonschema.FormatChecker(["regex"])
+    )
+    
+    for text in TEXTS.values():
+        try:
+            validator.validate(text)
+        except jsonschema.exceptions.ValidationError as error:
+            print(text["reference"], text.get("goodreads"), error)
+            raise
 
 
 def write_references():
@@ -387,13 +484,13 @@ def build_index():
             content = post["content"].split("\n\n", 1)[0]
         post["short_html"] = MARKDOWN.convert(content)
     # Collect the latest book reviews.
-    books = [b for b in TEXTS.values() if b.get("date") and b.get("content")]
-    books.sort(key=lambda b: b["date"], reverse=True)
-    books = books[:MAX_LATEST_ITEMS]
-    for book in books:
-        book["short_html"] = MARKDOWN.convert(book["content"].split("\n", 1)[0])
-    items = posts + books
-    items.sort(key=lambda b: b["date"], reverse=True)
+    texts = [t for t in TEXTS.values() if t.get("date") and t.get("content")]
+    texts.sort(key=lambda t: t["date"], reverse=True)
+    texts = texts[:MAX_LATEST_ITEMS]
+    for text in texts:
+        text["short_html"] = MARKDOWN.convert(text["content"].split("\n", 1)[0])
+    items = posts + texts
+    items.sort(key=lambda i: i["date"], reverse=True)
     LATEST_ITEMS.extend(items[:MAX_LATEST_ITEMS])
     popular = [p for p in POSTS if p.get("popular")]
     build_html("index.html",
@@ -402,6 +499,7 @@ def build_index():
                categories=categories,
                recent=LATEST_ITEMS,
                popular=popular)
+
 
 def build_blog():
     "Build blog post files, index.html and list.html files for the blog."
@@ -473,63 +571,87 @@ def build_pages():
                    url=page["redirect"])
 
 
-def build_books():
-    "Build book files."
-    # XXX Only books having ISBN (possibly a dummy value) are considered.
-    books = list(sorted([b for b in TEXTS.values() if b.get("isbn")], 
-                        key=lambda b: b["reference"]))
-    # Index of all books and their pages.
-    build_html("library/index.html", sitemap=True, books=books)
-    # References in posts to books.
+def build_texts():
+    "Build text files."
+
+    # All texts sorted by reference.
+    texts = list(sorted(TEXTS.values(), key=lambda t: t["reference"]))
+
+    # Index of all texts and their pages.
+    build_html("library/index.html", sitemap=True, texts=texts)
+
+    # References in posts to texts.
     for post in POSTS:
         for reference in post.get("references", []):
             TEXTS[reference].setdefault("posts", []).append(post)
-    for book in books:
-        build_html(book["path"].strip("/"),
-                   template="library/book.html",
-                   sitemap=True,
-                   book=book,
-                   language=book.get("language") or "sv",
-                   lastmod=book.get("lastmod"))
+    for text in texts:
+        if text["type"] == "book":
+            build_html(text["path"].strip("/"),
+                       template="library/book.html",
+                       sitemap=True,
+                       book=text,
+                       language=text.get("language") or "sv",
+                       lastmod=text.get("lastmod"))
+        elif text["type"] == "article":
+            build_html(text["path"].strip("/"),
+                       template="library/article.html",
+                       sitemap=True,
+                       article=text,
+                       language=text.get("language") or "sv",
+                       lastmod=text.get("lastmod"))
+        elif text["type"] == "link":
+            build_html(text["path"].strip("/"),
+                       template="library/link.html",
+                       sitemap=True,
+                       link=text,
+                       language=text.get("language") or "sv",
+                       lastmod=text.get("lastmod"))
+        else:
+            print(text["type"], text["reference"], text["title"])
+
     # Authors index and pages.
     authors = {}
-    for book in books:
-        for author in book["authors"]:
-            authors.setdefault(author, []).append(book)
+    for text in texts:
+        for author in text["authors"]:
+            authors.setdefault(author, []).append(text)
     build_html("library/authors/index.html", sitemap=True, authors=authors)
-    for author, author_books in authors.items():
+    for author, author_texts in authors.items():
         build_html(f"library/authors/{author}/index.html",
                    template="library/authors/author.html",
                    sitemap=True,
                    author=author,
-                   books=author_books)
+                   texts=author_texts)
+
     # Subject index and pages.
     subjects = dict()
-    for book in books:
-        for subject in book.get("subjects", list()):
-            subjects.setdefault(subject, []).append(book)
+    for text in texts:
+        for subject in text.get("subjects", list()):
+            subjects.setdefault(subject, []).append(text)
     subjects = list(subjects.items())
     build_html("library/subjects/index.html", sitemap=True, subjects=subjects)
-    for subject, subject_books in subjects:
+    for subject, subject_texts in subjects:
         # Primary sort by published date, secondary sort by authors.
         # Since Python 'sort' is stable, this works.
-        subject_books.sort(key=lambda b: b["authors"])
-        subject_books.sort(key=lambda b: b["published"], reverse=True)
+        subject_texts.sort(key=lambda b: b["authors"])
+        subject_texts.sort(key=lambda b: b["published"], reverse=True)
         build_html(f"library/subjects/{subject}/index.html",
                    template="library/subjects/subject.html",
                    subject=" ".join([p.capitalize() for p in subject.split("-")]),
-                   books=subject_books)
-    # List of books referred to in posts.
+                   texts=subject_texts)
+
+    # List of texts referred to in posts.
     build_html("library/referred/index.html",
                template="library/referred.html",
-               books=[b for b in books if b.get("posts")])
-    # List of reviewed books.
+               texts=[b for b in texts if b.get("posts")])
+
+    # List of reviewed texts.
     build_html("library/reviewed/index.html",
                template="library/reviewed.html",
-               books=[b for b in books if b.get("html")])
-    # Lists of books by rating.
+               texts=[b for b in texts if b.get("html")])
+
+    # Lists of texts by rating.
     for rating in range(5, 0, -1):
-        rated = [b for b in books if b.get("rating") == rating]
+        rated = [b for b in texts if b.get("rating") == rating]
         # Primary sort by published date, secondary sort by authors.
         # Since Python 'sort' is stable, this works.
         rated.sort(key=lambda b: b["authors"])
@@ -537,14 +659,15 @@ def build_books():
         build_html(f"library/rating/{rating}/index.html",
                    template="library/rating.html",
                    rating=rating,
-                   books=rated)
-    # Lists of books by year published.
+                   texts=rated)
+
+    # Lists of texts by year published.
     for year, published in sorted(YEAR_PUBLISHED.items()):
         published = sorted(published, key=lambda b: b["reference"])
         build_html(f"library/published/{year}/index.html",
                    template="library/published.html",
                    year=year,
-                   books=published)
+                   texts=published)
 
 
 def build_html(filepath, template=None, pages=None, sitemap=False, **kwargs):
@@ -664,15 +787,16 @@ def cleanup_html_files():
 if __name__ == "__main__":
     read_posts()
     read_pages()
-    read_books()
+    read_goodreads()
     read_additional()
-    read_references()
-    check_fixup()
+    read_others()
+    fixup()
+    check()
     write_references()
     build_index()
     build_blog()
     build_pages()
-    build_books()
+    build_texts()
     write_rss()
     write_sitemap()
     cleanup_html_files()

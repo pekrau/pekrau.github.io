@@ -30,19 +30,17 @@ abstract: 'Multicellularity evolved multiple times in the history of life, with 
   therefore higher, likely close to a hundred.'
 authors:
 - Lamża, Łukasz
-date: '2023-12-01'
 doi: 10.1111/brv.13001
-edition:
-  published: '2023'
-  publisher: Wiley
 issn: 1469-185X,0006-3231
 journal: Biol. Rev. Camb. Philos. Soc.
 language: en
+lastmod: '2023-12-01'
 number: '6'
 pages: 2188-2209
 path: /library/lamza-2023.html
 pmid: '37475165'
-published: '2023'
+published: '2023-12-01'
+publisher: Wiley
 reference: Lamża 2023
 subjects:
 - aggregative multicellularity
@@ -58,3 +56,4 @@ title: 'Diversity of ''simple'' multicellular eukaryotes: 45 independent cases a
   six types of multicellularity'
 type: article
 volume: '98'
+year: 2023

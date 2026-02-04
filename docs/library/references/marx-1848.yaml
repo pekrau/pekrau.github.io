@@ -1,6 +1,7 @@
 authors:
 - Marx, Karl
 - Engels, Friedrich
+date: '2021-12-19'
 edition:
   published: '1976'
   publisher: Arbetarkultur
@@ -15,3 +16,4 @@ subjects:
 - political-philosophy
 title: Kommunistiska Manifestet
 type: book
+year: 1848

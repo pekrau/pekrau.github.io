@@ -2,6 +2,7 @@ authors:
 - Aho, Alfred V
 - Sethi, Ravi
 - Ullman, Jeffrey D
+date: '2021-12-05'
 edition:
   published: '1986'
   publisher: Addison-Wesley Publishing Company
@@ -16,3 +17,4 @@ subjects:
 - computing
 title: 'Compilers: Principles, Techniques, and Tools'
 type: book
+year: 1986

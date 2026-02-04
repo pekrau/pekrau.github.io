@@ -1,5 +1,6 @@
 authors:
 - Raschka, Sebastian
+date: '2019-02-07'
 edition:
   published: '2015'
   publisher: Packt Publishing
@@ -15,3 +16,4 @@ subjects:
 - python
 title: Python Machine Learning
 type: book
+year: 2015

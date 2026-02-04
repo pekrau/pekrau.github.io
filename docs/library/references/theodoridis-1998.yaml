@@ -1,6 +1,7 @@
 authors:
 - Theodoridis, Sergios
 - Koutroumbas, Konstantinos
+date: '2021-12-05'
 edition:
   published: '1998'
   publisher: Academic Press
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: Pattern Recognition
 type: book
+year: 1998

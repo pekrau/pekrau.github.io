@@ -1,14 +1,14 @@
 {% extends 'datatables_base.html' %}
 
-{% block head_title %}Recenserade böcker{% endblock %}
+{% block head_title %}Recenserade texter{% endblock %}
 
 {% block body_title %}
-<h1>Recenserade böcker <small class="text-muted">({{ len(books) }})</small></h1>
+<h1>Recenserade texter <small class="text-muted">({{ len(texts) }})</small></h1>
 {% endblock %}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  {% include 'library/books_table.html' %}
+  {% include 'library/texts_table.html' %}
 </section>
 {% endblock %}
 
@@ -16,7 +16,7 @@
 {{ super() }}
 <script>
 $(function() {
-  $("#books").DataTable( {
+  $("#texts").DataTable( {
     "pagingType": "full_numbers",
     "pageLength": 25,
     "order": [4, "desc"]

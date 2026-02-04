@@ -6,7 +6,8 @@ edition:
 isbn: '9140303152'
 language: sv
 path: /library/homeros-1980.html
-published: '-700'
+published: 700 fKr
 reference: Homeros 1980
 title: Odysséen
 type: book
+year: -700

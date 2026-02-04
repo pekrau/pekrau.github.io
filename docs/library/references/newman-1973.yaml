@@ -1,6 +1,7 @@
 authors:
 - Newman, William M
 - Sproull, Robert F
+date: '2021-12-05'
 edition:
   published: '1979'
   publisher: McGraw-Hill Education (ISE Editions)
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: Principles of Interactive Computer Graphics
 type: book
+year: 1973

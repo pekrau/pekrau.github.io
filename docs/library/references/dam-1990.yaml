@@ -1,8 +1,8 @@
 authors:
 - Dam, Andries van
-- Dam, Andries van
 - Feiner, Steven K
 - Hughes, John F
+date: '2021-12-05'
 edition:
   published: '1995'
   publisher: Addison-Wesley Professional
@@ -17,3 +17,4 @@ subjects:
 - computing
 title: 'Computer Graphics: Principles and Practice'
 type: book
+year: 1990

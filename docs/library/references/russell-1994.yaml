@@ -1,6 +1,7 @@
 authors:
 - Russell, Stuart
 - Norvig, Peter
+date: '2021-12-05'
 edition:
   published: '1995'
   publisher: Prentice Hall
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: 'Artificial Intelligence: A Modern Approach'
 type: book
+year: 1994

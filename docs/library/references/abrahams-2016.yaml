@@ -3,6 +3,7 @@ authors:
 - Hafner, Danijar
 - Erwitt, Erik
 - Scarpinelli, Ariel
+date: '2019-02-07'
 edition:
   published: '2016'
   publisher: Bleeding Edge Press
@@ -18,3 +19,4 @@ subjects:
 - python
 title: 'TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms'
 type: book
+year: 2016

@@ -9,6 +9,7 @@ content: 'Jag är inte nöjd med denna bok. Greider kan skriva, men stilen är l
   sina meningsmotståndare på större allvar.
 
   '
+date: '2016-02-09'
 edition:
   published: '2014'
   publisher: Ordfront
@@ -29,6 +30,7 @@ path: /library/greider-2014.html
 published: '2014'
 rating: 2
 reference: Greider 2014
+reviewed: '2016-02-09'
 subjects:
 - human-evolution
 - morality
@@ -36,3 +38,4 @@ subjects:
 - science
 title: Den solidariska genen
 type: book
+year: 2014

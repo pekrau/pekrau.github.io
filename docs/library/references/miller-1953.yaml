@@ -1,18 +1,17 @@
 authors:
 - Miller, Stanley L
-date: '1953-05-15'
 doi: 10.1126/science.117.3046.528
-edition:
-  published: '1953'
-  publisher: American Association for the Advancement of Science (AAAS)
+href: http://www.jstor.org/stable/1680569
 issn: 0036-8075,1095-9203
 issue: '3046'
 journal: Science
 language: en
+lastmod: '1953-05-15'
 pages: 528--529
 path: /library/miller-1953.html
 pmid: '13056598'
-published: '1953'
+published: '1953-05-15'
+publisher: American Association for the Advancement of Science (AAAS)
 reference: Miller 1953
 subjects:
 - origin of life
@@ -20,5 +19,5 @@ subjects:
 - amino acids
 title: A Production of Amino Acids Under Possible Primitive Earth Conditions
 type: article
-url: http://www.jstor.org/stable/1680569
 volume: '117'
+year: 1953

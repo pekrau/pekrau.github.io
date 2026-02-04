@@ -25,6 +25,7 @@ path: /library/field-2015.html
 published: '2015'
 rating: 2
 reference: Field 2015
+reviewed: '2016-02-06'
 subjects:
 - beyond-nature
 - biomedicine
@@ -32,3 +33,4 @@ subjects:
 - science
 title: 'Biocode: The New Age of Genomics'
 type: book
+year: 2015

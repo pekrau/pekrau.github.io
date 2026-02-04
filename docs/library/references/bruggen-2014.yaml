@@ -1,5 +1,6 @@
 authors:
 - Bruggen, Rik Van
+date: '2016-01-28'
 edition:
   published: '2014'
   publisher: Packt Publishing
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: Learning Neo4j
 type: book
+year: 2014

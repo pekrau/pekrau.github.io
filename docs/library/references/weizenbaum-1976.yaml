@@ -1,5 +1,6 @@
 authors:
 - Weizenbaum, Joseph
+date: '2021-12-05'
 edition:
   published: '1976'
   publisher: W H Freeman & Co
@@ -15,3 +16,4 @@ subjects:
 - philosophy
 title: 'Computer Power and Human Reason: From Judgment to Calculation'
 type: book
+year: 1976

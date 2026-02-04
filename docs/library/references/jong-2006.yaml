@@ -1,5 +1,6 @@
 authors:
 - De Jong, Kenneth A
+date: '2021-12-05'
 edition:
   published: '2016'
   publisher: Bradford Books
@@ -15,3 +16,4 @@ subjects:
 - evolution
 title: 'Evolutionary Computation: A Unified Approach'
 type: book
+year: 2006

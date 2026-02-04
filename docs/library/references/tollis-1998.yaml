@@ -3,6 +3,7 @@ authors:
 - Eades, Peter
 - Tamassia, Roberto
 - Tollis, Ioannis G
+date: '2022-09-03'
 edition:
   published: '1998'
   publisher: Pearson
@@ -17,3 +18,4 @@ subjects:
 - computing
 title: 'Graph Drawing: Algorithms for the Visualization of Graphs'
 type: book
+year: 1998

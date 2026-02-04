@@ -1,6 +1,7 @@
 authors:
 - Harel, David
 - Politi, Michal
+date: '2021-12-05'
 edition:
   published: '1998'
   publisher: McGraw-Hill Companies
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: 'Modeling Reactive Systems with Statecharts: The Statemate Approach'
 type: book
+year: 1998

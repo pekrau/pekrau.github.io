@@ -1,5 +1,6 @@
 authors:
 - Ramalho, Luciano
+date: '2021-12-05'
 edition:
   published: '2015'
   publisher: O'Reilly Media
@@ -15,3 +16,4 @@ subjects:
 - python
 title: 'Fluent Python: Clear, Concise, and Effective Programming'
 type: book
+year: 2015

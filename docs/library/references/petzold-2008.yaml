@@ -1,5 +1,6 @@
 authors:
 - Petzold, Charles
+date: '2021-12-05'
 edition:
   published: '2008'
   publisher: Wiley
@@ -15,3 +16,4 @@ subjects:
 title: 'The Annotated Turing: A Guided Tour Through Alan Turing''s Historic Paper
   on Computability and the Turing Machine'
 type: book
+year: 2008

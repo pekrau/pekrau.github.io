@@ -1,0 +1,144 @@
+{% extends 'base.html' %}
+
+{% block head_title %}{{ article["title"] }}{% endblock %}
+
+{% block body_title %}
+<h1>{{ article["title"] }}</h1>
+<h3>{{ authors_links(article, max=None, display=True) }}</h3>
+{% endblock %}
+
+{% block main_section %}
+<section class="col-lg-6 offset-lg-1">
+  {% if article.get("posts") %}
+  <div class="card mb-3">
+    <div class="card-header bg-light" title="Referred">
+      {% if language == 'en' %}
+      Referred to in blog posts
+      {% else %}
+      Referad i blogginlägg
+      {% endif %}
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for post in article["posts"] %}
+      <li class="list-group-item">
+        {{ post_link(post) }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if article.get('rating') %}
+  <div class="card">
+    <div class="card-header bg-light">
+      <h5 class="card-title"  title="Rating {{ article['rating'] }}">
+        {% if language == 'en' %}
+        Rating:
+        {% else %}
+        Betyg:
+        {% endif %}
+        {% for i in range(article["rating"]) %}
+        <i class="bi bi-star-fill text-warning"></i>
+        {% endfor %}
+      </h5>
+    </div>
+    <div class="card-body">
+      {% if article.get("reviewes") %}
+      <h5>
+        {% if language == 'en' %}
+        My review
+        {% else %}
+        Min recension
+        {% endif %}
+        <small class="text-muted">{{ article['reviewed'] }}</small>
+      </h5>
+      {% endif %}
+      {{ article['html'] | safe }}
+    </div>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}
+
+{% block main_aside %}
+<aside class="col-lg-3 offset-lg-2">
+
+  <div class="card">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">
+        <strong>{{ article['reference'] }}</strong>
+        <small>
+          <a href="references/{{ normalize(article['reference'])}}-yaml.html">YAML</a>
+        </small>
+      </li>
+      <li class="list-group-item">
+        {% if language == 'en' %}
+        Published
+        {% else %}
+        Publicerad
+        {% endif %}
+        {{ published_link(article['published']) }}
+      </li>
+      {% if article.get('DOI') %}
+      <li class="list-group-item">
+        DOI {{ article['doi'] }}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+  
+  <div class="card mt-3">
+    <div class="card-header bg-light" title="Subjects">
+      {% if language == 'en' %}
+      Subjects
+      {% else %}
+      Ämnen
+      {% endif %}
+    </div>
+    <div class="card-body">
+      {% for subject in article["subjects"] %}
+      {{ subject_link(subject) }}
+      <br>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="card mt-3">
+    <div class="card-header" title="External links">
+      {% if language == 'en' %}
+      External links
+      {% else %}
+      Externa länkar
+      {% endif %}
+      <i class="bi bi-box-arrow-up-right"></i>
+    </div>
+    <ul class="list-group list-group-flush">
+      {% if article.get("href") %}
+      <li class="list-group-item">
+        href
+        <a target="_blank" href="{{ article['href'] }}">
+          {{ article['href'] }}
+        </a>
+      </li>
+      {% endif %}
+      {% if article.get("doi") %}
+      <li class="list-group-item">
+        DOI
+        <a target="_blank" href="https://doi.org/{{ article['doi'] }}">
+          {{ article['doi'] }}
+        </a>
+      </li>
+      {% endif %}
+      {% if article.get("pubmed") %}
+      <li class="list-group-item">
+        PubMed
+        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/{{ article['pubmed'] }}">
+          {{ article['pubmed'] }}
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+
+</aside>
+{% endblock %}

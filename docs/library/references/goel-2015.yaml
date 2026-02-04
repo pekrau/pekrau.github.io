@@ -1,5 +1,6 @@
 authors:
 - Goel, Ankur
+date: '2016-01-28'
 edition:
   published: '2015'
   publisher: Packt Publishing
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: Neo4j Cookbook
 type: book
+year: 2015

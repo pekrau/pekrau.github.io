@@ -17,6 +17,7 @@ content: 'A little gem of a book in the form of two essays from the last few yea
   organism passively receives.'
 date: '2022-05-19'
 edition:
+  published: '1990'
   publisher: Thoemmes
 goodreads: '416798'
 html: '<p>A little gem of a book in the form of two essays from the last few years
@@ -41,6 +42,7 @@ path: /library/popper-1990b.html
 published: '1990'
 rating: 5
 reference: Popper 1990b
+reviewed: '2022-05-19'
 subjects:
 - favorites
 - human-evolution
@@ -49,3 +51,4 @@ subjects:
 - science
 title: A World of Propensities
 type: book
+year: 1990

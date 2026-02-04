@@ -1,5 +1,6 @@
 authors:
 - Panzarino, Onofrio
+date: '2016-01-28'
 edition:
   published: '2014'
   publisher: Packt Publishing
@@ -14,3 +15,4 @@ subjects:
 - computing
 title: Learning Cypher
 type: book
+year: 2014

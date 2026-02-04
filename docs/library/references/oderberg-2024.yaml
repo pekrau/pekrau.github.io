@@ -1,13 +1,12 @@
 accessed: '2024-12-01'
 authors:
 - Oderberg, David S
-date: '2024-10-22'
-edition:
-  published: '2024'
-  publisher: Aeon
+href: https://aeon.co/essays/a-new-theory-suggests-mistakes-are-an-essential-part-of-being-alive
 language: en
+lastmod: '2024-10-22'
 path: /library/oderberg-2024.html
-published: '2024'
+published: '2024-10-22'
+publisher: Aeon
 reference: Oderberg 2024
 subjects:
 - philosophy of science
@@ -15,4 +14,4 @@ subjects:
 - evolution
 title: Life makes mistakes
 type: link
-url: https://aeon.co/essays/a-new-theory-suggests-mistakes-are-an-essential-part-of-being-alive
+year: 2024

@@ -1,5 +1,6 @@
 authors:
 - Gupta, Sumit
+date: '2016-01-28'
 edition:
   published: '2015'
   publisher: Packt Publishing
@@ -14,3 +15,4 @@ subjects:
 - computing
 title: Neo4j Essentials
 type: book
+year: 2015

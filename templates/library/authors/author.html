@@ -1,14 +1,14 @@
-{% extends 'library/books_base.html' %}
+{% extends 'library/texts_base.html' %}
 
 {% block head_title %}{{ author }}{% endblock %}
 
 {% block body_title %}
 <h1>{{ author_display(author) }}</h1>
-<h3 class="text-muted">{{ len(books) }} böcker</h3>
+<h3 class="text-muted">{{ len(texts) }} texter</h3>
 {% endblock %}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  {% include 'library/books_table.html' %}
+  {% include 'library/texts_table.html' %}
 </section>
 {% endblock %}

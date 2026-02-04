@@ -24,6 +24,7 @@ path: /library/levine-2016.html
 published: '2016'
 rating: 4
 reference: Levine 2016
+reviewed: '2018-02-01'
 subjects:
 - biomedicine
 - history
@@ -32,3 +33,4 @@ subjects:
 - science
 title: 'Eugenics: A Very Short Introduction'
 type: book
+year: 2016

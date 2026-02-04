@@ -1,4 +1,4 @@
-{% extends 'library/books_base.html' %}
+{% extends 'library/texts_base.html' %}
 
 {% block head_title %}Texter med betyg {{ rating }}{% endblock %}
 
@@ -8,12 +8,12 @@
   {% for i in range(rating) %}
   <i class="bi bi-star-fill text-warning"></i>
   {% endfor %}
-  <small class="text-muted">({{ len(books) }})
+  <small class="text-muted">({{ len(texts) }})
 </h1>
 {% endblock %}
 
 {% block main_section %}
 <section class="col-lg-10 offset-lg-1">
-  {% include 'library/books_table_norating.html' %}
+  {% include 'library/texts_table_norating.html' %}
 </section>
 {% endblock %}

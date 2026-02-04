@@ -2,6 +2,7 @@ authors:
 - Goodfellow, Ian
 - Bengio, Yoshua
 - Courville, Aaron
+date: '2019-02-07'
 edition:
   published: '2016'
   publisher: The MIT Press
@@ -16,3 +17,4 @@ subjects:
 - computing
 title: Deep Learning
 type: book
+year: 2016

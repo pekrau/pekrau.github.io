@@ -1,6 +1,7 @@
 authors:
 - Torvalds, Linus
 - Diamond, David
+date: '2021-12-05'
 edition:
   published: '2001'
   publisher: Alfabeta
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: Just for fun
 type: book
+year: 2001

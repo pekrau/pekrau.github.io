@@ -4,19 +4,17 @@ authors:
 - Seibold, Gerd M
 - Sugiyama, Hirokazu
 - Gernaey, Krist V
-date: '2022-11-01'
 doi: 10.1016/j.biotechadv.2022.108015
-edition:
-  published: '2022'
-  publisher: Elsevier BV
 issn: 0734-9750,1873-1899
 issue: '108015'
 journal: Biotechnol. Adv.
 language: en
+lastmod: '2022-11-01'
 pages: '108015'
 path: /library/hartmann-2022.html
 pmid: '35781047'
-published: '2022'
+published: '2022-11-01'
+publisher: Elsevier BV
 reference: Hartmann 2022
 subjects:
 - data collection
@@ -27,3 +25,4 @@ subjects:
 title: 'Digital models in biotechnology: Towards multi-scale integration and implementation'
 type: article
 volume: '60'
+year: 2022

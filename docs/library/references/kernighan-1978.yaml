@@ -1,6 +1,7 @@
 authors:
 - Kernighan, Brian W
 - Ritchie, Dennis M
+date: '2021-12-05'
 edition:
   published: '1988'
   publisher: Pearson
@@ -15,3 +16,4 @@ subjects:
 - computing
 title: The C Programming Language
 type: book
+year: 1978

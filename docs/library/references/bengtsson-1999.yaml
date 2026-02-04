@@ -34,6 +34,7 @@ path: /library/bengtsson-1999.html
 published: '1999'
 rating: 5
 reference: Bengtsson 1999
+reviewed: '2018-02-18'
 subjects:
 - biomedicine
 - history
@@ -42,3 +43,4 @@ subjects:
 - science
 title: Genetik och politik
 type: book
+year: 1999
