@@ -76,11 +76,11 @@
       </li>
       <li class="list-group-item">
         {% if language == 'en' %}
-        Published
+        Book
         {% else %}
-        Publicerad
+        Bok
         {% endif %}
-        {{ published_link(book['published']) }}
+        {{ published_link(book['year']) }}
       </li>
       {% if book.get('edition', {}).get('publisher') %}
       <li class="list-group-item">

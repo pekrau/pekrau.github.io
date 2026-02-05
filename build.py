@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.16.0"
+__version__ = "0.16.1"
 
 import csv
 import datetime
@@ -383,8 +383,8 @@ def check():
             elif text["isbn"]:
                 isbns.add(text["isbn"])
 
-    # Validate against JSON schema.
-    schema = dict(
+    # JSON schema for book, article and link YAML files.
+    base_schema = dict(
         type="object",
         properties=dict(
             title=dict(type="string"),
@@ -399,6 +399,13 @@ def check():
             year=dict(type="integer"),
             language=dict(type="string"),
             path=dict(type="string"),
+            content=dict(type="string"),
+            html=dict(type="string"),
+            rating=dict(type="integer"),
+            date=dict(type="string"),
+            reviewed=dict(type="string"),
+            lastmod=dict(type="string"),
+            href=dict(type="string"),
             subjects=dict(
                 type="array",
                 items=dict(type="string"),
@@ -406,58 +413,90 @@ def check():
                 uniqueItems=True,
             ),
         ),
-        required=["title", "reference", "authors", "published", "year", "path",],
-        oneOf=[
-            dict(               # book
-                type="object",
-                properties=dict(
-                    type=dict(const="book"),
-                    subtitle=dict(type="string"),
-                    goodreads=dict(type="string"),
-                    isbn=dict(type="string"),
-                    edition=dict(
-                        type="object",
-                        properties=dict(
-                            published=dict(type="string"),
-                            publisher=dict(type="string"),
-                        ),
-                        required=["published", "publisher"],
-                    ),
-                ),
-                required=["type",]
-            ),
-            dict(               # article
-                type="object",
-                properties=dict(
-                    type=dict(const="article"),
-                ),
-                required=["type",]
-            ),
-            dict(               # link
-                type="object",
-                properties=dict(
-                    type=dict(const="link"),
-                ),
-                required=["type",]
-            ),
-        ],
+        required=["type", "title", "reference", "authors", "published", "year", "path",],
+        additionalProperties=False,
     )
 
-    validator =jsonschema.Draft202012Validator(
-        schema=schema,
+    # Validate book YAML files.
+    book_schema = base_schema.copy()
+    book_schema["properties"].update(dict(
+        type=dict(const="book"),
+        subtitle=dict(type="string"),
+        goodreads=dict(type="string"),
+        isbn=dict(type="string"),
+        edition=dict(
+            type="object",
+            properties=dict(
+                published=dict(type="string"),
+                publisher=dict(type="string"),
+            ),
+            required=["published", "publisher"],
+            additionalProperties=False,
+        ),
+    ))
+    validator = jsonschema.Draft202012Validator(
+        schema=book_schema,
         format_checker=jsonschema.FormatChecker(["regex"])
     )
-    
-    for text in TEXTS.values():
+    for book in [t for t in TEXTS.values() if t["type"] == "book"]:
         try:
-            validator.validate(text)
+            validator.validate(book)
         except jsonschema.exceptions.ValidationError as error:
-            print(text["reference"], text.get("goodreads"), error)
+            print(book["reference"], book.get("goodreads"), error)
+            raise
+
+    # Validate article YAML files.
+    article_schema = base_schema.copy()
+    article_schema["properties"].update(dict(
+        type=dict(const="article"),
+        abstract=dict(type="string"),
+        book=dict(type="string"),
+        journal=dict(type="string"),
+        issn=dict(type="string"),
+        published=dict(type="string"),
+        publisher=dict(type="string"),
+        eprint=dict(type="string"),
+        archiveprefix=dict(type="string"),
+        primaryclass=dict(type="string"),
+        volume=dict(type="string"),
+        issue=dict(type="string"),
+        pages=dict(type="string"),
+        doi=dict(type="string"),
+        pmid=dict(type="string"),
+        pmc=dict(type="string"),
+    ))
+    validator = jsonschema.Draft202012Validator(
+        schema=article_schema,
+        format_checker=jsonschema.FormatChecker(["regex"])
+    )
+    for article in [t for t in TEXTS.values() if t["type"] == "article"]:
+        try:
+            validator.validate(article)
+        except jsonschema.exceptions.ValidationError as error:
+            print(article["reference"], error)
+            raise
+
+    # Validate link YAML files.
+    link_schema = base_schema.copy()
+    link_schema["properties"].update(dict(
+        type=dict(const="link"),
+        accessed=dict(type="string"),
+    ))
+    link_schema["required"].append("href")
+    validator = jsonschema.Draft202012Validator(
+        schema=link_schema,
+        format_checker=jsonschema.FormatChecker(["regex"])
+    )
+    for link in [t for t in TEXTS.values() if t["type"] == "link"]:
+        try:
+            validator.validate(link)
+        except jsonschema.exceptions.ValidationError as error:
+            print(link["reference"], link["href"], error)
             raise
 
 
 def write_references():
-    "Write the reference YAML files and their HTML files for all texts (books)."
+    "Write the reference YAML files and their HTML files for all texts."
     template = env.get_template("library/yaml.html")
     for reference, text in TEXTS.items():
         code = yaml.dump(text, allow_unicode=True)

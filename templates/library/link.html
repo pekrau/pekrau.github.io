@@ -43,7 +43,7 @@
       </h5>
     </div>
     <div class="card-body">
-      {% if link.get("reviewes") %}
+      {% if link.get("reviewed") %}
       <h5>
         {% if language == 'en' %}
         My review
@@ -73,11 +73,11 @@
       </li>
       <li class="list-group-item">
         {% if language == 'en' %}
-        Published
+        Link
         {% else %}
-        Publicerad
+        Länk
         {% endif %}
-        {{ published_link(link['published']) }}
+        {{ published_link(link['year']) }}
       </li>
       {% if link.get('DOI') %}
       <li class="list-group-item">

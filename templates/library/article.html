@@ -8,14 +8,45 @@
 {% endblock %}
 
 {% block main_section %}
-<section class="col-lg-6 offset-lg-1">
+<section class="col-lg-8 offset-lg-1">
+  <div class="card mb-3">
+    <div class="card-header bg-light" title="Abstract">
+      <div class="card-title">
+        {{ article["journal"] }}
+        {{ article["volume"] }}
+        {{ article["year"] }}
+        {{ article["issue"] }}
+        {{ article["pages"] }}
+      </div>
+    </div>
+  </div>
+
+  {% if article.get("abstract") %}
+  <div class="card mb-3">
+    <div class="card-header bg-light" title="Abstract">
+      <div class="card-title">
+        {% if language == 'sv' %}
+        Sammanfattning
+        {% else %}
+        Abstract
+        {% endif %}
+      </div>
+    </div>
+    <div class="card-body">
+      <p>
+        {{ article["abstract"] }}
+      </p>
+    </div>
+  </div>
+  {% endif %}
+
   {% if article.get("posts") %}
   <div class="card mb-3">
     <div class="card-header bg-light" title="Referred">
       {% if language == 'en' %}
       Referred to in blog posts
       {% else %}
-      Referad i blogginlägg
+      Refererad i blogginlägg
       {% endif %}
     </div>
     <ul class="list-group list-group-flush">
@@ -43,7 +74,7 @@
       </h5>
     </div>
     <div class="card-body">
-      {% if article.get("reviewes") %}
+      {% if article.get("reviewed") %}
       <h5>
         {% if language == 'en' %}
         My review
@@ -61,7 +92,7 @@
 {% endblock %}
 
 {% block main_aside %}
-<aside class="col-lg-3 offset-lg-2">
+<aside class="col-lg-3">
 
   <div class="card">
     <ul class="list-group list-group-flush">
@@ -73,11 +104,11 @@
       </li>
       <li class="list-group-item">
         {% if language == 'en' %}
-        Published
+        Article
         {% else %}
-        Publicerad
+        Artikel
         {% endif %}
-        {{ published_link(article['published']) }}
+        {{ published_link(article['year']) }}
       </li>
       {% if article.get('DOI') %}
       <li class="list-group-item">
@@ -129,11 +160,11 @@
         </a>
       </li>
       {% endif %}
-      {% if article.get("pubmed") %}
+      {% if article.get("pmid") %}
       <li class="list-group-item">
         PubMed
-        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/{{ article['pubmed'] }}">
-          {{ article['pubmed'] }}
+        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/{{ article['pmid'] }}">
+          {{ article['pmid'] }}
         </a>
       </li>
       {% endif %}
