@@ -16,12 +16,6 @@ pmid: '35781047'
 published: '2022-11-01'
 publisher: Elsevier BV
 reference: Hartmann 2022
-subjects:
-- data collection
-- mathematical modelling
-- model validation
-- multi-scale
-- segregation
 title: 'Digital models in biotechnology: Towards multi-scale integration and implementation'
 type: article
 volume: '60'

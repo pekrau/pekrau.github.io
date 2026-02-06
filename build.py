@@ -1,6 +1,6 @@
 "Build the website by converting MD to HTML and creating index pages."
 
-__version__ = "0.16.1"
+__version__ = "0.16.2"
 
 import csv
 import datetime
@@ -24,6 +24,33 @@ import yaml
 BASE_URL = "https://pekrau.github.io"    # No trailing "/" slash!
 GOODREADS_FILENAME = "source/goodreads_library_export.csv"
 AUTHORS_CANONICAL_FILENAME = "source/authors_canonical.csv"
+
+SUBJECTS = set([
+    "beyond-nature",
+    "biomedicine",
+    "computing",
+    "cooperation",
+    "culture",
+    "dna-of-the-future",
+    "enlightenment",
+    "evolution",
+    "favorites",
+    "history",
+    "human-evolution",
+    "karl-popper",
+    "liberalism",
+    "literature-music-art",
+    "morality",
+    "philosophy",
+    "political-philosophy",
+    "politics",
+    "python",
+    "psychology",
+    "religion",
+    "science",
+    "svenska",
+])
+
 
 FRONT_MATTER_RX = re.compile(r"^---(.*?)---", re.DOTALL | re.MULTILINE)
 
@@ -241,7 +268,6 @@ def read_pages():
 
 def read_goodreads():
     "Read the Goodreads dump CSV file and apply any corrections."
-    non_subjects = set(["currently-reading", "to-read", "read", "reviewed", "svenska"])
 
     # Read lookup table of canonical author names.
     with open(AUTHORS_CANONICAL_FILENAME) as infile:
@@ -276,12 +302,11 @@ def read_goodreads():
             firstname = " ".join(parts[0:-1])
             book["authors"].append(f"{familyname}, {firstname}")
         subjects = [t.strip() for t in row["Bookshelves"].strip('"').split(",")]
-        subjects = [t for t in subjects if t]
+        book["subjects"] = subjects
         if "svenska" in subjects:
             book["language"] = "sv"
         else:
             book["language"] = "en"
-        book["subjects"] = sorted(set(subjects).difference(non_subjects))
         if row["My Rating"] and row["My Rating"] != "0":
             book["rating"] = int(row["My Rating"])
         date = row["Date Read"].strip()
@@ -354,7 +379,18 @@ def fixup():
         if "lastmod" not in text:
             text["lastmod"] = text["published"]
 
-    # Set up published year bins.
+    # Remove non-canonical subjects.
+    for text in TEXTS.values():
+        try:
+            subjects = SUBJECTS.intersection(text.pop("subjects"))
+            if not subjects:
+                raise KeyError
+        except KeyError:
+            pass
+        else:
+            text["subjects"] = sorted(subjects)
+
+    # Set up bins for 'year'.
     for text in TEXTS.values():
         try:
             YEAR_PUBLISHED.setdefault(text["year"], list()).append(text)

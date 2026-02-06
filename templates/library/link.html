@@ -8,7 +8,10 @@
 {% endblock %}
 
 {% block main_section %}
-<section class="col-lg-6 offset-lg-1">
+<section class="col-lg-8 offset-lg-1">
+  <h4>
+    <a target="_blank" href="{{ link['href'] }}">{{ link['href'] }}</a>
+  </h4>
   {% if link.get("posts") %}
   <div class="card mb-3">
     <div class="card-header bg-light" title="Referred">
@@ -61,7 +64,7 @@
 {% endblock %}
 
 {% block main_aside %}
-<aside class="col-lg-3 offset-lg-2">
+<aside class="col-lg-3">
 
   <div class="card">
     <ul class="list-group list-group-flush">
@@ -77,6 +80,8 @@
         {% else %}
         Länk
         {% endif %}
+      </li>
+      <li class="list-group-item">
         {{ published_link(link['year']) }}
       </li>
       {% if link.get('DOI') %}
@@ -112,24 +117,18 @@
       {% endif %}
       <i class="bi bi-box-arrow-up-right"></i>
     </div>
-    <ul class="list-group list-group-flush">
-      {% if link.get("href") %}
-      <li class="list-group-item">
-        href
-        <a target="_blank" href="{{ link['href'] }}">
-          {{ link['href'] }}
-        </a>
-      </li>
-      {% endif %}
-      {% if link.get("doi") %}
-      <li class="list-group-item">
-        DOI
-        <a target="_blank" href="https://doi.org/{{ link['doi'] }}">
-          {{ link['doi'] }}
-        </a>
-      </li>
-      {% endif %}
-    </ul>
+    <div class="card-body">
+      <ul class="list-group list-group-flush">
+        {% if link.get("doi") %}
+        <li class="list-group-item">
+          DOI
+          <a target="_blank" href="https://doi.org/{{ link['doi'] }}">
+            {{ link['doi'] }}
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
   </div>
 
 </aside>

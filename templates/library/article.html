@@ -10,11 +10,11 @@
 {% block main_section %}
 <section class="col-lg-8 offset-lg-1">
   <h4>
-    <i>{{ article["journal"] }}</i>,
+    <i>{{ article["journal"] }}</i>
     {{ article["volume"] }}
     ({{ article["issue"] }}),
     {{ article["pages"] }}
-    ({{ article["published"] }})
+    <small>{{ article["published"] }}</small>
   </h4>
 
   {% if article.get("abstract") %}
@@ -104,6 +104,8 @@
         {% else %}
         Artikel
         {% endif %}
+      </li>
+      <li class="list-group-item">
         {{ published_link(article['year']) }}
       </li>
       {% if article.get('DOI') %}
@@ -139,32 +141,28 @@
       {% endif %}
       <i class="bi bi-box-arrow-up-right"></i>
     </div>
-    <ul class="list-group list-group-flush">
-      {% if article.get("href") %}
-      <li class="list-group-item">
-        href
-        <a target="_blank" href="{{ article['href'] }}">
-          {{ article['href'] }}
-        </a>
-      </li>
-      {% endif %}
-      {% if article.get("doi") %}
-      <li class="list-group-item">
-        DOI
-        <a target="_blank" href="https://doi.org/{{ article['doi'] }}">
-          {{ article['doi'] }}
-        </a>
-      </li>
-      {% endif %}
-      {% if article.get("pmid") %}
-      <li class="list-group-item">
-        PubMed
-        <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/{{ article['pmid'] }}">
-          {{ article['pmid'] }}
-        </a>
-      </li>
-      {% endif %}
-    </ul>
+    <div class="card-body">
+      <ul class="list-group list-group-flush">
+        {% if article.get("href") %}
+        <li class="list-group-item">
+          href
+          <a target="_blank" href="{{ article['href'] }}">{{ article['href'] }}</a>
+        </li>
+        {% endif %}
+        {% if article.get("doi") %}
+        <li class="list-group-item">
+          DOI
+          <a target="_blank" href="https://doi.org/{{ article['doi'] }}">{{ article['doi'] }}</a>
+        </li>
+        {% endif %}
+        {% if article.get("pmid") %}
+        <li class="list-group-item">
+          PubMed
+          <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/{{ article['pmid'] }}">{{ article['pmid'] }}</a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
   </div>
 
 </aside>

@@ -1,0 +1,39 @@
+type: book
+reference: Popper 1945
+title: string
+subtitle: string
+authors:
+- Popper, Karl
+edition:
+  published: date-string
+  publisher: string
+published: string, original year
+language: en|sv
+isbn: '9127xxxx'
+goodreads: '123456'
+pages: '300'
+href: string
+subjects:
+- beyond-nature
+- biomedicine
+- computing
+- cooperation
+- culture
+- dna-of-the-future
+- enlightenment
+- evolution
+- favorites
+- history
+- human-evolution
+- karl-popper
+- liberalism
+- literature-music-art
+- morality
+- philosophy
+- political-philosophy
+- politics
+- python
+- psychology
+- religion
+- science
+- svenska
