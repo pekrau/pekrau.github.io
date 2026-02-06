@@ -1,15 +1,11 @@
-<!doctype html>
-<html>
-  <meta charset="UTF-8">
-  <body>
-    <pre>
 authors:
 - Platon
 edition:
-  published: &#39;2000&#39;
+  published: '2000'
   publisher: Atlantis
-isbn: &#39;9789174868746&#39;
+isbn: '9789174868746'
 language: sv
+lastmod: 387 fKr
 path: /library/platon-2000.html
 published: 387 fKr
 reference: Platon 2000
@@ -18,7 +14,3 @@ subtitle: Sokrates försvarstal / Kriton / Euthyfron / Laches / Den mindre Hippi
 title: Skrifter. Bok 1
 type: book
 year: -387
-
-    </pre>
-  </body>
-</html>

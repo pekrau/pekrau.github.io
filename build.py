@@ -305,25 +305,14 @@ def read_goodreads():
         TEXTS[book["reference"]] = book
 
 
-def read_additional():
-    "Read additional books (not in Goodreads)."
-    for filepath in Path("source/additional").glob("*.yaml"):
+def read_references():
+    """Read references:
+    - Additional books not in Goodreads
+    - Articles and links added manually.
+    """
+    for filepath in Path("source/references").glob("*.yaml"):
         with open(filepath) as infile:
             text = yaml.safe_load(infile)
-            assert text["type"] == "book"
-            if text["reference"] in TEXTS:
-                raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
-        TEXTS[text["reference"]] = text
-
-
-def read_others():
-    "Read articles and links."
-    for filepath in Path("source/others").glob("*.yaml"):
-        with open(filepath) as infile:
-            text = yaml.safe_load(infile)
-            text["year"] = int(text["published"].split("-")[0])
-            if "lastmod" not in text:
-                text["lastmod"] = text["published"]
             if text["reference"] in TEXTS:
                 raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
         TEXTS[text["reference"]] = text
@@ -338,11 +327,11 @@ def fixup():
             author = author.replace(".", "").strip().rstrip(",")
             text["authors"][pos] =  AUTHORS.get(author, author)
 
-    # Set the path for text files.
+    # Set 'path'.
     for text in TEXTS.values():
         text["path"] = f"/library/{normalize(text['reference'])}.html"
 
-    # Set year integer value.
+    # Set 'year' integer value.
     for text in TEXTS.values():
         if text["published"].startswith("-"):
             dateparts = (text["published"],)
@@ -359,6 +348,11 @@ def fixup():
         except ValueError:
             print(text["title"], text["authors"], text.get("goodreads"))
             raise
+
+    # Set 'lastmod'.
+    for text in TEXTS.values():
+        if "lastmod" not in text:
+            text["lastmod"] = text["published"]
 
     # Set up published year bins.
     for text in TEXTS.values():
@@ -383,7 +377,7 @@ def check():
             elif text["isbn"]:
                 isbns.add(text["isbn"])
 
-    # JSON schema for book, article and link YAML files.
+    # Base JSON schema for the reference YAML files.
     base_schema = dict(
         type="object",
         properties=dict(
@@ -501,9 +495,9 @@ def write_references():
     for reference, text in TEXTS.items():
         code = yaml.dump(text, allow_unicode=True)
         norm = normalize(reference)
-        with open(f"docs/library/references/{norm}.yaml", "w") as outfile:
+        with open(f"references/{norm}.yaml", "w") as outfile:
             outfile.write(code)
-        filepath = f"docs/library/references/{norm}-yaml.html"
+        filepath = f"docs/library/{norm}-yaml.html"
         with open(filepath, "w") as outfile:
             outfile.write(template.render(code=code))
         HTML_FILES.add(filepath)
@@ -827,8 +821,7 @@ if __name__ == "__main__":
     read_posts()
     read_pages()
     read_goodreads()
-    read_additional()
-    read_others()
+    read_references()
     fixup()
     check()
     write_references()

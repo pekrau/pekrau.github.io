@@ -1,0 +1,1 @@
+Articles, link and books (not in Goodreads) added manually. Format is YAML.

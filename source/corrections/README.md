@@ -1,0 +1,1 @@
+Corrections to the Goodread entries. File name is the Goodread identifier. Format is YAML. Any entry may be changed.
