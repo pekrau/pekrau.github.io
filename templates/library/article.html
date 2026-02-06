@@ -9,17 +9,13 @@
 
 {% block main_section %}
 <section class="col-lg-8 offset-lg-1">
-  <div class="card mb-3">
-    <div class="card-header bg-light" title="Abstract">
-      <div class="card-title">
-        {{ article["journal"] }}
-        {{ article["volume"] }}
-        {{ article["year"] }}
-        {{ article["issue"] }}
-        {{ article["pages"] }}
-      </div>
-    </div>
-  </div>
+  <h4>
+    <i>{{ article["journal"] }}</i>,
+    {{ article["volume"] }}
+    ({{ article["issue"] }}),
+    {{ article["pages"] }}
+    ({{ article["published"] }})
+  </h4>
 
   {% if article.get("abstract") %}
   <div class="card mb-3">

@@ -2996,10 +2996,6 @@
   <lastmod>2024-10-16</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/lehninger-1970.html</loc>
-  <lastmod>2025-03-12</lastmod>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/lepage-1978.html</loc>
   <lastmod>2021-12-19</lastmod>
 </url>
@@ -3401,6 +3397,9 @@
 <url>
   <loc>https://pekrau.github.io/library/neiman-2023.html</loc>
   <lastmod>2023-11-01</lastmod>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/nelson-2000.html</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/newman-1973.html</loc>
@@ -3958,7 +3957,7 @@
   <lastmod>2025-11-05</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/sauer-2024.html</loc>
+  <loc>https://pekrau.github.io/library/sauer-2023.html</loc>
   <lastmod>2024-01-17</lastmod>
 </url>
 <url>
@@ -4114,7 +4113,7 @@
   <lastmod>2016-07-13</lastmod>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/singer-2000.html</loc>
+  <loc>https://pekrau.github.io/library/singer-1999.html</loc>
   <lastmod>2022-01-05</lastmod>
 </url>
 <url>
@@ -6679,12 +6678,6 @@
   <loc>https://pekrau.github.io/library/authors/Lefebvre, Alexandre/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Nelson, David L/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Cox, Michael M/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Lepage, Henri/</loc>
 </url>
 <url>
@@ -7043,6 +7036,12 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Neiman, Susan/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Nelson, David K/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Cox, Michael M/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Newman, William M/</loc>
@@ -7991,9 +7990,6 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Waal, Frans de/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Waal, De/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Waddington, Conrad H/</loc>

@@ -2,5 +2,7 @@ authors:
 - Nelson, David L
 - Cox, Michael M
 isbn: '1572591536'
-published: '2000'
+edition:
+  published: '2000'
+  publisher: Worth Publishers
 title: Lehninger Principles of Biochemistry
