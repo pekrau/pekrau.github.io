@@ -339,7 +339,7 @@ def read_references():
         with open(filepath) as infile:
             text = yaml.safe_load(infile)
             if text["reference"] in TEXTS:
-                raise ValueError(f"duplicate reference {text['reference']} in {{filepath}}")
+                raise ValueError(f"duplicate reference {text['reference']} in {filepath}")
         TEXTS[text["reference"]] = text
 
 

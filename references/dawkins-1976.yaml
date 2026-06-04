@@ -1,12 +1,14 @@
 authors:
 - Dawkins, Richard
+- Adlerberth, Roland
+- Torbjörnsson, Lars
 date: '2016-02-02'
 edition:
-  published: '2006'
-  publisher: Oxford University Press
-goodreads: '61535'
-isbn: '9780199291151'
-language: en
+  published: '2019'
+  publisher: Modernista
+goodreads: '61634408'
+isbn: '9789178931309'
+language: sv
 lastmod: '2016-02-02'
 path: /library/dawkins-1976.html
 published: '1976'
@@ -17,6 +19,7 @@ subjects:
 - evolution
 - philosophy
 - science
-title: The Selfish Gene
+- svenska
+title: Den själviska genen
 type: book
 year: 1976
