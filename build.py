@@ -307,8 +307,8 @@ def read_goodreads():
             book["language"] = "sv"
         else:
             book["language"] = "en"
-        if row["My Rating"] and row["My Rating"] != "0":
-            book["rating"] = int(row["My Rating"])
+        if row["My Rating"] and row["My Rating"] not in ("0", "0.0"):
+            book["rating"] = round(float(row["My Rating"]))
         date = row["Date Read"].strip()
         if not date:
             date = row["Date Added"].strip()

@@ -5,32 +5,41 @@
     <link>https://pekrau.github.io/</link>
     <description>Blogg om Samhälle, vetenskap, kultur, av Per Kraulis.</description>
     <language>sv</language>
-    <pubDate>Thu, 04 Jun 2026 14:27:54 +0200</pubDate>
+    <pubDate>Thu, 13 Aug 2026 15:10:21 +0200</pubDate>
     <webMaster>per.kraulis@gmail.com</webMaster>
+    
+    <item>
+      <title>Stewart-Williams, Steve: A Billion Years of Sex Differences: How Evolution Shaped the Minds of Men and Women</title>
+      <link>https://pekrau.github.io/library/stewart-williams-2026.html</link>
+      <category>review</category>
+      <description>human-evolution, psychology, science</description>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0200</pubDate>
+      <guid>8bb7f56f1ea060d2a09b22cc674fbfbe8dcad000</guid>
+    </item>
     
     <item>
       <title>Bloom, Paul: Just Babies: The Origins of Good and Evil</title>
       <link>https://pekrau.github.io/library/bloom-2013.html</link>
       <category>review</category>
-      <description>evolution, human-evolution, morality, science</description>
+      <description>evolution, human-evolution, morality, psychology, science</description>
       <pubDate>Tue, 24 Feb 2026 12:00:00 +0100</pubDate>
       <guid>9f5d81ee3e289bfc283f80cb450ee0367d9050dd</guid>
     </item>
     
     <item>
-      <title>Wade, Nicholas: The Origin of Politics: How Evolution and Ideology Shape the Fate of Nations</title>
+      <title>Wade, Nicholas: The Origin of Politics: How Evolution and Ideology Shape the Fate of Nations – Social Disintegration, Birth Rates, and the Path to Extinction</title>
       <link>https://pekrau.github.io/library/wade-2025.html</link>
       <category>review</category>
       <description>human-evolution, politics</description>
       <pubDate>Wed, 15 Oct 2025 12:00:00 +0200</pubDate>
-      <guid>383c753de6f9274c282c34578e2713f4e181b762</guid>
+      <guid>6117fcdc3a2b23ad4249ae26a7a7e06aece80370</guid>
     </item>
     
     <item>
       <title>Burke, Edmund: Reflektioner om franska revolutionen</title>
       <link>https://pekrau.github.io/library/burke-1790.html</link>
       <category>review</category>
-      <description>enlightenment, history, liberalism, political-philosophy, svenska</description>
+      <description>history, liberalism, political-philosophy, svenska</description>
       <pubDate>Wed, 30 Jul 2025 12:00:00 +0200</pubDate>
       <guid>4ef7ea716767b8fe7d93ce6e4c2a47ca5c176c5a</guid>
     </item>
@@ -87,15 +96,6 @@
       <description>liberalism, nyliberalism, populism, Sverigedemokraterna</description>
       <pubDate>Mon, 23 Sep 2024 12:00:00 +0200</pubDate>
       <guid>2f5fde15c4d7b3ef11d245fbce969282c8e42d2d</guid>
-    </item>
-    
-    <item>
-      <title>Whitehouse, Harvey: Inheritance: The Evolutionary Origins of the Modern World</title>
-      <link>https://pekrau.github.io/library/whitehouse-2024.html</link>
-      <category>review</category>
-      <description>human-evolution, politics</description>
-      <pubDate>Fri, 20 Sep 2024 12:00:00 +0200</pubDate>
-      <guid>2a0d69adcbd3fb2ab56d26f4cd0fced5995b70a0</guid>
     </item>
     
   </channel>
