@@ -322,6 +322,8 @@ def read_goodreads():
         try:
             with open(f"source/corrections/{book['goodreads']}.yaml") as infile:
                 book.update(yaml.safe_load(infile))
+        except ValueError as error:
+            print(book['goodreads'], error)
         except IOError:
             pass
 

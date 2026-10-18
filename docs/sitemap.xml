@@ -4765,9 +4765,6 @@
   <loc>https://pekrau.github.io/library/authors/Berlin, Isaiah/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Hardy, Henry/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Bhattacharya, Ananyo/</loc>
 </url>
 <url>
@@ -5005,9 +5002,6 @@
   <loc>https://pekrau.github.io/library/authors/Davies, Jamie A/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Richard Dawkins/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Dawkins, Richard/</loc>
 </url>
 <url>
@@ -5024,9 +5018,6 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Dennett, Daniel C/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Jakobsson, Jim/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Dent, Nicholas/</loc>
@@ -5311,9 +5302,6 @@
   <loc>https://pekrau.github.io/library/authors/Goodman, Jonathan R/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Foley, Robert A/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Gorz, André/</loc>
 </url>
 <url>
@@ -5500,9 +5488,6 @@
   <loc>https://pekrau.github.io/library/authors/Hayek, Friedrich A/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Bartley, W W/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Heberlein, Ann/</loc>
 </url>
 <url>
@@ -5669,9 +5654,6 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Marx, Karl/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Backelin, Eva/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Hobhouse, Leonard Trelawney/</loc>
@@ -6334,27 +6316,6 @@
   <loc>https://pekrau.github.io/library/authors/Engels, Friedrich/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Engelstad, Fredrik/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Gunnarson, Gunnar/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Wagner, Bertil/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Bohman, Ruth/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Sandler, Rickard/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Wijkmark, Carl-Henning/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Elster, Jon/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Masters, Roger D/</loc>
 </url>
 <url>
@@ -6401,12 +6362,6 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Mesoudi, Alex/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Wolheim, Richard/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Stillinger, Jack/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Mitchell, Melanie/</loc>
@@ -6727,12 +6682,6 @@
   <loc>https://pekrau.github.io/library/authors/Donagan, Alan/</loc>
 </url>
 <url>
-  <loc>https://pekrau.github.io/library/authors/Austin, Scott/</loc>
-</url>
-<url>
-  <loc>https://pekrau.github.io/library/authors/Camiller, Patrick/</loc>
-</url>
-<url>
   <loc>https://pekrau.github.io/library/authors/Prigogine, Ilya/</loc>
 </url>
 <url>
@@ -6755,6 +6704,9 @@
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Cohen, Robert S/</loc>
+</url>
+<url>
+  <loc>https://pekrau.github.io/library/authors/Bartley, W W/</loc>
 </url>
 <url>
   <loc>https://pekrau.github.io/library/authors/Rahula, Walpola/</loc>
